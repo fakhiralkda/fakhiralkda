@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a gift and the trick is not to expect it, but to delight in it when it comes."</i>
+<i>"When it hurts - observe. Life is trying to teach you something."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
