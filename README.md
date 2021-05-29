@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As mortals, we're ruled by conditions, not by ourselves."</i>
+<i>"Be true to yourself, help others, make each day your masterpiece"</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
