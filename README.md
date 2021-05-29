@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't spend major time on minor things."</i>
+<i>"The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
