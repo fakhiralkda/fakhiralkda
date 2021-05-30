@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't get in life what you want; you get in life what you are."</i>
+<i>"Re-examine all that you have been told... dismiss that which insults your soul."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
