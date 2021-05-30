@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always focus on the front windshield and not the rearview mirror."</i>
+<i>"It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
