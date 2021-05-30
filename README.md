@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on."</i>
+<i>"A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
