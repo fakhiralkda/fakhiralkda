@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is passion that makes man live; wisdom makes one only last."</i>
+<i>"I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
