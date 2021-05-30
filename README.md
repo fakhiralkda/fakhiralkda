@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive."</i>
+<i>"Care about what other people think and you will always be their prisoner."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
