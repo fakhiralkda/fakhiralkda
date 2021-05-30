@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you are motivated by Love, The more Fearless & Free your action will be."</i>
+<i>"We will act consistently with our view of who we truly are, whether that view is accurate or not."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
