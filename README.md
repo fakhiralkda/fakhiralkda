@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You change the world by being yourself."</i>
+<i>"Alone we can do so little; together we can do so much."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
