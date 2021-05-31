@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter who you are, we�re creatures of habit. The better your habits are, the better they will be in pressure situations."</i>
+<i>"You never know when a moment and a few sincere words can have an impact on a life.  "</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
