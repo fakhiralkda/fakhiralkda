@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is during our darkest moments that we must focus to see the light."</i>
+<i>"No matter who you are, we�re creatures of habit. The better your habits are, the better they will be in pressure situations."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
