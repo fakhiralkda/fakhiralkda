@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like a wheel. Sooner or later, it always comes around to where you started again."</i>
+<i>"Live as if you were to die tomorrow. Learn as if you were to live forever."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
