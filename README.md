@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The strength of a wall is neither greater nor less than the courage of the men who defend it. "</i>
+<i>"If you done it, it ain't bragging."</i>
 <br>
-<b>- Genghis Khan</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
