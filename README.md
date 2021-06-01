@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All life is an experiment. The more experiments you make, the better."</i>
+<i>"There's no coming to consciousness without pain"</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
