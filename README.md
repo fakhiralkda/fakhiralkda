@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can change our lives. We can do, have, and be exactly what we wish."</i>
+<i>"There is only one thing in the world worse than being talked about, and that is not being talked about. "</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
