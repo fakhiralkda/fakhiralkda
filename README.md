@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be yourself; everyone else is already taken "</i>
+<i>"Blessed is he who expects nothing, for he shall be disappointed."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
