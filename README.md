@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"At every moment where language can't go, that's your mind."</i>
+<i>"Be yourself; everyone else is already taken "</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
