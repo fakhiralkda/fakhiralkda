@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Engage in those actions and thoughts that nurture the good qualities you want to have."</i>
+<i>"There are as many opinions as there are experts."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
