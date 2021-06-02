@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is best to begin at the beginning."</i>
+<i>"If you want to make God laugh, tell him about your plans. "</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
