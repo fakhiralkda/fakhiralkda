@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed is he who expects nothing, for he shall be disappointed."</i>
+<i>"The more you praise and celebrate your life, the more there is in life to celebrate. "</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
