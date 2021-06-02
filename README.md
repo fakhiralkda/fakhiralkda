@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Attitude, not aptitude, determines altitude.  "</i>
+<i>"Integrity is the ability to stand by an idea."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
