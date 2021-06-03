@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people find fault like there is a reward for it.  "</i>
+<i>"Consider the rights of others before your own feelings, and the feelings of others before your own rights."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
