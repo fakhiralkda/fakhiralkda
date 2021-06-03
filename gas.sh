@@ -64,7 +64,7 @@ quotes() {
 
 
 push() {
-    git config --local user.email "rizal4646@gmail.com"
+    git config --local user.email "fakhiralkda@users.noreply.github.com"
     git config --local user.name "fakhiralkda"
     git commit -asm "${arr[$rand]} (${tgl})"
 }
