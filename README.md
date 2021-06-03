@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Consider the rights of others before your own feelings, and the feelings of others before your own rights."</i>
+<i>"Every second you have on this planet is very precious and it's your responsibility that you're happy."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
