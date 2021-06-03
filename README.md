@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others."</i>
+<i>"Duty makes us do things well, but love makes us do them beautifully.  "</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
