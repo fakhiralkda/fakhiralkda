@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is dangerous to be right in matters on which the established authorities are wrong."</i>
+<i>"A dream you dream alone is only a dream. A dream you dream together is reality."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
