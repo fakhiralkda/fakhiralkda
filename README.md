@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A dream you dream alone is only a dream. A dream you dream together is reality."</i>
+<i>"It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  "</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
