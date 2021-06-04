@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Duty makes us do things well, but love makes us do them beautifully.  "</i>
+<i>"In the practice of tolerance, one's enemy is the best teacher."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
