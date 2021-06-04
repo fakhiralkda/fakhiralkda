@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is everything. It is the preview of life's coming attractions."</i>
+<i>"Freeing oneself from words is liberation. "</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
