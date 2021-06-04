@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's more to life than being a passenger."</i>
+<i>"I was wise enough to never grow up while fooling most people into believing I had. "</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
