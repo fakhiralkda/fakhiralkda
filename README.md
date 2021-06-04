@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People don't care how much you know until they know how much you care."</i>
+<i>"Imagination is everything. It is the preview of life's coming attractions."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
