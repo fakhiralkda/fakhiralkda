@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I was wise enough to never grow up while fooling most people into believing I had. "</i>
+<i>"FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
