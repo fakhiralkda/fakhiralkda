@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always render more and better service than is expected of you, no matter what your task may be."</i>
+<i>"A clear conscience is the sure sign of a bad memory."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
