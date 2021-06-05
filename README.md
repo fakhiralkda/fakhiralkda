@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are as many opinions as there are experts."</i>
+<i>"Alone we can do so little; together we can do so much."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
