@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Understanding that rests in what it does not understand is the finest."</i>
+<i>"A Penny Saved is a Penny Earned"</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Benjamin Franklin </b>
 </blockquote>
 </p>
 
