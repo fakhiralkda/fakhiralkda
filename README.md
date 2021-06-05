@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace begins with a smile."</i>
+<i>"It is in your moments of decision that your destiny is shaped."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
