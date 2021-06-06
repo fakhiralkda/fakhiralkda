@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be great is to be misunderstood."</i>
+<i>"To seek is to suffer. To seek nothing is bliss."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
