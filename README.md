@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember that the best relationship is one in which your love for each other exceeds your need for each other."</i>
+<i>"Dreams are the royal road to the unconscious. "</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
