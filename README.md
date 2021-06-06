@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work harder on yourself than you do on your job."</i>
+<i>"To be great is to be misunderstood."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
