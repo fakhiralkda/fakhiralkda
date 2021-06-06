@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live life as though nobody is watching, and express yourself as though everyone is listening."</i>
+<i>"The greatest deception men suffer is from their own opinions."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
