@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Muddy water is best cleared by leaving it alone."</i>
+<i>"Vision is the art of seeing things invisible."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
