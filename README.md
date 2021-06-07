@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never close your lips to those whom you have already opened your heart."</i>
+<i>"What you become is far more important than what you get."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
