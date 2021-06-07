@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take care of your cents: dollars will take care of themselves."</i>
+<i>"Never close your lips to those whom you have already opened your heart."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
