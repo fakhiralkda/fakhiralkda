@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live life as though nobody is watching, and express yourself as though everyone is listening."</i>
+<i>"Judge a man by his questions rather than his answers."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
