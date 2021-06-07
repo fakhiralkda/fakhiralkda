@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like underwear, should be changed twice a day.  "</i>
+<i>"You have as much laughter as you have faith."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
