@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Coming together is a beginning, staying together is progress, and working together is success. "</i>
+<i>"Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
