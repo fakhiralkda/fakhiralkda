@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you become is far more important than what you get."</i>
+<i>"Follow your heart, listen to your inner voice, stop caring about what others think."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
