@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most wasted day of all is that on which we have not laughed."</i>
+<i>"He who possesses most must be most afraid of loss."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
