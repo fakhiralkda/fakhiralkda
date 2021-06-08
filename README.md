@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who know, do. Those that understand, teach."</i>
+<i>"The more you praise and celebrate your life, the more there is in life to celebrate. "</i>
 <br>
-<b>- Aristotle</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
