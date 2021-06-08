@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?"</i>
+<i>"If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin."</i>
 <br>
-<b>- Seneca</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
