@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pleasure is always derived from something outside you, whereas joy arises from within. "</i>
+<i>"The world only exists in your eyes. You can make it as big or as small as you want."</i>
 <br>
-<b>- Eckhart Tolle </b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
