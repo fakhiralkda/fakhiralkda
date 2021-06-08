@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world only exists in your eyes. You can make it as big or as small as you want."</i>
+<i>"Freeing oneself from words is liberation. "</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
