@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The decisions of our past are the architects of our present."</i>
+<i>"Originality is the fine art of remembering what you hear but forgetting where you heard it. "</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
