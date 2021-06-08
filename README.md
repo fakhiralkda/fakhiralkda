@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All life is an experiment. The more experiments you make, the better."</i>
+<i>"One day, in retrospect, the years of struggle will strike you as the most beautiful."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
