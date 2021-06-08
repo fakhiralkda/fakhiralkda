@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections."</i>
+<i>"One of the first signs of the beginning of understanding is the wish to die. "</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
