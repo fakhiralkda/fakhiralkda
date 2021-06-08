@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the first signs of the beginning of understanding is the wish to die. "</i>
+<i>"Whoever is happy will make others happy too."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
