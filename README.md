@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who possesses most must be most afraid of loss."</i>
+<i>"All life is an experiment. The more experiments you make, the better."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
