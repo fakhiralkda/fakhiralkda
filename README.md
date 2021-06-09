@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Insanity: doing the same thing over and over again and expecting different results."</i>
+<i>"Things do not have meaning. We assign meaning to everything."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
