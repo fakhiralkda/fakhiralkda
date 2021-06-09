@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime."</i>
+<i>"Sometimes it is harder to deprive oneself of a pain than of a pleasure."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
