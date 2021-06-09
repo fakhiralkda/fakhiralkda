@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have not failed. I've just found 10,000 ways that won't work."</i>
+<i>"The only way it gets better for you is when you get better. Better is not something you wish, it's something you become."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
