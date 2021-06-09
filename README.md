@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility."</i>
+<i>"Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
