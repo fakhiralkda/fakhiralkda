@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes it is harder to deprive oneself of a pain than of a pleasure."</i>
+<i>"Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
