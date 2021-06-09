@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries."</i>
+<i>"Sometimes you put walls up not to keep people out, but to see who cares enough to break them down."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
