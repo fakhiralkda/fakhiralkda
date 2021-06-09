@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things do not have meaning. We assign meaning to everything."</i>
+<i>"Keep your friends close, and your enemies closer."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
