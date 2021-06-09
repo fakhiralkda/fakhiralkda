@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people do what unsuccessful people are not willing to do."</i>
+<i>"Peace begins with a smile."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
