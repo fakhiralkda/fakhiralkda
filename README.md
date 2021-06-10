@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Amateurs sit and wait for inspiration, the rest of us just get up and got to work."</i>
+<i>"Until you make the unconscious conscious, it will direct your life and you will call it fate."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
