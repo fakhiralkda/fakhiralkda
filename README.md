@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Until you make the unconscious conscious, it will direct your life and you will call it fate."</i>
+<i>"Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
