@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your past does not equal your future."</i>
+<i>"It does not matter how slowly you go so long as you do not stop."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Confucius </b>
 </blockquote>
 </p>
 
