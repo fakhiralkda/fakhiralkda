@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let making a living prevent you from making a life."</i>
+<i>"If you truly love Nature, you will find beauty everywhere. "</i>
 <br>
-<b>- John Wooden</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
