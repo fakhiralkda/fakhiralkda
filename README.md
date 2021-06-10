@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People spend too much time doing and not enough time thinking about what they should be doing."</i>
+<i>"There is only one thing in the world worse than being talked about, and that is not being talked about. "</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
