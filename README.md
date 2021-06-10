@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wealth is the product of man's capacity to think."</i>
+<i>"Don't let making a living prevent you from making a life."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
