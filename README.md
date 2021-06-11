@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise speak only of what they know."</i>
+<i>"Take into account that great love and great achievements involve great risk."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
