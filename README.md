@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work out your own salvation. Do not depend on others."</i>
+<i>"Every man desires to live long, but no man wishes to be old."</i>
 <br>
-<b>- Buddha</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
