@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We love the things we love for what they are."</i>
+<i>"We take care of the future best by taking care of the present now."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
