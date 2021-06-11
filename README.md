@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Care about what other people think and you will always be their prisoner."</i>
+<i>"Work out your own salvation. Do not depend on others."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
