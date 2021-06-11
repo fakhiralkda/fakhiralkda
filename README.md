@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's necessary to get the losers out of your life if you want to live your dream."</i>
+<i>"A person is only by the thoughts that he chooses."</i>
 <br>
-<b>- Les Brown</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
