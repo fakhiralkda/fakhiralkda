@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one thing in the world worse than being talked about, and that is not being talked about. "</i>
+<i>"It's necessary to get the losers out of your life if you want to live your dream."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
