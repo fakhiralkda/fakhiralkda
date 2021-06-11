@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You change the world by being yourself."</i>
+<i>"Work out your own salvation. Do not depend on others."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
