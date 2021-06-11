@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</i>
+<i>"Observe things as they are and don't pay attention to other people."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
