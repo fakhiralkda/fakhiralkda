@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is like reaching an important birthday and finding you're exactly the same."</i>
+<i>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
