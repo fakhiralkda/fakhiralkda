@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work out your own salvation. Do not depend on others."</i>
+<i>"When the world pushes you to your knees, you're in the perfect position to pray."</i>
 <br>
-<b>- Buddha</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
