@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What are we doing here, that is the question."</i>
+<i>"The beautiful journey of today can only begin when we learn to let go of yesterday."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
