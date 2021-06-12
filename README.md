@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People will forget what you said, people will forget what you did, but people will never forget how you made them feel."</i>
+<i>"Things turn out best for the people who make the best of the way things turn out."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
