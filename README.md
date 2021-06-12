@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you will never know the value of something, until it becomes a memory."</i>
+<i>"Time stays long enough for anyone who will use it."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
