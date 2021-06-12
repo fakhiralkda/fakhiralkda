@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What would life be if we had no courage to attempt anything? "</i>
+<i>"Instead of worrying about what you cannot control, shift your energy to what you can create."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
