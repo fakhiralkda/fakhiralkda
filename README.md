@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The beautiful journey of today can only begin when we learn to let go of yesterday."</i>
+<i>"People spend too much time doing and not enough time thinking about what they should be doing."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
