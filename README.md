@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talent is luck. The important thing in life is courage."</i>
+<i>"Who wishes to fight must first count the cost."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
