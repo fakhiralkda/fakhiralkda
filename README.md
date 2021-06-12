@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who possesses most must be most afraid of loss."</i>
+<i>"Everyone is a moon, and has a dark side which he never shows to anybody."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
