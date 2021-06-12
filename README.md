@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being entirely honest with oneself is a good exercise."</i>
+<i>"While we may not be able to control all that happens to us, we can control what happens inside us."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Benjamin Franklin </b>
 </blockquote>
 </p>
 
