@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It�s easier to lose than to win.  "</i>
+<i>"The primary cause of unhappiness is never the situation but your thoughts about it."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Eckhart Tolle </b>
 </blockquote>
 </p>
 
