@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even the smallest person can change the course of the future."</i>
+<i>"I know of only one duty, and that is to love."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
