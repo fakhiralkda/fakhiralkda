@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge is a treasure, but practice is the key to it."</i>
+<i>"Even the smallest person can change the course of the future."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
