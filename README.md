@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers."</i>
+<i>"Identify your problems, but give your power and energy to solutions."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
