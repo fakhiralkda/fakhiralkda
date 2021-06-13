@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man gotta right to decide his own destiny."</i>
+<i>"Integrity is the ability to stand by an idea."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
