@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't talk about what you have done or what you are going to do."</i>
+<i>"None of us can change our yesterdays but all of us can change our tomorrows."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
