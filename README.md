@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must learn to let go. Release the stress. You were never in control anyway."</i>
+<i>"Facts are the enemy of truth. "</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
