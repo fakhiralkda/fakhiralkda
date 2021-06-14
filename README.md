@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Till it has loved, no man or woman can become itself."</i>
+<i>"Never feel shame for trying and failing, for he who has never failed is he who has never tried."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
