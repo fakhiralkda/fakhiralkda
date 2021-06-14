@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have never let my schooling interfere with my education."</i>
+<i>"The question is not what you look at, but what you see."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
