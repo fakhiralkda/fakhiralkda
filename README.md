@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never feel shame for trying and failing, for he who has never failed is he who has never tried."</i>
+<i>"Don't talk about what you have done or what you are going to do."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
