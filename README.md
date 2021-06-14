@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you truly love Nature, you will find beauty everywhere. "</i>
+<i>"To the mind that is still, the whole universe surrenders."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
