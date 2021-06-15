@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The beautiful journey of today can only begin when we learn to let go of yesterday."</i>
+<i>"When the fish is caught we pay no more attention to the trap."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
