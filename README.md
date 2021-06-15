@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people are old at 18 and some are young at 90. Time is a concept that humans created."</i>
+<i>"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
