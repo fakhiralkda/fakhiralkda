@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People will forget what you said, people will forget what you did, but people will never forget how you made them feel."</i>
+<i>"Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?"</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
