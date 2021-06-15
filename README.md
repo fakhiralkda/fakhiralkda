@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A zen master's life is one continuous mistake."</i>
+<i>"Be the change that you want to see in the world."</i>
 <br>
-<b>- Dogen</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
