@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To plant a garden is to believe in tomorrow.  "</i>
+<i>"Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. "</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
