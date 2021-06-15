@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pen is the tongue of the mind. "</i>
+<i>"Boldness makes even the smallest animal dangerous."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
