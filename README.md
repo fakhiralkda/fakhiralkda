@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. "</i>
+<i>"Conquer the devils with a little thing called love."</i>
 <br>
-<b>- Jack London</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
