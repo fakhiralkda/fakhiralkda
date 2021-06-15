@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. "</i>
+<i>"To plant a garden is to believe in tomorrow.  "</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
