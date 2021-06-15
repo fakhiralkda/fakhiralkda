@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your time is limited, so don't waste it living someone else's life."</i>
+<i>"Catch, then, O catch the transient hour; Improve each moment as it flies! "</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
