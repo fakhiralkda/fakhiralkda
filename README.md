@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let the beauty of what you love be what you do."</i>
+<i>"Re-examine all that you have been told... dismiss that which insults your soul."</i>
 <br>
-<b>- Rumi</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
