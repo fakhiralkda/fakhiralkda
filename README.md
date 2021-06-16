@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you have to shut your eyes, so you can see the real beauty."</i>
+<i>"Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand."</i>
 <br>
-<b>- Kilian Jornet</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
