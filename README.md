@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enjoy life. There's plenty of time to be dead."</i>
+<i>"Let the beauty of what you love be what you do."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
