@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I've always tried to go a step past wherever people expected me to end up."</i>
+<i>"If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Nikola Tesla</b>
 </blockquote>
 </p>
 
