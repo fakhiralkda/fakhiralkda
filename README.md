@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No problem can be solved from the same level of consciousness that created it."</i>
+<i>"A journey of a thousand miles begins with a single step."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
