@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time."</i>
+<i>"If you're afraid - don't do it, - if you're doing it - don't be afraid! "</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
