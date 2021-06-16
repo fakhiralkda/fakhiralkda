@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man that flies from his fear may find that he has only taken a short cut to meet it."</i>
+<i>"Sometimes you have to shut your eyes, so you can see the real beauty."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Kilian Jornet</b>
 </blockquote>
 </p>
 
