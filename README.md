@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The friend is the man who knows all about you, and still likes you."</i>
+<i>"It does not matter how slowly you go so long as you do not stop."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Confucius </b>
 </blockquote>
 </p>
 
