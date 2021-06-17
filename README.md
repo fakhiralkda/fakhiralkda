@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will face many defeats in life, but never let yourself be defeated."</i>
+<i>"He who possesses most must be most afraid of loss."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
