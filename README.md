@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The clock indicates the moment...but what does eternity indicate?"</i>
+<i>"You will face many defeats in life, but never let yourself be defeated."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
