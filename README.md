@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes things become possible if we want them bad enough."</i>
+<i>"The friend is the man who knows all about you, and still likes you."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
