@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You know the more one does the more one can do."</i>
+<i>"A day wasted on others is not wasted on one's self."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
