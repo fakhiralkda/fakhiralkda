@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't need anybody to tell you who you are or what you are. You are what you are!"</i>
+<i>"Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
