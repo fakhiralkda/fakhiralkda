@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest value of a picture is when it forces us to notice what we never expected to see."</i>
+<i>"Sometimes things become possible if we want them bad enough."</i>
 <br>
-<b>- John Tukey</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
