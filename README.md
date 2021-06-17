@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All has not been said and never will be."</i>
+<i>"The clock indicates the moment...but what does eternity indicate?"</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
