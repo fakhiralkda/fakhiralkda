@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The journey, not the destination matters."</i>
+<i>"The way of success is the way of continuous pursuit of knowledge."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
