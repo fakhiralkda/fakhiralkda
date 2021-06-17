@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit."</i>
+<i>"Life is like a beautiful melody, only the lyrics are messed up."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
