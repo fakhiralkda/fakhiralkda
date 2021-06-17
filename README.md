@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"So we beat on, boats against the current, borne back ceaselessly into the past."</i>
+<i>"The journey, not the destination matters."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
