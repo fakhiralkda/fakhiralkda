@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A dream doesn't become reality through magic it takes sweat, determination and hard work."</i>
+<i>"You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Eckhart Tolle </b>
 </blockquote>
 </p>
 
