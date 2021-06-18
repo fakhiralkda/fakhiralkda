@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Deliberately seek the company of people who influence you to think and act on building the life you desire."</i>
+<i>"Success does not consist in never making mistakes but in never making the same one a second time."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
