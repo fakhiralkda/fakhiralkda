@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Science can flourish only in an atmosphere of free speech. "</i>
+<i>"Love your enemies, for they tell you your faults."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Benjamin Franklin </b>
 </blockquote>
 </p>
 
