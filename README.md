@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not bite at the bait of pleasure, till you know there is no hook beneath it."</i>
+<i>"Who wishes to fight must first count the cost."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
