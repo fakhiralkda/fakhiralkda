@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can start changing our world for the better daily, no matter how small the action."</i>
+<i>"A day wasted on others is not wasted on one's self."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
