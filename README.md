@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pain of parting is nothing to the joy of meeting again."</i>
+<i>"Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. "</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
