@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From a certain point onward there is no longer any turning back. That is the point that must be reached."</i>
+<i>"Chop your own wood and it will warm you twice. "</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
