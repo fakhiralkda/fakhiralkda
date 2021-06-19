@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live in the sunshine, swim the sea, drink the wild air."</i>
+<i>"The pain of parting is nothing to the joy of meeting again."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
