@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be a master of change rather than a victim of change."</i>
+<i>"Why fit in when you were born to stand out?"</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
