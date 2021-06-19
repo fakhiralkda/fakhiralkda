@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever your mind can conceive and believe, it can achieve."</i>
+<i>"Just living is not enough... one must have sunshine, freedom, and a little flower. "</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
