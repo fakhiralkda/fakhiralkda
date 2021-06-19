@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never put off to tomorrow what you can do to-day."</i>
+<i>"Life is really simple, but men insist on making it complicated. "</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Confucius </b>
 </blockquote>
 </p>
 
