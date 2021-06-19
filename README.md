@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only the hand that erases can write the true thing."</i>
+<i>"The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  "</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
