@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words are the clothing of our thoughts."</i>
+<i>"Life begins where fear ends."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
