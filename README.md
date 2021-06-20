@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is not something outside to be discovered, it is something inside to be realized."</i>
+<i>"Always forgive your enemies - nothing annoys them so much. "</i>
 <br>
-<b>- Osho</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
