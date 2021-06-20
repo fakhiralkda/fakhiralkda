@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win."</i>
+<i>"Intense love does not measure, it just gives."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
