@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others."</i>
+<i>"What people need and what they want may be very different."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
