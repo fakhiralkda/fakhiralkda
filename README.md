@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the practice of tolerance, one's enemy is the best teacher."</i>
+<i>"It is best to begin at the beginning."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
