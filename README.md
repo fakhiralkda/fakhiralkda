@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time you enjoy wasting, was not wasted."</i>
+<i>"Know your gifts and share them."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
