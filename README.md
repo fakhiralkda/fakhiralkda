@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be truly ignorant, be content with your own knowledge."</i>
+<i>"Time you enjoy wasting, was not wasted."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
