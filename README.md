@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To get angry is like to revenge yourself for the guilt of others."</i>
+<i>"In the practice of tolerance, one's enemy is the best teacher."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
