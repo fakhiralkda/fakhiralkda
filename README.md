@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the long run, the sharpest weapon of all is a kind and gentle spirit."</i>
+<i>"The grass is greener where you water it."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Neil Barringham</b>
 </blockquote>
 </p>
 
