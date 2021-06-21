@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is much more successfully looked at from a single window."</i>
+<i>"I skate to where the puck is going to be, not where it has been."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
