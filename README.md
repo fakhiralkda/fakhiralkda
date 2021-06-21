@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The grass is greener where you water it."</i>
+<i>"Life is much more successfully looked at from a single window."</i>
 <br>
-<b>- Neil Barringham</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
