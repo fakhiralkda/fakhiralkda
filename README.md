@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I skate to where the puck is going to be, not where it has been."</i>
+<i>"You must live in the present, launch yourself on every wave, find your eternity in each moment. Fools stand on their island of opportunities and look toward another land. There is no other land; there is no other life but this."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
