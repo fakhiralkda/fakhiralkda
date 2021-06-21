@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To know even one life has breathed easier because you have lived. This is to have succeeded."</i>
+<i>"You can't build a reputation on what you are going to do. "</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
