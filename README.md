@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important thing is to enjoy your life, to be happy, it's all that matters."</i>
+<i>"Be not glad at the misfortune of another, though he may be your enemy. "</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
