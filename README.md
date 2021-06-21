@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can change our lives. We can do, have, and be exactly what we wish."</i>
+<i>"The most important thing is to enjoy your life, to be happy, it's all that matters."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
