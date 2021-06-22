@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reversing your treatment of the man you have wronged is better than asking his forgiveness."</i>
+<i>"Change yourself - you are in control."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
