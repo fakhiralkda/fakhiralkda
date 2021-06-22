@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be yourself; everyone else is already taken."</i>
+<i>"Courage is the price that life exacts for granting peace."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
