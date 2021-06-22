@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Faithless is he that says farewell when the road darkens."</i>
+<i>"Be yourself; everyone else is already taken."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
