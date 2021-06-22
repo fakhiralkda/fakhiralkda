@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We will now discuss in a little more detail the Struggle for Existence."</i>
+<i>"Tomorrow is only found in the calendar of fools."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
