@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who look for the bad in people will surely find it."</i>
+<i>"What worries you, masters you."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
