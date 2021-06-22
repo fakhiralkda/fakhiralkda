@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not meant to be easy my child, but take courage: it can be delightful."</i>
+<i>"Blessed is he who expects nothing, for he shall never be disappointed."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
