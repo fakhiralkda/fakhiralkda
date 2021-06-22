@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who wishes to fight must first count the cost."</i>
+<i>"The dead receive more flowers than the living because regret is stronger than gratitude."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
