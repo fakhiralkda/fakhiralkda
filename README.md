@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed is he who expects nothing, for he shall never be disappointed."</i>
+<i>"Champions keep playing until they get it right."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Billie Jean King</b>
 </blockquote>
 </p>
 
