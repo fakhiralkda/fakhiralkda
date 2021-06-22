@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The dead receive more flowers than the living because regret is stronger than gratitude."</i>
+<i>"Life is not a problem to be solved, but a reality to be experienced."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Soren Kierkegaard</b>
 </blockquote>
 </p>
 
