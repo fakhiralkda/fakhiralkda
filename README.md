@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes letting things go is an act of far greater power than defending or hanging on."</i>
+<i>"Those who look for the bad in people will surely find it."</i>
 <br>
-<b>- Eckhart Tolle </b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
