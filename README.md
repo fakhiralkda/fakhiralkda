@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth."</i>
+<i>"Genius is the ability to act rightly without precedent - the power to do the right thing the first time."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
