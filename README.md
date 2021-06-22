@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not a problem to be solved, but a reality to be experienced."</i>
+<i>"It is dangerous to be right in matters on which the established authorities are wrong."</i>
 <br>
-<b>- Soren Kierkegaard</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
