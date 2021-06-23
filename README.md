@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no limitations to the mind except those we acknowledge..."</i>
+<i>"The road to success and the road to failure are almost exactly the same."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Colin R. Davis</b>
 </blockquote>
 </p>
 
