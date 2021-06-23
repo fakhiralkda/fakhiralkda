@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whoever is happy will make others happy too."</i>
+<i>"Muddy water is best cleared by leaving it alone."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
