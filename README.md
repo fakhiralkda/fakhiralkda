@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Muddy water is best cleared by leaving it alone."</i>
+<i>"Either write something worth reading or do something worth writing."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Benjamin Franklin </b>
 </blockquote>
 </p>
 
