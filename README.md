@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No grand idea was ever born in a conference, but a lot of foolish ideas have died there."</i>
+<i>"It is well known that those who do not trust themselves never trust others."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
