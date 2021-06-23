@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is ours to be spent, not to be saved. "</i>
+<i>"Only he who has no use for the empire is fit to be entrusted with it."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
