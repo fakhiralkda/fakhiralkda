@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have no more right to consume happiness without producing it than to consume wealth without producing it."</i>
+<i>"Whoever is happy will make others happy too."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
