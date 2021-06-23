@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Projecting your mind into a successful situation is the most powerful means to achieve goals.  "</i>
+<i>"Know your gifts and share them."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
