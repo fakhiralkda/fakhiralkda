@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves."</i>
+<i>"Those who know, do. Those that understand, teach."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
