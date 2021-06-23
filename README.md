@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Either write something worth reading or do something worth writing."</i>
+<i>"Yesterday is gone. Tomorrow has not yet come. We have only today."</i>
 <br>
-<b>- Benjamin Franklin </b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
