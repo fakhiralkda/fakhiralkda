@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If anything is worth doing, do it with all your heart."</i>
+<i>"The farther backward you can look, the farther forward you are likely to see."</i>
 <br>
-<b>- Buddha</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
