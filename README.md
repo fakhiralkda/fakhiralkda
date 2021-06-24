@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My mind seems to have become a kind of machine for grinding general laws out of large collections of facts."</i>
+<i>"It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
