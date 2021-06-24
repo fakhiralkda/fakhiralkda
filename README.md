@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is difficult to free fools from the chains they revere. "</i>
+<i>"Love your enemies, for they tell you your faults."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Benjamin Franklin </b>
 </blockquote>
 </p>
 
