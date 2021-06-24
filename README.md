@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The farther backward you can look, the farther forward you are likely to see."</i>
+<i>"Unless you change how you are, you will always have what you got."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
