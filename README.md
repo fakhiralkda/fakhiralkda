@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We love the things we love for what they are."</i>
+<i>"It is difficult to free fools from the chains they revere. "</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
