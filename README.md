@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Eighty percent of success is showing up. "</i>
+<i>"When you are tough on yourself, life is going to be infinitely easier on you.  "</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
