@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is easier than fault finding."</i>
+<i>"Eighty percent of success is showing up. "</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
