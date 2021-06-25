@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness."</i>
+<i>"Never close your lips to those whom you have already opened your heart."</i>
 <br>
-<b>- Eckhart Tolle </b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
