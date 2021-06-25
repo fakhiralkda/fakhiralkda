@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wise men speak because they have something to say; Fools because they have to say something."</i>
+<i>"If you're not making mistakes, then you're not doing anything."</i>
 <br>
-<b>- Plato</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
