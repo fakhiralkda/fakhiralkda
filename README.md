@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live in the sunshine, swim the sea, drink the wild air."</i>
+<i>"If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
