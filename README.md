@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never close your lips to those whom you have already opened your heart."</i>
+<i>"Champions keep playing until they get it right."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Billie Jean King</b>
 </blockquote>
 </p>
 
