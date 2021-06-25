@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Champions keep playing until they get it right."</i>
+<i>"Take care of your cents: dollars will take care of themselves."</i>
 <br>
-<b>- Billie Jean King</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
