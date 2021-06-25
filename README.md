@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The power to make and break habits and learning how to do that is really important."</i>
+<i>"Most of the evil in this world is done by people with good intentions."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
