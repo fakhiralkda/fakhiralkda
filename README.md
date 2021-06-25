@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each problem has a positive side."</i>
+<i>"It is well known that those who do not trust themselves never trust others."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
