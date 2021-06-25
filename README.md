@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you know what you want, and you want it bad enough, you will find a way to get it."</i>
+<i>"Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Eckhart Tolle </b>
 </blockquote>
 </p>
 
