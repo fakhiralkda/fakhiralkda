@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must find the place inside yourself where nothing is impossible."</i>
+<i>"Without the rain there would be no rainbow."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
