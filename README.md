@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To achieve, you need thought. You have to know what you are doing and that's real power."</i>
+<i>"Nothing is too high for a man to reach, but he must climb with care and confidence"</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
