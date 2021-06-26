@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage Is a Love Affair with the Unknown"</i>
+<i>"You know the more one does the more one can do."</i>
 <br>
-<b>- Osho</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
