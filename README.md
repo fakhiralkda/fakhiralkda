@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're not making mistakes, then you're not doing anything."</i>
+<i>"Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!"</i>
 <br>
-<b>- John Wooden</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
