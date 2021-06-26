@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Curiosity is the most powerful thing you own."</i>
+<i>"Just as true humor is laughter at oneself, true humanity is knowledge of oneself."</i>
 <br>
-<b>- James Cameron</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
