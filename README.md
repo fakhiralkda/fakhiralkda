@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one has ever become poor by giving."</i>
+<i>"You must find the place inside yourself where nothing is impossible."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
