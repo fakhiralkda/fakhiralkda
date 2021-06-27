@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time heals what reason cannot.  "</i>
+<i>"Victory is always possible for the person who refuses to stop fighting."</i>
 <br>
-<b>- Seneca</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
