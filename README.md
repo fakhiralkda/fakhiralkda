@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you genuinely want something, don't wait for it - teach yourself."</i>
+<i>"Have a heart that never hardens, and a temper that never tires, and a touch that never hurts."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
