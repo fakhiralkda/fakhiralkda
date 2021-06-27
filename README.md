@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more we have the less we own."</i>
+<i>"You may delay, but time will not."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Benjamin Franklin </b>
 </blockquote>
 </p>
 
