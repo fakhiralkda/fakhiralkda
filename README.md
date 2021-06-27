@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may delay, but time will not."</i>
+<i>"The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind."</i>
 <br>
-<b>- Benjamin Franklin </b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
