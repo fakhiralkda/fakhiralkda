@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is indeed a radical act of love just to sit down and be quiet for a time by yourself."</i>
+<i>"If you genuinely want something, don't wait for it - teach yourself."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
