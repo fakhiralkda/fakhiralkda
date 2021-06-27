@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man who removes a mountain begins by carrying away small stones."</i>
+<i>"If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
