@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let making a living prevent you from making a life."</i>
+<i>"The more you like yourself, the less you are like anyone else, which makes you unique."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
