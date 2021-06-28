@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is literally what he thinks."</i>
+<i>"If you want peace, you won't get it with violence."</i>
 <br>
-<b>- James Allen</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
