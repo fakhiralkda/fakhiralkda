@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the world pushes you to your knees, you're in the perfect position to pray."</i>
+<i>"Conscience is a dog that does not stop us from passing but that we cannot prevent from barking."</i>
 <br>
-<b>- Rumi</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
