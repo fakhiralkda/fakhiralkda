@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you like yourself, the less you are like anyone else, which makes you unique."</i>
+<i>"If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
