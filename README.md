@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want peace, you won't get it with violence."</i>
+<i>"Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
