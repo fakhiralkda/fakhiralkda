@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your past does not equal your future."</i>
+<i>"Observe things as they are and don't pay attention to other people."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
