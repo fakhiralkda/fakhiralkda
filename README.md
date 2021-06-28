@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never do things others can do and will do if there are things others cannot do or will not do."</i>
+<i>"Better to die fighting for freedom than be a prisoner all the days of your life."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
