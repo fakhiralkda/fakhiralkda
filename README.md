@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything has its beauty, but not everyone sees it. "</i>
+<i>"Don't let making a living prevent you from making a life."</i>
 <br>
-<b>- Confucius </b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
