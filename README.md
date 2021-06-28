@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's your road, and yours alone, others may walk it with you, but no one can walk it for you."</i>
+<i>"There is no way to happiness - happiness is the way."</i>
 <br>
-<b>- Rumi</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
