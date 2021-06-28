@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conscience is a dog that does not stop us from passing but that we cannot prevent from barking."</i>
+<i>"The harder you work, the harder it is to surrender."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
