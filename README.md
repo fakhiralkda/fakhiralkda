@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always try to be a little kinder than necessary."</i>
+<i>"When it comes to mastering a skill, time is the magic ingredient."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
