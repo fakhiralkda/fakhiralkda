@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great things are not accomplished by those who yield to trends and fads and popular opinion."</i>
+<i>"A Penny Saved is a Penny Earned"</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Benjamin Franklin </b>
 </blockquote>
 </p>
 
