@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no fear for one whose mind is not filled with desires."</i>
+<i>"I would rather die on my feet than live on my knees."</i>
 <br>
-<b>- Buddha</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
