@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality."</i>
+<i>"We must cultivate our garden. "</i>
 <br>
-<b>- James Cameron</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
