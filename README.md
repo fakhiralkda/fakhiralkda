@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The price of inaction is far greater than the cost of making a mistake."</i>
+<i>"There is no fear for one whose mind is not filled with desires."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
