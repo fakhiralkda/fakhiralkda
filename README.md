@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I would rather die on my feet than live on my knees."</i>
+<i>"The only way round is through."</i>
 <br>
-<b>- Euripides</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
