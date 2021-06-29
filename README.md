@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must cultivate our garden. "</i>
+<i>"Always try to be a little kinder than necessary."</i>
 <br>
-<b>- Voltaire</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
