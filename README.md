@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I didn't get there by wishing for it or hoping for it, but by working for it."</i>
+<i>"The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
