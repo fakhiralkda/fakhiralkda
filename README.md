@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Coming together is a beginning, staying together is progress, and working together is success. "</i>
+<i>"People who say it cannot be done should not interrupt those who are doing it."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
