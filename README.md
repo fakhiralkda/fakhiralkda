@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed is he who expects nothing, for he shall never be disappointed."</i>
+<i>"You have to keep breaking your heart until it opens."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
