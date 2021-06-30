@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Realize deeply that the present moment is all you ever have. "</i>
+<i>"Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people."</i>
 <br>
-<b>- Eckhart Tolle </b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
