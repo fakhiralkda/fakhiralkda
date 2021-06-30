@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want something you've never had you must be willing to do something you've never done."</i>
+<i>"People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
