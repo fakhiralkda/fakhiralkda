@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The soul should always stand ajar, ready to welcome the ecstatic experience."</i>
+<i>"The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
