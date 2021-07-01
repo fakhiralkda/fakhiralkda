@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why live an ordinary life, when you can live an extraordinary one."</i>
+<i>"There is no fear for one whose mind is not filled with desires."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
