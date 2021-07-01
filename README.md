@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are going to achieve excellence in big things, you develop the habit in little matters."</i>
+<i>"We suffer more often in imagination than in reality.  "</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
