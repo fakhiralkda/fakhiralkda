@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The strength of a wall is neither greater nor less than the courage of the men who defend it. "</i>
+<i>"A man has to learn that he cannot command things but that he can command himself; that he cannot coerce the wills of others but that he can mold and master his own will."</i>
 <br>
-<b>- Genghis Khan</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
