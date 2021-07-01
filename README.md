@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no fear for one whose mind is not filled with desires."</i>
+<i>"Avoiding failure is to avoid progress."</i>
 <br>
-<b>- Buddha</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
