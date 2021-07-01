@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conscience is a dog that does not stop us from passing but that we cannot prevent from barking."</i>
+<i>"A gentleman accepts the responsibility of his actions and bears the burden of their consequences."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
