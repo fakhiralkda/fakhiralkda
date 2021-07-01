@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence breeds beauty.  "</i>
+<i>"The more we have the less we own."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
