@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We suffer more often in imagination than in reality.  "</i>
+<i>"There is nothing in the world so irresistibly contagious as laughter and good humor."</i>
 <br>
-<b>- Seneca</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
