@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're afraid - don't do it, - if you're doing it - don't be afraid! "</i>
+<i>"You are not one person, but three: The one you think you are; The one others think you are; The one you really are."</i>
 <br>
-<b>- Genghis Khan</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
