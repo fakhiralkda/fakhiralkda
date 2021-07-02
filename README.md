@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The scariest moment is always just before you start. After that, things can only get better."</i>
+<i>"Either get busy living or get busy dying."</i>
 <br>
 <b>- Stephen King</b>
 </blockquote>
