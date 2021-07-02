@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time."</i>
+<i>"Trust thyself: every heart vibrates to that iron string."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
