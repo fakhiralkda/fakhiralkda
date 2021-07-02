@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Facts are the enemy of truth. "</i>
+<i>"Nothing has any power over me other than that which I give it through my conscious thoughts."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
