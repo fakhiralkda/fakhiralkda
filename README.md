@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why fit in when you were born to stand out?"</i>
+<i>"Pursue what catches your heart, not what catches your eyes."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
