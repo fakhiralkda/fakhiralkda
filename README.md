@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wealth is the product of man's capacity to think."</i>
+<i>"The most important thing is to enjoy your life, to be happy, it's all that matters."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
