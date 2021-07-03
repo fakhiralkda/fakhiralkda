@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you are grateful for what you have the more you will have to be grateful for.  "</i>
+<i>"Wealth is the product of man's capacity to think."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
