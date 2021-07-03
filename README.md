@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only by acceptance of the past, can you alter it."</i>
+<i>"Life is what happens to you while you're busy making other plans."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
