@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams."</i>
+<i>"Circumstances do not make the man, they reveal him."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
