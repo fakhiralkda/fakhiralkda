@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is what happens to you while you're busy making other plans."</i>
+<i>"If you are far from the enemy, make him believe you are near."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
