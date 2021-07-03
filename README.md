@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Facts are the enemy of truth. "</i>
+<i>"Life is too short to waste your time on people who don't respect, appreciate, and value you."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
