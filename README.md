@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."</i>
+<i>"Human happiness and moral duty are inseparably connected. "</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
