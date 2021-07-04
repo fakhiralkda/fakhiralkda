@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In three words I can sum up everything I've learned about life: it goes on."</i>
+<i>"Happiness is the meaning and the purpose of life, the whole aim and end of human existence."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
