@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we did all the things we are capable of, we would literally astound ourselves."</i>
+<i>"The first rule of handling conflict is don't hang around people who are constantly engaging in conflict."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
