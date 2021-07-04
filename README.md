@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human happiness and moral duty are inseparably connected. "</i>
+<i>"He who possesses most must be most afraid of loss."</i>
 <br>
-<b>- George Washington</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
