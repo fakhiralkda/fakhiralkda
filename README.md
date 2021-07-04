@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Respect other people's feelings. It might mean nothing to you, but it could mean everything to them."</i>
+<i>"There are two things a person should never be angry at, what they can help, and what they cannot."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
