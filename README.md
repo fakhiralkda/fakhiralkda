@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never argue with stupid people, they will drag you down to their level and then beat you with experience."</i>
+<i>"What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
