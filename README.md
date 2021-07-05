@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The strongest and sweetest songs yet remain to be sung."</i>
+<i>"Never argue with stupid people, they will drag you down to their level and then beat you with experience."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
