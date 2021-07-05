@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured."</i>
+<i>"You can tell more about a person by what he says about others than you can by what others say about him."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
