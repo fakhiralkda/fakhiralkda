@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can tell more about a person by what he says about others than you can by what others say about him."</i>
+<i>"Empty yourself of everything - let the mind become still."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
