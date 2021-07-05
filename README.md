@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How much pain they have cost us, the evils which have never happened."</i>
+<i>"The biggest adventure is what lies ahead."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
