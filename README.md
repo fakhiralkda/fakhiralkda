@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from."</i>
+<i>"How much pain they have cost us, the evils which have never happened."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
