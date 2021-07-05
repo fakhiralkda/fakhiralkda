@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who is not contented with what he has, would not be contented with what he would like to have."</i>
+<i>"Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know."</i>
 <br>
-<b>- Socrates</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
