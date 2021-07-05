@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work harder on yourself than you do on your job."</i>
+<i>"Unless a man is master of his soul, all other kinds of mastery amount to little."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
