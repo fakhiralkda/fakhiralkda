@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who know, do. Those that understand, teach."</i>
+<i>"Outstanding people have one thing in common: an absolute sense of mission.  "</i>
 <br>
-<b>- Aristotle</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
