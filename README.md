@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All know the way; few actually walk it. "</i>
+<i>"A dream you dream alone is only a dream. A dream you dream together is reality."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
