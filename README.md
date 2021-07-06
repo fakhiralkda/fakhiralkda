@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has."</i>
+<i>"Never argue with stupid people, they will drag you down to their level and then beat you with experience."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
