@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence breeds beauty.  "</i>
+<i>"The health of nations is more important than the wealth of nations."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
