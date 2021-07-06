@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A dream you dream alone is only a dream. A dream you dream together is reality."</i>
+<i>"The only way round is through."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
