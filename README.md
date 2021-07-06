@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make yourself so useful to other people, that they think you are irreplaceable."</i>
+<i>"The wisest men follow their own direction."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
