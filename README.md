@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be where your enemy is not."</i>
+<i>"There are no limitations to the mind except those we acknowledge..."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
