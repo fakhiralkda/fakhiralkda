@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Surround yourself with only people who are going to lift you higher. "</i>
+<i>"Fiction is the truth inside the lie."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
