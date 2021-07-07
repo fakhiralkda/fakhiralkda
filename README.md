@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Till it has loved, no man or woman can become itself."</i>
+<i>"Be where your enemy is not."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
