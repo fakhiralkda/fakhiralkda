@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A day wasted on others is not wasted on one's self."</i>
+<i>"Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
