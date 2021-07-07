@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fiction is the truth inside the lie."</i>
+<i>"If you don't know, the thing to do is not to get scared, but to learn."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
