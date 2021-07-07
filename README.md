@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love."</i>
+<i>"If you want to know what God thinks about money just look at the people He gives it to."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
