@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunities don't often come along. So, when they do, you have to grab them."</i>
+<i>"All cruelty springs from weakness.  "</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
