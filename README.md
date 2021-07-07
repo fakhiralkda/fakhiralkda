@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to know what God thinks about money just look at the people He gives it to."</i>
+<i>"A day wasted on others is not wasted on one's self."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
