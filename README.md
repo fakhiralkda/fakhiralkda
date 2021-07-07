@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is what we make out of what we have, not what we are given, that separates one person from another."</i>
+<i>"The truth is rarely pure and never simple. "</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
