@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that is made beautiful and fair and lovely is made for the eye of one who sees."</i>
+<i>"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose."</i>
 <br>
-<b>- Rumi</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
