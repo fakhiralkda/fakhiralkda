@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves."</i>
+<i>"The greatest of all mistakes is to do nothing because you think you can only do a little.  "</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
