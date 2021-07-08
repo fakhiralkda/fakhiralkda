@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All life is an experiment. The more experiments you make, the better."</i>
+<i>"Never buy a thing you do not want, because it is cheap, it will be dear to you."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
