@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people achieved their greatest success one step beyond what looked like their greatest failure."</i>
+<i>"What would life be if we had no courage to attempt anything? "</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
