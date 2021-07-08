@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world only exists in your eyes. You can make it as big or as small as you want."</i>
+<i>"The very essence of instinct is that it's followed independently of reason."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
