@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep smiling, because life is a beautiful thing and there's so much to smile about."</i>
+<i>"Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind."</i>
 <br>
-<b>- Marilyn Monroe</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
