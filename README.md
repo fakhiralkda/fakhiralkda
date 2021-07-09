@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where words fail, music speaks."</i>
+<i>"If you do not change direction, you may end up where you are heading."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
