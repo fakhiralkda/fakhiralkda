@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stay away from people who makes you feel like you are wasting their time."</i>
+<i>"Today I begin a new life. I will greet this day with love in my heart."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
