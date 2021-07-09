@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do all things with love."</i>
+<i>"From morning till night, we should never rely on a single thing."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
