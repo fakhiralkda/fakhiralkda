@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</i>
+<i>"What would life be if we had no courage to attempt anything? "</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
