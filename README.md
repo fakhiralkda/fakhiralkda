@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The goal of an artist is to create the definitive work that cannot be surpassed."</i>
+<i>"Life can only be understood backwards; but it must be lived forwards."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Soren Kierkegaard</b>
 </blockquote>
 </p>
 
