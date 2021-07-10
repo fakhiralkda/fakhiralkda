@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is particularly hard if you divide it into small jobs. "</i>
+<i>"Do good by stealth, and blush to find it fame."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
