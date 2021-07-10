@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  "</i>
+<i>"If the only prayer you ever say in your entire life is thank you, it will be enough."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
