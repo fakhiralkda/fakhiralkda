@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. "</i>
+<i>"The greatest deception men suffer is from their own opinions."</i>
 <br>
-<b>- Jack London</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
