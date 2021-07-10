@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever is begun in anger, ends in shame."</i>
+<i>"Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. "</i>
 <br>
-<b>- Benjamin Franklin </b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
