@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't settle, and don't struggle."</i>
+<i>"Always remember that you are absolutely unique. Just like everyone else. "</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
