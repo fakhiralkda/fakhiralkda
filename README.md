@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live in the sunshine, swim the sea, drink the wild air."</i>
+<i>"Hope is not a strategy. Luck is not a factor. Fear is not an option."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
