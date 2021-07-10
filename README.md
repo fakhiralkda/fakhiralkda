@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!"</i>
+<i>"The very essence of instinct is that it's followed independently of reason."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
