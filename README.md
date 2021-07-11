@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may be disappointed if you fail, but you are doomed if you don't try. "</i>
+<i>"Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'"</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
