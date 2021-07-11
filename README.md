@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You never know when a moment and a few sincere words can have an impact on a life.  "</i>
+<i>"Muddy water is best cleared by leaving it alone."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
