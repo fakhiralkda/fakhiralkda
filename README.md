@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you try to micromanage yourself all you're going to do is make yourself miserable."</i>
+<i>"Your happiness is what truly matters most. Do what you have to do in order to be happy."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
