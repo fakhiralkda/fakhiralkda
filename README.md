@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Till it has loved, no man or woman can become itself."</i>
+<i>"Nothing makes a man broad-minded like adversity."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
