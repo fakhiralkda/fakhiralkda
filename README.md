@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing makes a man broad-minded like adversity."</i>
+<i>"Eighty percent of success is showing up. "</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
