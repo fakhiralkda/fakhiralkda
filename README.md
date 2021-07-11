@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Logic is like the sword – those who appeal to it shall perish by it."</i>
+<i>"To know even one life has breathed easier because you have lived. This is to have succeeded."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
