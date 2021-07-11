@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Eighty percent of success is showing up. "</i>
+<i>"Sometimes things become possible if we want them bad enough."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
