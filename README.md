@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Turn your wounds into wisdom. "</i>
+<i>"I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
