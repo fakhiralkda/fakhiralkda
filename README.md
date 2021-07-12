@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  "</i>
+<i>"Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
