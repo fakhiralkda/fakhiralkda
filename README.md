@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing."</i>
+<i>"Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
