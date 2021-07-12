@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is not fatal, but failure to change might be."</i>
+<i>"Always do your best. What you plant now, you will harvest later."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
