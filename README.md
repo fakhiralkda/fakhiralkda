@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pursue what catches your heart, not what catches your eyes."</i>
+<i>"For things to change, you have to change."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
