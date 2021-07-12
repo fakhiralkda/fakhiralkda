@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only by attracting the best people will you accomplish great deeds."</i>
+<i>"Difficulties strengthen the mind, as labor does the body.  "</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
