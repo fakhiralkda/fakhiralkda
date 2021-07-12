@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you want to be honored by others, you learn to honor them first."</i>
+<i>"Turn your wounds into wisdom. "</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
