@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"At the center of your being you have the answer; you know who you are and you know what you want."</i>
+<i>"When you want to be honored by others, you learn to honor them first."</i>
 <br>
-<b>- Laozi</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
