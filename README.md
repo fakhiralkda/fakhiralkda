@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want."</i>
+<i>"The most virtuous are those who content themselves with being virtuous without seeking to appear so."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
