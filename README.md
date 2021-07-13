@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not how much we give but how much love we put into giving."</i>
+<i>"Acknowledging the good that you already have in your life is the foundation for all abundance."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Eckhart Tolle </b>
 </blockquote>
 </p>
 
