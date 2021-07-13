@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great things are done by a series of small things brought together. "</i>
+<i>"Don't let anyone define you. You define yourself."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Billie Jean King</b>
 </blockquote>
 </p>
 
