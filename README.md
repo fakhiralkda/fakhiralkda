@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will face many defeats in life, but never let yourself be defeated."</i>
+<i>"Ability is a poor man's wealth."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
