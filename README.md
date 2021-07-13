@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one is useless in this world who lightens the burdens of another."</i>
+<i>"Study logic and math, because once you've mastered them, you won't fear any book."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
