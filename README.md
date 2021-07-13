@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"At every moment where language can't go, that's your mind."</i>
+<i>"It is not uncommon for people to spend their whole life waiting to start living."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Eckhart Tolle </b>
 </blockquote>
 </p>
 
