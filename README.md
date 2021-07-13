@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one is useless in this world who lightens the burdens of another."</i>
+<i>"You will face many defeats in life, but never let yourself be defeated."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
