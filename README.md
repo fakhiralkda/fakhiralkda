@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all faced with a series of great opportunities brilliantly disguised as impossible situations. "</i>
+<i>"Great things are done by a series of small things brought together. "</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
