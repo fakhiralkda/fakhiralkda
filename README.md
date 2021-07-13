@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throughout this life, you can never be certain of living long enough to take another breath."</i>
+<i>"To do great work one must be very idle as well as very industrious."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
