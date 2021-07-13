@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not uncommon for people to spend their whole life waiting to start living."</i>
+<i>"No one is useless in this world who lightens the burdens of another."</i>
 <br>
-<b>- Eckhart Tolle </b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
