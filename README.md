@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility."</i>
+<i>"Just do the best you can. No one can do more than that."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
