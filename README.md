@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Empty yourself of everything - let the mind become still."</i>
+<i>"The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
