@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."</i>
+<i>"Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
