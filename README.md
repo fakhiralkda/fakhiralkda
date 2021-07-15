@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great things happen to those who don't stop believing, trying, learning, and being grateful."</i>
+<i>"Give me six hours to chop down a tree and I will spend the first four sharpening the axe."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
