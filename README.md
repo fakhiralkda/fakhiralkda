@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Deeds will not be less valiant because they are upraised."</i>
+<i>"Knowledge is a treasure, but practice is the key to it."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
