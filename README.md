@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every strike brings me closer to the next home run. "</i>
+<i>"You can't build a reputation on what you are going to do. "</i>
 <br>
-<b>- Babe Ruth</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
