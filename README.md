@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who wishes to fight must first count the cost."</i>
+<i>"The people who are crazy enough to think they can change the world are the ones who do."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
