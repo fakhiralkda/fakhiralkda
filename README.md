@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To seek is to suffer. To seek nothing is bliss."</i>
+<i>"True wealth is of the heart, not of the purse."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
