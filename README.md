@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility."</i>
+<i>"I didn't get there by wishing for it or hoping for it, but by working for it."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
