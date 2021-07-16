@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why live an ordinary life, when you can live an extraordinary one."</i>
+<i>"Great things are done by a series of small things brought together. "</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
