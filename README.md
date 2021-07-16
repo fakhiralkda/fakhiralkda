@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The important thing is not to stop questioning. Curiosity has its own reason for existing."</i>
+<i>"You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
