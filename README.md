@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you seek is seeking you."</i>
+<i>"You win more from losing than winning."</i>
 <br>
-<b>- Rumi</b>
+<b>- Morgan Wootten</b>
 </blockquote>
 </p>
 
