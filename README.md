@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed. "</i>
+<i>"Success is getting what you want, happiness is wanting what you get."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
