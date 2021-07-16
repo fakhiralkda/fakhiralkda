@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is getting what you want, happiness is wanting what you get."</i>
+<i>"Quality is more important than quantity. One home run is much better than two doubles."</i>
 <br>
-<b>- W.P. Kinsella</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
