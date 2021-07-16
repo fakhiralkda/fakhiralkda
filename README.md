@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever your mind can conceive and believe, it can achieve."</i>
+<i>"If we have no peace, it is because we have forgotten that we belong to each other."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
