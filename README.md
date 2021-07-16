@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunities don't often come along. So, when they do, you have to grab them."</i>
+<i>"The only normal people are the ones you don't know very well."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
