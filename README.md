@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You win more from losing than winning."</i>
+<i>"Opportunities don't often come along. So, when they do, you have to grab them."</i>
 <br>
-<b>- Morgan Wootten</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
