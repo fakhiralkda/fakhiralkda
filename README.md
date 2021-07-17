@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The health of nations is more important than the wealth of nations."</i>
+<i>"People don't care how much you know until they know how much you care."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
