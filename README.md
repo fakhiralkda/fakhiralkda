@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot swim for new horizons until you have courage to lose sight of the shore."</i>
+<i>"Confidence is contagious. So is lack of confidence."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
