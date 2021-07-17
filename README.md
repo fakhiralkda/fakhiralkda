@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest value of a picture is when it forces us to notice what we never expected to see."</i>
+<i>"Life is too short to waste your time on people who don’t respect, appreciate, and value you."</i>
 <br>
-<b>- John Tukey</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
