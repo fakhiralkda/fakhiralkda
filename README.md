@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without the rain there would be no rainbow."</i>
+<i>"The two most important days in your life are the day you are born and the day you find out why."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
