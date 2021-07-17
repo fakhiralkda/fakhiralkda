@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each time we don't say what we wanna say, we're dying."</i>
+<i>"Time you enjoy wasting, was not wasted."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
