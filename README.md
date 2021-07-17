@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The eyes of others our prisons; their thoughts our cages."</i>
+<i>"Work out your own salvation. Do not depend on others."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
