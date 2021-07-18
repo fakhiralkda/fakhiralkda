@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The decisions of our past are the architects of our present."</i>
+<i>"Be kind whenever possible. It is always possible."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
