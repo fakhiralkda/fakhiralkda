@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do good by stealth, and blush to find it fame."</i>
+<i>"The decisions of our past are the architects of our present."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
