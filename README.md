@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Start the day with love, spend the day with love, fill the day with love and end the day with love."</i>
+<i>"Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
