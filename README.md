@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thinking is difficult, that's why most people judge."</i>
+<i>"Start the day with love, spend the day with love, fill the day with love and end the day with love."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
