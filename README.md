@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A lie can travel half way around the world while the truth is putting on its shoes."</i>
+<i>"Love is not about possession. Love is about appreciation."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
