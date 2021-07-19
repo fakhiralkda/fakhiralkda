@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like riding a bicycle. To keep your balance you must keep moving."</i>
+<i>"We must create our own world or we will die from inaction."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
