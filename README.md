@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only place success comes before work is in the dictionary."</i>
+<i>"Our life isn't how much we can take out, but how much we can put in.  "</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
