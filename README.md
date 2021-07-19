@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you are motivated by Love, The more Fearless & Free your action will be."</i>
+<i>"Life is like riding a bicycle. To keep your balance you must keep moving."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
