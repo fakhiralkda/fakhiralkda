@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live life as though nobody is watching, and express yourself as though everyone is listening."</i>
+<i>"Every man desires to live long, but no man wishes to be old."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
