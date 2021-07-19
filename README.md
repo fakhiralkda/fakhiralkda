@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't wait for inspiration. You have to go after it with a club. "</i>
+<i>"Care about what other people think and you will always be their prisoner."</i>
 <br>
-<b>- Jack London</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
