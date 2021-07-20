@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's better to dance than to march through life."</i>
+<i>"Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
