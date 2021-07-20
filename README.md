@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our greatest glory is not in never falling, but in rising every time we fall. "</i>
+<i>"Happiness is a gift and the trick is not to expect it, but to delight in it when it comes."</i>
 <br>
-<b>- Confucius </b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
