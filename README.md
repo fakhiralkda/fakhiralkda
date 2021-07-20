@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is exact correspondence with reality. "</i>
+<i>"What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
