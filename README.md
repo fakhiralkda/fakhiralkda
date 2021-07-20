@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Muddy water is best cleared by leaving it alone."</i>
+<i>"When you are able to employ your will always for constructive purposes, you become the controller of your destiny."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
