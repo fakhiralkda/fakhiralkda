@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each problem has a positive side."</i>
+<i>"Motivation gets you going and habit gets you there.  "</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
