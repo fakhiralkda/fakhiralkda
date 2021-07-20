@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Public opinion is the worst of all opinions."</i>
+<i>"He who leaves the game wins it."</i>
 <br>
 <b>- Nicolas Chamfort</b>
 </blockquote>
