@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a gift and the trick is not to expect it, but to delight in it when it comes."</i>
+<i>"Muddy water is best cleared by leaving it alone."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
