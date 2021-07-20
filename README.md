@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from."</i>
+<i>"I know not all that may be coming, but be it what it will, I'll go to it laughing."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Herman Melville</b>
 </blockquote>
 </p>
 
