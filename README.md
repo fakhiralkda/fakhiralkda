@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are able to employ your will always for constructive purposes, you become the controller of your destiny."</i>
+<i>"Truth is exact correspondence with reality. "</i>
 <br>
 <b>- Paramahansa Yogananda</b>
 </blockquote>
