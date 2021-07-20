@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing others is wisdom, knowing yourself is enlightenment."</i>
+<i>"Each problem has a positive side."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
