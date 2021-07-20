@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Motivation gets you going and habit gets you there.  "</i>
+<i>"What do we live for if not to make life less difficult for each other?"</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
