@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."</i>
+<i>"The very essence of instinct is that it's followed independently of reason."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
