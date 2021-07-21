@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise. "</i>
+<i>"It is literally true that you can succeed best and quickest by helping others succeed."</i>
 <br>
-<b>- Buddha</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
