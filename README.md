@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better to have, and not need, than to need, and not have."</i>
+<i>"To be alive - is Power."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
