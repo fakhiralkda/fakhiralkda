@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In three words I can sum up everything I've learned about life: it goes on."</i>
+<i>"Some people find fault like there is a reward for it.  "</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
