@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only place where success comes before work is in the dictionary."</i>
+<i>"Short cuts make long delays."</i>
 <br>
-<b>- Vidal Sassoon</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
