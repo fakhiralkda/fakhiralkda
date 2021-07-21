@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have to make time, even for something as universal as staring at the stars."</i>
+<i>"The only place where success comes before work is in the dictionary."</i>
 <br>
-<b>- W.P. Kinsella</b>
+<b>- Vidal Sassoon</b>
 </blockquote>
 </p>
 
