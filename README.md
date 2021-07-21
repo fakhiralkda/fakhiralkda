@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest adventure is what lies ahead."</i>
+<i>"You have to make time, even for something as universal as staring at the stars."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
