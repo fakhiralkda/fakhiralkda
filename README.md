@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only real security that a man can have in this world is a reserve of knowledge, experience and ability. "</i>
+<i>"Successful people do what unsuccessful people are not willing to do."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
