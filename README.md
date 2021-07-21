@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Associate with people who are likely to improve you.  "</i>
+<i>"Better to have, and not need, than to need, and not have."</i>
 <br>
-<b>- Seneca</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
