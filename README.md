@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not the size of the dog in the fight, it's the size of the fight in the dog."</i>
+<i>"A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise. "</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
