@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some."</i>
+<i>"Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- John D. Rockefeller</b>
 </blockquote>
 </p>
 
