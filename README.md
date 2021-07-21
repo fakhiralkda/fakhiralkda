@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Giving is living. If you stop wanting to give, there's nothing more to live for."</i>
+<i>"Continuous effort - not strength or intelligence - is the key to unlocking our potential."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
