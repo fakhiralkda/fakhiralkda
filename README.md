@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime."</i>
+<i>"Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
