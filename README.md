@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like underwear, should be changed twice a day.  "</i>
+<i>"Do the difficult things while they are easy and do the great things while they are small."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
