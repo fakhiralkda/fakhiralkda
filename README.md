@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't wait for inspiration. You have to go after it with a club. "</i>
+<i>"Don't shortchange yourself when it comes to investing in your own better future."</i>
 <br>
-<b>- Jack London</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
