@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be prepared is half the victory. "</i>
+<i>"He that can have patience can have what he will."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Benjamin Franklin </b>
 </blockquote>
 </p>
 
