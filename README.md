@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is not the absence of problems, it's the ability to deal with them."</i>
+<i>"It is useless to meet revenge with revenge; it will heal nothing."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
