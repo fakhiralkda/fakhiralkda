@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't shortchange yourself when it comes to investing in your own better future."</i>
+<i>"Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
