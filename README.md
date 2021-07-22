@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live in the sunshine, swim the sea, drink the wild air."</i>
+<i>"Be kind, for everyone you meet is fighting a hard battle."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
