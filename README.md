@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is and will ever remain an equation incapable of solution, but it contains certain known factors. "</i>
+<i>"Happiness is not the absence of problems, it's the ability to deal with them."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
