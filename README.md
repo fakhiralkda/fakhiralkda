@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do the difficult things while they are easy and do the great things while they are small."</i>
+<i>"You can't wait for inspiration. You have to go after it with a club. "</i>
 <br>
-<b>- Laozi</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
