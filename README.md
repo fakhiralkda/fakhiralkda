@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you set your goals ridiculously high and its a failure, you will fail above everyone elses success."</i>
+<i>"Time you enjoy wasting, was not wasted."</i>
 <br>
-<b>- James Cameron</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
