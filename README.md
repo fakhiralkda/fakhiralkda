@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is what we make out of what we have, not what we are given, that separates one person from another."</i>
+<i>"Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
