@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep smiling, because life is a beautiful thing and there's so much to smile about."</i>
+<i>"Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more."</i>
 <br>
-<b>- Marilyn Monroe</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
