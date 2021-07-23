@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Like it or not, this moment is all we really have to work with."</i>
+<i>"Life can only be understood backwards; but it must be lived forwards."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Soren Kierkegaard</b>
 </blockquote>
 </p>
 
