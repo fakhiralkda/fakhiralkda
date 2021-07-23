@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let us rather run the risk of wearing out than rusting out."</i>
+<i>"It is what we make out of what we have, not what we are given, that separates one person from another."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
