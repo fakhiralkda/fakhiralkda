@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Walking with a friend in the dark is better than walking alone in the light."</i>
+<i>"Let us rather run the risk of wearing out than rusting out."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
