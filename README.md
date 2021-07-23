@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unless you're ashamed of yourself now and then, you're not honest."</i>
+<i>"Forget safety. Live where you fear to live."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
