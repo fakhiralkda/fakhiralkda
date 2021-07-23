@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I like the dreams of the future better than the history of the past."</i>
+<i>"No great discovery was ever made without a bold guess. "</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
