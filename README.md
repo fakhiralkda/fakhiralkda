@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Deliberately seek the company of people who influence you to think and act on building the life you desire."</i>
+<i>"I like the dreams of the future better than the history of the past."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
