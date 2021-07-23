@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life can only be understood backwards; but it must be lived forwards."</i>
+<i>"I wasn't brave, I just didn't have time to be scared."</i>
 <br>
-<b>- Soren Kierkegaard</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
