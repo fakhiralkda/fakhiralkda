@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Either you run the day or the day runs you."</i>
+<i>"Repetition does not transform a lie into a truth."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
