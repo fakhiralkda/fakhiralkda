@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies."</i>
+<i>"Difficult roads often lead to beautiful destinations."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
