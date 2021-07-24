@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go confidently in the direction of your dreams! Live the life you've imagined."</i>
+<i>"To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
