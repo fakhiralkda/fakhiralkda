@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things may come to those who wait, but only the things left by those who hustle."</i>
+<i>"It doesn't matter if the glass is half empty or half full. Be grateful you have a glass - you're the only person that can decide what's in it."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
