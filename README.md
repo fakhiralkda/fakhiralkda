@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Difficult roads often lead to beautiful destinations."</i>
+<i>"Coming together is a beginning, staying together is progress, and working together is success. "</i>
 <br>
-<b>- Unknown</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
