@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you believe with feeling becomes your reality. "</i>
+<i>"No one has ever become poor by giving."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
