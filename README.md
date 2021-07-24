@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one has ever become poor by giving."</i>
+<i>"The soul should always stand ajar, ready to welcome the ecstatic experience."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
