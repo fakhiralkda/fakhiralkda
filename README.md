@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If a man knows not to which port he sails, no wind is favorable.  "</i>
+<i>"To be great is to be misunderstood."</i>
 <br>
-<b>- Seneca</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
