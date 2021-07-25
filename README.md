@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  "</i>
+<i>"When you are tough on yourself, life is going to be infinitely easier on you.  "</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
