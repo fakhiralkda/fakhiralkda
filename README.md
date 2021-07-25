@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you are grateful for what you have the more you will have to be grateful for.  "</i>
+<i>"If a man knows not to which port he sails, no wind is favorable.  "</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
