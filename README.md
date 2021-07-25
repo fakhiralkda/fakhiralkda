@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"None of us can change our yesterdays but all of us can change our tomorrows."</i>
+<i>"Trying to define yourself is like trying to bite your own teeth."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
