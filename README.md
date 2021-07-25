@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not follow the ideas of others, but learn to listen to the voice within yourself."</i>
+<i>"The present moment is filled with joy and happiness. If you are attentive, you will see it."</i>
 <br>
-<b>- Dogen</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
