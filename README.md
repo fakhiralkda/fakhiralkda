@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To live is the rarest thing in the world. Most people exist, that is all. "</i>
+<i>"A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
