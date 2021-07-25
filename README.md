@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trying to define yourself is like trying to bite your own teeth."</i>
+<i>"Play your part in life, but never forget that it is only a role."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
