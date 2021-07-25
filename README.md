@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty."</i>
+<i>"A wise person should have money in their head, but not in their heart."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
