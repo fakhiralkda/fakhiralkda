@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work harder on yourself than you do on your job."</i>
+<i>"It is easier to fight for one's principles than to live up to them. "</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
