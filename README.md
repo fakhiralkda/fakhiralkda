@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is easier to fight for one's principles than to live up to them. "</i>
+<i>"A clear conscience is the sure sign of a bad memory."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
