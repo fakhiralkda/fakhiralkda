@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The present moment is filled with joy and happiness. If you are attentive, you will see it."</i>
+<i>"Realize deeply that the present moment is all you ever have. "</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Eckhart Tolle </b>
 </blockquote>
 </p>
 
