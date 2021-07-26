@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I skate to where the puck is going to be, not where it has been."</i>
+<i>"Successful people do what unsuccessful people are not willing to do."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
