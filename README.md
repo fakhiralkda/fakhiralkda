@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the most difficult things is not to change society - but to change yourself."</i>
+<i>"You don't have to be great to start, but you have to start to be great.  "</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
