@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is more important than knowledge."</i>
+<i>"A path is made by walking on it."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
