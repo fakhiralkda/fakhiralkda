@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way out is always through."</i>
+<i>"The wise speak only of what they know."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
