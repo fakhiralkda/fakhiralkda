@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True friendship ought never to conceal what it thinks. "</i>
+<i>"It is best to begin at the beginning."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
