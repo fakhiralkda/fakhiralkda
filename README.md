@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is more important than knowledge."</i>
+<i>"The past has no power over the present moment. "</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Eckhart Tolle </b>
 </blockquote>
 </p>
 
