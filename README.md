@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will face many defeats in life, but never let yourself be defeated."</i>
+<i>"Imagination is more important than knowledge."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
