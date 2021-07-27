@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People tend to complicate their own lives, as if living weren't already complicated enough."</i>
+<i>"Muddy water is best cleared by leaving it alone."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
