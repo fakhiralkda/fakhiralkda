@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The journey, not the destination matters."</i>
+<i>"Nourish the mind like you would your body. The mind cannot survive on junk food."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
