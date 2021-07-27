@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about."</i>
+<i>"If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
