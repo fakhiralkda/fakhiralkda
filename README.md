@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Integrity is the ability to stand by an idea."</i>
+<i>"People tend to complicate their own lives, as if living weren't already complicated enough."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
