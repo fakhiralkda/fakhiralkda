@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never feel shame for trying and failing, for he who has never failed is he who has never tried."</i>
+<i>"Integrity is the ability to stand by an idea."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
