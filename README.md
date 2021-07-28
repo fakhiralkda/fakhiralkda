@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't talk about what you have done or what you are going to do."</i>
+<i>"If you are far from the enemy, make him believe you are near."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
