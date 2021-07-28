@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Although the world is full of suffering, it is also full of the overcoming of it."</i>
+<i>"Integrity is the ability to stand by an idea."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
