@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let the noise of others' opinions drown out your own inner voice."</i>
+<i>"People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
