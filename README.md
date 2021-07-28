@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only difference between success and failure is the ability to take action."</i>
+<i>"The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
