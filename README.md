@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great things are not accomplished by those who yield to trends and fads and popular opinion."</i>
+<i>"The only difference between success and failure is the ability to take action."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
