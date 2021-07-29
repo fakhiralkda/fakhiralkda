@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest value of a picture is when it forces us to notice what we never expected to see."</i>
+<i>"He who leaves the game wins it."</i>
 <br>
-<b>- John Tukey</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
