@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is our choices that show what we truly are, far more than our abilities."</i>
+<i>"We are all born ignorant, but one must work hard to remain stupid."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Benjamin Franklin </b>
 </blockquote>
 </p>
 
