@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live in the sunshine, swim the sea, drink the wild air."</i>
+<i>"When the root is strong, the fruit is sweet."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
