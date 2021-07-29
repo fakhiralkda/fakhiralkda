@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who wishes to fight must first count the cost."</i>
+<i>"Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
