@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be Brave and Take Risks: You need to have faith in yourself. Be brave and take risks. You don't have to have it all figured out to move forward."</i>
+<i>"It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
