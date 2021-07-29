@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Discipline is the mark of intelligent living."</i>
+<i>"Some people find fault like there is a reward for it.  "</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
