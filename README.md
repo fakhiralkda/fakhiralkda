@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people find fault like there is a reward for it.  "</i>
+<i>"The harder you work, the harder it is to surrender."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
