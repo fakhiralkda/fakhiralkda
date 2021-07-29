@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest of all mistakes is to do nothing because you think you can only do a little.  "</i>
+<i>"Better to have, and not need, than to need, and not have."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
