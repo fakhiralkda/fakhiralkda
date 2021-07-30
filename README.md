@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do good by stealth, and blush to find it fame."</i>
+<i>"Life reflects your own thoughts back to you."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
