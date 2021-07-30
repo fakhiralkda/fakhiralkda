@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is not the absence of problems, it's the ability to deal with them."</i>
+<i>"When I let go of what I am, I become what I might be."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
