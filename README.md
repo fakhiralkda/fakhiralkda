@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Curiosity is the most powerful thing you own."</i>
+<i>"If you don't like something, change it. If you can't change it, change your attitude."</i>
 <br>
-<b>- James Cameron</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
