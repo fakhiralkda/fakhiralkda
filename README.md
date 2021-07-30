@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good things aren't supposed to just fall into your lap."</i>
+<i>"The truth is rarely pure and never simple. "</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
