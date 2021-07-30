@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only the hand that erases can write the true thing."</i>
+<i>"Quality means doing it right when no one is looking."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
