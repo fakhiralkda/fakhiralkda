@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth is rarely pure and never simple. "</i>
+<i>"Those who cannot change their minds cannot change anything."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
