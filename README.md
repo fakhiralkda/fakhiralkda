@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When I let go of what I am, I become what I might be."</i>
+<i>"Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?"</i>
 <br>
-<b>- Laozi</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
