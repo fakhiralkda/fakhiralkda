@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the root is strong, the fruit is sweet."</i>
+<i>"Curiosity is the most powerful thing you own."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
