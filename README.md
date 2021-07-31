@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To lead the people, walk behind them."</i>
+<i>"The people who succeed are irrationally passionate about something."</i>
 <br>
-<b>- Laozi</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
