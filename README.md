@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only people without problems are those in cemeteries."</i>
+<i>"Learn to value yourself, which means: fight for your happiness."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
