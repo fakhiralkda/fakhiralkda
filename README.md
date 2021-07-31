@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only thing worse than being blind is having sight but no vision."</i>
+<i>"Act the way you want to be and soon you'll be the way you act."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
