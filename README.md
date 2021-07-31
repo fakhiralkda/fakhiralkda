@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Poverty and hardship are created by false thinking."</i>
+<i>"The greatest deception men suffer is from their own opinions."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
