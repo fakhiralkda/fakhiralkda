@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing others is wisdom, knowing yourself is enlightenment."</i>
+<i>"Confidence is what you have before you understand the problem."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
