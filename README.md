@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"They who have conquered doubt and fear have conquered failure."</i>
+<i>"Kindness is a language which the deaf can hear and the blind can see."</i>
 <br>
-<b>- James Allen</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
