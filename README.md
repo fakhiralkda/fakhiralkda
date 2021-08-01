@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Faults are yours to fix, not to curse."</i>
+<i>"A man is but a product of his thoughts. What he thinks he becomes."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
