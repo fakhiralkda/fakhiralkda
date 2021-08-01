@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never allow someone to be your priority while allowing yourself to be their option."</i>
+<i>"When one door closes another door opens. "</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
