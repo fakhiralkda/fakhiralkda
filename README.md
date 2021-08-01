@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Kindness is a language which the deaf can hear and the blind can see."</i>
+<i>"Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. "</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
