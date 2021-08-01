@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality."</i>
+<i>"The journey, not the destination matters."</i>
 <br>
-<b>- James Cameron</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
