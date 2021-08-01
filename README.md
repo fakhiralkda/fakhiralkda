@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be fascinated instead of frustrated."</i>
+<i>"Your neighbor is the man who needs you."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
