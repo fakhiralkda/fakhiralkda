@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like a beautiful melody, only the lyrics are messed up."</i>
+<i>"Be fascinated instead of frustrated."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
