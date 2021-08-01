@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest deception men suffer is from their own opinions."</i>
+<i>"Courage Is a Love Affair with the Unknown"</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
