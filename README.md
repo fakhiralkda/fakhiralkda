@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When one door closes another door opens. "</i>
+<i>"Faults are yours to fix, not to curse."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
