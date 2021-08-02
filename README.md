@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time you enjoy wasting, was not wasted."</i>
+<i>"If you aim at nothing, you will hit it every time.  "</i>
 <br>
-<b>- John Lennon</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
