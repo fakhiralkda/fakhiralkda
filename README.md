@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't."</i>
+<i>"Knowing others is wisdom, knowing yourself is enlightenment."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
