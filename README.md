@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing others is wisdom, knowing yourself is enlightenment."</i>
+<i>"Passion is born deaf and dumb."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
