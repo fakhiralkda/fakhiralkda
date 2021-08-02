@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To know even one life has breathed easier because you have lived. This is to have succeeded."</i>
+<i>"Not all those who wander are lost."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
