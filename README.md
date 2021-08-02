@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  "</i>
+<i>"Unless a man is master of his soul, all other kinds of mastery amount to little."</i>
 <br>
-<b>- David Brinkley</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
