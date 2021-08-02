@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If light is in your heart, you will find your way home.  "</i>
+<i>"A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  "</i>
 <br>
-<b>- Rumi</b>
+<b>- David Brinkley</b>
 </blockquote>
 </p>
 
