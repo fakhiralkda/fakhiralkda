@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not all those who wander are lost."</i>
+<i>"You may delay, but time will not."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Benjamin Franklin </b>
 </blockquote>
 </p>
 
