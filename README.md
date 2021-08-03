@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What kills the creative force is not age or lack of talent, but our own spirit, our own attitude."</i>
+<i>"Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams."</i>
 <br>
 <b>- Robert Greene</b>
 </blockquote>
