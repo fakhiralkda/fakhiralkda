@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"May you live all the days of your life."</i>
+<i>"A single dream is more powerful than a thousand realities."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
