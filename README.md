@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The soul should always stand ajar, ready to welcome the ecstatic experience."</i>
+<i>"Always try to be a little kinder than necessary."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
