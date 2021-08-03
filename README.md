@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A single dream is more powerful than a thousand realities."</i>
+<i>"Everyone must choose one of two pains: The pain of discipline or the pain of regret."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
