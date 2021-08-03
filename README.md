@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most virtuous are those who content themselves with being virtuous without seeking to appear so."</i>
+<i>"You're on earth. There's no cure for that."</i>
 <br>
-<b>- Plato</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
