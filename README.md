@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good things aren't supposed to just fall into your lap."</i>
+<i>"If you don't know where you're going, you will probably end up somewhere else."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
