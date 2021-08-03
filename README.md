@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone must choose one of two pains: The pain of discipline or the pain of regret."</i>
+<i>"It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
