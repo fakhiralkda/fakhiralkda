@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours."</i>
+<i>"We will act consistently with our view of who we truly are, whether that view is accurate or not."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
