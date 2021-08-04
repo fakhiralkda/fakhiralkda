@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great things are not accomplished by those who yield to trends and fads and popular opinion."</i>
+<i>"Each time we don't say what we wanna say, we're dying."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
