@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great things are not accomplished by those who yield to trends and fads and popular opinion."</i>
+<i>"You purchase pain with all that joy can give and die of nothing but a rage to live."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
