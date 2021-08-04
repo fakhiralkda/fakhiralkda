@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talent is luck. The important thing in life is courage."</i>
+<i>"If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
