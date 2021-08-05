@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being a good example is the best form of service."</i>
+<i>"The soul should always stand ajar, ready to welcome the ecstatic experience."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
