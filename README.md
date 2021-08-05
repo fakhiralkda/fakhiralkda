@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The soul should always stand ajar, ready to welcome the ecstatic experience."</i>
+<i>"He who possesses most must be most afraid of loss."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
