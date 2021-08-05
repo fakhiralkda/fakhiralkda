@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is best to begin at the beginning."</i>
+<i>"Being a good example is the best form of service."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
