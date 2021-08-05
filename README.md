@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The question is not what you look at, but what you see."</i>
+<i>"Each time we don't say what we wanna say, we're dying."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
