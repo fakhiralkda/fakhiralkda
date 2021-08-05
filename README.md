@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you truly love Nature, you will find beauty everywhere. "</i>
+<i>"Art is the signature of civilizations. "</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
