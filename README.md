@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't feed a hundred people, then feed just one."</i>
+<i>"To avoid criticism, do nothing, say nothing, and be nothing."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
