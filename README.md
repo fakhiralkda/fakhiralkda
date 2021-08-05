@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who possesses most must be most afraid of loss."</i>
+<i>"Giving back involves a certain amount of giving up."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
