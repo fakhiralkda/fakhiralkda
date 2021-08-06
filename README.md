@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know your gifts and share them."</i>
+<i>"Charms strike the sight, but merit wins the soul."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
