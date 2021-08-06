@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others."</i>
+<i>"Whatever is begun in anger, ends in shame."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Benjamin Franklin </b>
 </blockquote>
 </p>
 
