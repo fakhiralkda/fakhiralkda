@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He suffers more than necessary, who suffers before it is necessary.  "</i>
+<i>"Some people find fault like there is a reward for it.  "</i>
 <br>
-<b>- Seneca</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
