@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Charms strike the sight, but merit wins the soul."</i>
+<i>"It's not whether you get knocked down, its whether you get back up."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
