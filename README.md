@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever is begun in anger, ends in shame."</i>
+<i>"There are no shortcuts to any place worth going."</i>
 <br>
-<b>- Benjamin Franklin </b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
