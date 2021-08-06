@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure will never overtake me if my determination to succeed is strong enough."</i>
+<i>"A dream doesn't become reality through magic it takes sweat, determination and hard work."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
