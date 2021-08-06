@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness."</i>
+<i>"Obstacles are those frightful things you see when you take your eyes off your goal."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
