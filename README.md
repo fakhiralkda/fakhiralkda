@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quality of your life is determined by the quality of questions you ask."</i>
+<i>"Repetition does not transform a lie into a truth."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
