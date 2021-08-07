@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"However difficult life may seem, there is always something you can do and succeed at."</i>
+<i>"The more tranquil a man becomes, the greater is his success, his influence, his power for good. Calmness of mind is one of the beautiful jewels of wisdom."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
