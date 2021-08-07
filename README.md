@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't get in life what you want; you get in life what you are."</i>
+<i>"Do not go where the path may lead, go instead where there is no path and leave a trail."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
