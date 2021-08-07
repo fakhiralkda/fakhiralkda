@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do what is right, not what is easy, nor what is popular."</i>
+<i>"The more reasons you have for achieving your goal, the more determined you will become."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
