@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where does a thought go when it's forgotten?"</i>
+<i>"The grass is greener where you water it."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Neil Barringham</b>
 </blockquote>
 </p>
 
