@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man who does not value himself, cannot value anything or anyone."</i>
+<i>"Like it or not, this moment is all we really have to work with."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
