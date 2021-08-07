@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not go where the path may lead, go instead where there is no path and leave a trail."</i>
+<i>"If a man knows not to which port he sails, no wind is favorable.  "</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
