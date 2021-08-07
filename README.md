@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A lot of people have gone further than they thought they could because someone else thought they could."</i>
+<i>"An intelligence test sometimes shows a man how smart he would have been not to have taken it."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
