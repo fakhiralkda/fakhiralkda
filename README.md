@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not what we do once in a while that shapes our lives, but what we do consistently."</i>
+<i>"The only real security that a man can have in this world is a reserve of knowledge, experience and ability. "</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
