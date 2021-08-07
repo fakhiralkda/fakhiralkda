@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An intelligence test sometimes shows a man how smart he would have been not to have taken it."</i>
+<i>"There is no value in anything until it is finished. "</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
