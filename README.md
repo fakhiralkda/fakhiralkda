@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is everything. It is the preview of life's coming attractions."</i>
+<i>"Man is affected not by events but by the view he takes of them.  "</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
