@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winners never quit and quitters never win."</i>
+<i>"There are no shortcuts to any place worth going."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
