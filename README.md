@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I was wise enough to never grow up while fooling most people into believing I had. "</i>
+<i>"It's not what you pay a man, but what he costs you that counts."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
