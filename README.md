@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not what you pay a man, but what he costs you that counts."</i>
+<i>"Live in the sunshine, swim the sea, drink the wild air."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
