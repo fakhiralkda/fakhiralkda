@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is either a daring adventure, or nothing."</i>
+<i>"Discipline yourself, and others won't need to."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
