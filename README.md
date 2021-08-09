@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot change your destination overnight but you can change your direction overnight."</i>
+<i>"Silence is a source of great strength."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
