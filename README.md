@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is impossible. The word itself says 'I'm possible!'"</i>
+<i>"Till it has loved, no man or woman can become itself."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
