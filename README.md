@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not all those who wander are lost."</i>
+<i>"Talent is luck. The important thing in life is courage."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
