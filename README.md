@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Till it has loved, no man or woman can become itself."</i>
+<i>"You are the average of the five people you spend the most time with."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
