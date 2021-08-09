@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who knows best knows how little he knows."</i>
+<i>"Life is either a daring adventure, or nothing."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
