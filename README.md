@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Avoiding failure is to avoid progress."</i>
+<i>"Whatever is begun in anger, ends in shame."</i>
 <br>
-<b>- Unknown</b>
+<b>- Benjamin Franklin </b>
 </blockquote>
 </p>
 
