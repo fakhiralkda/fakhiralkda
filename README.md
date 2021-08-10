@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man desires to live long, but no man wishes to be old."</i>
+<i>"The pain of parting is nothing to the joy of meeting again."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
