@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pain of parting is nothing to the joy of meeting again."</i>
+<i>"Re-examine all that you have been told... dismiss that which insults your soul."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
