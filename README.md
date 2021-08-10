@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever is begun in anger, ends in shame."</i>
+<i>"A journey of a thousand miles must begin with a single step."</i>
 <br>
-<b>- Benjamin Franklin </b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
