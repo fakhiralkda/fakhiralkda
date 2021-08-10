@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The season of failure is the best time for sowing the seeds of success. "</i>
+<i>"Originality is the fine art of remembering what you hear but forgetting where you heard it. "</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
