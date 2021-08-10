@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The universe doesn’t give you what you ask for with your thoughts - it gives you what you demand with your actions."</i>
+<i>"When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
