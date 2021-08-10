@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be where your enemy is not."</i>
+<i>"Forever is composed of now's."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
