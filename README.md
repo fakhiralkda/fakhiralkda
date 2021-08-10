@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Re-examine all that you have been told... dismiss that which insults your soul."</i>
+<i>"Live life as though nobody is watching, and express yourself as though everyone is listening."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
