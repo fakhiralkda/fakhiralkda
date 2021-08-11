@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success does not consist in never making mistakes but in never making the same one a second time."</i>
+<i>"My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
