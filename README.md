@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't build a reputation on what you are going to do. "</i>
+<i>"People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
