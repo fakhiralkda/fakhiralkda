@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have no more right to consume happiness without producing it than to consume wealth without producing it."</i>
+<i>"An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
