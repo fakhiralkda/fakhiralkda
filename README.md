@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace begins with a smile."</i>
+<i>"Perseverance and spirit have done wonders in all ages. "</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
