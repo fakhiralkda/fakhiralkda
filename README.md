@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not the love you make. It's the love you give. "</i>
+<i>"Life isn't about finding yourself. Life is about creating yourself."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
