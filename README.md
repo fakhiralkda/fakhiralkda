@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing."</i>
+<i>"It's not the love you make. It's the love you give. "</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Nikola Tesla</b>
 </blockquote>
 </p>
 
