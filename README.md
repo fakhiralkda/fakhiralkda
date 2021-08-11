@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Kind words can be short and easy to speak, but their echoes are truly endless."</i>
+<i>"You can't build a reputation on what you are going to do. "</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
