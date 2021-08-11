@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always focus on the front windshield and not the rear view mirror."</i>
+<i>"Always try to be a little kinder than necessary."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
