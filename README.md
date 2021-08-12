@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quieter you become, the more you are able to hear."</i>
+<i>"If life were predictable it would cease to be life, and be without flavor."</i>
 <br>
-<b>- Rumi</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
