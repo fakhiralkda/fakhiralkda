@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every time we liberate a woman, we liberate a man. "</i>
+<i>"The quieter you become, the more you are able to hear."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
