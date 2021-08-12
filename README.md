@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time doesn't heal emotional pain, you need to learn how to let go."</i>
+<i>"There is no absolute success in the world, only constant progress."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
