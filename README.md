@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't give up on your dreams, or your dreams will give up on you."</i>
+<i>"Life is ours to be spent, not to be saved. "</i>
 <br>
-<b>- John Wooden</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
