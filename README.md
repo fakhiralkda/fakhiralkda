@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A clear conscience is the sure sign of a bad memory."</i>
+<i>"Blessed is he who expects nothing, for he shall never be disappointed."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
