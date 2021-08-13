@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you're at the end of your rope, tie a knot and hold on."</i>
+<i>"Eighty percent of success is showing up. "</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
