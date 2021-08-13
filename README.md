@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pursue what catches your heart, not what catches your eyes."</i>
+<i>"When you're at the end of your rope, tie a knot and hold on."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
