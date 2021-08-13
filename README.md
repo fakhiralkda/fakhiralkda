@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Eighty percent of success is showing up. "</i>
+<i>"If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
