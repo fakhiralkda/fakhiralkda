@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind."</i>
+<i>"Always do your best. What you plant now, you will harvest later."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
