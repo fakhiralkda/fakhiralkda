@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no fear for one whose mind is not filled with desires."</i>
+<i>"Pursue what catches your heart, not what catches your eyes."</i>
 <br>
-<b>- Buddha</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
