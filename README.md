@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make improvements, not excuses. Seek respect, not attention."</i>
+<i>"Enthusiasm is a vital element toward the individual success of every man or woman."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
