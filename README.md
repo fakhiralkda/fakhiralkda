@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wheresoever you go, go with all your heart."</i>
+<i>"Just do the best you can. No one can do more than that."</i>
 <br>
-<b>- Confucius </b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
