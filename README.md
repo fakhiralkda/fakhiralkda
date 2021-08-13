@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing has any power over me other than that which I give it through my conscious thoughts."</i>
+<i>"I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
