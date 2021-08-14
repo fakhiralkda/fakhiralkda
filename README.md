@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man with outward courage dares to die: a man with inner courage dares to live."</i>
+<i>"Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
