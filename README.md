@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A fool sees himself as another, but a wise man sees others as himself."</i>
+<i>"To the world you may be one person; but to one person you may be the world."</i>
 <br>
-<b>- Dogen</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
