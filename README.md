@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything is possible. The impossible just takes longer."</i>
+<i>"Ponder and deliberate before you make a move."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
