@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It doesn't matter if the glass is half empty or half full. Be grateful you have a glass - you're the only person that can decide what's in it."</i>
+<i>"Saying nothing sometimes says the most."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
