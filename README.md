@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You purchase pain with all that joy can give and die of nothing but a rage to live."</i>
+<i>"You must live in the present, launch yourself on every wave, find your eternity in each moment. Fools stand on their island of opportunities and look toward another land. There is no other land; there is no other life but this."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
