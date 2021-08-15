@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right."</i>
+<i>"If you do not conquer self, you will be conquered by self."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
