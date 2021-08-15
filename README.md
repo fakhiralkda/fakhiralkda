@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All animals except man know that the principal business of life is to enjoy it."</i>
+<i>"Successful people do what unsuccessful people are not willing to do."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
