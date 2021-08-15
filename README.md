@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As a matter of fact is an expression that precedes many an expression that isn't."</i>
+<i>"One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
