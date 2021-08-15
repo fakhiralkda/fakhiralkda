@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dream big and dare to fail."</i>
+<i>"Lack of emotion causes lack of progress and lack of motivation."</i>
 <br>
-<b>- Norman Vaughan</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
