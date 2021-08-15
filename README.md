@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not conquer self, you will be conquered by self."</i>
+<i>"We are all faced with a series of great opportunities brilliantly disguised as impossible situations. "</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Charles Swindoll</b>
 </blockquote>
 </p>
 
