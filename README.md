@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not use life to give life to death. Do not use death to bring death to life."</i>
+<i>"You purchase pain with all that joy can give and die of nothing but a rage to live."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
