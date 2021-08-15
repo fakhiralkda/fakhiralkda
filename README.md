@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Saying nothing sometimes says the most."</i>
+<i>"Do not use life to give life to death. Do not use death to bring death to life."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
