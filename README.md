@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all faced with a series of great opportunities brilliantly disguised as impossible situations. "</i>
+<i>"Love is the absence of judgment."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
