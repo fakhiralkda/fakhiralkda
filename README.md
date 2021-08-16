@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I would rather die on my feet than live on my knees."</i>
+<i>"Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know."</i>
 <br>
-<b>- Euripides</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
