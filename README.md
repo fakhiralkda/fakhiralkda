@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conscience is a dog that does not stop us from passing but that we cannot prevent from barking."</i>
+<i>"Sometimes it is harder to deprive oneself of a pain than of a pleasure."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
