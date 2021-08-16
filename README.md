@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is difficult to free fools from the chains they revere. "</i>
+<i>"Surrender to what is. Let go of what was. Have faith in what will be."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
