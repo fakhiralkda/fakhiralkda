@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</i>
+<i>"As a man thinketh in his heart, so shall he be."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
