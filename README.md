@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life should be touched, not strangled.  "</i>
+<i>"Don't let the noise of others' opinions drown out your own inner voice."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
