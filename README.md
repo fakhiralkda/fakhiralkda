@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Faithless is he that says farewell when the road darkens."</i>
+<i>"It is indeed a radical act of love just to sit down and be quiet for a time by yourself."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
