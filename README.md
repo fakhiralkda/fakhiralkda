@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like a wheel. Sooner or later, it always comes around to where you started again."</i>
+<i>"Faithless is he that says farewell when the road darkens."</i>
 <br>
-<b>- Stephen King</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
