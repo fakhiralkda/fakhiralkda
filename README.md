@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no absolute success in the world, only constant progress."</i>
+<i>"Success is good at any age, but the sooner you find it, the longer you will enjoy it."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
