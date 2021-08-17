@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As a man thinketh in his heart, so shall he be."</i>
+<i>"There is no absolute success in the world, only constant progress."</i>
 <br>
-<b>- James Allen</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
