@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From error to error one discovers the entire truth."</i>
+<i>"Only those who will risk going too far can possibly find out how far one can go."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
