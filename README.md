@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We suffer more often in imagination than in reality."</i>
+<i>"If you try to micromanage yourself all you're going to do is make yourself miserable."</i>
 <br>
-<b>- Seneca</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
