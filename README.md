@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid to give up the good to go for the great."</i>
+<i>"If you do not tell the truth about yourself you cannot tell it about other people."</i>
 <br>
-<b>- John D. Rockefeller</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
