@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is like reaching an important birthday and finding you're exactly the same."</i>
+<i>"In life you need either inspiration or desperation."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
