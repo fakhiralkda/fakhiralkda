@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I learned the value of hard work by working hard. "</i>
+<i>"Either write something worth reading or do something worth writing."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Benjamin Franklin </b>
 </blockquote>
 </p>
 
