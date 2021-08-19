@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety."</i>
+<i>"Happiness is a gift and the trick is not to expect it, but to delight in it when it comes."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
