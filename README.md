@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are always complaining that our days are few, and acting as though there would be no end of them.  "</i>
+<i>"Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners."</i>
 <br>
-<b>- Seneca</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
