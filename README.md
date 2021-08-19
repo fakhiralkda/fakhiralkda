@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not push the boundaries, you will never know where they are."</i>
+<i>"I learned the value of hard work by working hard. "</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
