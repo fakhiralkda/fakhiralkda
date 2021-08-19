@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest gift that you can give to others is the gift of unconditional love and acceptance. "</i>
+<i>"Understanding that rests in what it does not understand is the finest."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
