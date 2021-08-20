@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lack of emotion causes lack of progress and lack of motivation."</i>
+<i>"Health is the greatest of all possessions."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
