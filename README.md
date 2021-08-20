@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Health is the greatest of all possessions."</i>
+<i>"The friendship that can cease has never been real. "</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
