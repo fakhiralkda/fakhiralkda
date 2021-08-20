@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The friendship that can cease has never been real. "</i>
+<i>"True knowledge exists in knowing that you know nothing."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
