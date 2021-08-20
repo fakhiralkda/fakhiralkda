@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the absence of judgment."</i>
+<i>"Inspire yourself to be great. Being good isn't good enough."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
