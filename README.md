@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Understanding that rests in what it does not understand is the finest."</i>
+<i>"The past has no power over the present moment. "</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Eckhart Tolle </b>
 </blockquote>
 </p>
 
