@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is very obvious that we are not influenced by “facts” but by our interpretation of the facts."</i>
+<i>"Do not look for a sanctuary in anyone except your self."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
