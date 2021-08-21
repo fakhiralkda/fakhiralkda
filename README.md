@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not look for a sanctuary in anyone except your self."</i>
+<i>"Work as though you would live forever, and live as though you would die today. Go another mile."</i>
 <br>
-<b>- Buddha</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
