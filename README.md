@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"With self-discipline, almost anything is possible."</i>
+<i>"My guiding principle is this: Guilt is never to be doubted. "</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
