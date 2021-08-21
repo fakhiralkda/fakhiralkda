@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can only lose something that you have, but you cannot lose something that you are."</i>
+<i>"Great things are done by a series of small things brought together. "</i>
 <br>
-<b>- Eckhart Tolle </b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
