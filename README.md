@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great things are done by a series of small things brought together. "</i>
+<i>"The way of success is the way of continuous pursuit of knowledge."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
