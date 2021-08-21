@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life would be tragic if it weren't funny."</i>
+<i>"We don't stop playing because we grow old; we grow old because we stop playing."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
