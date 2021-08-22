@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know yourself and you will win all battles."</i>
+<i>"Consider the rights of others before your own feelings, and the feelings of others before your own rights."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
