@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."</i>
+<i>"Be kind, for everyone you meet is fighting a hard battle."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
