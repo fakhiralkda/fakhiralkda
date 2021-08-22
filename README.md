@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is the willingness to engage in a risk-taking behavior regardless of whether the consequences are unknown or possibly adverse."</i>
+<i>"Life has no limitations except the ones you make."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
