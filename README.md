@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to know what God thinks about money just look at the people He gives it to."</i>
+<i>"Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
