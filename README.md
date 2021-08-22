@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not follow the ideas of others, but learn to listen to the voice within yourself."</i>
+<i>"Quality is more important than quantity. One home run is much better than two doubles."</i>
 <br>
-<b>- Dogen</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
