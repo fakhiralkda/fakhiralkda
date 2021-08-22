@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is not having the strength to go on; it is going on when you don't have the strength."</i>
+<i>"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
