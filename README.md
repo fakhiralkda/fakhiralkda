@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have as much laughter as you have faith."</i>
+<i>"Success comes to those who become success conscious."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
