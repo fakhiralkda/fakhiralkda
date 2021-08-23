@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success comes to those who become success conscious."</i>
+<i>"Life is what happens to you while you're busy making other plans."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
