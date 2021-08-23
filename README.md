@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is what happens to you while you're busy making other plans."</i>
+<i>"When one door closes another door opens. "</i>
 <br>
-<b>- John Lennon</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
