@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If they wrote it to make money, don't read it."</i>
+<i>"Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
