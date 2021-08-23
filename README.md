@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have never let my schooling interfere with my education."</i>
+<i>"Adventure is worthwhile in itself."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
