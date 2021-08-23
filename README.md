@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success does not consist in never making mistakes but in never making the same one a second time."</i>
+<i>"What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
