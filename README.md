@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your greatest asset is your earning ability. Your greatest resource is your time."</i>
+<i>"The farther backward you can look, the farther forward you are likely to see."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
