@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The heart that gives, gathers."</i>
+<i>"Every experience is a lesson. Every loss is a gain."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
