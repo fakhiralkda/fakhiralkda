@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time."</i>
+<i>"The past has no power over the present moment. "</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Eckhart Tolle </b>
 </blockquote>
 </p>
 
