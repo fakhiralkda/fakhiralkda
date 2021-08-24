@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are always your own best guru, your own best teacher, the answers are always inside you."</i>
+<i>"Faithless is he that says farewell when the road darkens."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
