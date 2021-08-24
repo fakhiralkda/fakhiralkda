@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's no coming to consciousness without pain"</i>
+<i>"Coming together is a beginning, staying together is progress, and working together is success. "</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
