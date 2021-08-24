@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winners never quit and quitters never win."</i>
+<i>"Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
