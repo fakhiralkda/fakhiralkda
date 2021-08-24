@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throughout this life, you can never be certain of living long enough to take another breath."</i>
+<i>"Although the world is full of suffering, it is also full of the overcoming of it."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
