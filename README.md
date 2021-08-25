@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All we have to decide is what to do with the time that is given to us."</i>
+<i>"A lot of people have gone further than they thought they could because someone else thought they could."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
