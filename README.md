@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forgive those who have hurt you."</i>
+<i>"Confidence is the greatest friend."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
