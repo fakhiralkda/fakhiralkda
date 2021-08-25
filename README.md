@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not tell the truth about yourself you cannot tell it about other people."</i>
+<i>"Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
