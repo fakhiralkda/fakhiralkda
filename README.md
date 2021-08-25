@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Inspire yourself to be great. Being good isn't good enough."</i>
+<i>"New beginnings are disguised as painful endings."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
