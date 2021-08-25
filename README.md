@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All we have to decide is what to do with the time that is given to us."</i>
+<i>"To forget the whole world is easy; to make the whole world forget you is hard."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
