@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is the greatest friend."</i>
+<i>"All we have to decide is what to do with the time that is given to us."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
