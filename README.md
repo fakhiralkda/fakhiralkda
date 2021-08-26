@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is sometimes the best answer"</i>
+<i>"The thing about smart people is that they seem like crazy people to dumb people."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
