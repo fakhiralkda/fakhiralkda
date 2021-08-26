@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The thing about smart people is that they seem like crazy people to dumb people."</i>
+<i>"If you want work well done, select a busy man; the other kind has no time."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
