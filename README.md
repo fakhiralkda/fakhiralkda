@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quiet people have the loudest minds."</i>
+<i>"Know yourself and you will win all battles."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
