@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth is not for all men, but for those who seek it."</i>
+<i>"Everyone has the right to make his own decisions, but none has the right to force his decision on others."</i>
 <br>
 <b>- Ayn Rand</b>
 </blockquote>
