@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All leaders are readers."</i>
+<i>"You know the more one does the more one can do."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
