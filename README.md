@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Curiosity is the most powerful thing you own."</i>
+<i>"All leaders are readers."</i>
 <br>
-<b>- James Cameron</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
