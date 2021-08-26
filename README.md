@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  "</i>
+<i>"Be happy in the moment, that's enough. Each moment is all we need, not more."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
