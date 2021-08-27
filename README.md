@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fears are nothing more than a state of mind."</i>
+<i>"In all chaos there is a cosmos, in all disorder a secret order."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
