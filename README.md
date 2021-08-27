@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man that flies from his fear may find that he has only taken a short cut to meet it."</i>
+<i>"Ask no questions, and you'll be told no lies."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
