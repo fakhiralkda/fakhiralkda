@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In all chaos there is a cosmos, in all disorder a secret order."</i>
+<i>"I live by letting things happen."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
