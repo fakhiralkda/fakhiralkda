@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be brave to stand for what you believe in even if you stand alone."</i>
+<i>"In the midst of chaos, there is also opportunity."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
