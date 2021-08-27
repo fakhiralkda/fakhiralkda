@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to make God laugh, tell him about your plans. "</i>
+<i>"Deeds will not be less valiant because they are upraised."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
