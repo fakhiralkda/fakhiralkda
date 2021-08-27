@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nourish the mind like you would your body. The mind cannot survive on junk food."</i>
+<i>"It is what we make out of what we have, not what we are given, that separates one person from another."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
