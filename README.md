@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ask no questions, and you'll be told no lies."</i>
+<i>"Do what you can, with what you have, where you are."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
