@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind."</i>
+<i>"Learning never exhausts the mind. "</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
