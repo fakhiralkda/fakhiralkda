@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Surrender to what is. Let go of what was. Have faith in what will be."</i>
+<i>"Intense love does not measure, it just gives."</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
