@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Logic is like the sword – those who appeal to it shall perish by it."</i>
+<i>"Surrender to what is. Let go of what was. Have faith in what will be."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
