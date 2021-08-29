@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep smiling, because life is a beautiful thing and there's so much to smile about."</i>
+<i>"Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it."</i>
 <br>
-<b>- Marilyn Monroe</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
