@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people dabble their way through life, never deciding to master anything in particular."</i>
+<i>"The key to success is action."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
