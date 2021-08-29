@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man desires to live long, but no man wishes to be old."</i>
+<i>"Go as far as you can see and you will see further.  "</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
