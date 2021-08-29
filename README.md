@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Kind words can be short and easy to speak, but their echoes are truly endless."</i>
+<i>"No amount of regretting can change the past, and no amount of worrying can change the future."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
