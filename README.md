@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Alone we can do so little; together we can do so much."</i>
+<i>"Never feel shame for trying and failing, for he who has never failed is he who has never tried."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
