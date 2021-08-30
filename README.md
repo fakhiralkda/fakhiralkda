@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I have seen further than others, it is by standing upon the shoulders of giants."</i>
+<i>"The law of harvest is to reap more than you sow. Sow an act, and you reap a habit. Sow a habit and you reap a character. Sow a character and you reap a destiny."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
