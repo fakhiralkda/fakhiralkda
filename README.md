@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Faults are yours to fix, not to curse."</i>
+<i>"When I let go of what I am, I become what I might be."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
