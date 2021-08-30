@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dance first. Think later. It's the natural order."</i>
+<i>"In the long run, the sharpest weapon of all is a kind and gentle spirit."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
