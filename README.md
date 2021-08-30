@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"New beginnings are disguised as painful endings."</i>
+<i>"Alone we can do so little; together we can do so much."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
