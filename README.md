@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The law of harvest is to reap more than you sow. Sow an act, and you reap a habit. Sow a habit and you reap a character. Sow a character and you reap a destiny."</i>
+<i>"Continuous effort - not strength or intelligence - is the key to unlocking our potential."</i>
 <br>
-<b>- James Allen</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
