@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before you embark on a journey of revenge, dig two graves. "</i>
+<i>"Dance first. Think later. It's the natural order."</i>
 <br>
-<b>- Confucius </b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
