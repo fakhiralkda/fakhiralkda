@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood."</i>
+<i>"When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
