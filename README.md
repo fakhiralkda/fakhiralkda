@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only the one reality, neither to be realized nor attained."</i>
+<i>"The most important single ingredient in the formula of success is knowing how to get along with people."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
