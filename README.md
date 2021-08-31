@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are always complaining that our days are few, and acting as though there would be no end of them.  "</i>
+<i>"If you do not push the boundaries, you will never know where they are."</i>
 <br>
-<b>- Seneca</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
