@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't give up on your dreams, or your dreams will give up on you."</i>
+<i>"A random act of kindness, no matter how small, can make a tremendous impact on someone else's life."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
