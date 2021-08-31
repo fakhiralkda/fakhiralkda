@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your heart is the size of an ocean. Go find yourself in its hidden depths."</i>
+<i>"Don't give up on your dreams, or your dreams will give up on you."</i>
 <br>
-<b>- Rumi</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
