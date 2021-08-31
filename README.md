@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every second you have on this planet is very precious and it's your responsibility that you're happy."</i>
+<i>"Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live!"</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
