@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves."</i>
+<i>"Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
