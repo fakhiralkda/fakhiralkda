@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Attitude is a little thing that makes a BIG difference."</i>
+<i>"Don't spend major time on minor things."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
