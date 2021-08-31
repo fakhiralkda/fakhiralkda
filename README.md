@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many roads lead to the path, but basically there are only two: reason and practice. "</i>
+<i>"The wisest men follow their own direction."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
