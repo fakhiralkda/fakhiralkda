@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your eyes on the stars, but remember to keep your feet on the ground."</i>
+<i>"Life can only be understood backwards; but it must be lived forwards."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Soren Kierkegaard</b>
 </blockquote>
 </p>
 
