@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always do your best. What you plant now, you will harvest later."</i>
+<i>"Silence is a source of great strength."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
