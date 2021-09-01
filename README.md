@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To improve is to change, so to be perfect is to change often."</i>
+<i>"Always do your best. What you plant now, you will harvest later."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
