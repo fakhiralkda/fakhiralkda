@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing."</i>
+<i>"The first rule of handling conflict is don't hang around people who are constantly engaging in conflict."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
