@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are free, and that is why you are lost. "</i>
+<i>"Imagination is more important than knowledge."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
