@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I skate to where the puck is going to be, not where it has been."</i>
+<i>"Always render more and better service than is expected of you, no matter what your task may be."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
