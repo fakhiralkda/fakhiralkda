@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important single ingredient in the formula of success is knowing how to get along with people."</i>
+<i>"You are free, and that is why you are lost. "</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
