@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Evil is whatever distracts. "</i>
+<i>"Our truest life is when we are in dreams awake."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
