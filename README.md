@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is in your moments of decision that your destiny is shaped."</i>
+<i>"Life is like a beautiful melody, only the lyrics are messed up."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
