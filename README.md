@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only he who has no use for the empire is fit to be entrusted with it."</i>
+<i>"Science can flourish only in an atmosphere of free speech. "</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
