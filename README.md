@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To affect the quality of the day, that is the highest of arts."</i>
+<i>"Honesty is the first chapter in the book of wisdom."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
