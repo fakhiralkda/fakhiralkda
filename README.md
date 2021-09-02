@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Get busy living, or get busy dying."</i>
+<i>"Evil is whatever distracts. "</i>
 <br>
-<b>- Stephen King</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
