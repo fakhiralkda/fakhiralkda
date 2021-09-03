@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Outstanding people have one thing in common: an absolute sense of mission.  "</i>
+<i>"Speak when you are angry - and you'll make the best speech you'll ever regret."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
