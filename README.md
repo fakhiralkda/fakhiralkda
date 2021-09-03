@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today will never happen again. Don't waste it with a false start or no start at all."</i>
+<i>"The farther backward you can look, the farther forward you are likely to see."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
