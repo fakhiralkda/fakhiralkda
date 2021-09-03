@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace begins with a smile."</i>
+<i>"What you become is far more important than what you get."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
