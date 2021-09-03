@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe."</i>
+<i>"Why fit in when you were born to stand out?"</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
