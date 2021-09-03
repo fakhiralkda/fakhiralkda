@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Death walks faster than the wind and never returns what he has taken."</i>
+<i>"When angry count to ten before you speak. If very angry, count to one hundred."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
