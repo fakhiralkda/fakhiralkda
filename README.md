@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Speak when you are angry - and you'll make the best speech you'll ever regret."</i>
+<i>"Freedom lies in being bold."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
