@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why fit in when you were born to stand out?"</i>
+<i>"Happiness is a gift and the trick is not to expect it, but to delight in it when it comes."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
