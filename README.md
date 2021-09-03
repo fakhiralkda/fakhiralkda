@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust your instincts: my first reaction is almost invariably the right one.  "</i>
+<i>"You will succeed because most people are lazy."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Shahir Zag</b>
 </blockquote>
 </p>
 
