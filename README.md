@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When angry count to ten before you speak. If very angry, count to one hundred."</i>
+<i>"My mind seems to have become a kind of machine for grinding general laws out of large collections of facts."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
