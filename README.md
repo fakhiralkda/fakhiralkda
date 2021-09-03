@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will succeed because most people are lazy."</i>
+<i>"Peace begins with a smile."</i>
 <br>
-<b>- Shahir Zag</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
