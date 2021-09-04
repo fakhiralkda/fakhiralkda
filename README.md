@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart."</i>
+<i>"No amount of regretting can change the past, and no amount of worrying can change the future."</i>
 <br>
 <b>- Roy T. Bennett</b>
 </blockquote>
