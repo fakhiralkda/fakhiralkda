@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not uncommon for people to spend their whole life waiting to start living."</i>
+<i>"Where violence reigns, reason is weak."</i>
 <br>
-<b>- Eckhart Tolle </b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
