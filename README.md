@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must create our own world or we will die from inaction."</i>
+<i>"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
