@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom lies in being bold."</i>
+<i>"It is not uncommon for people to spend their whole life waiting to start living."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Eckhart Tolle </b>
 </blockquote>
 </p>
 
