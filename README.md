@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"However difficult life may seem, there is always something you can do and succeed at."</i>
+<i>"Winning isn't everything, but wanting to win is."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
