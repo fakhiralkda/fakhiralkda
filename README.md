@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What would life be if we had no courage to attempt anything? "</i>
+<i>"Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
