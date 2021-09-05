@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words used to attract the dull of wit are not to be relied on."</i>
+<i>"He suffers more than necessary, who suffers before it is necessary.  "</i>
 <br>
-<b>- Huang Po</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
