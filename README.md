@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace."</i>
+<i>"What people say, what people do, and what they say they do are entirely different things. "</i>
 <br>
-<b>- Dogen</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
