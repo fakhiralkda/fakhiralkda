@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As a man thinketh in his heart, so shall he be."</i>
+<i>"Each time we don't say what we wanna say, we're dying."</i>
 <br>
-<b>- James Allen</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
