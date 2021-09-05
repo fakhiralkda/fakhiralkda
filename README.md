@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I defeat my enemies when I make them my friends."</i>
+<i>"We must create our own world or we will die from inaction."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
