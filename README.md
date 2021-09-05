@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way it gets better for you is when you get better. Better is not something you wish, it's something you become."</i>
+<i>"Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
