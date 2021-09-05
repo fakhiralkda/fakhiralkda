@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Common sense is not so common. "</i>
+<i>"The best way out is always through."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
