@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"May you live all the days of your life."</i>
+<i>"The only way it gets better for you is when you get better. Better is not something you wish, it's something you become."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
