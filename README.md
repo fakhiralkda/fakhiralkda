@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a long lesson in humility. "</i>
+<i>"Common sense is not so common. "</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
