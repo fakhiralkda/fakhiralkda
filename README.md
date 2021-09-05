@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen."</i>
+<i>"I skate to where the puck is going to be, not where it has been."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
