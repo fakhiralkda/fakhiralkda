@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I was wise enough to never grow up while fooling most people into believing I had. "</i>
+<i>"Care about what other people think and you will always be their prisoner."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
