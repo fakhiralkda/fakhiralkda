@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations."</i>
+<i>"Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
