@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean."</i>
+<i>"Life and death are of supreme importance. Time swiftly passes by and opportunity is lost."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
