@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yesterday is gone. Tomorrow has not yet come. We have only today."</i>
+<i>"If you want to see things just as they are, then you yourself must practice just as you are."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
