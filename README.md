@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If a man knows not to which port he sails, no wind is favorable.  "</i>
+<i>"Determine never to be idle. No person will have occasion to complain of the want of time who never loses any."</i>
 <br>
-<b>- Seneca</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
