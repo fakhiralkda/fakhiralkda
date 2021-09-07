@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone you meet is fighting a battle you know nothing about. Be kind. Always."</i>
+<i>"We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences "</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Nikola Tesla</b>
 </blockquote>
 </p>
 
