@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be happy in the moment, that's enough. Each moment is all we need, not more."</i>
+<i>"Whatever your mind can conceive and believe, it can achieve."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
