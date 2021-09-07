@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Given the choice between the experience of pain and nothing, I would choose pain."</i>
+<i>"You cannot find peace avoiding life."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
