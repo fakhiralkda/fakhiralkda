@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot find peace avoiding life."</i>
+<i>"What worries you, masters you."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
