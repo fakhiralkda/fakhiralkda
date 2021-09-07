@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You miss 100% of the shots you don't take."</i>
+<i>"Amateurs sit and wait for inspiration, the rest of us just get up and got to work."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
