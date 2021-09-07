@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Amateurs sit and wait for inspiration, the rest of us just get up and got to work."</i>
+<i>"Note that this journey is uniquely yours, no one elses. So the path has to be your own."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
