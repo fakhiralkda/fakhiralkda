@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A dream you dream alone is only a dream. A dream you dream together is reality."</i>
+<i>"Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
