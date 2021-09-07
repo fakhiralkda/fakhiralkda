@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be kind, for everyone you meet is fighting a hard battle."</i>
+<i>"Be happy in the moment, that's enough. Each moment is all we need, not more."</i>
 <br>
-<b>- Plato</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
