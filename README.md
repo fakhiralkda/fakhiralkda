@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present."</i>
+<i>"You miss 100% of the shots you don't take."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
