@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth is simple. If it was complicated, everyone would understand it."</i>
+<i>"People will forget what you said, people will forget what you did, but people will never forget how you made them feel."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
