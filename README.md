@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People will forget what you said, people will forget what you did, but people will never forget how you made them feel."</i>
+<i>"To become what you are not, behave as you do not."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
