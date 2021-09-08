@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anger begins with folly, and ends with repentance. "</i>
+<i>"The more often a stupidity is repeated, the more it gets the appearance of wisdom."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
