@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let us rather run the risk of wearing out than rusting out."</i>
+<i>"A man with outward courage dares to die: a man with inner courage dares to live."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
