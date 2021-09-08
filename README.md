@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind."</i>
+<i>"Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new."</i>
 <br>
-<b>- Eckhart Tolle </b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
