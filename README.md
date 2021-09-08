@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people achieved their greatest success one step beyond what looked like their greatest failure."</i>
+<i>"They say love is the best investment; the more you give, the more you get in return."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
