@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It takes half your life before you discover life is a do-it-yourself project."</i>
+<i>"When it hurts - observe. Life is trying to teach you something."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
