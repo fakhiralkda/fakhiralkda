@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never lose hope. Storms make people stronger and never last forever."</i>
+<i>"Not all those who wander are lost."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
