@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is trying things to see if they work."</i>
+<i>"Just do the best you can. No one can do more than that."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
