@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When it hurts - observe. Life is trying to teach you something."</i>
+<i>"Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time."</i>
 <br>
-<b>- Anita Krizzan</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
