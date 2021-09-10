@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life doesn't get easier or more forgiving, we get stronger and more resilient."</i>
+<i>"Have a heart that never hardens, and a temper that never tires, and a touch that never hurts."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
