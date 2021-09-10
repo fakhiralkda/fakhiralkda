@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We run to win, not just to be in the race.  "</i>
+<i>"Only the hand that erases can write the true thing."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
