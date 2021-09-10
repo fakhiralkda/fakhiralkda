@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to predict your future is to create it."</i>
+<i>"I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
