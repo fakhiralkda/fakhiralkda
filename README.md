@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only the hand that erases can write the true thing."</i>
+<i>"Discipline is the bridge between goals and accomplishment."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
