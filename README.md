@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have a heart that never hardens, and a temper that never tires, and a touch that never hurts."</i>
+<i>"The sun shines upon good and bad alike."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
