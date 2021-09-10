@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The one who boasts does so only out of a feeling of inferiority."</i>
+<i>"The best way to predict your future is to create it."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
