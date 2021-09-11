@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have no more right to consume happiness without producing it than to consume wealth without producing it."</i>
+<i>"The harder the conflict, the greater the triumph. "</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
