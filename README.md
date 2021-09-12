@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I alone cannot change the world, but I can cast a stone across the waters to create many ripples."</i>
+<i>"To some degree, you control your life by controlling your time."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
