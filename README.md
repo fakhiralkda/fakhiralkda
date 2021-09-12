@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To some degree, you control your life by controlling your time."</i>
+<i>"Forget yesterday - it has already forgotten you. Don't sweat tomorrow - you haven't even met. Instead, open your eyes and your heart to a truly precious gift – today."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
