@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be alive - is Power."</i>
+<i>"The more you give, the more comes back to you."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
