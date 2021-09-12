@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Formal education will make you a living, self-education will make you a fortune."</i>
+<i>"If you're not failing every now and again, it's a sign you're not doing anything very innovative."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
