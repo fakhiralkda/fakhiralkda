@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man sees in the world what he carries in his heart."</i>
+<i>"Every day is an opportunity to a make a new happy ending."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
