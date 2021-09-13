@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The important thing is not what one is born with but what use one makes of that equipment."</i>
+<i>"Those who look for the bad in people will surely find it."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
