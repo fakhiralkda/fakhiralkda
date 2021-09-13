@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time heals what reason cannot.  "</i>
+<i>"Do not look for a sanctuary in anyone except your self."</i>
 <br>
-<b>- Seneca</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
