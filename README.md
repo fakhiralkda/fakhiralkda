@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forgive those who have hurt you."</i>
+<i>"Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. "</i>
 <br>
-<b>- Les Brown</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
