@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is too short to waste your time on people who don’t respect, appreciate, and value you."</i>
+<i>"Ponder and deliberate before you make a move."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
