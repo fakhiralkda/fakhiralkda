@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time."</i>
+<i>"Life is too short to waste your time on people who don’t respect, appreciate, and value you."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
