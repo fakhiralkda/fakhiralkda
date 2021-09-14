@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know yourself and you will win all battles."</i>
+<i>"It is better to fail in originality than to succeed in imitation."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Herman Melville</b>
 </blockquote>
 </p>
 
