@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Care about what other people think and you will always be their prisoner."</i>
+<i>"Trying to define yourself is like trying to bite your own teeth."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
