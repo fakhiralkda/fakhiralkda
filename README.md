@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear can hold you prisoner. Hope can set you free."</i>
+<i>"He who knows best knows how little he knows."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
