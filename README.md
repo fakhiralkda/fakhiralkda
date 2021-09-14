@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are far from the enemy, make him believe you are near."</i>
+<i>"Know yourself and you will win all battles."</i>
 <br>
 <b>- Sun Tzu</b>
 </blockquote>
