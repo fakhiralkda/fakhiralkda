@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not fight with pigs - you will be smeared in mud but the pig will like it."</i>
+<i>"Great acts are made up of small deeds."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
