@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Repetition does not transform a lie into a truth."</i>
+<i>"Don't let the noise of others' opinions drown out your own inner voice."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
