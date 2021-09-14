@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't know, the thing to do is not to get scared, but to learn."</i>
+<i>"Enjoy life. There's plenty of time to be dead."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
