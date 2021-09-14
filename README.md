@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perfection is not attainable, but if we chase perfection we can catch excellence."</i>
+<i>"Repetition does not transform a lie into a truth."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
