@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday."</i>
+<i>"The primary cause of unhappiness is never the situation but your thoughts about it."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Eckhart Tolle </b>
 </blockquote>
 </p>
 
