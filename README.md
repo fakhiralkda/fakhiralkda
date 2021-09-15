@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Saying nothing sometimes says the most."</i>
+<i>"Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
