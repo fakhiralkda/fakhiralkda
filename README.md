@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be yourself; everyone else is already taken."</i>
+<i>"The mind can calculate, but the spirit yearns, and the heart wants what the heart wants."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
