@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Optimism is the one quality more associated with success and happiness than any other."</i>
+<i>"Who wishes to fight must first count the cost."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
