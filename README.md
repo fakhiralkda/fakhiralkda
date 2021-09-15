@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To the mind that is still, the whole universe surrenders."</i>
+<i>"Rewards and punishment is the lowest form of education."</i>
 <br>
-<b>- Laozi</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
