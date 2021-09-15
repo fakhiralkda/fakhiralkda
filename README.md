@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Alone we can do so little; together we can do so much."</i>
+<i>"When the time is gone, you can never get it back."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
