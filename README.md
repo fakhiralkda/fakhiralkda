@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ability is a poor man's wealth."</i>
+<i>"Perpetual optimism is a force multiplier."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
