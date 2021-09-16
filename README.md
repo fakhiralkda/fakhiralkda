@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself."</i>
+<i>"Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
