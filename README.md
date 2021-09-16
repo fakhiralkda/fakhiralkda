@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Muddy water is best cleared by leaving it alone."</i>
+<i>"Nothing is more real than nothing."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
