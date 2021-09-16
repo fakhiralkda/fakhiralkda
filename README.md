@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wealth is the product of man's capacity to think."</i>
+<i>"Muddy water is best cleared by leaving it alone."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
