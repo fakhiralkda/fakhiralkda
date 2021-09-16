@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The few who do are the envy of the many who only watch."</i>
+<i>"Do anything, but let it produce joy."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
