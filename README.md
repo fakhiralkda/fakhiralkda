@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from."</i>
+<i>"Forget yesterday - it has already forgotten you. Don't sweat tomorrow - you haven't even met. Instead, open your eyes and your heart to a truly precious gift – today."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
