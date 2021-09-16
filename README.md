@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who wishes to fight must first count the cost."</i>
+<i>"Originality is the fine art of remembering what you hear but forgetting where you heard it. "</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
