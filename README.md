@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes it is harder to deprive oneself of a pain than of a pleasure."</i>
+<i>"I defeat my enemies when I make them my friends."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
