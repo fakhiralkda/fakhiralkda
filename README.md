@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not final, failure is not fatal: it is the courage to continue that counts."</i>
+<i>"Life is trying things to see if they work."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
