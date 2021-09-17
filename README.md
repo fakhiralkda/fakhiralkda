@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things do not have meaning. We assign meaning to everything."</i>
+<i>"I will not walk backward in life."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
