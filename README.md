@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your friends close, and your enemies closer."</i>
+<i>"You can't build a reputation on what you are going to do. "</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
