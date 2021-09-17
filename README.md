@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The harder the conflict, the greater the triumph. "</i>
+<i>"Things do not have meaning. We assign meaning to everything."</i>
 <br>
-<b>- George Washington</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
