@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cease striving. Then there will be transformation."</i>
+<i>"Life is a long lesson in humility. "</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
