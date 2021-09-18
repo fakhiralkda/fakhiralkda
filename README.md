@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I skate to where the puck is going to be, not where it has been."</i>
+<i>"Creativity is intelligence having fun."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
