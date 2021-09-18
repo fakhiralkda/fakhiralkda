@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time."</i>
+<i>"One day, in retrospect, the years of struggle will strike you as the most beautiful."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
