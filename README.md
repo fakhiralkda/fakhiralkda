@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wheresoever you go, go with all your heart."</i>
+<i>"I skate to where the puck is going to be, not where it has been."</i>
 <br>
-<b>- Confucius </b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
