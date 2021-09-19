@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."</i>
+<i>"Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. "</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
