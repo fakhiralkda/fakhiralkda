@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any fool can paint a picture, but it takes a wise man to be able to sell it."</i>
+<i>"Insanity: doing the same thing over and over again and expecting different results."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
