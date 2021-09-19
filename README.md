@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who wishes to fight must first count the cost."</i>
+<i>"The question is not what you look at, but what you see."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
