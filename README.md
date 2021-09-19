@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Outstanding people have one thing in common: an absolute sense of mission.  "</i>
+<i>"You can tell more about a person by what he says about others than you can by what others say about him."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
