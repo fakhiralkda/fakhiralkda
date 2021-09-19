@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Insanity: doing the same thing over and over again and expecting different results."</i>
+<i>"The decisions of our past are the architects of our present."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
