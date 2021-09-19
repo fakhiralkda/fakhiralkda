@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can handle rejection, you'll learn to get everything you want."</i>
+<i>"Who wishes to fight must first count the cost."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
