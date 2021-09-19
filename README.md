@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The question is not what you look at, but what you see."</i>
+<i>"Those who cannot change their minds cannot change anything."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
