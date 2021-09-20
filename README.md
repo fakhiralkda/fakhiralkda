@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness depends on your mindset and attitude."</i>
+<i>"How much pain they have cost us, the evils which have never happened."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
