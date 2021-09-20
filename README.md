@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men do not attract which they want but that which they are."</i>
+<i>"We must create our own world or we will die from inaction."</i>
 <br>
-<b>- James Allen</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
