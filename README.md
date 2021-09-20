@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot swim for new horizons until you have courage to lose sight of the shore."</i>
+<i>"The harder you work, the harder it is to surrender."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
