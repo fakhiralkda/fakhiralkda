@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In matters of style, swim with the current; in matters of principle, stand like a rock."</i>
+<i>"Realize deeply that the present moment is all you ever have. "</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Eckhart Tolle </b>
 </blockquote>
 </p>
 
