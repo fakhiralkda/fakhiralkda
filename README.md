@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The harder you work, the harder it is to surrender."</i>
+<i>"Treat everyone with politeness and kindness, not because they are nice, but because you are."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
