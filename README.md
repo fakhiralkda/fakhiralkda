@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Judge a man by his questions rather than his answers."</i>
+<i>"To be truly ignorant, be content with your own knowledge."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
