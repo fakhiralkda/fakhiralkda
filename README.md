@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all different. Don't judge, understand instead."</i>
+<i>"In the practice of tolerance, one's enemy is the best teacher."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
