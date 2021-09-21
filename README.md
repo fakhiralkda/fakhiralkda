@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you are motivated by Love, The more Fearless & Free your action will be."</i>
+<i>"Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
