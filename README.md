@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have no more right to consume happiness without producing it than to consume wealth without producing it."</i>
+<i>"The only real mistake is the one from which we learn nothing. "</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
