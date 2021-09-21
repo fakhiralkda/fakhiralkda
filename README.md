@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it."</i>
+<i>"Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!"</i>
 <br>
-<b>- Rumi</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
