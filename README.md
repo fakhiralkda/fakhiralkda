@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change yourself - you are in control."</i>
+<i>"Simplicity is the glory of expression."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
