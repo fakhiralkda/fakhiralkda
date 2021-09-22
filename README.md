@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time is more valuable than money. You can get more money, but you cannot get more time."</i>
+<i>"The important thing is not to stop questioning. Curiosity has its own reason for existing."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
