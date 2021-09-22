@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where violence reigns, reason is weak."</i>
+<i>"No great discovery was ever made without a bold guess. "</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
