@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Simplicity is the glory of expression."</i>
+<i>"A gentleman is one who puts more into the world than he takes out."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
