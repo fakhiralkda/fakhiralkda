@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Repetition does not transform a lie into a truth."</i>
+<i>"We should not look back unless it is to derive useful lessons from past errors."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
