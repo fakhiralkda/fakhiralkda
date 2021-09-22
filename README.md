@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By failing to prepare, you are preparing to fail."</i>
+<i>"Whatever your mind can conceive and believe, it can achieve."</i>
 <br>
-<b>- Benjamin Franklin </b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
