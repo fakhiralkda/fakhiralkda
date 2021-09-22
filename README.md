@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can avoid reality, but you cannot avoid the consequences of avoiding reality."</i>
+<i>"Great things are not accomplished by those who yield to trends and fads and popular opinion."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
