@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We should not look back unless it is to derive useful lessons from past errors."</i>
+<i>"Time is more valuable than money. You can get more money, but you cannot get more time."</i>
 <br>
-<b>- George Washington</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
