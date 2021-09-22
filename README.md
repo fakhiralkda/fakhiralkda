@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can handle rejection, you'll learn to get everything you want."</i>
+<i>"By failing to prepare, you are preparing to fail."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Benjamin Franklin </b>
 </blockquote>
 </p>
 
