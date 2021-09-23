@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is one long process of getting tired."</i>
+<i>"Let the beauty of what you love be what you do."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
