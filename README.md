@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Disobedience is the true foundation of liberty. The obedient must be slaves."</i>
+<i>"To lead the people, walk behind them."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
