@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe."</i>
+<i>"If you can handle rejection, you'll learn to get everything you want."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
