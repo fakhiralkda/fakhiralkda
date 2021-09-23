@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your past does not equal your future."</i>
+<i>"If you truly love Nature, you will find beauty everywhere. "</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
