@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean."</i>
+<i>"Experience is simply the name we give our mistakes. "</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
