@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is impossible. The word itself says 'I'm possible!'"</i>
+<i>"Words are the clothing of our thoughts."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
