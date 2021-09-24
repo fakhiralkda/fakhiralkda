@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy."</i>
+<i>"No amount of regretting can change the past, and no amount of worrying can change the future."</i>
 <br>
 <b>- Roy T. Bennett</b>
 </blockquote>
