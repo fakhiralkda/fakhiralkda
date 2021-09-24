@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is stumbling from failure to failure with no loss of enthusiasm."</i>
+<i>"Nothing is easier than fault finding."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
