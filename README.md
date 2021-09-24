@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To get angry is like to revenge yourself for the guilt of others."</i>
+<i>"I am not proud, but I am happy; and happiness blinds, I think, more than pride."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
