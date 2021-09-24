@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your face to the sunshine and you cannot see the shadows."</i>
+<i>"Nothing is impossible. The word itself says 'I'm possible!'"</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
