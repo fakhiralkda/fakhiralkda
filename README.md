@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  "</i>
+<i>"The man who does not value himself, cannot value anything or anyone."</i>
 <br>
-<b>- Seneca</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
