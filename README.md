@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like a beautiful melody, only the lyrics are messed up."</i>
+<i>"Work out your own salvation. Do not depend on others."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
