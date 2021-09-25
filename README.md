@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People tend to complicate their own lives, as if living weren't already complicated enough."</i>
+<i>"We are always complaining that our days are few, and acting as though there would be no end of them.  "</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
