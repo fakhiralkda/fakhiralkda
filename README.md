@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why live an ordinary life, when you can live an extraordinary one."</i>
+<i>"The more you are grateful for what you have the more you will have to be grateful for.  "</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
