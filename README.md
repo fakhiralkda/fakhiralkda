@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There will always be suffering. But we must not suffer over the suffering."</i>
+<i>"Words are the clothing of our thoughts."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
