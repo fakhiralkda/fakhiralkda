@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words are the clothes thoughts wear."</i>
+<i>"It is not uncommon for people to spend their whole life waiting to start living."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Eckhart Tolle </b>
 </blockquote>
 </p>
 
