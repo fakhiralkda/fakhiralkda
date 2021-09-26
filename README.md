@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Attitude is a little thing that makes a BIG difference."</i>
+<i>"Till it has loved, no man or woman can become itself."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
