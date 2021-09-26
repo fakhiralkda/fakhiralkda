@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Till it has loved, no man or woman can become itself."</i>
+<i>"If you do not push the boundaries, you will never know where they are."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
