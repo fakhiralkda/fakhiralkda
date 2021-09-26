@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I defeat my enemies when I make them my friends."</i>
+<i>"To affect the quality of the day, that is the highest of arts."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
