@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it."</i>
+<i>"Opportunity is missed by most people because it is dressed in overalls and looks like work."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
