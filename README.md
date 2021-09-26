@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you aim at nothing, you will hit it every time.  "</i>
+<i>"Time stays long enough for anyone who will use it."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
