@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to find yourself is to lose yourself in the service of others."</i>
+<i>"There is only the one reality, neither to be realized nor attained."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
