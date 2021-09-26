@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not uncommon for people to spend their whole life waiting to start living."</i>
+<i>"My mind seems to have become a kind of machine for grinding general laws out of large collections of facts."</i>
 <br>
-<b>- Eckhart Tolle </b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
