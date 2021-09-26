@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not push the boundaries, you will never know where they are."</i>
+<i>"What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Eckhart Tolle </b>
 </blockquote>
 </p>
 
