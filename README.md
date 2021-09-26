@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My mind seems to have become a kind of machine for grinding general laws out of large collections of facts."</i>
+<i>"What do we live for if not to make life less difficult for each other?"</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
