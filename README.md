@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that."</i>
+<i>"It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future."</i>
 <br>
-<b>- Eckhart Tolle </b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
