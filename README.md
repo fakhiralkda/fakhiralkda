@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The power to make and break habits and learning how to do that is really important."</i>
+<i>"Words are the clothes thoughts wear."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
