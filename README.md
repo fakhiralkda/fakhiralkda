@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True knowledge exists in knowing that you know nothing."</i>
+<i>"Any game becomes important when you know and love the players."</i>
 <br>
-<b>- Socrates</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
