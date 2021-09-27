@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunity is missed by most people because it is dressed in overalls and looks like work."</i>
+<i>"The important thing is not what one is born with but what use one makes of that equipment."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
