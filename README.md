@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be mindful. Be grateful. Be positive. Be true. Be kind."</i>
+<i>"Quality is more important than quantity. One home run is much better than two doubles."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
