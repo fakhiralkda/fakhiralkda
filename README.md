@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be mindful. Be grateful. Be positive. Be true. Be kind."</i>
+<i>"Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
