@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is not fatal, but failure to change might be."</i>
+<i>"It is in the darkness that one finds the light."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
