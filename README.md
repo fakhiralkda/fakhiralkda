@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quiet people have the loudest minds."</i>
+<i>"Happiness is the absence of the striving for happiness."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
