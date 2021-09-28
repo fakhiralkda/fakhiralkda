@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who know, do. Those that understand, teach."</i>
+<i>"You can have it all. You just can't have it all at once. "</i>
 <br>
-<b>- Aristotle</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
