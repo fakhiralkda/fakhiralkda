@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All we have to decide is what to do with the time that is given to us."</i>
+<i>"The only thing we have to fear is fear itself."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
