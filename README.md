@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood."</i>
+<i>"Alone we can do so little; together we can do so much."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
