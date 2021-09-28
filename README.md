@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever your mind can conceive and believe, it can achieve."</i>
+<i>"Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?"</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
