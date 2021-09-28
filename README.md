@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you believe in a thing, believe in it all the way, implicitly and unquestionable."</i>
+<i>"Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
