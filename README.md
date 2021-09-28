@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every drop in the ocean counts. "</i>
+<i>"Whatever your mind can conceive and believe, it can achieve."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
