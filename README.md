@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man."</i>
+<i>"Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
