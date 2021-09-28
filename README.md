@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only thing we have to fear is fear itself."</i>
+<i>"It doesn't matter where you are coming from. All that matters is where you are going. "</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
