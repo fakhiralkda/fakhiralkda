@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become."</i>
+<i>"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
