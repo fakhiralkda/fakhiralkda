@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It doesn't matter where you are coming from. All that matters is where you are going. "</i>
+<i>"We love the things we love for what they are."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
