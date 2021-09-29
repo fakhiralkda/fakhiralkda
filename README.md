@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What worries you, masters you."</i>
+<i>"The man who does not value himself, cannot value anything or anyone."</i>
 <br>
-<b>- John Locke</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
