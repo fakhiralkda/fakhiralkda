@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why fit in when you were born to stand out?"</i>
+<i>"We can see through others only when we can see through ourselves."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
