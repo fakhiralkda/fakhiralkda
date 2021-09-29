@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only people without problems are those in cemeteries."</i>
+<i>"I've always tried to go a step past wherever people expected me to end up."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
