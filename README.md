@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man who does not value himself, cannot value anything or anyone."</i>
+<i>"Why fit in when you were born to stand out?"</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
