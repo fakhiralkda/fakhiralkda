@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If the only prayer you ever say in your entire life is thank you, it will be enough."</i>
+<i>"All our dreams can come true, if we have the courage to pursue them."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
