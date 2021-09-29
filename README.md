@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All our dreams can come true, if we have the courage to pursue them."</i>
+<i>"Formal education will make you a living, self-education will make you a fortune."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
