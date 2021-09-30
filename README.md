@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Champions keep playing until they get it right."</i>
+<i>"If you tell the truth, you don't have to remember anything."</i>
 <br>
-<b>- Billie Jean King</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
