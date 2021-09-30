@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live in the sunshine, swim the sea, drink the wild air."</i>
+<i>"Don't settle, and don't struggle."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
