@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?"</i>
+<i>"Life becomes easier and more beautiful when we can see the good in other people."</i>
 <br>
-<b>- Seneca</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
