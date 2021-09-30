@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only by attracting the best people will you accomplish great deeds."</i>
+<i>"Everybody's life is either rewarding or an example."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
