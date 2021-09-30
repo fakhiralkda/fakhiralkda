@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are more people who wish to be loved than there are who are willing to love. "</i>
+<i>"Live in the sunshine, swim the sea, drink the wild air."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
