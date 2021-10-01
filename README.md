@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before."</i>
+<i>"One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
