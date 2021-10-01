@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more reasons you have for achieving your goal, the more determined you will become."</i>
+<i>"Take care of your cents: dollars will take care of themselves."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
