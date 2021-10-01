@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take care of your cents: dollars will take care of themselves."</i>
+<i>"Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
