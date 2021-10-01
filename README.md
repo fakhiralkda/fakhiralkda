@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great acts are made up of small deeds."</i>
+<i>"The man who does not value himself, cannot value anything or anyone."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
