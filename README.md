@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people do what unsuccessful people are not willing to do."</i>
+<i>"The more reasons you have for achieving your goal, the more determined you will become."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
