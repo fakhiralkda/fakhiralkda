@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man who dares to waste one hour of time has not discovered the value of life."</i>
+<i>"Consider the rights of others before your own feelings, and the feelings of others before your own rights."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
