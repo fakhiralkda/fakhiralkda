@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Motivation gets you going and habit gets you there.  "</i>
+<i>"Nothing is really work unless you would rather be doing something else. "</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
