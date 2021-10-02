@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We take care of the future best by taking care of the present now."</i>
+<i>"The dead receive more flowers than the living because regret is stronger than gratitude."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
