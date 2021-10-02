@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One day, in retrospect, the years of struggle will strike you as the most beautiful."</i>
+<i>"You can tell more about a person by what he says about others than you can by what others say about him."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
