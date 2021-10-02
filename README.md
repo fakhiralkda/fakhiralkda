@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throughout this life, you can never be certain of living long enough to take another breath."</i>
+<i>"Don't look for meaning in the words. Listen to the silences."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
