@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is what we make out of what we have, not what we are given, that separates one person from another."</i>
+<i>"Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
