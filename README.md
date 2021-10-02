@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't look for meaning in the words. Listen to the silences."</i>
+<i>"Motivation gets you going and habit gets you there.  "</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
