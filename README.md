@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't look for meaning in the words. Listen to the silences."</i>
+<i>"Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
