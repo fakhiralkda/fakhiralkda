@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man is guilty of all the good he did not do. "</i>
+<i>"Not engaging in ignorance is wisdom. "</i>
 <br>
-<b>- Voltaire</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
