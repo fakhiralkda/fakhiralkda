@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tradition is the illusion of permanence. "</i>
+<i>"Given the choice between the experience of pain and nothing, I would choose pain."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
