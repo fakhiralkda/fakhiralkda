@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Given the choice between the experience of pain and nothing, I would choose pain."</i>
+<i>"When you know what you want, and you want it bad enough, you will find a way to get it."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
