@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Awaken. Take heed, do not squander your life."</i>
+<i>"He who leaves the game wins it."</i>
 <br>
-<b>- Dogen</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
