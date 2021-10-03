@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who leaves the game wins it."</i>
+<i>"Failure is feedback. Learn from it and move on."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
