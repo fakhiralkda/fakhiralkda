@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Empty yourself of everything - let the mind become still."</i>
+<i>"Everything is possible. The impossible just takes longer."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
