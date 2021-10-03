@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood."</i>
+<i>"Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
