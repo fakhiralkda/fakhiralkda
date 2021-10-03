@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reversing your treatment of the man you have wronged is better than asking his forgiveness."</i>
+<i>"The world only exists in your eyes. You can make it as big or as small as you want."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
