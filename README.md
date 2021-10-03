@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Chop your own wood and it will warm you twice. "</i>
+<i>"Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
