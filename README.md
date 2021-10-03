@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is filled with secrets. You can't learn them all at once."</i>
+<i>"Till it has loved, no man or woman can become itself."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
