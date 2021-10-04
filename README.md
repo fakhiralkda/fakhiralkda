@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The meaning of life is just to be alive. It is so plain and so obvious and so simple."</i>
+<i>"If light is in your heart, you will find your way home.  "</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
