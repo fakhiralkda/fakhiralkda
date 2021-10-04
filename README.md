@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A fool sees himself as another, but a wise man sees others as himself."</i>
+<i>"Those who seek the easy way do not seek the true way."</i>
 <br>
 <b>- Dogen</b>
 </blockquote>
