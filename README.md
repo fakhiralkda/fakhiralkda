@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is good at any age, but the sooner you find it, the longer you will enjoy it."</i>
+<i>"When it hurts - observe. Life is trying to teach you something."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
