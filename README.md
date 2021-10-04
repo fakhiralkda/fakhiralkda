@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When it hurts - observe. Life is trying to teach you something."</i>
+<i>"A fool sees himself as another, but a wise man sees others as himself."</i>
 <br>
-<b>- Anita Krizzan</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
