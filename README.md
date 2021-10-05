@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always seek out the seed of triumph in every adversity."</i>
+<i>"If a man knows not to which port he sails, no wind is favorable.  "</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
