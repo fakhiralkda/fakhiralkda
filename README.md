@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words are the clothing of our thoughts."</i>
+<i>"If you want others to be happy, practice compassion. If you want to be happy, practice compassion."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
