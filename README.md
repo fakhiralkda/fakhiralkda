@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If a man knows not to which port he sails, no wind is favorable.  "</i>
+<i>"Do all things with love."</i>
 <br>
-<b>- Seneca</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
