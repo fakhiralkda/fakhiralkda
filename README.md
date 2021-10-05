@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ask no questions, and you'll be told no lies."</i>
+<i>"I defeat my enemies when I make them my friends."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
