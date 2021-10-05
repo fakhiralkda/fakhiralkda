@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When asked, how do you write? I invariably answer, one word at a time."</i>
+<i>"Words are the clothing of our thoughts."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
