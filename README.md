@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most of the evil in this world is done by people with good intentions."</i>
+<i>"He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
