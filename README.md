@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty."</i>
+<i>"Art is the signature of civilizations. "</i>
 <br>
-<b>- Winston Churchill </b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
