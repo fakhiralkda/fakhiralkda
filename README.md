@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A rational person can find peace by cultivating indifference to things outside of their control."</i>
+<i>"The best way to predict your future is to create it."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
