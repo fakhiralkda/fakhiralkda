@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth is rarely pure and never simple. "</i>
+<i>"The man who does not value himself, cannot value anything or anyone."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
