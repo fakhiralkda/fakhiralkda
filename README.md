@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world."</i>
+<i>"Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness."</i>
 <br>
-<b>- Gabor Mate'</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
