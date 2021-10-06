@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talent is luck. The important thing in life is courage."</i>
+<i>"Keep away from people who try to belittle your ambitions."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
