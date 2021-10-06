@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep away from people who try to belittle your ambitions."</i>
+<i>"The world only exists in your eyes. You can make it as big or as small as you want."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
