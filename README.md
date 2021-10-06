@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to fail in originality than to succeed in imitation."</i>
+<i>"One of the most difficult things is not to change society - but to change yourself."</i>
 <br>
-<b>- Herman Melville</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
