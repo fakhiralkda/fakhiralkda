@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't wait for the right opportunity: create it."</i>
+<i>"There are as many opinions as there are experts."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
