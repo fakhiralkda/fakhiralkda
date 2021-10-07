@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The primary cause of unhappiness is never the situation but your thoughts about it."</i>
+<i>"Happiness is the absence of the striving for happiness."</i>
 <br>
-<b>- Eckhart Tolle </b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
