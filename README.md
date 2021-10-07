@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time."</i>
+<i>"Be polite to all, but intimate with few."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
