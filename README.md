@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good judgment comes from experience, and experience comes from bad judgment."</i>
+<i>"If you can't, you must. If you must, you can."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
