@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be fascinated instead of frustrated."</i>
+<i>"Don't wait for the right opportunity: create it."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
