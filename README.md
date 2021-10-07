@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people ask better questions, and as a result, they get better answers."</i>
+<i>"My mind seems to have become a kind of machine for grinding general laws out of large collections of facts."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
