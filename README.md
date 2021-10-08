@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Logic is like the sword – those who appeal to it shall perish by it."</i>
+<i>"Life is filled with secrets. You can't learn them all at once."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
