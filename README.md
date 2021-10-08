@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Empty yourself of everything - let the mind become still."</i>
+<i>"Little by little, one travels far."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
