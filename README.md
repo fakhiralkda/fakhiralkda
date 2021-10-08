@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any fool can paint a picture, but it takes a wise man to be able to sell it."</i>
+<i>"Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
