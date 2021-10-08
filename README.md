@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts."</i>
+<i>"Logic is like the sword – those who appeal to it shall perish by it."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
