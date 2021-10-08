@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creative endeavors are by their nature uncertain."</i>
+<i>"Your time is limited, so don't waste it living someone elses. life."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
