@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes it is harder to deprive oneself of a pain than of a pleasure."</i>
+<i>"In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
