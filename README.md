@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom."</i>
+<i>"Everything you look at can become a fairy tale and you can get a story from everything you touch."</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
