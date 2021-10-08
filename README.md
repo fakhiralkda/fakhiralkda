@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your time is limited, so don't waste it living someone elses. life."</i>
+<i>"Any fool can paint a picture, but it takes a wise man to be able to sell it."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
