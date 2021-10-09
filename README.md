@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again."</i>
+<i>"There exists only the present instant; a Now which always and without end is itself new."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
