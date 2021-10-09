@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything you look at can become a fairy tale and you can get a story from everything you touch."</i>
+<i>"What people say, what people do, and what they say they do are entirely different things. "</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
