@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing."</i>
+<i>"When you consider things like the stars, our affairs don't seem to matter very much, do they?"</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
