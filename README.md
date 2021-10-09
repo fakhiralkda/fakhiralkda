@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each problem has a positive side."</i>
+<i>"Worry is a waste of emotional reserve."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
