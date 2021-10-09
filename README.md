@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always do what is right. It will gratify half of mankind and astound the other."</i>
+<i>"You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
