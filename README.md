@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A clear conscience is the sure sign of a bad memory."</i>
+<i>"It's not about what it is, it's about what it can become."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
