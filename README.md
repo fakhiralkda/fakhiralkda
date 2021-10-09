@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all faced with a series of great opportunities brilliantly disguised as impossible situations. "</i>
+<i>"Each problem has a positive side."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
