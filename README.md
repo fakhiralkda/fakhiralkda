@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The decisions of our past are the architects of our present."</i>
+<i>"A clear conscience is the sure sign of a bad memory."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
