@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is but a product of his thoughts. What he thinks he becomes."</i>
+<i>"Outstanding people have one thing in common: an absolute sense of mission.  "</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
