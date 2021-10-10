@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The price of inaction is far greater than the cost of making a mistake."</i>
+<i>"The power of man has grown in every sphere, except over himself."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
