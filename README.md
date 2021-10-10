@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously."</i>
+<i>"Reversing your treatment of the man you have wronged is better than asking his forgiveness."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
