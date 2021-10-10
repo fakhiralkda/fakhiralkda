@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The shoe that fits one person pinches another; there is no recipe for living that suits all cases."</i>
+<i>"We take care of the future best by taking care of the present now."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
