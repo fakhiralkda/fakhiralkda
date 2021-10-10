@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not a problem to be solved, but a reality to be experienced."</i>
+<i>"Deliberately seek the company of people who influence you to think and act on building the life you desire."</i>
 <br>
-<b>- Soren Kierkegaard</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
