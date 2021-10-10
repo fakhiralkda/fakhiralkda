@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the midst of chaos, there is also opportunity."</i>
+<i>"Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
