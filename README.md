@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My mind seems to have become a kind of machine for grinding general laws out of large collections of facts."</i>
+<i>"Life is not a problem to be solved, but a reality to be experienced."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Soren Kierkegaard</b>
 </blockquote>
 </p>
 
