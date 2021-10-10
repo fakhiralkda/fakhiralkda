@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is knowing what not to fear."</i>
+<i>"Many roads lead to the path, but basically there are only two: reason and practice. "</i>
 <br>
-<b>- Plato</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
