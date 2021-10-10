@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live in the sunshine, swim the sea, drink the wild air."</i>
+<i>"In the midst of chaos, there is also opportunity."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
