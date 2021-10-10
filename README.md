@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I learned the value of hard work by working hard. "</i>
+<i>"If you want to see things just as they are, then you yourself must practice just as you are."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
