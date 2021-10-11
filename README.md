@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success comes to those who become success conscious."</i>
+<i>"Kind words can be short and easy to speak, but their echoes are truly endless."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
