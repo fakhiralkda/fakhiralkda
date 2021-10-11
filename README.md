@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leaders think and talk about solutions. Followers think and talk about the problems."</i>
+<i>"The harder you work, the harder it is to surrender."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
