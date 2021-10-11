@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Play your part in life, but never forget that it is only a role."</i>
+<i>"One of the most difficult things is not to change society - but to change yourself."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
