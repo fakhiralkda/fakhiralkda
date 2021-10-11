@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The harder you work, the harder it is to surrender."</i>
+<i>"The clock indicates the moment...but what does eternity indicate?"</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
