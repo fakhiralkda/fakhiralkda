@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the most difficult things is not to change society - but to change yourself."</i>
+<i>"Keep your face to the sunshine and you cannot see the shadows."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
