@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way."</i>
+<i>"Play your part in life, but never forget that it is only a role."</i>
 <br>
-<b>- Osho</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
