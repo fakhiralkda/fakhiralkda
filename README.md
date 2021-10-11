@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To accomplish big things, I am convinced you must first dream big dreams."</i>
+<i>"The more tranquil a man becomes, the greater is his success, his influence, his power for good. Calmness of mind is one of the beautiful jewels of wisdom."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
