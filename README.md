@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leadership is solving problems"</i>
+<i>"Success comes to those who become success conscious."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
