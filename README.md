@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"At the center of your being you have the answer; you know who you are and you know what you want."</i>
+<i>"Keep your face always toward the sunshine -  shadows will fall behind you."</i>
 <br>
-<b>- Laozi</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
