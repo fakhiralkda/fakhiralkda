@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I would rather be a little nobody, then to be an evil somebody."</i>
+<i>"Leaders think and talk about solutions. Followers think and talk about the problems."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
