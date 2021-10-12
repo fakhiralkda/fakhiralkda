@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it."</i>
+<i>"With self-discipline, almost anything is possible."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
