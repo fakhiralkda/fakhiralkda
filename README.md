@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Help others achieve their dreams and you will achieve yours."</i>
+<i>"You can tell more about a person by what he says about others than you can by what others say about him."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
