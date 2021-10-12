@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There exists only the present instant; a Now which always and without end is itself new."</i>
+<i>"Sometimes letting things go is an act of far greater power than defending or hanging on."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Eckhart Tolle </b>
 </blockquote>
 </p>
 
