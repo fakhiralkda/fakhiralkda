@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can have it all. You just can't have it all at once. "</i>
+<i>"It ain't where you start in life, it's where you end up, and what you did along the way."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
