@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like playing the violin in public and learning the instrument as one goes on."</i>
+<i>"Victory is always possible for the person who refuses to stop fighting."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
