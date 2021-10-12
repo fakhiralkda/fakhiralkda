@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no way to happiness - happiness is the way."</i>
+<i>"Silence is a source of great strength."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
