@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the only real obstacle in your path to a fulfilling life."</i>
+<i>"Help others achieve their dreams and you will achieve yours."</i>
 <br>
 <b>- Les Brown</b>
 </blockquote>
