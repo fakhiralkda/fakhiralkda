@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can tell more about a person by what he says about others than you can by what others say about him."</i>
+<i>"The more often a stupidity is repeated, the more it gets the appearance of wisdom."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
