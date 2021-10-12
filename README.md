@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is really work unless you would rather be doing something else. "</i>
+<i>"True knowledge exists in knowing that you know nothing."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
