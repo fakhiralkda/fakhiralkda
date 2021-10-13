@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't know where you're going, you will probably end up somewhere else."</i>
+<i>"The biggest adventure is what lies ahead."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
