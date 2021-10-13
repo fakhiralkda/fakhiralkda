@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The real meditation is how you live your life."</i>
+<i>"Don't gain the world and lose your soul. Wisdom is better than silver and gold."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
