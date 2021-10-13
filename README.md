@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It takes half your life before you discover life is a do-it-yourself project."</i>
+<i>"The real meditation is how you live your life."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
