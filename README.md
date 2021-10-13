@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Among the things you can give and still keep are your word, a smile, and a grateful heart."</i>
+<i>"To be great is to be misunderstood."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
