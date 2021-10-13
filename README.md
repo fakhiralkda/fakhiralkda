@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I know of only one duty, and that is to love."</i>
+<i>"All problems are interpersonal relationship problems."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
