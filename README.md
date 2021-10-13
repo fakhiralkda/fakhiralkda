@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pursue what catches your heart, not what catches your eyes."</i>
+<i>"Deeds will not be less valiant because they are upraised."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
