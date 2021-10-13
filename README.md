@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Projecting your mind into a successful situation is the most powerful means to achieve goals.  "</i>
+<i>"If you try to micromanage yourself all you're going to do is make yourself miserable."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
