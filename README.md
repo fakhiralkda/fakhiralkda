@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you try to micromanage yourself all you're going to do is make yourself miserable."</i>
+<i>"Time is more valuable than money. You can get more money, but you cannot get more time."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
