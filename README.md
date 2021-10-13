@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form."</i>
+<i>"There are more people who wish to be loved than there are who are willing to love. "</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
