@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't give up on your dreams, or your dreams will give up on you."</i>
+<i>"To some degree, you control your life by controlling your time."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
