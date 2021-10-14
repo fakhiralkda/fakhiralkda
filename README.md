@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't give up on your dreams, or your dreams will give up on you."</i>
+<i>"It is best to begin at the beginning."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
