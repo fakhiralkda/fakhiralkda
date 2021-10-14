@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without the confidence, nothing can be accomplished."</i>
+<i>"Failure is not fatal, but failure to change might be."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
