@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Looking after my health today gives me a better hope for tomorrow. "</i>
+<i>"Never argue with stupid people, they will drag you down to their level and then beat you with experience."</i>
 <br>
-<b>- Anne Wilson Schaef</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
