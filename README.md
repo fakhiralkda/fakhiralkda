@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man who dares to waste one hour of time has not discovered the value of life."</i>
+<i>"We will now discuss in a little more detail the Struggle for Existence."</i>
 <br>
 <b>- Charles Darwin</b>
 </blockquote>
