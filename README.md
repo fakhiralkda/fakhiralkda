@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learning never exhausts the mind. "</i>
+<i>"You are today where your thoughts have brought you."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
