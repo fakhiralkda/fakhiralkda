@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is best to begin at the beginning."</i>
+<i>"Be a master of change rather than a victim of change."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
