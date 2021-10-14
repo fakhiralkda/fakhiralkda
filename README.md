@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We will now discuss in a little more detail the Struggle for Existence."</i>
+<i>"The only thing worse than being blind is having sight but no vision."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
