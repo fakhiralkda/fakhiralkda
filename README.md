@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't gain the world and lose your soul. Wisdom is better than silver and gold."</i>
+<i>"We can change our lives. We can do, have, and be exactly what we wish."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
