@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be a master of change rather than a victim of change."</i>
+<i>"The ladder of success is best climbed by stepping on the rungs of opportunity."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
