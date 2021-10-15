@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without the confidence, nothing can be accomplished."</i>
+<i>"Each time we don't say what we wanna say, we're dying."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
