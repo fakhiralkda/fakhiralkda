@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed."</i>
+<i>"Chop your own wood and it will warm you twice. "</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
