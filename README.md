@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A goal is a dream with a deadline."</i>
+<i>"Confidence is contagious. So is lack of confidence."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
