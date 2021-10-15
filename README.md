@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each time we don't say what we wanna say, we're dying."</i>
+<i>"Perfection is not attainable, but if we chase perfection we can catch excellence."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
