@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not use life to give life to death. Do not use death to bring death to life."</i>
+<i>"Never stand begging for that which you have the power to earn."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
