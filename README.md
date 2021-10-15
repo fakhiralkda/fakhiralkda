@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No grand idea was ever born in a conference, but a lot of foolish ideas have died there."</i>
+<i>"The secret of happiness is not in doing what you like but in liking what you have to do."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
