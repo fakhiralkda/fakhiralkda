@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. "</i>
+<i>"If you don't know, the thing to do is not to get scared, but to learn."</i>
 <br>
-<b>- Jack London</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
