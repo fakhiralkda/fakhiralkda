@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot."</i>
+<i>"Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. "</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
