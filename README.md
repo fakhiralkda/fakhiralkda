@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't know, the thing to do is not to get scared, but to learn."</i>
+<i>"Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- John D. Rockefeller</b>
 </blockquote>
 </p>
 
