@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest deception men suffer is from their own opinions."</i>
+<i>"Do not use life to give life to death. Do not use death to bring death to life."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
