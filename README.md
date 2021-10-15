@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. "</i>
+<i>"No grand idea was ever born in a conference, but a lot of foolish ideas have died there."</i>
 <br>
-<b>- Eckhart Tolle </b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
