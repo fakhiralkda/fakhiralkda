@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  "</i>
+<i>"Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. "</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Eckhart Tolle </b>
 </blockquote>
 </p>
 
