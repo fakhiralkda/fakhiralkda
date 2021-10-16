@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Expect the best of yourself, and then do what is necessary to make it a reality."</i>
+<i>"If I can stop one heart from breaking, I shall not live in vain."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
