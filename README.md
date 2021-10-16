@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best thing to hold onto in life is each other."</i>
+<i>"Good things aren't supposed to just fall into your lap."</i>
 <br>
 <b>- Audrey Hepburn</b>
 </blockquote>
