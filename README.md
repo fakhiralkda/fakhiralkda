@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whenever you find yourself on the side of the majority, it is time to reform."</i>
+<i>"There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
