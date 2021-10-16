@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I was wise enough to never grow up while fooling most people into believing I had. "</i>
+<i>"You have a brain and mind of your own. Use it, and reach your own decisions."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
