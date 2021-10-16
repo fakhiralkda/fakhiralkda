@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want."</i>
+<i>"A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
