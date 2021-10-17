@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conquer the devils with a little thing called love."</i>
+<i>"Being entirely honest with oneself is a good exercise."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
