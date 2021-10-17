@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being entirely honest with oneself is a good exercise."</i>
+<i>"Treat everyone with politeness and kindness, not because they are nice, but because you are."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
