@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone. "</i>
+<i>"A hut full of laughter is richer than a palace full of sadness."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
