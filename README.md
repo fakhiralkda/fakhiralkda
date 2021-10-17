@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change yourself - you are in control."</i>
+<i>"The only difference between success and failure is the ability to take action."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
