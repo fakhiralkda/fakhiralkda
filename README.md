@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Shoot for the moon, because even if you miss, you'll land among the stars."</i>
+<i>"The power of human thought grows exponentially with the number of minds that share that thought."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
