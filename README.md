@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Begin now to be what you will be hereafter."</i>
+<i>"Lost Time is never found again."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Benjamin Franklin </b>
 </blockquote>
 </p>
 
