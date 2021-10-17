@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is and will ever remain an equation incapable of solution, but it contains certain known factors. "</i>
+<i>"It is often safer to be in chains than to be free. "</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
