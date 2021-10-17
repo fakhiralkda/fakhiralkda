@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lost Time is never found again."</i>
+<i>"Success is stumbling from failure to failure with no loss of enthusiasm."</i>
 <br>
-<b>- Benjamin Franklin </b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
