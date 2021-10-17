@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people feel the rain. Others just get wet. "</i>
+<i>"Success is getting what you want, happiness is wanting what you get."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
