@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A hut full of laughter is richer than a palace full of sadness."</i>
+<i>"Shoot for the moon, because even if you miss, you'll land among the stars."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
