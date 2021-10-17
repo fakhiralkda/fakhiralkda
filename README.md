@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day is an opportunity to a make a new happy ending."</i>
+<i>"Excellence is not an exception, it is a prevailing attitude."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
