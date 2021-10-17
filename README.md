@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Attitude, not aptitude, determines altitude.  "</i>
+<i>"Simplicity is the glory of expression."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
