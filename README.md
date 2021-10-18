@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you believe with feeling becomes your reality. "</i>
+<i>"What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!"</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
