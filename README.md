@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winning isn't everything, but wanting to win is."</i>
+<i>"For changes to be of any true value, they've got to be lasting and consistent."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
