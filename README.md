@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head."</i>
+<i>"If you think you can do a thing or think you can't do a thing, you're right."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
