@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't gain the world and lose your soul. Wisdom is better than silver and gold."</i>
+<i>"An un-examined life is not worth living."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
