@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have a vision. Be demanding."</i>
+<i>"Difficulties strengthen the mind, as labor does the body.  "</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
