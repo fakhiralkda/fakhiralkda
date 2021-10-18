@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Obstacles are those frightful things you see when you take your eyes off your goal."</i>
+<i>"Failure is a prerequisite for great success. If you want success faster, double your rate of failure."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
