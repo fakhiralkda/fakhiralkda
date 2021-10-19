@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Associate with people who are likely to improve you.  "</i>
+<i>"We turn not older with years but newer every day."</i>
 <br>
-<b>- Seneca</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
