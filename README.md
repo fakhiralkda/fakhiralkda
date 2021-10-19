@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard."</i>
+<i>"Change yourself and you have done your part in changing the world."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
