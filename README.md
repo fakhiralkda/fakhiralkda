@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be polite to all, but intimate with few."</i>
+<i>"Keep your face to the sunshine and you cannot see the shadows."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
