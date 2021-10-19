@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop wasting time defending your problems and work on addressing them instead."</i>
+<i>"Hardly anybody recognizes the most significant moments of their life at the time they happen."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
