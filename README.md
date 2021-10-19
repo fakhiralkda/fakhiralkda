@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the sky. Everything else – it's just the weather."</i>
+<i>"Life and death are of supreme importance. Time swiftly passes by and opportunity is lost."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
