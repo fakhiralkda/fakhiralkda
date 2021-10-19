@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change yourself and you have done your part in changing the world."</i>
+<i>"Men trust their ears less than their eyes."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
