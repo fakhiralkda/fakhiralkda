@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is 10% what happens to you and 90% how you react to it. "</i>
+<i>"We must cultivate our garden. "</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
