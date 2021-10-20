@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you have to shut your eyes, so you can see the real beauty."</i>
+<i>"The outer conditions of a person's life will always be found to reflect their inner beliefs."</i>
 <br>
-<b>- Kilian Jornet</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
