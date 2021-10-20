@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hardly anybody recognizes the most significant moments of their life at the time they happen."</i>
+<i>"Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday."</i>
 <br>
-<b>- W.P. Kinsella</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
