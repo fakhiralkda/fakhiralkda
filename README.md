@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you truly expect something to be difficult, it will be."</i>
+<i>"Quiet people have the loudest minds."</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
