@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is up to each of us to sing as we feel moved by the overall song of life."</i>
+<i>"Sometimes you have to shut your eyes, so you can see the real beauty."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Kilian Jornet</b>
 </blockquote>
 </p>
 
