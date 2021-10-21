@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True knowledge exists in knowing that you know nothing."</i>
+<i>"Where there is anger, there is always pain underneath."</i>
 <br>
-<b>- Socrates</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
