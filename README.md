@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let us rather run the risk of wearing out than rusting out."</i>
+<i>"If you want more luck, take more chances."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
