@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're really truthful with yourself, it's a wonderful guidance.  "</i>
+<i>"Wheels of justice grind slow but grind fine."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
