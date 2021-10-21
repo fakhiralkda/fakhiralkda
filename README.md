@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm not afraid of death, but I'm in no hurry to die."</i>
+<i>"If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Nikola Tesla</b>
 </blockquote>
 </p>
 
