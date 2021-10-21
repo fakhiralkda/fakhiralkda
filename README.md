@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's better to dance than to march through life."</i>
+<i>"Keep your face to the sunshine and you cannot see the shadows."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
