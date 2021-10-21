@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to find yourself is to lose yourself in the service of others."</i>
+<i>"Time is more valuable than money. You can get more money, but you cannot get more time."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
