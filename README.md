@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why live an ordinary life, when you can live an extraordinary one."</i>
+<i>"The best way to find yourself is to lose yourself in the service of others."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
