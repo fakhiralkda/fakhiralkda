@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is either a daring adventure, or it is nothing."</i>
+<i>"You miss 100% of the shots you don't take."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
