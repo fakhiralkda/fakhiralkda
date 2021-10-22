@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only in the agony of parting do we look into the depths of love."</i>
+<i>"The primary point of this existence is to live, and all living things move and grow."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
