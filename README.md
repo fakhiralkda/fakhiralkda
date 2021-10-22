@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear is stupid. So are regrets."</i>
+<i>"You are the only problem you will ever have and you are the only solution."</i>
 <br>
-<b>- Marilyn Monroe</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
