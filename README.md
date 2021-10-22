@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it."</i>
+<i>"As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
