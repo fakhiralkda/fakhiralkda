@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever."</i>
+<i>"Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
