@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. "</i>
+<i>"It takes half your life before you discover life is a do-it-yourself project."</i>
 <br>
-<b>- George Washington</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
