@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is such a rare thing, it is delighted to tell it."</i>
+<i>"Only in the agony of parting do we look into the depths of love."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
