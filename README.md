@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you reach the top of the mountain, keep climbing. "</i>
+<i>"The best time to plant a tree was 20 years ago. The second best time is now."</i>
 <br>
 <b>- Zen Proverb</b>
 </blockquote>
