@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important things are the hardest to say."</i>
+<i>"The soul should always stand ajar, ready to welcome the ecstatic experience."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
