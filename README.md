@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Poverty and hardship are created by false thinking."</i>
+<i>"You must welcome change as the rule but not as your ruler. "</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
