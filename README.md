@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Distant water does not put out a nearby fire."</i>
+<i>"Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
