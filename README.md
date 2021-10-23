@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must welcome change as the rule but not as your ruler. "</i>
+<i>"Great minds are always feared by lesser minds."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
