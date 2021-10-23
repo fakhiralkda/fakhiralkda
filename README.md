@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest step towards a life of simplicity is to learn to let go."</i>
+<i>"Hope and fear come from feeling that we lack something; they come from a sense of poverty."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
