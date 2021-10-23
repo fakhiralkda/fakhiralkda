@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We take care of the future best by taking care of the present now."</i>
+<i>"We have to walk in a way that we only print peace and serenity on the Earth. Walk as if you are kissing the Earth with your feet."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
