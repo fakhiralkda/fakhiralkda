@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The soul should always stand ajar, ready to welcome the ecstatic experience."</i>
+<i>"What is planted in each person's soul will sprout.  "</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
