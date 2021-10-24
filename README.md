@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There will always be suffering. But we must not suffer over the suffering."</i>
+<i>"Judge your success by what you had to give up in order to get it."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
