@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Experience is a comb which nature gives us when we are bald. "</i>
+<i>"You can't wait for inspiration. You have to go after it with a club. "</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
