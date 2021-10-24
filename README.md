@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our greatest glory is not in never falling, but in rising every time we fall. "</i>
+<i>"If a man knows not to which port he sails, no wind is favorable.  "</i>
 <br>
-<b>- Confucius</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
