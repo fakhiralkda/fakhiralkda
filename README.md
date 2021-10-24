@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Superstars think like superstars long before the fans or the press anoint them."</i>
+<i>"As you think, you travel, and as you love, you attract."</i>
 <br>
-<b>- John Eliot</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
