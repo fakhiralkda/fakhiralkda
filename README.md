@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Judge your success by what you had to give up in order to get it."</i>
+<i>"Superstars think like superstars long before the fans or the press anoint them."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
