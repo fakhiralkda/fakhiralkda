@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As you think, you travel, and as you love, you attract."</i>
+<i>"Everybody's life is either rewarding or an example."</i>
 <br>
-<b>- James Allen</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
