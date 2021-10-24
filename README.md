@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everybody's life is either rewarding or an example."</i>
+<i>"People seldom do what they believe in. They do what is convenient, then repent."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
