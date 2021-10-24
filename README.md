@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best fighter is never angry."</i>
+<i>"A man with outward courage dares to die: a man with inner courage dares to live."</i>
 <br>
 <b>- Lao Tzu</b>
 </blockquote>
