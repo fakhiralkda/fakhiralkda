@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The harder you work, the harder it is to surrender."</i>
+<i>"A man who cannot tolerate small misfortunes can never accomplish great things."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
