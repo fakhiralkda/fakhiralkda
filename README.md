@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Weeds are flowers too, once you get to know them."</i>
+<i>"True wealth is of the heart, not of the purse."</i>
 <br>
-<b>- A.A. Milne</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
