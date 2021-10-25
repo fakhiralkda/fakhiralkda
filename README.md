@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True wealth is of the heart, not of the purse."</i>
+<i>"Whether you have a problem in your life or not depends upon your own attitude, your own understanding."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
