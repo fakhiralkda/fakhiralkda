@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Treat every moment as your last. It is not preparation for something else."</i>
+<i>"It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
