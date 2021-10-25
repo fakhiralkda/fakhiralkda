@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have as much laughter as you have faith."</i>
+<i>"A good teacher opens the door for you, but you must enter the room by yourself."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
