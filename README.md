@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As soon as you truly commit to making something happen, the ‘how' will reveal itself."</i>
+<i>"Treat every moment as your last. It is not preparation for something else."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
