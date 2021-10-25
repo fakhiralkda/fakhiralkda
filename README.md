@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you're curious, you find lots of interesting things to do."</i>
+<i>"As soon as you truly commit to making something happen, the ‘how' will reveal itself."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
