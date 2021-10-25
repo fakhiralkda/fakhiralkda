@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man who cannot tolerate small misfortunes can never accomplish great things."</i>
+<i>"Others can stop you temporarily – you are the only one who can do it permanently."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
