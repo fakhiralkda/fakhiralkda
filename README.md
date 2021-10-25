@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one ever is defeated until defeat has been accepted as a reality."</i>
+<i>"Where there is anger, there is always pain underneath."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
