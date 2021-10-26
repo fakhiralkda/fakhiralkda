@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Once you learn to quit, it becomes a habit."</i>
+<i>"The future belongs to those who learn more skills and combine them in creative ways."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
