@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with."</i>
+<i>"For all evils there are two remedies - time and silence."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
