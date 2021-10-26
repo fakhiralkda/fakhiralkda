@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Logic is like the sword – those who appeal to it shall perish by it."</i>
+<i>"The best way to find yourself is to lose yourself in the service of others."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
