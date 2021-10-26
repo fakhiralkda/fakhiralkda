@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop."</i>
+<i>"Keep away from people who try to belittle your ambitions."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
