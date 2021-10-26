@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found."</i>
+<i>"Time is more valuable than money. You can get more money, but you cannot get more time."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
