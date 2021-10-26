@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform."</i>
+<i>"The chief danger in life is that you may take too many precautions."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
