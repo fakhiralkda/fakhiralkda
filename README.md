@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're always free to change your mind and choose a different future, or a different past."</i>
+<i>"Logic is like the sword – those who appeal to it shall perish by it."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
