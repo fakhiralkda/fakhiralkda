@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He is richest who is content with the least, for content is the wealth of nature."</i>
+<i>"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."</i>
 <br>
-<b>- Socrates</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
