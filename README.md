@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If it's not broken, tinker with it till you find out how it works."</i>
+<i>"Don’t be pushed by your problems; be led by your dreams."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
