@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do Something. If it works, do more of it. If it doesn't, do something else."</i>
+<i>"It is useless to attempt to reason a man out of a thing he was never reasoned into."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
