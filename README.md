@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."</i>
+<i>"Sometimes you have to shut your eyes, so you can see the real beauty."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Kilian Jornet</b>
 </blockquote>
 </p>
 
