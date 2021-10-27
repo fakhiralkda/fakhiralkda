@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more perfect a person is on the outside, the more demons they have on the inside."</i>
+<i>"If it's not broken, tinker with it till you find out how it works."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
