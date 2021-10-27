@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Instead of worrying about what you cannot control, shift your energy to what you can create."</i>
+<i>"We must not sit down and wait for miracles. Up and be going!"</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
