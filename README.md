@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don’t be pushed by your problems; be led by your dreams."</i>
+<i>"He is richest who is content with the least, for content is the wealth of nature."</i>
 <br>
-<b>- Unknown</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
