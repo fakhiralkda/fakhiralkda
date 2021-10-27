@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Teachers open the door. You enter by yourself. "</i>
+<i>"Make your stand today. On this spot. On this day."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
