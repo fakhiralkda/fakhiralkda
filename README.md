@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who permits himself to tell a lie once, finds it much easier to do it the second time."</i>
+<i>"Never do things others can do and will do if there are things others cannot do or will not do."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
