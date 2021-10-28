@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The whole of life, from the moment you are born to the moment you die, is a process of learning."</i>
+<i>"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
