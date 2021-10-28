@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."</i>
+<i>"Where there's life, there's hope."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
