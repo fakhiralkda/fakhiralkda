@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time."</i>
+<i>"Do something to move yourself toward your major goal every day."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
