@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The human mind defines things in relation to one another – without light the notion of darkness would be unintelligible."</i>
+<i>"Talk does not cook rice."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
