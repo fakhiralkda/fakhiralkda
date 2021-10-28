@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do something to move yourself toward your major goal every day."</i>
+<i>"Awaken. Take heed, do not squander your life."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
