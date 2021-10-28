@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talk does not cook rice."</i>
+<i>"Nothing we see or hear is perfect. But right there in the imperfection is perfect reality."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
