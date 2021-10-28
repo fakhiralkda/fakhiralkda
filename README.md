@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The highest level of wisdom is when you not only accept but love adversity."</i>
+<i>"The human mind defines things in relation to one another – without light the notion of darkness would be unintelligible."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
