@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the beginner's mind there are many possibilities, but in the expert's mind there are few."</i>
+<i>"The world only exists in your eyes. You can make it as big or as small as you want."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
