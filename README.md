@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't know where you're going, you will probably end up somewhere else."</i>
+<i>"Faults are yours to fix, not to curse."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
