@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Definiteness of purpose is the starting point of all achievement. "</i>
+<i>"Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
