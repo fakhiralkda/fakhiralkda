@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't think money does everything or you are going to end up doing everything for money."</i>
+<i>"If it entertains you now but will bore you someday, it's a distraction. Keep looking."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
