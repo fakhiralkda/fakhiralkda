@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If it entertains you now but will bore you someday, it's a distraction. Keep looking."</i>
+<i>"Projecting your mind into a successful situation is the most powerful means to achieve goals.  "</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
