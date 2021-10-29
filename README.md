@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To live is to be willing to die over and over again."</i>
+<i>"To wish you were someone else is to waste the person you are."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
