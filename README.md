@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."</i>
+<i>"All that a man achieves and all that he fails to achieve is the direct result of his own thoughts."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
