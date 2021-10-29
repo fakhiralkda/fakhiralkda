@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even though you are on the right track - you will get run over if you just sit there."</i>
+<i>"Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
