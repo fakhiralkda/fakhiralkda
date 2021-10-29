@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are free, and that is why you are lost."</i>
+<i>"Be true to yourself, help others, make each day your masterpiece"</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
