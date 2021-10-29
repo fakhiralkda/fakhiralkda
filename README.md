@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today you are you, that is truer than true. There is no one alive who is you-er than you."</i>
+<i>"The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
