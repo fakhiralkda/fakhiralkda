@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere."</i>
+<i>"Everyone you meet is fighting a battle you know nothing about. Be kind. Always."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
