@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it."</i>
+<i>"To a mind that is still, the entire universe surrenders."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
