@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never do things others can do and will do if there are things others cannot do or will not do."</i>
+<i>"Night is a more quiet time to work. It aids thought."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
