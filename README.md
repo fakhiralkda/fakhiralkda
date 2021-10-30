@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am not proud, but I am happy; and happiness blinds, I think, more than pride."</i>
+<i>"What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!"</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
