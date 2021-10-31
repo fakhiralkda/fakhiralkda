@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know your gifts and share them."</i>
+<i>"Life is either a daring adventure, or it is nothing."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
