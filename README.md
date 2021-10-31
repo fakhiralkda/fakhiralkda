@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is either a daring adventure, or it is nothing."</i>
+<i>"All men who have achieved great things have been great dreamers. "</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
