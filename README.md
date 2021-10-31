@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man who moved the mountain was the one who began carrying away the smallest stones."</i>
+<i>"Know your gifts and share them."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
