@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To a mind that is still, the entire universe surrenders."</i>
+<i>"The wisdom of life consists in the elimination of the nonessentials."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
