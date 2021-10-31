@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. "</i>
+<i>"Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  "</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
