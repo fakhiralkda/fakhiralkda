@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're really truthful with yourself, it's a wonderful guidance.  "</i>
+<i>"Ask no questions, and you'll be told no lies."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
