@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man desires to live long, but no man wishes to be old."</i>
+<i>"What do we live for if not to make life less difficult for each other?"</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
