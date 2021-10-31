@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty."</i>
+<i>"The most wasted day of all is that on which we have not laughed."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
