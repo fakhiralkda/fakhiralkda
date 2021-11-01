@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Honesty is the first chapter in the book of wisdom."</i>
+<i>"When the world pushes you to your knees, you're in the perfect position to pray."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
