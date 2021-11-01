@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't like something, change it. If you can't change it, change your attitude."</i>
+<i>"If you want to make God laugh, tell him about your plans. "</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
