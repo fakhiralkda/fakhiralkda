@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Show me a hero, and I'll write you a tragedy."</i>
+<i>"Take into account that great love and great achievements involve great risk."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
