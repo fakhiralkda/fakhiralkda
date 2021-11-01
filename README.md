@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is during our darkest moments that we must focus to see the light."</i>
+<i>"Success is not final, failure is not fatal: it is the courage to continue that counts."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
