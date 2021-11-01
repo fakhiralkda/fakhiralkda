@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember, today is the tomorrow you worried about yesterday."</i>
+<i>"Show me a hero, and I'll write you a tragedy."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
