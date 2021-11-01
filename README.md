@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rivers know this: there is no hurry. We shall get there some day."</i>
+<i>"20 percent of your activities will account for 80 percent of your results."</i>
 <br>
-<b>- A.A. Milne</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
