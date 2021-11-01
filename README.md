@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the first signs of the beginning of understanding is the wish to die. "</i>
+<i>"Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
