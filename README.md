@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the world pushes you to your knees, you're in the perfect position to pray."</i>
+<i>"Blessed is he who expects nothing, for he shall be disappointed."</i>
 <br>
-<b>- Rumi</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
