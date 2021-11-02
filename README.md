@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have?"</i>
+<i>"Everything is possible. The impossible just takes longer."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
