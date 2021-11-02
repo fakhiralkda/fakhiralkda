@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When asked, how do you write? I invariably answer, one word at a time."</i>
+<i>"The whole world is a series of miracles, but we're so used to them we call them ordinary things."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
