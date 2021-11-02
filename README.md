@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it."</i>
+<i>"Attitude, not aptitude, determines altitude.  "</i>
 <br>
-<b>- George Eliot</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
