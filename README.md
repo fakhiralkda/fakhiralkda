@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?"</i>
+<i>"Never settle for the crumbs of life."</i>
 <br>
-<b>- Seneca</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
