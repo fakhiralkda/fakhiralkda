@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed is he who expects nothing, for he shall be disappointed."</i>
+<i>"Think and wonder, wonder and think."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
