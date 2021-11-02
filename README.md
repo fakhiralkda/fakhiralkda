@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who knows, does not speak. He who speaks, does not know."</i>
+<i>"When asked, how do you write? I invariably answer, one word at a time."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
