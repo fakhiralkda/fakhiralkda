@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one ever is defeated until defeat has been accepted as a reality."</i>
+<i>"The only limits in our life are those we impose on ourselves."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
