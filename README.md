@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Attitude, not aptitude, determines altitude.  "</i>
+<i>"He who knows, does not speak. He who speaks, does not know."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
