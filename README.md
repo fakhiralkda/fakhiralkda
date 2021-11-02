@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace begins with a smile."</i>
+<i>"Little by little, one travels far."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
