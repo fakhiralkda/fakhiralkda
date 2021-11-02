@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The whole world is a series of miracles, but we're so used to them we call them ordinary things."</i>
+<i>"Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?"</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
