@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit."</i>
+<i>"Dream big and dare to fail."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Norman Vaughan</b>
 </blockquote>
 </p>
 
