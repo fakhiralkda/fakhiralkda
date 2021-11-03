@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is knowing what not to fear."</i>
+<i>"No problem can be solved from the same level of consciousness that created it."</i>
 <br>
-<b>- Plato</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
