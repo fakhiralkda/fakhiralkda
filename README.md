@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He will win who knows when to fight and when not to fight."</i>
+<i>"Formal education will make you a living, self-education will make you a fortune."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
