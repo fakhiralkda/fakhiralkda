@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're never given a dream without also being given the power to make it true."</i>
+<i>"Why fit in when you were born to stand out?"</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
