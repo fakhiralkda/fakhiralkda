@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dream big and dare to fail."</i>
+<i>"Courage is knowing what not to fear."</i>
 <br>
-<b>- Norman Vaughan</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
