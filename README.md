@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talent is luck. The important thing in life is courage."</i>
+<i>"Get busy living, or get busy dying."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
