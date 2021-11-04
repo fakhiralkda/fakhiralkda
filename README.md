@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are always complaining that our days are few, and acting as though there would be no end of them.  "</i>
+<i>"The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers."</i>
 <br>
-<b>- Seneca</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
