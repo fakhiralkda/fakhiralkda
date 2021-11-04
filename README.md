@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Death walks faster than the wind and never returns what he has taken."</i>
+<i>"Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. "</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
