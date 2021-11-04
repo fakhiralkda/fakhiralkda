@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. "</i>
+<i>"We suffer more often in imagination than in reality.  "</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
