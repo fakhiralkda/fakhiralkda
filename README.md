@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why fit in when you were born to stand out?"</i>
+<i>"Do not regret the past. Look to the future."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Soyen Shaku</b>
 </blockquote>
 </p>
 
