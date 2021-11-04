@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A gentleman accepts the responsibility of his actions and bears the burden of their consequences."</i>
+<i>"If we will be quiet and ready enough, we shall find compensation in every disappointment."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
