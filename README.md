@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed."</i>
+<i>"The most difficult times for many of us are the ones we give ourselves."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
