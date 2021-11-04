@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Get busy living, or get busy dying."</i>
+<i>"Live life as though nobody is watching, and express yourself as though everyone is listening."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
