@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with."</i>
+<i>"Life can be wonderful if you're not afraid of it."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
