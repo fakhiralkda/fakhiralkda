@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The people who succeed are irrationally passionate about something."</i>
+<i>"We are always complaining that our days are few, and acting as though there would be no end of them.  "</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
