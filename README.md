@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Simplicity is the glory of expression."</i>
+<i>"The less you try to impress, the more peaceful you can be."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
