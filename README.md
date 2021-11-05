@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To find yourself, think for yourself."</i>
+<i>"Blessed is he who expects nothing, for he shall never be disappointed."</i>
 <br>
-<b>- Socrates</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
