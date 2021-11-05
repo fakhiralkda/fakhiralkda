@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust your instincts: my first reaction is almost invariably the right one.  "</i>
+<i>"Associate with people who are likely to improve you.  "</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
