@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Associate with people who are likely to improve you.  "</i>
+<i>"Everyone is a moon, and has a dark side which he never shows to anybody."</i>
 <br>
-<b>- Seneca</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
