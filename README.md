@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge is a treasure, but practice is the key to it."</i>
+<i>"The past has no power over the present moment. "</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
