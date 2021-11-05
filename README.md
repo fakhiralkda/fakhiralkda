@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Paths are made by walking."</i>
+<i>"It's not how much we give but how much love we put into giving."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
