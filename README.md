@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. "</i>
+<i>"You'll never find rainbows if you're looking down.  "</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
