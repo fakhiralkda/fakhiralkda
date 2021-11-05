@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where does a thought go when it's forgotten?"</i>
+<i>"Throw me to the wolves and I will return leading the pack.  "</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
