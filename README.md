@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life reflects your own thoughts back to you."</i>
+<i>"Things turn out best for the people who make the best of the way things turn out."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
