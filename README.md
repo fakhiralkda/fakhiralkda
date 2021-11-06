@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't give up the fight, Stand up for your rights."</i>
+<i>"Better a diamond with a flaw than a pebble without one."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
