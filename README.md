@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is."</i>
+<i>"Remember that the best relationship is one in which your love for each other exceeds your need for each other."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
