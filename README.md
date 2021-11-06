@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who is not contented with what he has, would not be contented with what he would like to have."</i>
+<i>"The businessman's tool is value."</i>
 <br>
-<b>- Socrates</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
