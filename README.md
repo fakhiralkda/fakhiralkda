@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Turn your face to the sun, as flowers know how to do."</i>
+<i>"A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
