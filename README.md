@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Either get busy living or get busy dying."</i>
+<i>"If you tell the truth, you don't have to remember anything."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
