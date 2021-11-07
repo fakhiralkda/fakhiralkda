@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday."</i>
+<i>"The act of taking the first step is what separates the winners from the losers."</i>
 <br>
 <b>- Brian Tracy</b>
 </blockquote>
