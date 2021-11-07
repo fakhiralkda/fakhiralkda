@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man who asks a question is a fool for a minute, the man who does not ask is a fool for life."</i>
+<i>"Those who can make you believe absurdities can make you commit atrocities. "</i>
 <br>
-<b>- Confucius</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
