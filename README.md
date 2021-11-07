@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like a beautiful melody, only the lyrics are messed up."</i>
+<i>"Be royal in your own fashion: act like a king to be treated like one."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
