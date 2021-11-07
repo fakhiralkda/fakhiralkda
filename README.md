@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is much more successfully looked at from a single window."</i>
+<i>"The only person you should try to be better than is the person you were yesterday."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
