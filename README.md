@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life would be tragic if it weren't funny."</i>
+<i>"All our knowledge has its origins in our perceptions."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
