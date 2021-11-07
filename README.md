@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Speak when you are angry - and you'll make the best speech you'll ever regret."</i>
+<i>"Either get busy living or get busy dying."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
