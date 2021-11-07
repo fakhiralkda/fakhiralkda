@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality."</i>
+<i>"Some people are old at 18 and some are young at 90. Time is a concept that humans created."</i>
 <br>
-<b>- James Cameron</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
