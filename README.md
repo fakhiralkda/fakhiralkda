@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you tell the truth, you don't have to remember anything."</i>
+<i>"Life would be tragic if it weren't funny."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
