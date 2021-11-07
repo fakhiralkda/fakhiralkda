@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The act of taking the first step is what separates the winners from the losers."</i>
+<i>"Life is much more successfully looked at from a single window."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
