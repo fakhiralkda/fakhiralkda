@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you."</i>
+<i>"The man who asks a question is a fool for a minute, the man who does not ask is a fool for life."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
