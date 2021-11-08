@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Awaken. Take heed, do not squander your life."</i>
+<i>"The single biggest problem in communication is the illusion that it has taken place."</i>
 <br>
-<b>- Dogen</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
