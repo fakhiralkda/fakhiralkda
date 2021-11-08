@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be royal in your own fashion: act like a king to be treated like one."</i>
+<i>"You have a brain and mind of your own. Use it, and reach your own decisions."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
