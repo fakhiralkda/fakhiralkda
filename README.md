@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lack of emotion causes lack of progress and lack of motivation."</i>
+<i>"It's your road, and yours alone, others may walk it with you, but no one can walk it for you."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
