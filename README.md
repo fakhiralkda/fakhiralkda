@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Behind every beautiful thing, there's some kind of pain."</i>
+<i>"If you want to keep your memories, you first have to live them."</i>
 <br>
 <b>- Bob Dylan</b>
 </blockquote>
