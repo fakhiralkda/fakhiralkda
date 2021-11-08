@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The goal of an artist is to create the definitive work that cannot be surpassed."</i>
+<i>"The secret of getting ahead is getting started."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
