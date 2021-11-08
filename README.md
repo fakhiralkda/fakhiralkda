@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end."</i>
+<i>"We forge the chains we wear in life."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
