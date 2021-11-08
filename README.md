@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people are old at 18 and some are young at 90. Time is a concept that humans created."</i>
+<i>"Lack of emotion causes lack of progress and lack of motivation."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
