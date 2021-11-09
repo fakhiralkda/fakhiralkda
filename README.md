@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like a wheel. Sooner or later, it always comes around to where you started again."</i>
+<i>"We are what we repeatedly do. Excellence, then, is not an act, but a habit."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
