@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He suffers more than necessary, who suffers before it is necessary.  "</i>
+<i>"Life is like a wheel. Sooner or later, it always comes around to where you started again."</i>
 <br>
-<b>- Seneca</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
