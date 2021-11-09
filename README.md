@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm not afraid of death, but I'm in no hurry to die."</i>
+<i>"Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
