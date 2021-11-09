@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found."</i>
+<i>"You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?"</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
