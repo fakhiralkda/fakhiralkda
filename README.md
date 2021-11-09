@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are what we repeatedly do. Excellence, then, is not an act, but a habit."</i>
+<i>"Some people find fault like there is a reward for it.  "</i>
 <br>
-<b>- Aristotle</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
