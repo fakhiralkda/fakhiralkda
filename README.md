@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Judgments prevent us from seeing the good that lies beyond appearances.  "</i>
+<i>"The world makes way for the man who knows where he is going."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
