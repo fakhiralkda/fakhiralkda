@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're really truthful with yourself, it's a wonderful guidance.  "</i>
+<i>"The biggest adventure you can ever take is to live the life of your dreams. "</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
