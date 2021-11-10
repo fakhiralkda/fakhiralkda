@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are born from a quiet sleep, and we die to a calm awakening"</i>
+<i>"Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
