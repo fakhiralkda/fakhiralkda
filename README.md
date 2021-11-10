@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Seek not the good in external things;seek it in yourselves."</i>
+<i>"Your work is to discover your work and then, with all your heart, to give yourself to it."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
