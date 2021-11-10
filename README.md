@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most great people have achieved their greatest success just one step beyond their greatest failure."</i>
+<i>"We are born from a quiet sleep, and we die to a calm awakening"</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
