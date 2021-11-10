@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day is an opportunity to a make a new happy ending."</i>
+<i>"You are free, and that is why you are lost. "</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
