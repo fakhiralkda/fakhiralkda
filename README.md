@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No snowflake ever falls in the wrong place."</i>
+<i>"Death smiles at us all. All we can do is smile back."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
