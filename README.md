@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to keep your memories, you first have to live them."</i>
+<i>"Happiness is the absence of the striving for happiness."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
