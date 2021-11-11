@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</i>
+<i>"If you want to keep your memories, you first have to live them."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
