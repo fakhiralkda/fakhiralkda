@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thinking will not overcome fear but action will. "</i>
+<i>"Don't spend major time on minor things."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
