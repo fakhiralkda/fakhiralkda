@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live, travel, adventure, bless, and don't be sorry.  "</i>
+<i>"No snowflake ever falls in the wrong place."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
