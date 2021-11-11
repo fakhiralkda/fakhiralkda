@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be where your enemy is not."</i>
+<i>"Public opinion is the worst of all opinions."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
