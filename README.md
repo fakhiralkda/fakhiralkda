@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have never let my schooling interfere with my education."</i>
+<i>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
