@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is the absence of the striving for happiness."</i>
+<i>"Time stays long enough for anyone who will use it."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
