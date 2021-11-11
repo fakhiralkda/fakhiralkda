@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time stays long enough for anyone who will use it."</i>
+<i>"The longer we dwell on our misfortunes, the greater is their power to harm us."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
