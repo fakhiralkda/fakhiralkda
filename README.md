@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The friend is the man who knows all about you, and still likes you."</i>
+<i>"Life is like a wheel. Sooner or later, it always comes around to where you started again."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
