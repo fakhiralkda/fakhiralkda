@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pain of parting is nothing to the joy of meeting again."</i>
+<i>"Obstacles are those frightful things you see when you take your eyes off your goals."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
