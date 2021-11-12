@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It takes half your life before you discover life is a do-it-yourself project."</i>
+<i>"Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
