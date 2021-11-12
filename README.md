@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is and will ever remain an equation incapable of solution, but it contains certain known factors. "</i>
+<i>"By the practice of meditation, you will find that you are carrying within your heart a portable paradise."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
