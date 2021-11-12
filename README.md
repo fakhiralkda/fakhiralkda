@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid to give up the good to go for the great."</i>
+<i>"Quiet people have the loudest minds."</i>
 <br>
-<b>- John D. Rockefeller</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
