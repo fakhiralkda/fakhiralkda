@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are born from a quiet sleep, and we die to a calm awakening"</i>
+<i>"I will not walk backward in life."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
