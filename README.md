@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom lies in being bold."</i>
+<i>"Where words fail, music speaks."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
