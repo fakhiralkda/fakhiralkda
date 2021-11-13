@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't shortchange yourself when it comes to investing in your own better future."</i>
+<i>"Make failure your teacher, not your undertaker.  "</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
