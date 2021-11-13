@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Seek not the good in external things;seek it in yourselves."</i>
+<i>"Enjoy life. There's plenty of time to be dead."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
