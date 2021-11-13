@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enjoy life. There's plenty of time to be dead."</i>
+<i>"Life is a succession of lessons, which must be lived to be understood."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
