@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not what we get. But who we become, what we contribute... that gives meaning to our lives."</i>
+<i>"Small men think they are small; great men never know they are great. "</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
