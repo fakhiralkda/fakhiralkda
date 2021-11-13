@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rewards and punishment is the lowest form of education."</i>
+<i>"A single dream is more powerful than a thousand realities."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
