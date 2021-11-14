@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to attain the impossible, one must attempt the absurd."</i>
+<i>"Chop your own wood and it will warm you twice. "</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
