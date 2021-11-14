@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is more real than nothing."</i>
+<i>"Knowledge is a treasure, but practice is the key to it."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
