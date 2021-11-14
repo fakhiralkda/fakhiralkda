@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Vision is the art of seeing things invisible."</i>
+<i>"The most important things are the hardest to say."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
