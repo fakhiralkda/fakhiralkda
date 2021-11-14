@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge is a treasure, but practice is the key to it."</i>
+<i>"You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
