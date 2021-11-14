@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you believe you can, you can. If you believe you can't, then, well you can't."</i>
+<i>"A flower falls, even though we love it; and a weed grows, even though we do not love it."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
