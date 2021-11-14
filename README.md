@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perfection is not attainable, but if we chase perfection we can catch excellence."</i>
+<i>"All I can do is be me, whoever that is."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
