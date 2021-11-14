@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man who cannot tolerate small misfortunes can never accomplish great things."</i>
+<i>"If you believe you can, you can. If you believe you can't, then, well you can't."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
