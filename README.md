@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is stumbling from failure to failure with no loss of enthusiasm."</i>
+<i>"Life is much more successfully looked at from a single window."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
