@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Chop your own wood and it will warm you twice. "</i>
+<i>"Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
