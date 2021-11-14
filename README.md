@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rudeness is the weak man's imitation of strength."</i>
+<i>"Nothing is more real than nothing."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
