@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never put off to tomorrow what you can do to-day."</i>
+<i>"Vision is the art of seeing things invisible."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
