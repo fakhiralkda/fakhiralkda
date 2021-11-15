@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people ask better questions, and as a result, they get better answers."</i>
+<i>"There is no value in anything until it is finished. "</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
