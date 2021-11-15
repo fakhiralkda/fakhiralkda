@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will never do anything in this world without courage. It is the greatest quality of the mind next to honor."</i>
+<i>"If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness."</i>
 <br>
-<b>- James Allen</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
