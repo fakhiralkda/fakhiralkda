@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is in the darkness that one finds the light."</i>
+<i>"My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
