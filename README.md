@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Others can stop you temporarily – you are the only one who can do it permanently."</i>
+<i>"To forget the whole world is easy; to make the whole world forget you is hard."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
