@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like a beautiful melody, only the lyrics are messed up."</i>
+<i>"It is in the darkness that one finds the light."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
