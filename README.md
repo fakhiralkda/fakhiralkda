@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good things aren't supposed to just fall into your lap."</i>
+<i>"Change begets change. Nothing propagates so fast."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
