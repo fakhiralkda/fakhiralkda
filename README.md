@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest adventure is what lies ahead."</i>
+<i>"The future is no more uncertain than the present."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
