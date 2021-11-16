@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To the world you may be one person; but to one person you may be the world."</i>
+<i>"Motivation is what gets you started. Habit is what keeps you going."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
