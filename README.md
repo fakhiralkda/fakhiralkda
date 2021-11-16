@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Catch, then, O catch the transient hour; Improve each moment as it flies! "</i>
+<i>"If what you're doing is not your passion, you have nothing to lose."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
