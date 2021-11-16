@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you."</i>
+<i>"It's not the size of the dog in the fight, it's the size of the fight in the dog."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
