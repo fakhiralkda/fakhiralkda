@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Education breeds confidence. Confidence breeds hope. Hope breeds peace."</i>
+<i>"Words can only have a positive effect on others if and when they are ready to listen."</i>
 <br>
-<b>- Confucius</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
