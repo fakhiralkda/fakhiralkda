@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The sun shines upon good and bad alike."</i>
+<i>"Better a diamond with a flaw than a pebble without one."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
