@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If what you're doing is not your passion, you have nothing to lose."</i>
+<i>"Everything you've ever wanted is on the other side of fear."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- George Addair</b>
 </blockquote>
 </p>
 
