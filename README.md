@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not the size of the dog in the fight, it's the size of the fight in the dog."</i>
+<i>"It is passion that makes man live; wisdom makes one only last."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
