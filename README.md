@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you give, the more comes back to you."</i>
+<i>"Never do to others what you would not like them to do to you. "</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
