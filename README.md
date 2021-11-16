@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is passion that makes man live; wisdom makes one only last."</i>
+<i>"The more you give, the more comes back to you."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
