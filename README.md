@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who knows, does not speak. He who speaks, does not know."</i>
+<i>"The wise man reads both books and life itself."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
