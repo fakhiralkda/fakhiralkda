@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important single ingredient in the formula of success is knowing how to get along with people."</i>
+<i>"Life is either a daring adventure, or it is nothing."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
