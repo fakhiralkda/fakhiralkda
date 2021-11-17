@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty."</i>
+<i>"One must be poor to know the luxury of giving."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
