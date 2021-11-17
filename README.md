@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How people treat you is their karma; how you react is yours. "</i>
+<i>"If I persist long enough I will win."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
