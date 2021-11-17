@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One must be poor to know the luxury of giving."</i>
+<i>"He who knows, does not speak. He who speaks, does not know."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
