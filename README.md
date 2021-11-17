@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every moment is a fresh beginning."</i>
+<i>"Whoever is happy will make others happy too."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
