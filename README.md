@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise man reads both books and life itself."</i>
+<i>"Better a diamond with a flaw than a pebble without one."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
