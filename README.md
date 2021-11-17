@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is either a daring adventure, or it is nothing."</i>
+<i>"How people treat you is their karma; how you react is yours. "</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
