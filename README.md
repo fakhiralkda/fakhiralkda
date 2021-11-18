@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it."</i>
+<i>"You are free, and that is why you are lost."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
