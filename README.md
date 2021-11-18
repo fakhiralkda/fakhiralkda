@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience is a bitter plant, but its fruit is sweet."</i>
+<i>"You miss 100% of the shots you don't take."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
