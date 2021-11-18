@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people do what unsuccessful people are not willing to do."</i>
+<i>"Nothing is impossible. The word itself says 'I'm possible!'"</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
