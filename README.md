@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are free, and that is why you are lost."</i>
+<i>"Vision is the art of seeing things invisible."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
