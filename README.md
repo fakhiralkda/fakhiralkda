@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is either a daring adventure, or nothing."</i>
+<i>"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
