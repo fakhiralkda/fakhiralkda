@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to know what God thinks about money just look at the people He gives it to."</i>
+<i>"The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
