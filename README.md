@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some of us learn from other people's mistakes and the rest of us have to be other people.  "</i>
+<i>"Don't cry because it's over. Smile because it happened."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
