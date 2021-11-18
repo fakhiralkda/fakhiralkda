@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Vision is the art of seeing things invisible."</i>
+<i>"The people who succeed are irrationally passionate about something."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
