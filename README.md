@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is impossible. The word itself says 'I'm possible!'"</i>
+<i>"Remember that sometimes not getting what you want is a wonderful stroke of luck."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
