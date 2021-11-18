@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember that sometimes not getting what you want is a wonderful stroke of luck."</i>
+<i>"What worries you, masters you."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
