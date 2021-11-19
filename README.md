@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only by attracting the best people will you accomplish great deeds."</i>
+<i>"A lot of people have gone further than they thought they could because someone else thought they could."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
