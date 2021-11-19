@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you change the way you look at things, the things you look at change. "</i>
+<i>"Numbing the pain for a while will only make it worse when you finally feel it."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
