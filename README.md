@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like underwear, should be changed twice a day.  "</i>
+<i>"Empty your mind, be formless."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
