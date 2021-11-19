@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Numbing the pain for a while will only make it worse when you finally feel it."</i>
+<i>"Only by attracting the best people will you accomplish great deeds."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
