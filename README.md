@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is but a product of his thoughts. What he thinks he becomes."</i>
+<i>"If you change the way you look at things, the things you look at change. "</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
