@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go as far as you can see and you will see further.  "</i>
+<i>"You are today where your thoughts have brought you."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
