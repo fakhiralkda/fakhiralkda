@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be willing to be a beginner every single morning."</i>
+<i>"Go as far as you can see and you will see further.  "</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
