@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I would rather die on my feet than live on my knees."</i>
+<i>"Would you rather learn to deal with the truth now than be forced to do so later on?"</i>
 <br>
-<b>- Euripides</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
