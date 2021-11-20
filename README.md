@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way."</i>
+<i>"If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
