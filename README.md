@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What the caterpillar calls the end of the world, the master calls a butterfly."</i>
+<i>"Death is not an ending. It is a transformation."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
