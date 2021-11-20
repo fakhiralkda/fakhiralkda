@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The human mind defines things in relation to one another – without light the notion of darkness would be unintelligible."</i>
+<i>"Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
