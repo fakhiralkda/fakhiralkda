@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To some degree, you control your life by controlling your time."</i>
+<i>"What the caterpillar calls the end of the world, the master calls a butterfly."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
