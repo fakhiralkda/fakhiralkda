@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True knowledge exists in knowing that you know nothing."</i>
+<i>"He that can have patience can have what he will."</i>
 <br>
-<b>- Socrates</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
