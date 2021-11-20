@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results."</i>
+<i>"Nothing can bring you peace but yourself."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
