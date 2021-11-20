@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not what we do once in a while that shapes our lives, but what we do consistently."</i>
+<i>"When the world pushes you to your knees, you're in the perfect position to pray."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
