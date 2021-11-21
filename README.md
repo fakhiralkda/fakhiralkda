@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear of death is fear of the Unknown."</i>
+<i>"If you chase two rabbits, you catch none."</i>
 <br>
-<b>- Adi Da Samraj</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
