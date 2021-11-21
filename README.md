@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one returns from a long journey the same person they were before."</i>
+<i>"You are what you do, not what you say you'll do."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
