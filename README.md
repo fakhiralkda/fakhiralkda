@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't have time to do it right, when will you have time to do it over?"</i>
+<i>"It matters not what someone is born, but what they grow to be."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
