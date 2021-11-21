@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you truly expect something to be difficult, it will be."</i>
+<i>"Find something you love and do it better than everyone else."</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
