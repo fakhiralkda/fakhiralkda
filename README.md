@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are what you do, not what you say you'll do."</i>
+<i>"A fool sees himself as another, but a wise man sees others as himself."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
