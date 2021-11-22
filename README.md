@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It matters not what someone is born, but what they grow to be."</i>
+<i>"Do not look for a sanctuary in anyone except your self."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
