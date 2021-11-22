@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear."</i>
+<i>"We are all faced with a series of great opportunities brilliantly disguised as impossible situations. "</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Charles Swindoll</b>
 </blockquote>
 </p>
 
