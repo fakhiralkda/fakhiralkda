@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is everything. It is the preview of life's coming attractions."</i>
+<i>"Coming together is a beginning, staying together is progress, and working together is success. "</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
