@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's better to dance than to march through life."</i>
+<i>"If light is in your heart, you will find your way home.  "</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
