@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human happiness and moral duty are inseparably connected. "</i>
+<i>"Always remember that you are absolutely unique. Just like everyone else. "</i>
 <br>
-<b>- George Washington</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
