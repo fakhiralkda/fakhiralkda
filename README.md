@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only those who will risk going too far can possibly find out how far one can go."</i>
+<i>"Today you are you, that is truer than true. There is no one alive who is you-er than you."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
