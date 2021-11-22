@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all faced with a series of great opportunities brilliantly disguised as impossible situations. "</i>
+<i>"Don't seek, don't avoid, don't expect. Take what comes and be happy."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
