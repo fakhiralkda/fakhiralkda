@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do the difficult things while they are easy and do the great things while they are small."</i>
+<i>"Imagination is everything. It is the preview of life's coming attractions."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
