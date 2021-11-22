@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be yourself; everyone else is already taken."</i>
+<i>"Human happiness and moral duty are inseparably connected. "</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
