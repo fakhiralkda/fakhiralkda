@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not look for a sanctuary in anyone except your self."</i>
+<i>"Faults are yours to fix, not to curse."</i>
 <br>
-<b>- Buddha</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
