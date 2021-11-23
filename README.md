@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you tell the truth, you don't have to remember anything."</i>
+<i>"Watch what you say, and whaterver you say, practice it."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Soyen Shaku</b>
 </blockquote>
 </p>
 
