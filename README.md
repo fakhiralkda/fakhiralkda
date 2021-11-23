@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is about choice. You can choose to be a victim or anything else you like to be."</i>
+<i>"Perfection is not attainable, but if we chase perfection we can catch excellence."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
