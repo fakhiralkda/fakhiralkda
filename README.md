@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not change direction, you may end up where you are heading."</i>
+<i>"Continuous effort - not strength or intelligence - is the key to unlocking our potential."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
