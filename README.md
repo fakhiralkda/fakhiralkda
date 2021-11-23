@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Watch what you say, and whaterver you say, practice it."</i>
+<i>"Laziness may appear attractive, but work gives satisfaction."</i>
 <br>
-<b>- Soyen Shaku</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
