@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To affect the quality of the day, that is the highest of arts."</i>
+<i>"Know the rules well, so you can break them effectively."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
