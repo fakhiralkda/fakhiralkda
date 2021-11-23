@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime."</i>
+<i>"If you tell the truth, you don't have to remember anything."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
