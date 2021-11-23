@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more perfect a person is on the outside, the more demons they have on the inside."</i>
+<i>"Life is the art of drawing sufficient conclusions from insufficient premises."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
