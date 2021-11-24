@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pleasure is always derived from something outside you, whereas joy arises from within. "</i>
+<i>"The future is no more uncertain than the present."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
