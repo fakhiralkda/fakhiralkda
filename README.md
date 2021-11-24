@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear."</i>
+<i>"The most tragic thing in the world is a man of genius who is not a man of honor."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
