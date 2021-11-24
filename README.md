@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future is no more uncertain than the present."</i>
+<i>"Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
