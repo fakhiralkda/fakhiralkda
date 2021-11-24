@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not uncommon for people to spend their whole life waiting to start living."</i>
+<i>"Why do you stay in prison when the door is so wide open?"</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
