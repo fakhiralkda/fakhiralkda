@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured."</i>
+<i>"There is no fear for one whose mind is not filled with desires."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
