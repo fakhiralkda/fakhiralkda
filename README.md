@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ripe fruit falls by itself - but it doesn't fall in your mouth. "</i>
+<i>"Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
