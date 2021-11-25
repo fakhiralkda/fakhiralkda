@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never whine, never complain, never try to justify yourself."</i>
+<i>"Everything you've ever wanted is on the other side of fear."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- George Addair</b>
 </blockquote>
 </p>
 
