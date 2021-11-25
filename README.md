@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work harder on yourself than you do on your job."</i>
+<i>"It is better to offer no excuse than a bad one. "</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
