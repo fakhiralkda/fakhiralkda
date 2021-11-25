@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no one giant step that does it. It's a lot of little steps."</i>
+<i>"Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying."</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
