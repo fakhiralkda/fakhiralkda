@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truly rich men are the ones who have health, loved ones and a work they love."</i>
+<i>"He will win who knows when to fight and when not to fight."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
