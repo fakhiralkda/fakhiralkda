@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A person is only by the thoughts that he chooses."</i>
+<i>"Great deeds are usually wrought at great risks."</i>
 <br>
-<b>- James Allen</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
