@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to offer no excuse than a bad one. "</i>
+<i>"There is no one giant step that does it. It's a lot of little steps."</i>
 <br>
-<b>- George Washington</b>
+<b>- Peter A. Cohen</b>
 </blockquote>
 </p>
 
