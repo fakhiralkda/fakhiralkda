@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't live the same year 75 times and call it a life."</i>
+<i>"Fools read fast. Geniuses reread."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
