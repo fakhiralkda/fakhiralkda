@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you've made a mistake, it's better just to laugh at it."</i>
+<i>"All our knowledge has its origins in our perceptions."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
