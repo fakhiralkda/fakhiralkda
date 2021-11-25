@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He will win who knows when to fight and when not to fight."</i>
+<i>"Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
