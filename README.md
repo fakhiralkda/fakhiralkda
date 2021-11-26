@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not what we get. But who we become, what we contribute... that gives meaning to our lives."</i>
+<i>"Never do to others what you would not like them to do to you. "</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
