@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do Something. If it works, do more of it. If it doesn't, do something else."</i>
+<i>"It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  "</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
