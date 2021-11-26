@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To affect the quality of the day, that is the highest of arts."</i>
+<i>"All religions, arts and sciences are branches of the same tree. "</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
