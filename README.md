@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All life is an experiment. The more experiments you make, the better."</i>
+<i>"When you want to be honored by others, you learn to honor them first."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
