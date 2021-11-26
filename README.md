@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Turn off your mind, relax, and float downstream."</i>
+<i>"Far and away the best prize that life has to offer is the chance to work hard at work worth doing."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
