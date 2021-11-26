@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can start changing our world for the better daily, no matter how small the action."</i>
+<i>"Quality means doing it right when no one is looking."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
