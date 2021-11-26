@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your home is where your thoughts find peace."</i>
+<i>"All life is an experiment. The more experiments you make, the better."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
