@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is stumbling from failure to failure with no loss of enthusiasm."</i>
+<i>"Saying nothing sometimes says the most."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
