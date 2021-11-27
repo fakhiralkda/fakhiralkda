@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When it hurts - observe. Life is trying to teach you something."</i>
+<i>"A good teacher opens the door for you, but you must enter the room by yourself."</i>
 <br>
-<b>- Anita Krizzan</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
