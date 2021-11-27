@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where there's life, there's hope."</i>
+<i>"The world doesn't always give you want, but it often gives you what you need."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
