@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing you do is going to matter that much in the long run. Don't take yourself so seriously."</i>
+<i>"Where there's life, there's hope."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
