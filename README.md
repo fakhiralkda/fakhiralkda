@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mistakes are always forgivable, if one has the courage to admit them. "</i>
+<i>"Curiosity is the most powerful thing you own."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
