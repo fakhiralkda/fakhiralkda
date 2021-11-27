@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good teacher opens the door for you, but you must enter the room by yourself."</i>
+<i>"You don't get in life what you want; you get in life what you are."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
