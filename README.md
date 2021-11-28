@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us."</i>
+<i>"One of the oldest human needs is having someone to wonder where you are when you don't come home at night. "</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
