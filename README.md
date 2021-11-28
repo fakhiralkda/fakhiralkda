@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Although the world is full of suffering, it is also full of the overcoming of it."</i>
+<i>"Perseverance and spirit have done wonders in all ages. "</i>
 <br>
-<b>- Helen Keller</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
