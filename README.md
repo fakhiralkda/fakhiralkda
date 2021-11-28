@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe in your infinite potential. Your only limitations are those you set upon yourself."</i>
+<i>"Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
