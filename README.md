@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you will never know the value of something, until it becomes a memory."</i>
+<i>"Believe in your infinite potential. Your only limitations are those you set upon yourself."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
