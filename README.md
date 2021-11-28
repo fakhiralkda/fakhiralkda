@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the oldest human needs is having someone to wonder where you are when you don't come home at night. "</i>
+<i>"What the caterpillar calls the end of the world, the master calls a butterfly."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
