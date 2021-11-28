@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perseverance and spirit have done wonders in all ages. "</i>
+<i>"Inspire yourself to be great. Being good isn't good enough."</i>
 <br>
-<b>- George Washington</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
