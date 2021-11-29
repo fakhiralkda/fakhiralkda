@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is going from failure to failure without losing your enthusiasm"</i>
+<i>"We shape clay into a pot, but it is the emptiness inside that holds whatever we want."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
