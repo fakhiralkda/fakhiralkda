@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am thankful to all those who said no. It's because of them, I did it myself.  "</i>
+<i>"Not doing it is certainly the best way to not getting it.  "</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
