@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enjoy life. There's plenty of time to be dead."</i>
+<i>"It is only depth of character that determines the profundity with which we face life."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
