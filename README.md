@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have never let my schooling interfere with my education."</i>
+<i>"Fools read fast. Geniuses reread."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
