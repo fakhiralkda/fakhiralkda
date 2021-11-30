@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best time to plant a tree was 20 years ago. The second best time is now."</i>
+<i>"Not all of us can do great things. But we can do small things with great love."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
