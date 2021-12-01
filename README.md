@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge isn't power until it is applied."</i>
+<i>"Show me a hero, and I'll write you a tragedy."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
