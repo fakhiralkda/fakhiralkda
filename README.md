@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level."</i>
+<i>"When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
