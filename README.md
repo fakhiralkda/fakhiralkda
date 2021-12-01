@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We think too much and feel too little."</i>
+<i>"It is better to change an opinion than to persist in a wrong one."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
