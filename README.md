@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I skate to where the puck is going to be, not where it has been."</i>
+<i>"What the caterpillar calls the end of the world, the master calls a butterfly."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
