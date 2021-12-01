@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man has to learn that he cannot command things but that he can command himself; that he cannot coerce the wills of others but that he can mold and master his own will."</i>
+<i>"I skate to where the puck is going to be, not where it has been."</i>
 <br>
-<b>- James Allen</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
