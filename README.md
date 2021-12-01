@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today will never happen again. Don't waste it with a false start or no start at all."</i>
+<i>"We think too much and feel too little."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
