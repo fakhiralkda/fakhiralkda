@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A dream doesn't become reality through magic it takes sweat, determination and hard work."</i>
+<i>"Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree. "</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
