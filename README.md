@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge."</i>
+<i>"It's not what we do once in a while that shapes our lives, but what we do consistently."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
