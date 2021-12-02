@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not what we do once in a while that shapes our lives, but what we do consistently."</i>
+<i>"Why do you stay in prison when the door is so wide open?"</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
