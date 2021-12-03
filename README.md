@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may think I'm small, but I have a universe inside my mind."</i>
+<i>"In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
