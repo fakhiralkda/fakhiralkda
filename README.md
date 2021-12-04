@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many of life's failures are people who did not realize how close they were to success when they gave up."</i>
+<i>"If you always do what you've always done, you'll always get what you've always got. "</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
