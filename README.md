@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it."</i>
+<i>"One of the first signs of the beginning of understanding is the wish to die. "</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
