@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you always do what you've always done, you'll always get what you've always got. "</i>
+<i>"Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
