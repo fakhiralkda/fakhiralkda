@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give more than you think you can, trusting that you are richer than you think."</i>
+<i>"There are no shortcuts to any place worth going."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
