@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To seek greatness is the only righteous vengeance."</i>
+<i>"Fear is stupid. So are regrets."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
