@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your eyes on the stars, but remember to keep your feet on the ground."</i>
+<i>"Integrity is the ability to stand by an idea."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
