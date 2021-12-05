@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two things a person should never be angry at, what they can help, and what they cannot."</i>
+<i>"Keep your eyes on the stars, but remember to keep your feet on the ground."</i>
 <br>
-<b>- Plato</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
