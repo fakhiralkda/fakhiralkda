@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good entrepreneurs don't fail because they stay at it."</i>
+<i>"While we may not be able to control all that happens to us, we can control what happens inside us."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
