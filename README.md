@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To live is the rarest thing in the world. Most people exist, that is all. "</i>
+<i>"To seek greatness is the only righteous vengeance."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
