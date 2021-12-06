@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The very essence of instinct is that it's followed independently of reason."</i>
+<i>"Be the change that you want to see in the world."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
