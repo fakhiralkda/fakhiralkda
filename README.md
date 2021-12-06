@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All human wisdom is contained in these two words - Wait and Hope"</i>
+<i>"Life is a traveling to the edge of knowledge, then a leap taken."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
