@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What we know is a drop, what we don't know is an ocean. "</i>
+<i>"The very essence of instinct is that it's followed independently of reason."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
