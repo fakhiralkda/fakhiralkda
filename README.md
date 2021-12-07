@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One always begins to forgive a place as soon as it's left behind."</i>
+<i>"The wisest men follow their own direction."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
