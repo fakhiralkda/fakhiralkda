@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One must be poor to know the luxury of giving."</i>
+<i>"Giving is living. If you stop wanting to give, there's nothing more to live for."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
