@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not use life to give life to death. Do not use death to bring death to life."</i>
+<i>"Genius is one percent inspiration and ninety-nine percent perspiration."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
