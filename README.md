@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wisest men follow their own direction."</i>
+<i>"Wrong turns are as important as right turns. More important, sometimes."</i>
 <br>
-<b>- Euripides</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
