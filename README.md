@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes it is harder to deprive oneself of a pain than of a pleasure."</i>
+<i>"Every limit is a beginning as well as an ending."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
