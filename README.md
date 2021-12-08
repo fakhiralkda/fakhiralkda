@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you give, the more comes back to you."</i>
+<i>"Simplicity is a difficult thing to achieve.  "</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
