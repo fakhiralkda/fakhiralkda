@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be willing to be a beginner every single morning."</i>
+<i>"Sometimes it is harder to deprive oneself of a pain than of a pleasure."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
