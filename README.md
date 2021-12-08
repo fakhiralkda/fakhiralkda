@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A zen master's life is one continuous mistake."</i>
+<i>"Be willing to be a beginner every single morning."</i>
 <br>
-<b>- Dogen</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
