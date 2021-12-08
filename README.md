@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never was anything great achieved without danger."</i>
+<i>"Failure is the highway to success."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
