@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human beings believe just as they breathe - in order to survive."</i>
+<i>"The essence of the Way is detachment."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
