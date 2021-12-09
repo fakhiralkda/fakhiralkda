@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leaders think and talk about solutions. Followers think and talk about the problems."</i>
+<i>"Human beings believe just as they breathe - in order to survive."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
