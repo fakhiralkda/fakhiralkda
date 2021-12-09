@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The essence of the Way is detachment."</i>
+<i>"Every failure brings with it the seed of an equivalent success."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
