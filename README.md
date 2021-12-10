@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never buy a thing you do not want, because it is cheap, it will be dear to you."</i>
+<i>"Faithless is he that says farewell when the road darkens."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
