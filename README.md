@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice."</i>
+<i>"If you believe you can, you can. If you believe you can't, then, well you can't."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
