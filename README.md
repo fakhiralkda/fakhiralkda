@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The act of taking the first step is what separates the winners from the losers."</i>
+<i>"Never buy a thing you do not want, because it is cheap, it will be dear to you."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
