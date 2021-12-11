@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The older you get, the more you understand how your conscience works."</i>
+<i>"Quality is more important than quantity. One home run is much better than two doubles."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
