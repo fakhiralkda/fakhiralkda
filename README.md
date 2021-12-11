@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right."</i>
+<i>"The businessman's tool is value."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
