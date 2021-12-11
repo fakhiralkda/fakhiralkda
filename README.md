@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enjoy life. There's plenty of time to be dead."</i>
+<i>"The more we have the less we own."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
