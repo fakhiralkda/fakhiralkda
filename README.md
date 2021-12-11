@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Plants grow weak without wind."</i>
+<i>"Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
