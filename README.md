@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. "</i>
+<i>"Learn to value yourself, which means: fight for your happiness."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
