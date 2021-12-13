@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more."</i>
+<i>"You are the only problem you will ever have and you are the only solution."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
