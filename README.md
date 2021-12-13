@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any idea, plan, or purpose may be placed in the mind through repetition of thought."</i>
+<i>"Amateurs sit and wait for inspiration, the rest of us just get up and got to work."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
