@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have not failed. I've just found 10,000 ways that won't work."</i>
+<i>"The more I want to get something done, the less I call it work."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
