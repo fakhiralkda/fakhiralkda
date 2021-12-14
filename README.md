@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must accept finite disappointment, but never lose infinite hope."</i>
+<i>"You will not do incredible things without an incredible dream."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
