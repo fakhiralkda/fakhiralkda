@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be fully alive, fully human, and completely awake is to be continually thrown out of the nest."</i>
+<i>"When you are tough on yourself, life is going to be infinitely easier on you.  "</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
