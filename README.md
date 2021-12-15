@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever satisfies the soul is truth."</i>
+<i>"The pen is the tongue of the mind. "</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
