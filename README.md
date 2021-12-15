@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live in the sunshine, swim the sea, drink the wild air."</i>
+<i>"The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
