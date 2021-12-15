@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pen is the tongue of the mind. "</i>
+<i>"Live in the sunshine, swim the sea, drink the wild air."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
