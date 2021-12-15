@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose."</i>
+<i>"He who permits himself to tell a lie once, finds it much easier to do it the second time."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
