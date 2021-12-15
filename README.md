@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything you look at can become a fairy tale and you can get a story from everything you touch."</i>
+<i>"Aim for the moon. If you miss, you may hit a star."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
