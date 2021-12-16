@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Science can flourish only in an atmosphere of free speech. "</i>
+<i>"As a man thinketh in his heart, so shall he be."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
