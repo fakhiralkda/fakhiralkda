@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Light a candle instead of cursing the darkness."</i>
+<i>"Success is not how high you have climbed, but how you make a positive difference to the world."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
