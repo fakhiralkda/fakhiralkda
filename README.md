@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter how tall the mountain is, it cannot block the sun."</i>
+<i>"Judgments prevent us from seeing the good that lies beyond appearances.  "</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
