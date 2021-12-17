@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart."</i>
+<i>"A fall into a ditch makes you wiser."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
