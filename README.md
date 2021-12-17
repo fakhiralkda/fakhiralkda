@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Judgments prevent us from seeing the good that lies beyond appearances.  "</i>
+<i>"Obstacles don't block the path, they are the path."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
