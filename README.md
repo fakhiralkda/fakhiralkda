@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way."</i>
+<i>"Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
