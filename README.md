@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A fall into a ditch makes you wiser."</i>
+<i>"Nothing ever goes away until it has taught us what we need to know."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
