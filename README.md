@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will face many defeats in life, but never let yourself be defeated."</i>
+<i>"There's no coming to consciousness without pain"</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
