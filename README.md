@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ponder and deliberate before you make a move."</i>
+<i>"I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
