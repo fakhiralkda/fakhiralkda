@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The highest level of wisdom is when you not only accept but love adversity."</i>
+<i>"Some people feel the rain. Others just get wet. "</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
