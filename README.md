@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No valid plans for the future can be made by those who have no capacity for living now."</i>
+<i>"Alone we can do so little; together we can do so much."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
