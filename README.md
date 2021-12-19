@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time doesn't heal emotional pain, you need to learn how to let go."</i>
+<i>"If what you're doing is not your passion, you have nothing to lose."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
