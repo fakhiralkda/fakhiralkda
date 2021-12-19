@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your greatest asset is your earning ability. Your greatest resource is your time."</i>
+<i>"He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
