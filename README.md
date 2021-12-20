@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all."</i>
+<i>"The best way out is always through."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
