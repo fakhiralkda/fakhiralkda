@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The right thing to do and the hard thing to do are usually the same."</i>
+<i>"Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
