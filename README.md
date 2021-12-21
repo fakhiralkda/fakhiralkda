@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only difference between success and failure is the ability to take action."</i>
+<i>"Knowing is not enough, we must apply. Willing is not enough, we must do.  "</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
