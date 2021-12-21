@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Facts are the enemy of truth. "</i>
+<i>"If you try to micromanage yourself all you're going to do is make yourself miserable."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
