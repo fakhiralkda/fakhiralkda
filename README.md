@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a succession of lessons, which must be lived to be understood."</i>
+<i>"As mortals, we're ruled by conditions, not by ourselves."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
