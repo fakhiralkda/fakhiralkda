@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As mortals, we're ruled by conditions, not by ourselves."</i>
+<i>"If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
