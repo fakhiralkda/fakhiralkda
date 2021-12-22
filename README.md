@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The difference between treason and patriotism is only a matter of dates."</i>
+<i>"It is best to begin at the beginning."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
