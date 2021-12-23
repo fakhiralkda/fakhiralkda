@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be happy in the moment, that's enough. Each moment is all we need, not more."</i>
+<i>"Life is a gift. Never forget to enjoy and bask in every moment you are in."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
