@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success comes from knowing that you did your best to become the best that you are capable of becoming."</i>
+<i>"I was angered, for I had no shoes. Then I met a man who had no feet. "</i>
 <br>
-<b>- John Wooden</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
