@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for."</i>
+<i>"If you're walking down the right path and you're willing to keep walking, eventually you'll make progress."</i>
 <br>
-<b>- Socrates</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
