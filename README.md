@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wheresoever you go, go with all your heart."</i>
+<i>"Every time we liberate a woman, we liberate a man. "</i>
 <br>
-<b>- Confucius</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
