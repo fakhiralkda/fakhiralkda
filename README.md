@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rewards and punishment is the lowest form of education."</i>
+<i>"Wheresoever you go, go with all your heart."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
