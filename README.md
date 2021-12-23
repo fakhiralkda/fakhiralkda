@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you realize you've made a mistake, take immediate steps to correct it."</i>
+<i>"Every strike brings me closer to the next home run. "</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Babe Ruth</b>
 </blockquote>
 </p>
 
