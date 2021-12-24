@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every time we liberate a woman, we liberate a man. "</i>
+<i>"Genius is one percent inspiration and ninety-nine percent perspiration."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
