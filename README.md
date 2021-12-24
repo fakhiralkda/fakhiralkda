@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you do in life, surround yourself with smart people who'll argue with you."</i>
+<i>"Write to help yourself, publish to help others."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
