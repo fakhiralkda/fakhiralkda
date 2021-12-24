@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a process. We are a process. The universe is a process."</i>
+<i>"If you can't explain it simply, you don't understand it well enough."</i>
 <br>
-<b>- Anne Wilson Schaef</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
