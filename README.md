@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all faced with a series of great opportunities brilliantly disguised as impossible situations. "</i>
+<i>"We love the things we love for what they are."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
