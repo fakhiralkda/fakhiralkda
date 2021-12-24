@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We love the things we love for what they are."</i>
+<i>"Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
