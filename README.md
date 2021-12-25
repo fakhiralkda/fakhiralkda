@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is not a goal...it's a by-product of a life well lived."</i>
+<i>"Life begins where fear ends."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
