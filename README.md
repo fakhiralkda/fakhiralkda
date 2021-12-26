@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a gift and the trick is not to expect it, but to delight in it when it comes."</i>
+<i>"A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
