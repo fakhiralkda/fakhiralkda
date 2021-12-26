@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We will now discuss in a little more detail the Struggle for Existence."</i>
+<i>"The power of human thought grows exponentially with the number of minds that share that thought."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
