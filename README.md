@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you're the only sane person, you look like the only insane person."</i>
+<i>"It's not what we do once in a while that shapes our lives, but what we do consistently."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
