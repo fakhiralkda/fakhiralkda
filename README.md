@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you chase two rabbits, you catch none."</i>
+<i>"Tomorrow is only found in the calendar of fools."</i>
 <br>
-<b>- Confucius</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
