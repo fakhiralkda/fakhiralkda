@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The power of human thought grows exponentially with the number of minds that share that thought."</i>
+<i>"It is better to offer no excuse than a bad one. "</i>
 <br>
-<b>- Dan Brown</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
