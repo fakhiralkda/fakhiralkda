@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give me six hours to chop down a tree and I will spend the first four sharpening the axe."</i>
+<i>"What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!"</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
