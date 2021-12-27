@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our greatest glory is not in never falling, but in rising every time we fall. "</i>
+<i>"We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies."</i>
 <br>
-<b>- Confucius</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
