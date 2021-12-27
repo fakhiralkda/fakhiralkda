@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The people who succeed are irrationally passionate about something."</i>
+<i>"Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
