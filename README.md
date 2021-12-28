@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you change the way you look at things, the things you look at change. "</i>
+<i>"The biggest challenge after success is shutting up about it."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
