@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What we know is a drop, what we don't know is an ocean. "</i>
+<i>"If you change the way you look at things, the things you look at change. "</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
