@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We all give up great expectations along the way."</i>
+<i>"Either get busy living or get busy dying."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
