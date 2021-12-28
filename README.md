@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest challenge after success is shutting up about it."</i>
+<i>"Experience is a comb which nature gives us when we are bald. "</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
