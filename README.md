@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be where your enemy is not."</i>
+<i>"What we know is a drop, what we don't know is an ocean. "</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
