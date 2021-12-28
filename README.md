@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Either get busy living or get busy dying."</i>
+<i>"Tomorrow is only found in the calendar of fools."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
