@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Experience is a comb which nature gives us when we are bald. "</i>
+<i>"We all give up great expectations along the way."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
