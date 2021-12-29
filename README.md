@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you focus on results and finding shortcuts, you'll get impatient. If you focus on the process and doing the right thing, you'll be unstoppable."</i>
+<i>"Formal education will make you a living, self-education will make you a fortune."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
