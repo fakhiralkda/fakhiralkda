@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't know where you're going, you will probably end up somewhere else."</i>
+<i>"If you focus on results and finding shortcuts, you'll get impatient. If you focus on the process and doing the right thing, you'll be unstoppable."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
