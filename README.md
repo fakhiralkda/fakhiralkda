@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Get busy living, or get busy dying."</i>
+<i>"Make each day your masterpiece."</i>
 <br>
-<b>- Stephen King</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
