@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh."</i>
+<i>"I defeat my enemies when I make them my friends."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
