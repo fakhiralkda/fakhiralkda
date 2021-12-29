@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be as fluid as water, do not give your enemies anything solid to attack."</i>
+<i>"A gentleman accepts the responsibility of his actions and bears the burden of their consequences."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
