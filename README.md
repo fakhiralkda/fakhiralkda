@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one thing in the world worse than being talked about, and that is not being talked about. "</i>
+<i>"To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
