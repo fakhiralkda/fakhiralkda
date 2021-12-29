@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people feel the rain. Others just get wet. "</i>
+<i>"If you don't know where you're going, you will probably end up somewhere else."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
