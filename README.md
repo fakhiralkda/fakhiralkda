@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a gift. Never forget to enjoy and bask in every moment you are in."</i>
+<i>"Help others achieve their dreams and you will achieve yours."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
