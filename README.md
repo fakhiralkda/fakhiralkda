@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If light is in your heart, you will find your way home.  "</i>
+<i>"You cannot control the behavior of others, but you can always choose how you respond to it."</i>
 <br>
-<b>- Rumi</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
