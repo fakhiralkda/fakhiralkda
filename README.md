@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities."</i>
+<i>"Awakening is possible only for those who seek it and want it."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- G.I. Gurdjieff</b>
 </blockquote>
 </p>
 
