@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One always begins to forgive a place as soon as it's left behind."</i>
+<i>"Life would be tragic if it weren't funny."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
