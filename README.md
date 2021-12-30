@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The heart that gives, gathers."</i>
+<i>"You'll see it when you believe it. "</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
