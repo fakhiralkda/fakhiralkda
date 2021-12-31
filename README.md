@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know."</i>
+<i>"The important thing is not what one is born with but what use one makes of that equipment."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
