@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot control the behavior of others, but you can always choose how you respond to it."</i>
+<i>"Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
