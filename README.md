@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The soul should always stand ajar, ready to welcome the ecstatic experience."</i>
+<i>"Just do the best you can. No one can do more than that."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
