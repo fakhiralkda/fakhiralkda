@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want work well done, select a busy man; the other kind has no time."</i>
+<i>"The most wasted day of all is that on which we have not laughed."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
