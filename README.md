@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The important thing is not what one is born with but what use one makes of that equipment."</i>
+<i>"The soul should always stand ajar, ready to welcome the ecstatic experience."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
