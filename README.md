@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most wasted day of all is that on which we have not laughed."</i>
+<i>"A dream you dream alone is only a dream. A dream you dream together is reality."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
