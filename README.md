@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The search for happiness is one of the chief sources of unhappiness."</i>
+<i>"Every moment is a fresh beginning."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
