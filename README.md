@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ponder and deliberate before you make a move."</i>
+<i>"Happiness depends on your mindset and attitude."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
