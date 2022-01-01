@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It doesn't matter where you are coming from. All that matters is where you are going. "</i>
+<i>"Never close your lips to those whom you have already opened your heart."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
