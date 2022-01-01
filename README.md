@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness depends on your mindset and attitude."</i>
+<i>"What we know is a drop, what we don't know is an ocean. "</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
