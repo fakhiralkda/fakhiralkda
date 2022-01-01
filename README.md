@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Greatest success comes just one step beyond the point at which defeat overtakes you."</i>
+<i>"Unless you change how you are, you will always have what you got."</i>
 <br>
-<b>- Unknown</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
