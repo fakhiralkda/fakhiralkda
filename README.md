@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make your mind your own business."</i>
+<i>"Greatest success comes just one step beyond the point at which defeat overtakes you."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
