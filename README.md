@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness depends on your mindset and attitude."</i>
+<i>"Repetition does not transform a lie into a truth."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
