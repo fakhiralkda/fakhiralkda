@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Repetition does not transform a lie into a truth."</i>
+<i>"Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. "</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
