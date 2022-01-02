@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be great is to be misunderstood."</i>
+<i>"Attitude is a little thing that makes a BIG difference."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
