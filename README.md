@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Greatness comes from living with purpose and passion."</i>
+<i>"If we know how to adapt, we end up being superior."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
