@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wheresoever you go, go with all your heart."</i>
+<i>"Greatness comes from living with purpose and passion."</i>
 <br>
-<b>- Confucius</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
