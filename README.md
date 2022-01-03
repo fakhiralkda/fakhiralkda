@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You get paid in direct proportion to the difficulty of problems you solve."</i>
+<i>"By perseverance the snail reached the ark."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Charles Spurgeon</b>
 </blockquote>
 </p>
 
