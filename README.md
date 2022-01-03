@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we know how to adapt, we end up being superior."</i>
+<i>"Words used to attract the dull of wit are not to be relied on."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
