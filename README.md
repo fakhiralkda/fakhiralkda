@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Allow motion to equal emotion."</i>
+<i>"If you need inspiration, don't do it."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
