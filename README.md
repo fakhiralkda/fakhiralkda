@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Simple words, repeated daily, can change your life."</i>
+<i>"To every action there is always opposed an equal reaction."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
