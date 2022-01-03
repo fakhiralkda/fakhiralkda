@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Attitude is a little thing that makes a BIG difference."</i>
+<i>"Wheresoever you go, go with all your heart."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
