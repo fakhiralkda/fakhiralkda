@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Either you run the day or the day runs you."</i>
+<i>"We must learn to live together as brothers or perish together as fools."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
