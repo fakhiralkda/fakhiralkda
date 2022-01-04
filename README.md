@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conflict cannot survive without your participation. "</i>
+<i>"A day without laughter is a day wasted."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
