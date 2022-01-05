@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It isn't that they can't see the solution. It is that they can't see the problem."</i>
+<i>"We would accomplish many more things if we did not think of them as impossible."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
