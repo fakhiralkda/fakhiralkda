@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not to be pursued, it is to be attracted by the person you become."</i>
+<i>"Definiteness of purpose is the starting point of all achievement. "</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
