@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always remember that you are absolutely unique. Just like everyone else. "</i>
+<i>"Friends ask you questions; enemies question you."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
