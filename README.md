@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where the willingness is great, the difficulties cannot be great."</i>
+<i>"Great deeds are usually wrought at great risks."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
