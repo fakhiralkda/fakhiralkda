@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best thing to hold onto in life is each other."</i>
+<i>"One of the first signs of the beginning of understanding is the wish to die. "</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
