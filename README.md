@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is your attitude, not your aptitude, that determines your altitude."</i>
+<i>"We are all like the bright moon, we still have our darker side.  "</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
