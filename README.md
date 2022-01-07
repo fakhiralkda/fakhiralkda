@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are shaped and fashioned by what we love."</i>
+<i>"Good, better, best. Never let it rest. 'Til your good is better and your better is best. "</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
