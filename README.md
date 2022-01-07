@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is the dancer and you are the dance."</i>
+<i>"As you think, you travel, and as you love, you attract."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
