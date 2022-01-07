@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  "</i>
+<i>"Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Anne Wilson Schaef</b>
 </blockquote>
 </p>
 
