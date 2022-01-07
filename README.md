@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the only real obstacle in your path to a fulfilling life."</i>
+<i>"The more you like yourself, the less you are like anyone else, which makes you unique."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
