@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you like yourself, the less you are like anyone else, which makes you unique."</i>
+<i>"We've got to live, no matter how many skies have fallen."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
