@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't bother people for help without first trying to solve the problem yourself."</i>
+<i>"Nothing we see or hear is perfect. But right there in the imperfection is perfect reality."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
