@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fallacies do not cease to be fallacies because they become fashions."</i>
+<i>"To do two things at once is to do neither."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
