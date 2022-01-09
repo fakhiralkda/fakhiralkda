@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lack of direction, not lack of time, is the problem. We all have twenty-four hour days."</i>
+<i>"There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
