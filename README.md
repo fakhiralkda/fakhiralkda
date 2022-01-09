@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A very little key will open a very heavy door."</i>
+<i>"Lack of direction, not lack of time, is the problem. We all have twenty-four hour days."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
