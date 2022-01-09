@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim."</i>
+<i>"Go for it now. The future is promised to no one. "</i>
 <br>
-<b>- John D. Rockefeller</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
