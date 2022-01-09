@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The search for happiness is one of the chief sources of unhappiness."</i>
+<i>"Empty yourself of everything - let the mind become still."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
