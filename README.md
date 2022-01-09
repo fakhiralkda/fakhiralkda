@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Empty yourself of everything - let the mind become still."</i>
+<i>"Only the hand that erases can write the true thing."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
