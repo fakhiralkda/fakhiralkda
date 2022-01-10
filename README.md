@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is the dancer and you are the dance."</i>
+<i>"Good things aren't supposed to just fall into your lap."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
