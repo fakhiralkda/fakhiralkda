@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep away from people who try to belittle your ambitions."</i>
+<i>"Light a candle instead of cursing the darkness."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
