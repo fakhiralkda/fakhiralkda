@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not push the boundaries, you will never know where they are."</i>
+<i>"When the fish is caught we pay no more attention to the trap."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
