@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To belittle, you have to be little."</i>
+<i>"The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. "</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Charles Swindoll</b>
 </blockquote>
 </p>
 
