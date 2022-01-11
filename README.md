@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To arrive at the simplest truth requires years of contemplation."</i>
+<i>"Learn from the mistakes of others. You can't live long enough to make them all yourself."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
