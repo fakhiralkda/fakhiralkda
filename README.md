@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Obstacles are those frightful things you see when you take your eyes off your goals."</i>
+<i>"Life is and will ever remain an equation incapable of solution, but it contains certain known factors. "</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- Nikola Tesla</b>
 </blockquote>
 </p>
 
