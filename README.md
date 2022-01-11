@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The key to immortality is first living a life worth remembering. "</i>
+<i>"I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
