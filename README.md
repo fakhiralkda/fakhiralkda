@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be curious, not judgmental."</i>
+<i>"Nature is pleased with simplicity. And nature is no dummy."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
