@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The moment you doubt whether you can fly, you cease for ever to be able to do it."</i>
+<i>"Only when you can be extremely pliable and soft can you be extremely hard and strong."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
