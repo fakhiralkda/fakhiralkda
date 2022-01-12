@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dance first. Think later. It's the natural order."</i>
+<i>"Be curious, not judgmental."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
