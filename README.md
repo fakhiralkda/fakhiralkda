@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We suffer more often in imagination than in reality."</i>
+<i>"Curiosity is the most powerful thing you own."</i>
 <br>
-<b>- Seneca</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
