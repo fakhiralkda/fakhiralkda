@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If it entertains you now but will bore you someday, it's a distraction. Keep looking."</i>
+<i>"We suffer more often in imagination than in reality."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
