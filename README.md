@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Curiosity is the most powerful thing you own."</i>
+<i>"If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace."</i>
 <br>
-<b>- James Cameron</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
