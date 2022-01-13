@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is everything. It is the preview of life's coming attractions."</i>
+<i>"Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
