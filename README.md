@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no self-discovery without pain and loss."</i>
+<i>"Imagination is everything. It is the preview of life's coming attractions."</i>
 <br>
-<b>- Anita Krizzan</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
