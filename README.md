@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our attitude toward life determines life's attitude towards us."</i>
+<i>"There is no self-discovery without pain and loss."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
