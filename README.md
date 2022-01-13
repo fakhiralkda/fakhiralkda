@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person who says something is impossible should not interrupt the person who is doing it."</i>
+<i>"All problems are interpersonal relationship problems."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
