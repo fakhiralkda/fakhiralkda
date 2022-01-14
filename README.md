@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When a man is penalized for honesty he learns to lie."</i>
+<i>"Men are equal; it is not birth but virtue that makes the difference."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
