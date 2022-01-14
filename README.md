@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time goes from present to past."</i>
+<i>"There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
