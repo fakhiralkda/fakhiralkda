@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are three classes of people: those who see. Those who see when they are shown. Those who do not see."</i>
+<i>"Great minds are always feared by lesser minds."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
