@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great minds are always feared by lesser minds."</i>
+<i>"Everything eaten is killed. Every meal is a sacrifice."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Adi Da Samraj</b>
 </blockquote>
 </p>
 
