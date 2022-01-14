@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to be sad, no one in the world can make you happy. But if you make up your mind to be happy, no one and nothing on earth can take that happiness from you."</i>
+<i>"There are three classes of people: those who see. Those who see when they are shown. Those who do not see."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
