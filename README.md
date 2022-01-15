@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane."</i>
+<i>"Be a good animal, true to your instincts."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
