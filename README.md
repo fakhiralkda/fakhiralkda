@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey."</i>
+<i>"The primary cause of unhappiness is never the situation but your thoughts about it."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
