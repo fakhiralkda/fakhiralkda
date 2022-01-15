@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm not afraid of death, but I'm in no hurry to die."</i>
+<i>"To be fully alive is to feel that everything is possible."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
