@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just try to be the best you can be; never cease trying to be the best you can be. That's in your power."</i>
+<i>"Knowing is not enough, we must apply. Willing is not enough, we must do."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
