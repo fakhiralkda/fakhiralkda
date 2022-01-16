@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first rule of business; treat others like they want to treat you."</i>
+<i>"Don't wait for extraordinary opportunities. Seize common occasions and make them great."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
