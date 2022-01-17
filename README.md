@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As a man thinketh in his heart, so shall he be."</i>
+<i>"It's OK to have your eggs in one basket as long as you control what happens to that basket."</i>
 <br>
-<b>- James Allen</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
