@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Alone we can do so little; together we can do so much."</i>
+<i>"No matter what happens, always be yourself."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
