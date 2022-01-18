@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A goal is a dream with a deadline."</i>
+<i>"You're on earth. There's no cure for that."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
