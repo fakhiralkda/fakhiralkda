@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're really truthful with yourself, it's a wonderful guidance.  "</i>
+<i>"Not why the addiction but why the pain."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Gabor Mate</b>
 </blockquote>
 </p>
 
