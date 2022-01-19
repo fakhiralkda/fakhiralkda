@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't get in life what you want; you get in life what you are."</i>
+<i>"We can know only that we know nothing. And that is the highest degree of human wisdom."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
