@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't seek, don't search, don't ask, don't knock, don't demand – relax."</i>
+<i>"There is no self-discovery without pain and loss."</i>
 <br>
-<b>- Osho</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
