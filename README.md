@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not why the addiction but why the pain."</i>
+<i>"You don't get in life what you want; you get in life what you are."</i>
 <br>
-<b>- Gabor Mate</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
