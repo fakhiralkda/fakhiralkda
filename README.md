@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is what we make out of what we have, not what we are given, that separates one person from another."</i>
+<i>"Don't seek, don't search, don't ask, don't knock, don't demand – relax."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
