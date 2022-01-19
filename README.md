@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I've always tried to go a step past wherever people expected me to end up."</i>
+<i>"The price of inaction is far greater than the cost of making a mistake."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
