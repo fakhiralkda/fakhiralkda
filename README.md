@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conscience is a man's compass. "</i>
+<i>"Success is getting what you want... Happiness is wanting what you get."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
