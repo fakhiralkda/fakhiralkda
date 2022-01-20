@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Instead of being intimidated by the limitations, be inspired to find new ways around them."</i>
+<i>"You will not do incredible things without an incredible dream."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
