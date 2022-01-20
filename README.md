@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is getting what you want... Happiness is wanting what you get."</i>
+<i>"We have no more right to consume happiness without producing it than to consume wealth without producing it."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
