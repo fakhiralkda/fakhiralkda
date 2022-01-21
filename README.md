@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't argue both sides, you can't argue."</i>
+<i>"Little by little, one travels far."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
