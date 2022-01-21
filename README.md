@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man has to learn that he cannot command things but that he can command himself; that he cannot coerce the wills of others but that he can mold and master his own will."</i>
+<i>"Not all of us can do great things. But we can do small things with great love."</i>
 <br>
-<b>- James Allen</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
