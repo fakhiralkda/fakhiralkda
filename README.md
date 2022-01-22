@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will have bad times, but they will always wake you up to the stuff you weren't paying attention to."</i>
+<i>"What's right is what's left if you do everything else wrong."</i>
 <br>
 <b>- Robin Williams</b>
 </blockquote>
