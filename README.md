@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To wish you were someone else is to waste the person you are."</i>
+<i>"A man who cannot tolerate small misfortunes can never accomplish great things."</i>
 <br>
-<b>- Unknown</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
