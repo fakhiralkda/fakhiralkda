@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing."</i>
+<i>"You will have bad times, but they will always wake you up to the stuff you weren't paying attention to."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
