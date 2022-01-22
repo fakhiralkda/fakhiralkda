@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man who cannot tolerate small misfortunes can never accomplish great things."</i>
+<i>"Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
