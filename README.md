@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We build too many walls and not enough bridges."</i>
+<i>"There is no absolute success in the world, only constant progress."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
