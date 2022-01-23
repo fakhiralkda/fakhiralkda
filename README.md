@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I love fools' experiments. I am always making them."</i>
+<i>"The ability to observe without evaluating is the highest form of intelligence."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
