@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored."</i>
+<i>"Normality is a paved road; It's comfortable to walk, but no flowers grow on it."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
