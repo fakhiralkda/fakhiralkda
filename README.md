@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Well done is better than well said."</i>
+<i>"Human beings believe just as they breathe - in order to survive."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
