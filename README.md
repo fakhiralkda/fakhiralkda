@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Normality is a paved road; It's comfortable to walk, but no flowers grow on it."</i>
+<i>"What the caterpillar calls the end of the world, the master calls a butterfly."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
