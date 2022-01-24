@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter how tall the mountain is, it cannot block the sun."</i>
+<i>"The way to love anything is to realize that it may be lost."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
