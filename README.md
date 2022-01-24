@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human beings believe just as they breathe - in order to survive."</i>
+<i>"Acknowledging the good that you already have in your life is the foundation for all abundance."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
