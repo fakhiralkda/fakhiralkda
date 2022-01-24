@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"New beginnings are disguised as painful endings."</i>
+<i>"To know your Enemy, you must become your Enemy."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
