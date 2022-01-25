@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone must choose one of two pains: The pain of discipline or the pain of regret."</i>
+<i>"Life can be the scariest and most beautiful thing simultaneously."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
