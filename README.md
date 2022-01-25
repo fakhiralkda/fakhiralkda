@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is really work unless you would rather be doing something else. "</i>
+<i>"Everyone must choose one of two pains: The pain of discipline or the pain of regret."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
