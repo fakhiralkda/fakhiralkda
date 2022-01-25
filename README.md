@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Outstanding people have one thing in common: an absolute sense of mission.  "</i>
+<i>"It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
