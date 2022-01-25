@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable."</i>
+<i>"Nothing is really work unless you would rather be doing something else. "</i>
 <br>
-<b>- Elon Musk</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
