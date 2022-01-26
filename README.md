@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the expression of one's values."</i>
+<i>"As soon as you truly commit to making something happen, the ‘how' will reveal itself."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
