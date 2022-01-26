@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As soon as you truly commit to making something happen, the ‘how' will reveal itself."</i>
+<i>"You don't get in life what you want; you get in life what you are."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
