@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Simple words, repeated daily, can change your life."</i>
+<i>"We think too much and feel too little."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
