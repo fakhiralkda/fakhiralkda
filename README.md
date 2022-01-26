@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We think too much and feel too little."</i>
+<i>"It is impossible for a man to learn what he thinks he already knows."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
