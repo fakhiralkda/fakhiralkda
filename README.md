@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When it comes to mastering a skill, time is the magic ingredient."</i>
+<i>"It's the job that's never started that takes the longest to finish."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
