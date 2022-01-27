@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Judge a man by his questions rather than his answers."</i>
+<i>"When it comes to mastering a skill, time is the magic ingredient."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
