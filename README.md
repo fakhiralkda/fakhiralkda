@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I try more and more to be myself, caring relatively little whether people approve or disapprove."</i>
+<i>"Looking after my health today gives me a better hope for tomorrow. "</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Anne Wilson Schaef</b>
 </blockquote>
 </p>
 
