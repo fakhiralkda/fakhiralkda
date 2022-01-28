@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Looking after my health today gives me a better hope for tomorrow. "</i>
+<i>"What worries you, masters you."</i>
 <br>
-<b>- Anne Wilson Schaef</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
