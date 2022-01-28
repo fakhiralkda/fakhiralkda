@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wealth consists not in having great possessions, but in having few wants."</i>
+<i>"Even a hare will bite when it is cornered. "</i>
 <br>
-<b>- Epictetus</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
