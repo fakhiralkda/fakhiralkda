@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The present moment is filled with joy and happiness. If you are attentive, you will see it."</i>
+<i>"People do not decide their futures, they decide their habits and their habits decide their futures."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
