@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any fool can turn a blind eye but who knows what the ostrich sees in the sand."</i>
+<i>"To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
