@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even a hare will bite when it is cornered. "</i>
+<i>"No man is free who is not master of himself."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
