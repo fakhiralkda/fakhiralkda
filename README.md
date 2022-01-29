@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future."</i>
+<i>"Knowledge is learning something everyday. Wisdom is letting go of something everyday."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
