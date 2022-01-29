@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength."</i>
+<i>"Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
