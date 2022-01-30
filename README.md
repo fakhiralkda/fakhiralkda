@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime."</i>
+<i>"Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
