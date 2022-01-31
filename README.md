@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is getting what you want... Happiness is wanting what you get."</i>
+<i>"Disobedience is the true foundation of liberty. The obedient must be slaves."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
