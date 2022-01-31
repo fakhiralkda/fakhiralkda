@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One loyal friend is worth ten thousand relatives."</i>
+<i>"He suffers more than necessary, who suffers before it is necessary.  "</i>
 <br>
-<b>- Euripides</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
