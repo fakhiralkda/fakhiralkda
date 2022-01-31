@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Instead of worrying about what you cannot control, shift your energy to what you can create."</i>
+<i>"Develop success from failures. Discouragement and failure are two of the surest stepping stones to success."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
