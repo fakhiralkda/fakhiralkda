@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that."</i>
+<i>"When you rise in the morning, form a resolution to make the day a happy one for a fellow creature."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
