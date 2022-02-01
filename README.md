@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Associate with people who are likely to improve you.  "</i>
+<i>"It's easier to lose than to win.  "</i>
 <br>
-<b>- Seneca</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
