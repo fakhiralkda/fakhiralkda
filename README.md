@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's wise to tell the truth. It's even wiser to tell it kindly."</i>
+<i>"Your greatest asset is your earning ability. Your greatest resource is your time."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
