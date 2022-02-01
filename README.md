@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of getting ahead is getting started."</i>
+<i>"It's wise to tell the truth. It's even wiser to tell it kindly."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
