@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is feedback. Learn from it and move on."</i>
+<i>"Luck is what happens when preparation meets opportunity.  "</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
