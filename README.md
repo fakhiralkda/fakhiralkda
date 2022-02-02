@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Muddy water is best cleared by leaving it alone."</i>
+<i>"Do every act of your life as if it were your last."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
