@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Investing in yourself is the best investment you will ever make."</i>
+<i>"It's not what we do once in a while that shapes our lives, but what we do consistently."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
