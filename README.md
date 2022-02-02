@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The present moment is filled with joy and happiness. If you are attentive, you will see it."</i>
+<i>"Muddy water is best cleared by leaving it alone."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
