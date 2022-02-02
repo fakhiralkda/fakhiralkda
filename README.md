@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is impossible for a man to learn what he thinks he already knows."</i>
+<i>"Live calmly. The time will come when the flowers bloom by themselves."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
