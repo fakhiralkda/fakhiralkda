@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all."</i>
+<i>"Take care of your body. It's the only place you have to live."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
