@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take care of your body. It's the only place you have to live."</i>
+<i>"A mistake is only an error, it becomes a mistake when you fail to correct it."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
