@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Luck is what happens when preparation meets opportunity.  "</i>
+<i>"Someone who points out your flaws to you is not necessarily your enemy. Someone who speaks of your virtues is not necessarily your friend."</i>
 <br>
-<b>- Seneca</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
