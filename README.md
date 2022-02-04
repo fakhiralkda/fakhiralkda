@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creative endeavors are by their nature uncertain."</i>
+<i>"Happiness is pretty simple: someone to love, something to do, something to look forward to."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
