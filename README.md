@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words are clothes that thoughts wear"</i>
+<i>"One day, in retrospect, the years of struggle will strike you as the most beautiful."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
