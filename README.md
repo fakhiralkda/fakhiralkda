@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything is created twice, first in the mind and then in reality."</i>
+<i>"Creative endeavors are by their nature uncertain."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
