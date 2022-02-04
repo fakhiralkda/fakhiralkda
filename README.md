@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is sometimes the best answer"</i>
+<i>"Words are clothes that thoughts wear"</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
