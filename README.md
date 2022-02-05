@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't."</i>
+<i>"Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
