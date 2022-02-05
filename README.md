@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sadness is but a wall between two gardens."</i>
+<i>"Numbing the pain for a while will only make it worse when you finally feel it."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
