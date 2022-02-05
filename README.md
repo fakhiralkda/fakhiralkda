@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Too many of us are not living our dreams because we are living our fears."</i>
+<i>"Sadness is but a wall between two gardens."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
