@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid to give up the good to go for the great."</i>
+<i>"Genius is the ability to act rightly without precedent - the power to do the right thing the first time."</i>
 <br>
-<b>- John D. Rockefeller</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
