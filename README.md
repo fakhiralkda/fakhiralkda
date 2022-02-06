@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine."</i>
+<i>"The fear of death is more to be feared, than death itself."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
