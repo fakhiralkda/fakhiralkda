@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our deeds determine us, as much as we determine our deeds."</i>
+<i>"Projecting your mind into a successful situation is the most powerful means to achieve goals.  "</i>
 <br>
-<b>- George Eliot</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
