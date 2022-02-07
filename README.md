@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one has ever become poor by giving."</i>
+<i>"Our deeds determine us, as much as we determine our deeds."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
