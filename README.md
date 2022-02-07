@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Projecting your mind into a successful situation is the most powerful means to achieve goals.  "</i>
+<i>"An intelligence test sometimes shows a man how smart he would have been not to have taken it."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
