@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The highest form of ignorance is when you reject something you don't know anything about. "</i>
+<i>"You cannot control the behavior of others, but you can always choose how you respond to it."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
