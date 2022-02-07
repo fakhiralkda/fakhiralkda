@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I know not all that may be coming, but be it what it will, I'll go to it laughing."</i>
+<i>"Whenever you find yourself on the side of the majority, it is time to reform."</i>
 <br>
-<b>- Herman Melville</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
