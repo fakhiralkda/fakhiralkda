@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have to live life with a sense of urgency so not a minute is wasted."</i>
+<i>"No one has ever become poor by giving."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
