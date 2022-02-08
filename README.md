@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people don't like change, but you need to embrace change if the alternative is disaster."</i>
+<i>"Loss is nothing else but change and change is nature's delight."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
