@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we have no peace, it is because we have forgotten that we belong to each other."</i>
+<i>"He who possesses most must be most afraid of loss."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
