@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who possesses most must be most afraid of loss."</i>
+<i>"Every time we liberate a woman, we liberate a man. "</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
