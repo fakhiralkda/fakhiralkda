@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win."</i>
+<i>"There is nothing more frightful than ignorance in action."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
