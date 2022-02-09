@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're always free to change your mind and choose a different future, or a different past."</i>
+<i>"Don't think money does everything or you are going to end up doing everything for money."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
