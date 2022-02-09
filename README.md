@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We love the things we love for what they are."</i>
+<i>"The less people know, the more stubbornly they know it."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
