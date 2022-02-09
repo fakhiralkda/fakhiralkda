@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As you love yourself, life loves you back."</i>
+<i>"Always do your best. What you plant now, you will harvest later."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
