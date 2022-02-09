@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power."</i>
+<i>"As you love yourself, life loves you back."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
