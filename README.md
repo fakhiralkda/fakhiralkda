@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less people know, the more stubbornly they know it."</i>
+<i>"Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win."</i>
 <br>
-<b>- Osho</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
