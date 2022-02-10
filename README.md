@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People who say it cannot be done should not interrupt those who are doing it."</i>
+<i>"Silence is a source of great strength."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
