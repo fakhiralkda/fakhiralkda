@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one has ever become poor by giving."</i>
+<i>"You are now, and you do become, what you think about."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
