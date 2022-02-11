@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It takes a minute to have a crush on someone, an hour to like someone, and a day to love someone... but it takes a lifetime to forget someone."</i>
+<i>"Imagination is more important than knowledge."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
