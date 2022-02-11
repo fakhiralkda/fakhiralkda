@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never let your memories be greater than your dreams."</i>
+<i>"Every strike brings me closer to the next home run. "</i>
 <br>
-<b>- Doug Ivester</b>
+<b>- Babe Ruth</b>
 </blockquote>
 </p>
 
