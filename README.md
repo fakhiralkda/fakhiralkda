@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The day is for honest men, the night for thieves."</i>
+<i>"A tiger doesn't lose sleep over the opinion of sheep."</i>
 <br>
-<b>- Euripides</b>
+<b>- Shahir Zag</b>
 </blockquote>
 </p>
 
