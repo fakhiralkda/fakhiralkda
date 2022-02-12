@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All leaders are readers."</i>
+<i>"Success is the progressive realization of a worthy goal or ideal."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
