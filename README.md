@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Watch what you say, and whaterver you say, practice it."</i>
+<i>"The more acquaintances you have, the less you know them."</i>
 <br>
-<b>- Soyen Shaku</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
