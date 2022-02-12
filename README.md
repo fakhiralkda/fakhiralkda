@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When asked, how do you write? I invariably answer, one word at a time."</i>
+<i>"Small men think they are small; great men never know they are great. "</i>
 <br>
-<b>- Stephen King</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
