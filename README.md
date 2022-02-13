@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Darkness is the absence of light."</i>
+<i>"Talent is luck. The important thing in life is courage."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
