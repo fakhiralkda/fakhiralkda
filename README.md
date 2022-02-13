@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am not absentminded. It is the presence of mind that makes me unaware of everything else."</i>
+<i>"Learn only how to avoid seeking for and attaching yourselves to anything."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
