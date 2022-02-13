@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ideas do not reach perfection in a day, no matter how much study is put upon them."</i>
+<i>"Circumstances rule men; men do not rule circumstances. "</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
