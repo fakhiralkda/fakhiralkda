@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the first signs of the beginning of understanding is the wish to die. "</i>
+<i>"Ideas do not reach perfection in a day, no matter how much study is put upon them."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
