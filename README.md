@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go as far as you can see and you will see further.  "</i>
+<i>"Awakening is possible only for those who seek it and want it."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- G.I. Gurdjieff</b>
 </blockquote>
 </p>
 
