@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Instead of being intimidated by the limitations, be inspired to find new ways around them."</i>
+<i>"We need never be ashamed of our tears."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
