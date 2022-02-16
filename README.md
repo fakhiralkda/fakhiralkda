@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you see a get rich quick scheme, that's someone else trying to get rich off of you."</i>
+<i>"I dream my painting and I paint my dream."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
