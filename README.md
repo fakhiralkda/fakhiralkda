@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always forgive your enemies - nothing annoys them so much. "</i>
+<i>"We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
