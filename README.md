@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play."</i>
+<i>"If you see a get rich quick scheme, that's someone else trying to get rich off of you."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
