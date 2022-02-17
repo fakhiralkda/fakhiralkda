@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your only limitations are those you set up in your mind or permit others to set up for you."</i>
+<i>"Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
