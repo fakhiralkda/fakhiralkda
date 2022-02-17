@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From morning till night, we should never rely on a single thing."</i>
+<i>"Question everything. Learn something. Answer nothing."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
