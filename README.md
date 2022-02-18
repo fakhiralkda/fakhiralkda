@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The highest level of wisdom is when you not only accept but love adversity."</i>
+<i>"It is difficult to free fools from the chains they revere. "</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
