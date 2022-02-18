@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be angry is to revenge the faults of others on ourselves."</i>
+<i>"Where words fail, music speaks."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
