@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Very little is needed to make a happy life; it is all within yourself, in your way of thinking."</i>
+<i>"The highest level of wisdom is when you not only accept but love adversity."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
