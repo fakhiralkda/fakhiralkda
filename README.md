@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not the knowing that is difficult, but the doing. "</i>
+<i>"You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
