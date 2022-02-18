@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything you've ever wanted is on the other side of fear."</i>
+<i>"Admire as much as you can. Most people do not admire enough."</i>
 <br>
-<b>- George Addair</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
