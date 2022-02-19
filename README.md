@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dance first. Think later. It's the natural order."</i>
+<i>"He who can, does."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
