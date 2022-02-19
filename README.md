@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't need anybody to tell you who you are or what you are. You are what you are!"</i>
+<i>"Dance first. Think later. It's the natural order."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
