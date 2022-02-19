@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Obstacles don't block the path, they are the path."</i>
+<i>"You don't need anybody to tell you who you are or what you are. You are what you are!"</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
