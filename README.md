@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One is never afraid of the unknown; one is afraid of the known coming to an end."</i>
+<i>"When you're the only sane person, you look like the only insane person."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
