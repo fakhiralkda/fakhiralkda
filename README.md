@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never spend your money before you have earned it."</i>
+<i>"You are free, and that is why you are lost. "</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
