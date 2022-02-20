@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is those who concentrate on but one thing at a time who advance in this world."</i>
+<i>"Sometimes you will never know the value of something, until it becomes a memory."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
