@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throughout this life, you can never be certain of living long enough to take another breath."</i>
+<i>"To lead the people, walk behind them."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
