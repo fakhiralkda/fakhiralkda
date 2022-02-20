@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your problem isn't the problem. Your reaction is the problem."</i>
+<i>"Wealth is the product of man's capacity to think."</i>
 <br>
-<b>- Unknown</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
