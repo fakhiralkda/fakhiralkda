@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wealth is the product of man's capacity to think."</i>
+<i>"Insanity is relative. It depends on who has who locked in what cage.  "</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
