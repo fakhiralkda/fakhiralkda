@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win."</i>
+<i>"Today you are you, that is truer than true. There is no one alive who is you-er than you."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
