@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be royal in your own fashion: act like a king to be treated like one."</i>
+<i>"Never let the things you can't do stop you from doing what you can."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
