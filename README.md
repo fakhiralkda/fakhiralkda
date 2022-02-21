@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No amount of regretting can change the past, and no amount of worrying can change the future."</i>
+<i>"A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
