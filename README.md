@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths."</i>
+<i>"It is better to offer no excuse than a bad one. "</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
