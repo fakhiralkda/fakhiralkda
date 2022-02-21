@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to offer no excuse than a bad one. "</i>
+<i>"A loving heart is the truest wisdom."</i>
 <br>
-<b>- George Washington</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
