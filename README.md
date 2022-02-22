@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today you are you, that is truer than true. There is no one alive who is you-er than you."</i>
+<i>"The way to get started is to quit talking and begin doing."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
