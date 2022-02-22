@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let what you cannot do interfere with what you can do."</i>
+<i>"I have not failed. I've just found 10,000 ways that won't work."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
