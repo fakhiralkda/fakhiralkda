@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never let the fear of striking out keep you from playing the game."</i>
+<i>"One must be poor to know the luxury of giving."</i>
 <br>
-<b>- Babe Ruth</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
