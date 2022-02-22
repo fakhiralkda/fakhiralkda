@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Science can flourish only in an atmosphere of free speech. "</i>
+<i>"Each problem has a positive side."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
