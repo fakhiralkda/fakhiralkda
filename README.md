@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have not failed. I've just found 10,000 ways that won't work."</i>
+<i>"Never let the fear of striking out keep you from playing the game."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Babe Ruth</b>
 </blockquote>
 </p>
 
