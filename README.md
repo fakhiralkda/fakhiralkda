@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way to get started is to quit talking and begin doing."</i>
+<i>"Don't let what you cannot do interfere with what you can do."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
