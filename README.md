@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A needle is not sharp at both ends. "</i>
+<i>"Life is a series of choices and all we can do is make them."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
