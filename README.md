@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's easier to lose than to win.  "</i>
+<i>"A zen master's life is one continuous mistake."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
