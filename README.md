@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who are easily shocked should be shocked more often."</i>
+<i>"I will not walk backward in life."</i>
 <br>
-<b>- Mae West</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
