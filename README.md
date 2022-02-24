@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is startling to realize how much unbelief is necessary to make belief possible."</i>
+<i>"Nothing can bring you peace but yourself."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
