@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world makes way for the man who knows where he is going."</i>
+<i>"A journey of a thousand miles must begin with a single step."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
