@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A zen master's life is one continuous mistake."</i>
+<i>"Judgments prevent us from seeing the good that lies beyond appearances.  "</i>
 <br>
-<b>- Dogen</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
