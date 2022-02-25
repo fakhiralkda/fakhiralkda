@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people."</i>
+<i>"People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
