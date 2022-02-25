@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can't help everyone, but everyone can help someone."</i>
+<i>"To live is to be willing to die over and over again."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
