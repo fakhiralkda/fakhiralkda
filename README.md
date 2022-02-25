@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way of success is the way of continuous pursuit of knowledge."</i>
+<i>"We can't help everyone, but everyone can help someone."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
