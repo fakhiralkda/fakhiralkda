@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all different. Don't judge, understand instead."</i>
+<i>"Trusting our intuition often saves us from disaster. "</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Anne Wilson Schaef</b>
 </blockquote>
 </p>
 
