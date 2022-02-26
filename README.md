@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one can compete with you on being you. Most of life is a search for who and what needs you the most."</i>
+<i>"Presents are made for the pleasure of who gives them, not the merits of who receives them."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
