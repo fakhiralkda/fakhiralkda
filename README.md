@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How much pain they have cost us, the evils which have never happened."</i>
+<i>"If you set your goals ridiculously high and its a failure, you will fail above everyone elses success."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
