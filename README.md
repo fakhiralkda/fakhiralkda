@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your problem isn't the problem. Your reaction is the problem."</i>
+<i>"Confuse them with your silence and amaze them with your actions."</i>
 <br>
 <b>- Unknown</b>
 </blockquote>
