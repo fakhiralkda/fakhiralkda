@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confuse them with your silence and amaze them with your actions."</i>
+<i>"We are all different. Don't judge, understand instead."</i>
 <br>
-<b>- Unknown</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
