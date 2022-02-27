@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You play the hand you're dealt. I think the game's worthwhile.  "</i>
+<i>"Success is liking yourself, liking what you do, and liking how you do it."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
