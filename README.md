@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind."</i>
+<i>"You play the hand you're dealt. I think the game's worthwhile.  "</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
