@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All problems are illusions of the mind."</i>
+<i>"A tiger doesn't lose sleep over the opinion of sheep."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Shahir Zag</b>
 </blockquote>
 </p>
 
