@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose."</i>
+<i>"The quality of your life is the quality of your relationships."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
