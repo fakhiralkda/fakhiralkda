@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where violence reigns, reason is weak."</i>
+<i>"Make no small plans for they have no power to stir the soul."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
