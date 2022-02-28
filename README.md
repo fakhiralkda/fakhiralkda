@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quality of your life is the quality of your relationships."</i>
+<i>"Where violence reigns, reason is weak."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
