@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more perfect a person is on the outside, the more demons they have on the inside."</i>
+<i>"Is it really possible to tell someone else what one feels?"</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
