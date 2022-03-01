@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people feel the rain. Others just get wet. "</i>
+<i>"Continuous effort - not strength or intelligence - is the key to unlocking our potential."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
