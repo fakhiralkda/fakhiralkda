@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every one of us is the sum total of his own thoughts."</i>
+<i>"Intelligence is the ability to adapt to change."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
