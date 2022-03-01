@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some of your greatest lessons come from your darkest moments."</i>
+<i>"Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives."</i>
 <br>
-<b>- Roger Lee</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
