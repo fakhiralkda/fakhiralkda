@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Is it really possible to tell someone else what one feels?"</i>
+<i>"You talk when you cease to be at peace with your thoughts."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
