@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success does not consist in never making mistakes but in never making the same one a second time."</i>
+<i>"If you are lucky enough to find love, remember it is there and don't throw it away."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
