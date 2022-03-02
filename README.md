@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are lucky enough to find love, remember it is there and don't throw it away."</i>
+<i>"The road to success and the road to failure are almost exactly the same."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Colin R. Davis</b>
 </blockquote>
 </p>
 
