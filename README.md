@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives."</i>
+<i>"Honor is the foundation of courage."</i>
 <br>
-<b>- Betty White</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
