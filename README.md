@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Experience is simply the name we give our mistakes. "</i>
+<i>"It is better to light a single candle than to curse the darkness."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
