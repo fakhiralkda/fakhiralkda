@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take into account that great love and great achievements involve great risk."</i>
+<i>"No great discovery was ever made without a bold guess. "</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
