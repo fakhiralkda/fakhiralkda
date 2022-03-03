@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winning isn't everything, but wanting to win is."</i>
+<i>"Courage is found in unlikely places."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
