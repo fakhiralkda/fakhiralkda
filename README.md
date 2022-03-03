@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must be willing to do what others won't do, to have what others won't have."</i>
+<i>"If you're afraid - don't do it, - if you're doing it - don't be afraid! "</i>
 <br>
-<b>- Les Brown</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
