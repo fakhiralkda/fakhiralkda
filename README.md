@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To live is to be willing to die over and over again."</i>
+<i>"Winning isn't everything, but wanting to win is."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
