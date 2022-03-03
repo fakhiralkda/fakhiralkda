@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No great discovery was ever made without a bold guess. "</i>
+<i>"To be great is to be misunderstood."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
