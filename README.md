@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop wasting time defending your problems and work on addressing them instead."</i>
+<i>"Opportunity is missed by most people because it is dressed in overalls and looks like work."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
