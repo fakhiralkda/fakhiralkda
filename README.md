@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."</i>
+<i>"The foolish reject what they see, not what they think; the wise reject what they think, not what they see."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
