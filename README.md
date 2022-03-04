@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always seek out the seed of triumph in every adversity."</i>
+<i>"Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
