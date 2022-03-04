@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All power is from within and therefore under our control."</i>
+<i>"People who say it cannot be done should not interrupt those who are doing it."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
