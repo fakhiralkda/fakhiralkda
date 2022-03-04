@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People who say it cannot be done should not interrupt those who are doing it."</i>
+<i>"If you can change your mind, you can change your life."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
