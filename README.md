@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The foolish reject what they see, not what they think; the wise reject what they think, not what they see."</i>
+<i>"To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
