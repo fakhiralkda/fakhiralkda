@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"At first dreams seem impossible, then improbable, then inevitable."</i>
+<i>"Always seek out the seed of triumph in every adversity."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
