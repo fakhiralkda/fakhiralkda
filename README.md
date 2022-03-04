@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength."</i>
+<i>"Stop wasting time defending your problems and work on addressing them instead."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
