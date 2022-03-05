@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life can only be understood backwards; but it must be lived forwards."</i>
+<i>"Change begets change. Nothing propagates so fast."</i>
 <br>
-<b>- Soren Kierkegaard</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
