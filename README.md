@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated."</i>
+<i>"Why fit in when you were born to stand out?"</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
