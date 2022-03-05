@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why fit in when you were born to stand out?"</i>
+<i>"When you are content to be simply yourself and don't compare or compete, everybody will respect you. "</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
