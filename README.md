@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't build a reputation on what you are going to do. "</i>
+<i>"A man sooner or later discovers that he is the master-gardener of his soul, the director of his life."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
