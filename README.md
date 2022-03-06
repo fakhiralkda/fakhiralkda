@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pleasure is always derived from something outside you, whereas joy arises from within. "</i>
+<i>"From the errors of others, a wise man corrects his own."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
