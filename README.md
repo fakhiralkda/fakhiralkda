@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations."</i>
+<i>"Peaceful is the one who expects nothing."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
