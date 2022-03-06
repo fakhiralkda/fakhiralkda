@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never was anything great achieved without danger."</i>
+<i>"A thing must be loved before it is lovable."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
