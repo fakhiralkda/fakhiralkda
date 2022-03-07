@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live your life and forget your age."</i>
+<i>"Progress is limited by your ability to change your mind."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
