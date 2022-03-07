@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anything you may hold firmly in your imagination can be yours."</i>
+<i>"Live your life and forget your age."</i>
 <br>
-<b>- William James</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
