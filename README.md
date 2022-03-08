@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise person should have money in their head, but not in their heart."</i>
+<i>"No tree, it is said, can grow to heaven unless its roots reach down to hell."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
