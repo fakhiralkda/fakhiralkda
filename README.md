@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't have to be great to start, but you have to start to be great.  "</i>
+<i>"A wise person should have money in their head, but not in their heart."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
