@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No tree, it is said, can grow to heaven unless its roots reach down to hell."</i>
+<i>"Even if you stumble and fall down, it doesn't mean you've chosen the wrong path."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
