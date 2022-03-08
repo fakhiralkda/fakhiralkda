@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't talk about what you have done or what you are going to do."</i>
+<i>"From morning till night, we should never rely on a single thing."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
