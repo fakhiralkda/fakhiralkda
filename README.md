@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone is a moon, and has a dark side which he never shows to anybody."</i>
+<i>"Strategy is a commodity, execution is an art."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
