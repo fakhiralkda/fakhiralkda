@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want something you've never had you must be willing to do something you've never done."</i>
+<i>"What would life be if we had no courage to attempt anything? "</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
