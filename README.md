@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time."</i>
+<i>"It is better to offer no excuse than a bad one. "</i>
 <br>
-<b>- Og Mandino</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
