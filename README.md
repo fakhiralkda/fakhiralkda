@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What lies behind us and what lies before us are tiny matters compared to what lies within us."</i>
+<i>"If you want something you've never had you must be willing to do something you've never done."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
