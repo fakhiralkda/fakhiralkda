@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no such thing as a great talent without great willpower."</i>
+<i>"I know of only one duty, and that is to love."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
