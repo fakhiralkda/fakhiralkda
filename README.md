@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only thing worse than being blind is having sight but no vision."</i>
+<i>"Goodness is the only investment that never fails."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
