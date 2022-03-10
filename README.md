@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No great discovery was ever made without a bold guess. "</i>
+<i>"A comfort zone is a beautiful place, but nothing ever grows there."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
