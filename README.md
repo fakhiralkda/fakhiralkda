@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fools talk, cowards are silent, wise men listen."</i>
+<i>"No great discovery was ever made without a bold guess. "</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
