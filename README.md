@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The moment you doubt whether you can fly, you cease for ever to be able to do it."</i>
+<i>"It's not how much money you make, it's how much money you keep."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
