@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have to keep breaking your heart until it opens."</i>
+<i>"Becoming a great leader doesn't mean being perfect. it means living with your imperfections."</i>
 <br>
-<b>- Rumi</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
