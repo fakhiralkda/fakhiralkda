@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go and do the things you can't. That is how you get to do them."</i>
+<i>"Keep away from people who try to belittle your ambitions."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
