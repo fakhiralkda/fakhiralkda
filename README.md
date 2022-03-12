@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You know the more one does the more one can do."</i>
+<i>"In youth we run into difficulties. In old age difficulties run into us. "</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
