@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest deception men suffer is from their own opinions."</i>
+<i>"The quality of your life is determined by the quality of questions you ask."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
