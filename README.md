@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better the cottage where one is merry than the palace where one weeps."</i>
+<i>"If you don't know where you're going, you will probably end up somewhere else."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
