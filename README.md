@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you tell the truth, you don't have to remember anything."</i>
+<i>"The greatest deception men suffer is from their own opinions."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
