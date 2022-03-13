@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A thing must be loved before it is lovable."</i>
+<i>"Comedy = tragedy + time."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
