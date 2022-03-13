@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is the price that life exacts for granting peace."</i>
+<i>"Do not try to be on the side of the majority, but live according to your inner laws."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
