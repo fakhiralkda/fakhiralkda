@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not try to be on the side of the majority, but live according to your inner laws."</i>
+<i>"Enthusiasm is a vital element toward the individual success of every man or woman."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
