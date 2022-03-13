@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A path is made by walking on it."</i>
+<i>"A thing must be loved before it is lovable."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
