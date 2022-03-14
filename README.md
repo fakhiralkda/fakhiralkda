@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The businessman's tool is value."</i>
+<i>"Truth is the offspring of silence and meditation."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
