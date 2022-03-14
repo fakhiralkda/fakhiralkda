@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you're curious, you find lots of interesting things to do."</i>
+<i>"Never let your memories be greater than your dreams."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Doug Ivester</b>
 </blockquote>
 </p>
 
