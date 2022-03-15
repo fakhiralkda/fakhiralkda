@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Raise your words, not voice. It is rain that grows flowers, not thunder."</i>
+<i>"Bloom where you are planted!"</i>
 <br>
-<b>- Rumi</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
