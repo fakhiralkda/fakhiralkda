@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Death smiles at us all. All we can do is smile back."</i>
+<i>"From error to error one discovers the entire truth."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
