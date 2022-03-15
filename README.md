@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Plants grow weak without wind."</i>
+<i>"The constant assertion of belief is an indication of fear."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
