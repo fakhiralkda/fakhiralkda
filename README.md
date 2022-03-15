@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The constant assertion of belief is an indication of fear."</i>
+<i>"You'll never find rainbows if you're looking down.  "</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
