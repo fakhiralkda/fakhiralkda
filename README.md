@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear is a natural reaction to moving closer to the truth."</i>
+<i>"Stop being a prisoner of your past. Become the architect of your future."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
