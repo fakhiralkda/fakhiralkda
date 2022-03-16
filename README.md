@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You'll never find rainbows if you're looking down.  "</i>
+<i>"Our deeds determine us, as much as we determine our deeds."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
