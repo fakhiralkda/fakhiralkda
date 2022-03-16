@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He is not a lover who does not love forever."</i>
+<i>"The first man gets the oyster, the second man gets the shell."</i>
 <br>
-<b>- Euripides</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
