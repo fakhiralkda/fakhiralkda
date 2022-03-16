@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our deeds determine us, as much as we determine our deeds."</i>
+<i>"He is not a lover who does not love forever."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
