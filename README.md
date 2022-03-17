@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Inspire yourself to be great. Being good isn't good enough."</i>
+<i>"Everything is created twice, first in the mind and then in reality."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
