@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our greatest glory is not in never falling, but in rising every time we fall. "</i>
+<i>"It is only depth of character that determines the profundity with which we face life."</i>
 <br>
-<b>- Confucius</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
