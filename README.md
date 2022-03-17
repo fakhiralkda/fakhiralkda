@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have to keep breaking your heart until it opens."</i>
+<i>"Your goals are the road maps that guide you and show you what is possible for your life."</i>
 <br>
-<b>- Rumi</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
