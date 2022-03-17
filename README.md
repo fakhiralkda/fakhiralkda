@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is only depth of character that determines the profundity with which we face life."</i>
+<i>"Do not follow the ideas of others, but learn to listen to the voice within yourself."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
