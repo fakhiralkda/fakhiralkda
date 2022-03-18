@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable."</i>
+<i>"Our deeds determine us, as much as we determine our deeds."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
