@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wisdom of life consists in the elimination of the nonessentials."</i>
+<i>"Rest in reason; move in passion."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
