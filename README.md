@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear can hold you prisoner. Hope can set you free."</i>
+<i>"The time is always right to do what is right."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
