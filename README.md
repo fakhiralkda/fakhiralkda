@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long."</i>
+<i>"It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable."</i>
 <br>
 <b>- Elon Musk</b>
 </blockquote>
