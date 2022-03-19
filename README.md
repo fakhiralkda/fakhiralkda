@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less you try to impress, the more peaceful you can be."</i>
+<i>"To every action there is always opposed an equal reaction."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
