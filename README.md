@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To every action there is always opposed an equal reaction."</i>
+<i>"If I can laugh, I can live."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
