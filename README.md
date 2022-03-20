@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our stories may be singular, but our destination is shared."</i>
+<i>"Think and wonder, wonder and think."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
