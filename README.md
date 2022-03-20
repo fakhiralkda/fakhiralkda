@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I was wise enough to never grow up while fooling most people into believing I had. "</i>
+<i>"There is no limitations except those we create for ourselves."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
