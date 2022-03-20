@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Shoot for the moon. Even if you miss, you'll land among the stars."</i>
+<i>"Our stories may be singular, but our destination is shared."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
