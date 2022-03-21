@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you've made a mistake, it's better just to laugh at it."</i>
+<i>"One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
