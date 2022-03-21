@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"However difficult life may seem, there is always something you can do and succeed at."</i>
+<i>"The soul without imagination is what an observatory would be without a telescope."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
