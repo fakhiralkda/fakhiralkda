@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only real mistake is the one from which we learn nothing. "</i>
+<i>"If you can handle rejection, you'll learn to get everything you want."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
