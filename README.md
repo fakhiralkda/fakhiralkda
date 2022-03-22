@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why live an ordinary life, when you can live an extraordinary one."</i>
+<i>"It is during our darkest moments that we must focus to see the light."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
