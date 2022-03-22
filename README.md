@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It still holds true that man is most uniquely human when he turns obstacles into opportunities."</i>
+<i>"Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
