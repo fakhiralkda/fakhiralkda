@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'd rather welcome change than cling to the past."</i>
+<i>"I am not what happened to me, I am what I choose to become."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
