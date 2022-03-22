@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The key to success is action."</i>
+<i>"A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
