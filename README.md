@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who wishes to fight must first count the cost."</i>
+<i>"It still holds true that man is most uniquely human when he turns obstacles into opportunities."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
