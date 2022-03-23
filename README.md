@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"They say love is the best investment; the more you give, the more you get in return."</i>
+<i>"The sun shines upon good and bad alike."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
