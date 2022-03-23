@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have the ability, now apply yourself."</i>
+<i>"The eyes of others our prisons; their thoughts our cages."</i>
 <br>
-<b>- Benjamin Mays</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
