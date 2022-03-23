@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The sun shines upon good and bad alike."</i>
+<i>"Discipline is the mark of intelligent living."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
