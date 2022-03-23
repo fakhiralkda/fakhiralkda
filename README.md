@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can."</i>
+<i>"There are people who have money and people who are rich."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
