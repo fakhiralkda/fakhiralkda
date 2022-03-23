@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Discipline is the mark of intelligent living."</i>
+<i>"You have the ability, now apply yourself."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Benjamin Mays</b>
 </blockquote>
 </p>
 
