@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are people who have money and people who are rich."</i>
+<i>"It is dangerous to be right in matters on which the established authorities are wrong."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
