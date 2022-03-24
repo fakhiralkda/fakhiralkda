@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be kind whenever possible. It is always possible."</i>
+<i>"To be alive - is Power."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
