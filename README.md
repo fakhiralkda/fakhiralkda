@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How much pain they have cost us, the evils which have never happened."</i>
+<i>"Be kind whenever possible. It is always possible."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
