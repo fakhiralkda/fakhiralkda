@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want peace, you won't get it with violence."</i>
+<i>"How much pain they have cost us, the evils which have never happened."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
