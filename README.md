@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be alive - is Power."</i>
+<i>"By the practice of meditation, you will find that you are carrying within your heart a portable paradise."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
