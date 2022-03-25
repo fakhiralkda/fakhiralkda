@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not engaging in ignorance is wisdom. "</i>
+<i>"Freedom lies in being bold."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
