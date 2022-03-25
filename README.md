@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The four P's to success are pressure, persistence, perseverance, and prayer."</i>
+<i>"Leaders think and talk about solutions. Followers think and talk about the problems."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
