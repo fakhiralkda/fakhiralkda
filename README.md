@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good things aren't supposed to just fall into your lap."</i>
+<i>"Not engaging in ignorance is wisdom. "</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
