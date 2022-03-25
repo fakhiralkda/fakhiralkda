@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Falling down is not failure. Failure comes when you stay where you have fallen."</i>
+<i>"Changing minds is harder than finding people who already agree."</i>
 <br>
-<b>- Socrates</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
