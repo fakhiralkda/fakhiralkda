@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe."</i>
+<i>"Failure will never overtake me if my determination to succeed is strong enough."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
