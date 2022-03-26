@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your face to the sunshine and you cannot see the shadows."</i>
+<i>"The greatest miracle is to be alive."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
