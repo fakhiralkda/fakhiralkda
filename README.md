@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your gift is something that you can do innately better than anything else."</i>
+<i>"Lost Time is never found again."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
