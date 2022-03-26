@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom lies in being bold."</i>
+<i>"New beginnings are disguised as painful endings."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
