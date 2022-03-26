@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"New beginnings are disguised as painful endings."</i>
+<i>"Duty makes us do things well, but love makes us do them beautifully.  "</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
