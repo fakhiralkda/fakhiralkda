@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were."</i>
+<i>"No amount of regretting can change the past, and no amount of worrying can change the future."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
