@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love your enemies, for they tell you your faults."</i>
+<i>"If you don't like something, change it. If you can't change it, change your attitude."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
