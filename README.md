@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life can only be understood backwards; but it must be lived forwards."</i>
+<i>"Love your enemies, for they tell you your faults."</i>
 <br>
-<b>- Soren Kierkegaard</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
