@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Listen to what you know instead of what you fear."</i>
+<i>"Preoccupied with a single leaf you won't see the tree."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
