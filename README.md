@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to know what God thinks about money just look at the people He gives it to."</i>
+<i>"Obstacles don't block the path, they are the path."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
