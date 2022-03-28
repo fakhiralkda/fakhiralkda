@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human happiness and moral duty are inseparably connected. "</i>
+<i>"It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy."</i>
 <br>
-<b>- George Washington</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
