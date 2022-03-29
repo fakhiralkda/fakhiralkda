@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less you open your heart to others, the more your heart suffers."</i>
+<i>"One never does wrong by doing right."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
