@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not a problem to be solved, but a reality to be experienced."</i>
+<i>"Decide upon your major definite purpose in life and then organize all your activities around it."</i>
 <br>
-<b>- Soren Kierkegaard</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
