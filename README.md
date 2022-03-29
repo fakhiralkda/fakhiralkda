@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Difficulties strengthen the mind, as labor does the body.  "</i>
+<i>"Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail."</i>
 <br>
-<b>- Seneca</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
