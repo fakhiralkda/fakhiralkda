@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that is done in the world is done by hope."</i>
+<i>"I never said it would be easy, I only said it would be worth it."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
