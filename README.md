@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perfection is not attainable, but if we chase perfection we can catch excellence."</i>
+<i>"He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
