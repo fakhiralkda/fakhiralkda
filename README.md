@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The heart wants what it wants - or else it does not care."</i>
+<i>"The important thing is not to stop questioning. Curiosity has its own reason for existing."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
