@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death."</i>
+<i>"You must live in the present, launch yourself on every wave, find your eternity in each moment. Fools stand on their island of opportunities and look toward another land. There is no other land; there is no other life but this."</i>
 <br>
-<b>- Socrates</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
