@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are born from a quiet sleep, and we die to a calm awakening"</i>
+<i>"To some degree, you control your life by controlling your time."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
