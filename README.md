@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only man who never makes mistakes is the man who never does anything."</i>
+<i>"The future is not a gift. It is an achievement."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
