@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"None are more hopelessly enslaved than those who falsely believe they are free."</i>
+<i>"Every failure brings with it the seed of an equivalent success."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
