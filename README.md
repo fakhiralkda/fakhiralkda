@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leaders think and talk about solutions. Followers think and talk about the problems."</i>
+<i>"Never fear quarrels, but seek hazardous adventures."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
