@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Definitions belong to the definers, not the defined."</i>
+<i>"Our happiness depends on the habit of mind we cultivate."</i>
 <br>
-<b>- Toni Morrison</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
