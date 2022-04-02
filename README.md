@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What do we live for, if it is not to make life less difficult for each other?"</i>
+<i>"Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability."</i>
 <br>
-<b>- George Eliot</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
