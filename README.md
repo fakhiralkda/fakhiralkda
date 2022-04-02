@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All problems are illusions of the mind."</i>
+<i>"Until we can manage time, we can manage nothing else."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
