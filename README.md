@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have as much laughter as you have faith."</i>
+<i>"What do we live for, if it is not to make life less difficult for each other?"</i>
 <br>
-<b>- Martin Luther</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
