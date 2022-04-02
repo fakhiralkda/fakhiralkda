@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The destiny of man is in his own soul. "</i>
+<i>"It is better to change an opinion than to persist in a wrong one."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
