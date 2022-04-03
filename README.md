@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you want to be honored by others, you learn to honor them first."</i>
+<i>"Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
