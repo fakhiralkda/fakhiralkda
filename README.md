@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine."</i>
+<i>"Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Anne Wilson Schaef</b>
 </blockquote>
 </p>
 
