@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have power over your mind - not outside events. Realize this, and you will find strength."</i>
+<i>"Always remember that you are absolutely unique. Just like everyone else. "</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
