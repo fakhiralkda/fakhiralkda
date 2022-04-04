@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always remember that you are absolutely unique. Just like everyone else. "</i>
+<i>"Do what you can, with what you have, where you are."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
