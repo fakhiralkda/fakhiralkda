@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life begins where fear ends."</i>
+<i>"Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results."</i>
 <br>
-<b>- Osho</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
