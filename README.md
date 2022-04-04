@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't give up the fight, Stand up for your rights."</i>
+<i>"Make each day your masterpiece."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
