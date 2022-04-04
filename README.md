@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings."</i>
+<i>"Don't give up the fight, Stand up for your rights."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
