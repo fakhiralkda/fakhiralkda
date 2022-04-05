@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better to die fighting for freedom than be a prisoner all the days of your life."</i>
+<i>"You must find the place inside yourself where nothing is impossible."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
