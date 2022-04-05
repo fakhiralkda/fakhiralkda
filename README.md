@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive."</i>
+<i>"What lies behind us and what lies before us are tiny matters compared to what lies within us."</i>
 <br>
-<b>- Anne Wilson Schaef</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
