@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed."</i>
+<i>"If there's a definition of freedom, I think it's this: living life on your terms."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
