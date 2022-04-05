@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If there's a definition of freedom, I think it's this: living life on your terms."</i>
+<i>"Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
