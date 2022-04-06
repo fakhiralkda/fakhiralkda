@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest."</i>
+<i>"20 percent of your activities will account for 80 percent of your results."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
