@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You just can't beat the person who never gives up. "</i>
+<i>"Every man is guilty of all the good he did not do. "</i>
 <br>
-<b>- Babe Ruth</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
