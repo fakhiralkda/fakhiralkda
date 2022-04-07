@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You Create Your Own Present By What You Give Your Attention To Today."</i>
+<i>"I know of only one duty, and that is to love."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
