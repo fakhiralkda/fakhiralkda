@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have a vision. Be demanding."</i>
+<i>"Knowledge has to be improved, challenged, and increased constantly, or it vanishes."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
