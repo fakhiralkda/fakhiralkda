@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge has to be improved, challenged, and increased constantly, or it vanishes."</i>
+<i>"I would rather be a little nobody, then to be an evil somebody."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
