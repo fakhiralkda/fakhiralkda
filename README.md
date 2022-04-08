@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be curious, not judgmental."</i>
+<i>"Quiet people have the loudest minds."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
