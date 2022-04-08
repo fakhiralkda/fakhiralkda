@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you focus on results and finding shortcuts, you'll get impatient. If you focus on the process and doing the right thing, you'll be unstoppable."</i>
+<i>"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
