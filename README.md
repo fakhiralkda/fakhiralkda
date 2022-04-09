@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thought is so cunning, so clever, that it distorts everything for its own convenience."</i>
+<i>"The majority of what you want will come from the minority of what you do."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
