@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have within you right now, everything you need to deal with whatever the world can throw at you."</i>
+<i>"All our dreams can come true, if we have the courage to pursue them."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
