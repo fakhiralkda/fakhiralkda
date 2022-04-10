@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter what happens, always be yourself."</i>
+<i>"Originality is the fine art of remembering what you hear but forgetting where you heard it. "</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
