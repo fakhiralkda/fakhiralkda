@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The single most powerful asset we all have is our mind."</i>
+<i>"Short cuts make long delays."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
