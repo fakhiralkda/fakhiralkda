@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of life isn't what happens to you, but what you do with what happens to you."</i>
+<i>"Success does not consist in never making mistakes but in never making the same one a second time."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
