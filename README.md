@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way to love anything is to realize that it may be lost."</i>
+<i>"The secret of life isn't what happens to you, but what you do with what happens to you."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
