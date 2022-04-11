@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're always free to change your mind and choose a different future, or a different past."</i>
+<i>"No one ever said life was fair. Just Eventful."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
