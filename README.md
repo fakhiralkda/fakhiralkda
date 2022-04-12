@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A day without laughter is a day wasted."</i>
+<i>"Have the courage to follow your heart and intuition. They somehow know what you truly want to become."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
