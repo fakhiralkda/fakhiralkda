@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have the courage to follow your heart and intuition. They somehow know what you truly want to become."</i>
+<i>"Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
