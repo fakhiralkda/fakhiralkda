@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genius is the ability to act rightly without precedent - the power to do the right thing the first time."</i>
+<i>"For the things we have to learn before we can do them, we learn by doing them."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
