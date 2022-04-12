@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Continuous effort - not strength or intelligence - is the key to unlocking our potential."</i>
+<i>"They say love is the best investment; the more you give, the more you get in return."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
