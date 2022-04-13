@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quieter you become, the more you are able to hear."</i>
+<i>"Successful people ask better questions, and as a result, they get better answers."</i>
 <br>
-<b>- Rumi</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
