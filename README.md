@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a quality of the soul...not a function of one's material circumstances."</i>
+<i>"The quieter you become, the more you are able to hear."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
