@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime."</i>
+<i>"We suffer more often in imagination than in reality."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
