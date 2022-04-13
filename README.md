@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest mistake you can make in life is to be continually fearing you will make one."</i>
+<i>"It is dangerous to be right in matters on which the established authorities are wrong."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
