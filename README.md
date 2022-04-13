@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is dangerous to be right in matters on which the established authorities are wrong."</i>
+<i>"It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
