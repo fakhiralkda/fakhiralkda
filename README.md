@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Chase your passion, not your pension. "</i>
+<i>"Courage is the price that life exacts for granting peace."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
