@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Open your mind before your mouth."</i>
+<i>"It is what we make out of what we have, not what we are given, that separates one person from another."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
