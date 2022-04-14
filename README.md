@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Growth comes at the point of resistance."</i>
+<i>"Open your mind before your mouth."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
