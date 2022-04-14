@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We will outstretch the hand if you unclench your fist."</i>
+<i>"People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
