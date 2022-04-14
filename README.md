@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is not a four letter word...but often your reaction to it is!"</i>
+<i>"We will outstretch the hand if you unclench your fist."</i>
 <br>
-<b>- Jeffrey Gitomer</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
