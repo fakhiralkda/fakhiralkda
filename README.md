@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have."</i>
+<i>"It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
