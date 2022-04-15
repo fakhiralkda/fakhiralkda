@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way."</i>
+<i>"Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
