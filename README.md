@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is during our darkest moments that we must focus to see the light."</i>
+<i>"Peace is not absence of conflict, it is the ability to handle conflict by peaceful means."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
