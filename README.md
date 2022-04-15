@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you get by achieving your goals is not as important as what you become by achieving your goals."</i>
+<i>"She who loves roses must be patient and not cry out when she is pierced by thorns."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Kenji Miyazawa</b>
 </blockquote>
 </p>
 
