@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live simply, expect little, give much."</i>
+<i>"Even when a friend does something you do not like, he continues to be your friend. "</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
