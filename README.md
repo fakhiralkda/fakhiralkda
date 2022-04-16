@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Play your part in life, but never forget that it is only a role."</i>
+<i>"Live simply, expect little, give much."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
