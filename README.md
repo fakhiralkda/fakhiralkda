@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the advantages of being disorganized is that one is always having surprising discoveries."</i>
+<i>"Some people don't like change, but you need to embrace change if the alternative is disaster."</i>
 <br>
-<b>- A.A. Milne</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
