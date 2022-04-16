@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From the errors of others, a wise man corrects his own."</i>
+<i>"Learning is a gift, even when pain is your teacher."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
