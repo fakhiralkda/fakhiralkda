@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learning is a gift, even when pain is your teacher."</i>
+<i>"One of the advantages of being disorganized is that one is always having surprising discoveries."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
