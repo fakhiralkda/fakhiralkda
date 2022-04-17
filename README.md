@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will face many defeats in life, but never let yourself be defeated."</i>
+<i>"It's necessary to get the losers out of your life if you want to live your dream."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
