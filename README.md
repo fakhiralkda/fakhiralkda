@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For the things we have to learn before we can do them, we learn by doing them."</i>
+<i>"It is your attitude, not your aptitude, that determines your altitude."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
