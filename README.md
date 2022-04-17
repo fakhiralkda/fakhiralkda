@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's necessary to get the losers out of your life if you want to live your dream."</i>
+<i>"A wise person should have money in their head, but not in their heart."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
