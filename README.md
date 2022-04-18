@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep smiling, because life is a beautiful thing and there's so much to smile about."</i>
+<i>"Most great people have achieved their greatest success just one step beyond their greatest failure."</i>
 <br>
-<b>- Marilyn Monroe</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
