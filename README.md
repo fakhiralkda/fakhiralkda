@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For every minute you are angry you lose sixty seconds of happiness."</i>
+<i>"Make each day your masterpiece."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
