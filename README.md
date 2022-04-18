@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I put my heart and soul into my work, and I have lost my mind in the process."</i>
+<i>"You can put lipstick on a pig. It's still a pig."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
