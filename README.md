@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take care of your body. It's the only place you have to live."</i>
+<i>"Have a vision. Be demanding."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
