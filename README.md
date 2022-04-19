@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When reading, only read. When eating, only eat. When thinking, only think."</i>
+<i>"For things to change, you have to change."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
