@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where we fall are the stepping-stones for our journey."</i>
+<i>"Enthusiasm makes up for a host of deficiencies."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
