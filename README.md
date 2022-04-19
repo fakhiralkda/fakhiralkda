@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others."</i>
+<i>"Where we fall are the stepping-stones for our journey."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
