@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If life were predictable it would cease to be life, and be without flavor."</i>
+<i>"The more I want to get something done, the less I call it work."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
