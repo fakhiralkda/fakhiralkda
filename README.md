@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more I want to get something done, the less I call it work."</i>
+<i>"You can have the mind or you can have the moment."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
