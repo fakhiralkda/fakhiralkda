@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The harder the conflict, the greater the triumph. "</i>
+<i>"Great acts are made up of small deeds."</i>
 <br>
-<b>- George Washington</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
