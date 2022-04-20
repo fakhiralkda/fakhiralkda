@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For things to change, you have to change."</i>
+<i>"Love is merely the name for the desire and pursuit of the whole."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
