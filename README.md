@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The past has no power over the present moment. "</i>
+<i>"Enthusiasm makes up for a host of deficiencies."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
