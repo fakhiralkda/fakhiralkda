@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fastest way to change is to laugh at your own folly."</i>
+<i>"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
