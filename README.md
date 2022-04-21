@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sadness is but a wall between two gardens."</i>
+<i>"It is better to be looked over than overlooked."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
