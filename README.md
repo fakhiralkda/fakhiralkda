@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only thing more frustrating than slanderers is those foolish enough to listen to them."</i>
+<i>"Everybody's life is either rewarding or an example."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
