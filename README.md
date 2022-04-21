@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anything worth doing is worth doing slowly."</i>
+<i>"The only thing more frustrating than slanderers is those foolish enough to listen to them."</i>
 <br>
-<b>- Mae West</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
