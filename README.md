@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everybody's life is either rewarding or an example."</i>
+<i>"Understanding that rests in what it does not understand is the finest."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
