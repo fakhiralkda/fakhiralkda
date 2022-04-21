@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to be looked over than overlooked."</i>
+<i>"The fastest way to change is to laugh at your own folly."</i>
 <br>
-<b>- Mae West</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
