@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be able to forget means sanity."</i>
+<i>"You do not read a book for the book's sake, but for your own."</i>
 <br>
-<b>- Jack London</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
