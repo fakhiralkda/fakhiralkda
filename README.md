@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you have to shut your eyes, so you can see the real beauty."</i>
+<i>"Curiosity is the most powerful thing you own."</i>
 <br>
-<b>- Kilian Jornet</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
