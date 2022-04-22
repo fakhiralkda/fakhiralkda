@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The four P's to success are pressure, persistence, perseverance, and prayer."</i>
+<i>"If you tell the truth, you don't have to remember anything."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
