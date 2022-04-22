@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To become what you are not, behave as you do not."</i>
+<i>"Change is hardest at the beginning, messiest in the middle and best at the end."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
