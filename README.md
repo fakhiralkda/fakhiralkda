@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Curiosity is the most powerful thing you own."</i>
+<i>"The four P's to success are pressure, persistence, perseverance, and prayer."</i>
 <br>
-<b>- James Cameron</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
