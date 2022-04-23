@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you know, the more you know you don't know."</i>
+<i>"We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
