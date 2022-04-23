@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't explain your philosophy. Embody it."</i>
+<i>"We can either add to our character each day, or we can fritter away our energies in distractions."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
