@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better late than never."</i>
+<i>"The more you know, the more you know you don't know."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
