@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The eye with which I see God is the same eye with which God sees me."</i>
+<i>"Throughout this life, you can never be certain of living long enough to take another breath."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
