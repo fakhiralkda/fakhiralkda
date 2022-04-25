@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Night is a more quiet time to work. It aids thought."</i>
+<i>"Never allow a person to tell you no who doesn't have the power to say yes."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
