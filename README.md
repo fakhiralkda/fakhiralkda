@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To some degree, you control your life by controlling your time."</i>
+<i>"We've got to live, no matter how many skies have fallen."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
