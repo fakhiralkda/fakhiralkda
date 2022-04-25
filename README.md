@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth is rarely pure and never simple. "</i>
+<i>"You gain strength, courage and confidence by every experience in which you really stop to look fear in the face."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
