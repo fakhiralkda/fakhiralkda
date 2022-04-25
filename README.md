@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit."</i>
+<i>"Conflict cannot survive without your participation. "</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
