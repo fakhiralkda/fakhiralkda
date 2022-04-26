@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is knowing what not to fear."</i>
+<i>"Fear is stupid. So are regrets."</i>
 <br>
-<b>- Plato</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
