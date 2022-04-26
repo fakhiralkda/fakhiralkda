@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When a man is penalized for honesty he learns to lie."</i>
+<i>"A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
