@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success comes to those who become success conscious."</i>
+<i>"In order to be walked over, you have to be lying down."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
