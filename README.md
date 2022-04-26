@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear is stupid. So are regrets."</i>
+<i>"It is better to disappoint people with the truth than to appease them with a lie."</i>
 <br>
-<b>- Marilyn Monroe</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
