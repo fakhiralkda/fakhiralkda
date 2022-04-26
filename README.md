@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to disappoint people with the truth than to appease them with a lie."</i>
+<i>"A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
