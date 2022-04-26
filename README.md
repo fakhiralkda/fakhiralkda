@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday."</i>
+<i>"When a man is penalized for honesty he learns to lie."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
