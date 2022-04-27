@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head."</i>
+<i>"A rational person can find peace by cultivating indifference to things outside of their control."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
