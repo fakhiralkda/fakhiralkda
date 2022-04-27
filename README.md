@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What loneliness is more lonely than distrust?"</i>
+<i>"The greatest miracle is to be alive."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
