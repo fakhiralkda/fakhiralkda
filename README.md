@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is about doing the right thing, not about doing everything right."</i>
+<i>"Curiosity is the most powerful thing you own."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
