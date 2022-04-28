@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't spend time beating on a wall, hoping to transform it into a door."</i>
+<i>"You must be willing to do what others won't do, to have what others won't have."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
