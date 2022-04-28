@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Curiosity is the most powerful thing you own."</i>
+<i>"Attitude, not aptitude, determines altitude.  "</i>
 <br>
-<b>- James Cameron</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
