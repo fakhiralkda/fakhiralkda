@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A rational person can find peace by cultivating indifference to things outside of their control."</i>
+<i>"An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
