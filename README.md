@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The very essence of instinct is that it's followed independently of reason."</i>
+<i>"Don't spend time beating on a wall, hoping to transform it into a door."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
