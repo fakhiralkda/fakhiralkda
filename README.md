@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must be willing to do what others won't do, to have what others won't have."</i>
+<i>"Anything worth doing is worth doing slowly."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
