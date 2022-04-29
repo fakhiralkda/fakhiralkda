@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be yourself; everyone else is already taken."</i>
+<i>"To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
