@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All that a man achieves and all that he fails to achieve is the direct result of his own thoughts."</i>
+<i>"There are three classes of people: those who see. Those who see when they are shown. Those who do not see."</i>
 <br>
-<b>- James Allen</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
