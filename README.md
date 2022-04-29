@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly."</i>
+<i>"All that a man achieves and all that he fails to achieve is the direct result of his own thoughts."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
