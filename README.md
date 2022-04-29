@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are three classes of people: those who see. Those who see when they are shown. Those who do not see."</i>
+<i>"You need a plan to build a house. To build a life, it is even more important to have a plan or goal."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
