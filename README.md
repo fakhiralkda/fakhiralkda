@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is literally what he thinks."</i>
+<i>"Trust is the foundation of great leadership."</i>
 <br>
-<b>- James Allen</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
