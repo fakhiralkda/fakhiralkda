@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way to get started is to quit talking and begin doing."</i>
+<i>"When you have a dream, you've got to grab it and never let go."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
