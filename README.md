@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations."</i>
+<i>"The way to get started is to quit talking and begin doing."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
