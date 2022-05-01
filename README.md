@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Quitter never wins - and - a Winner never quits."</i>
+<i>"Where there's life, there's hope."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
