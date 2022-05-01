@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have the courage to follow your heart and intuition. They somehow know what you truly want to become."</i>
+<i>"I am not what happened to me, I am what I choose to become."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
