@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you become is far more important than what you get."</i>
+<i>"Boldness makes even the smallest animal dangerous."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
