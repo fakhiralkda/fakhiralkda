@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Curiosity is the most powerful thing you own."</i>
+<i>"A Quitter never wins - and - a Winner never quits."</i>
 <br>
-<b>- James Cameron</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
