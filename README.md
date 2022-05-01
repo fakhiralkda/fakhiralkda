@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Boldness makes even the smallest animal dangerous."</i>
+<i>"No man can get rich himself unless he enriches others."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
