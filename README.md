@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man can get rich himself unless he enriches others."</i>
+<i>"Curiosity is the most powerful thing you own."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
