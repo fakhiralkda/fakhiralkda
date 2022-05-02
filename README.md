@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When angry count to ten before you speak. If very angry, count to one hundred."</i>
+<i>"All problems are illusions of the mind."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
