@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"At every moment where language can't go, that's your mind."</i>
+<i>"It is during our darkest moments that we must focus to see the light."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
