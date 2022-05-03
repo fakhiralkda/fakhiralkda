@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Art is the signature of civilizations. "</i>
+<i>"We are all different. Don't judge, understand instead."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
