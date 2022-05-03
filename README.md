@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If the plan doesn't work, change the plan, but never the goal."</i>
+<i>"Distant water does not put out a nearby fire."</i>
 <br>
-<b>- Unknown</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
