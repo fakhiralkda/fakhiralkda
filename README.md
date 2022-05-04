@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like a wheel. Sooner or later, it always comes around to where you started again."</i>
+<i>"Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
