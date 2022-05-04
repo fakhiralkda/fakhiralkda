@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All know that the drop merges into the ocean, but few know that the ocean merges into the drop."</i>
+<i>"True it is, we only hate those whom we do not know."</i>
 <br>
-<b>- Kabir</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
