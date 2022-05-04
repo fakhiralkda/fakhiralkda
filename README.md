@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A mistake is only an error, it becomes a mistake when you fail to correct it."</i>
+<i>"Life is like a wheel. Sooner or later, it always comes around to where you started again."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
