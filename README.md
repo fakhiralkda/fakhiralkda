@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True it is, we only hate those whom we do not know."</i>
+<i>"To judge a man by his weakest link or deed is like judging the power of the ocean by one wave."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
