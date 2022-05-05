@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not how much we have, but how much we enjoy, that makes happiness."</i>
+<i>"Little by little, one travels far."</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
