@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have the potential for greatness."</i>
+<i>"There are no accidents... there is only some purpose that we haven't yet understood."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
