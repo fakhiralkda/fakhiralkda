@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no accidents... there is only some purpose that we haven't yet understood."</i>
+<i>"The more knowledge you have, the more you're free to rely on your instincts."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
