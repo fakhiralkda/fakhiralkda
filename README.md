@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Little by little, one travels far."</i>
+<i>"You can't go forward and backwards at the same time."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
