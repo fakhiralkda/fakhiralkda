@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life does not get better by chance, it gets better by change."</i>
+<i>"You have the potential for greatness."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
