@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"With self-discipline, almost anything is possible."</i>
+<i>"Go confidently in the direction of your dreams. Live the life you've imagined."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
