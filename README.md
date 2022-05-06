@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can have more than we've got because we can become more than we are."</i>
+<i>"No one can confidently say that he will still be living tomorrow."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
