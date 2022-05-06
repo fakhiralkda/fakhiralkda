@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Exceptional thinkers ignore their critics and go about their business making history."</i>
+<i>"We can have more than we've got because we can become more than we are."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
