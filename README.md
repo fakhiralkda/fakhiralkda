@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no secrets to success. It is the result of preparation, hard work, learning from failure."</i>
+<i>"Money poisons you when you've got it, and starves you when you haven't."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
