@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do Something. If it works, do more of it. If it doesn't, do something else."</i>
+<i>"There are no secrets to success. It is the result of preparation, hard work, learning from failure."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
