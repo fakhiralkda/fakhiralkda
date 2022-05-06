@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When asked, how do you write? I invariably answer, one word at a time."</i>
+<i>"Others can stop you temporarily - you are the only one who can do it permanently."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
