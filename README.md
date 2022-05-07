@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there."</i>
+<i>"One of the keys to happiness is a bad memory."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
