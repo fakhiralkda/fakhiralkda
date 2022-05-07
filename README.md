@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest gift that you can give to others is the gift of unconditional love and acceptance. "</i>
+<i>"To do two things at once is to do neither."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
