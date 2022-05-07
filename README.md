@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To do two things at once is to do neither."</i>
+<i>"Everybody by your side ain't on your side."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
