@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By the practice of meditation, you will find that you are carrying within your heart a portable paradise."</i>
+<i>"People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
