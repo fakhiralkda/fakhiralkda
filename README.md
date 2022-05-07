@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our stories may be singular, but our destination is shared."</i>
+<i>"The greatest gift that you can give to others is the gift of unconditional love and acceptance. "</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
