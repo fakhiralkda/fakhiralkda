@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The least deviation from truth will be multiplied later."</i>
+<i>"By the practice of meditation, you will find that you are carrying within your heart a portable paradise."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
