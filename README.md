@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is never final, failure is never fatal. It's courage that counts."</i>
+<i>"Someone who points out your flaws to you is not necessarily your enemy. Someone who speaks of your virtues is not necessarily your friend."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
