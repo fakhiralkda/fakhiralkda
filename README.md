@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I try more and more to be myself, caring relatively little whether people approve or disapprove."</i>
+<i>"If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
