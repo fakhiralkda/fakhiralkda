@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the keys to happiness is a bad memory."</i>
+<i>"If you take responsibility for yourself you will develop a hunger to accomplish your dream."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
