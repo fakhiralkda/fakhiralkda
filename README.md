@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. "</i>
+<i>"The farther backward you can look, the farther forward you are likely to see."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
