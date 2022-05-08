@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry."</i>
+<i>"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. "</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Nikola Tesla</b>
 </blockquote>
 </p>
 
