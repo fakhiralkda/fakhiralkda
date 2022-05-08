@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I hear and I forget. I see and I remember. I do and I understand. "</i>
+<i>"No one can confidently say that he will still be living tomorrow."</i>
 <br>
-<b>- Confucius</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
