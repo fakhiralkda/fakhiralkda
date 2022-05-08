@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Someone who points out your flaws to you is not necessarily your enemy. Someone who speaks of your virtues is not necessarily your friend."</i>
+<i>"I try more and more to be myself, caring relatively little whether people approve or disapprove."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
