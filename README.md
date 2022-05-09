@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be grateful for what you have now, and nothing should be taken for granted."</i>
+<i>"I dream my painting and I paint my dream."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
