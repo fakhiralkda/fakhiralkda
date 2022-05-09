@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Smell the cheese often so you know when it is getting old."</i>
+<i>"Chase your passion, not your pension. "</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
