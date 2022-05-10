@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only thing worse than being blind is having sight but no vision."</i>
+<i>"All men who have achieved great things have been great dreamers. "</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
