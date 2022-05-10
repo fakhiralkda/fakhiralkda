@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself."</i>
+<i>"Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. "</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
