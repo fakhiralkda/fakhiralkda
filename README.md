@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your imagination is your preview of life's coming attractions."</i>
+<i>"Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
