@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All men who have achieved great things have been great dreamers. "</i>
+<i>"Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
