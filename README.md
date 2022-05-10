@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight."</i>
+<i>"Ripe fruit falls by itself - but it doesn't fall in your mouth. "</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
