@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Is it really possible to tell someone else what one feels?"</i>
+<i>"A person hears only what they understand."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
