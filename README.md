@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What most people need to learn in life is how to love people and use things instead of using people and loving things."</i>
+<i>"Failure is an option here. If things are not failing, you are not innovating enough."</i>
 <br>
-<b>- Unknown</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
