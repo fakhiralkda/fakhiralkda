@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our deeds determine us, as much as we determine our deeds."</i>
+<i>"When your intuition is strong, follow it."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
