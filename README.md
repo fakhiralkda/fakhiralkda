@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live calmly. The time will come when the flowers bloom by themselves."</i>
+<i>"What most people need to learn in life is how to love people and use things instead of using people and loving things."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
