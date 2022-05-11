@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who is not contented with what he has, would not be contented with what he would like to have."</i>
+<i>"A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself."</i>
 <br>
-<b>- Socrates</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
