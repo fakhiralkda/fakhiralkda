@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A person hears only what they understand."</i>
+<i>"Your heart is the size of an ocean. Go find yourself in its hidden depths."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
