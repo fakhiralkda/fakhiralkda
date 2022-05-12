@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We all give up great expectations along the way."</i>
+<i>"Presents are made for the pleasure of who gives them, not the merits of who receives them."</i>
 <br>
 <b>- Carlos Ruiz Zafon</b>
 </blockquote>
