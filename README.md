@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. "</i>
+<i>"Focus on how far you have come in life rather than looking at the accomplishments of others."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
