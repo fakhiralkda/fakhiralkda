@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Focus on how far you have come in life rather than looking at the accomplishments of others."</i>
+<i>"In order to be walked over, you have to be lying down."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
