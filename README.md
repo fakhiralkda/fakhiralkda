@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to be walked over, you have to be lying down."</i>
+<i>"Become the kind of leader that people would follow voluntarily, even if you had no title or position."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
