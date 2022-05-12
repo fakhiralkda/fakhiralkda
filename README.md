@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The one who boasts does so only out of a feeling of inferiority."</i>
+<i>"We all give up great expectations along the way."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
