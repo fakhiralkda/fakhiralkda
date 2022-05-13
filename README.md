@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We become brave by doing brave acts."</i>
+<i>"Art is the signature of civilizations. "</i>
 <br>
-<b>- Aristotle</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
