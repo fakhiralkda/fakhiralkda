@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man suffers only because he takes seriously what the gods made for fun."</i>
+<i>"Originality is the fine art of remembering what you hear but forgetting where you heard it. "</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
