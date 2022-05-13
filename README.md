@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Originality is the fine art of remembering what you hear but forgetting where you heard it. "</i>
+<i>"Until we can manage time, we can manage nothing else."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
