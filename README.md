@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people tend to become more successful because they are always thinking about their successes."</i>
+<i>"Like it or not, this moment is all we really have to work with."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
