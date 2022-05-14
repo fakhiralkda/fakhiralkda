@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Question everything. Learn something. Answer nothing."</i>
+<i>"Some people are old at 18 and some are young at 90. Time is a concept that humans created."</i>
 <br>
-<b>- Euripides</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
