@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today you are you, that is truer than true. There is no one alive who is you-er than you."</i>
+<i>"People should pursue what they're passionate about. That will make them happier than pretty much anything else."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
