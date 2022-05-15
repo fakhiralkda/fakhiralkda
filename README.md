@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be able to forget means sanity."</i>
+<i>"The one who boasts does so only out of a feeling of inferiority."</i>
 <br>
-<b>- Jack London</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
