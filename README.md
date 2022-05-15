@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you tell the truth, you don't have to remember anything."</i>
+<i>"The soul should always stand ajar, ready to welcome the ecstatic experience."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
