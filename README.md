@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Management is doing things right; leadership is doing the right things."</i>
+<i>"There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
