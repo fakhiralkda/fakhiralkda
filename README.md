@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yesterday is gone. Tomorrow has not yet come. We have only today."</i>
+<i>"Help others achieve their dreams and you will achieve yours."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
