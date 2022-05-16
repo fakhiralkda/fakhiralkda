@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without education, we are in a horrible and deadly danger of taking educated people seriously."</i>
+<i>"The way out is in."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
