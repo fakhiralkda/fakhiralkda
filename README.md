@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is the art of drawing sufficient conclusions from insufficient premises."</i>
+<i>"When you have to make a choice and don't make it, that is in itself a choice."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
