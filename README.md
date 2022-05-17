@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you have to make a choice and don't make it, that is in itself a choice."</i>
+<i>"You can start changing our world for the better daily, no matter how small the action."</i>
 <br>
-<b>- William James</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
