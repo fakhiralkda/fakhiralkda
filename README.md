@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your life does not get better by chance, it gets better by change."</i>
+<i>"Sad thing is, you can still love someone and be wrong for them."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
