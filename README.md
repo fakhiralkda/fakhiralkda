@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Obstacles are those frightful things you see when you take your eyes off your goal."</i>
+<i>"Men do not attract which they want but that which they are."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
