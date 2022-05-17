@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sad thing is, you can still love someone and be wrong for them."</i>
+<i>"A person is only by the thoughts that he chooses."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
