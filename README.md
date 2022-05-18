@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world makes way for the man who knows where he is going."</i>
+<i>"Life happens in the river, not the shore."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
