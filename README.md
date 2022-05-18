@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We suffer more often in imagination than in reality.  "</i>
+<i>"Trust your instincts: my first reaction is almost invariably the right one.  "</i>
 <br>
-<b>- Seneca</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
