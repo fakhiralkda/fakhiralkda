@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man is guilty of all the good he did not do. "</i>
+<i>"We suffer more often in imagination than in reality.  "</i>
 <br>
-<b>- Voltaire</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
