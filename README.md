@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed."</i>
+<i>"Every man is guilty of all the good he did not do. "</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
