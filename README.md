@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many people will walk in and out of your life, but only true friends will leave footprints in your heart."</i>
+<i>"A golden cage is still just a cage."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
