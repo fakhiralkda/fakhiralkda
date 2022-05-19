@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The energy of the mind is the essence of life."</i>
+<i>"Many people will walk in and out of your life, but only true friends will leave footprints in your heart."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
