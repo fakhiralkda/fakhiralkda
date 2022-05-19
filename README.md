@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People who say it cannot be done should not interrupt those who are doing it."</i>
+<i>"Circumstances do not make the man, they reveal him."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
