@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Circumstances do not make the man, they reveal him."</i>
+<i>"Learning never exhausts the mind. "</i>
 <br>
-<b>- James Allen</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
