@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Projecting your mind into a successful situation is the most powerful means to achieve goals.  "</i>
+<i>"Life is one long process of getting tired."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
