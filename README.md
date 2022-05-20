@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have more possibilities available in each moment than we realize."</i>
+<i>"Failure is simply the opportunity to begin again, this time more intelligently."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
