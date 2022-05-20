@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who has ever made anything of importance was disciplined."</i>
+<i>"The goal is not to show how great you are to others, but how vulnerable you are to yourself."</i>
 <br>
-<b>- Andrew Hendrixson</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
