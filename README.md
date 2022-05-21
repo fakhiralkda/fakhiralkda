@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no way to happiness - happiness is the way."</i>
+<i>"She who loves roses must be patient and not cry out when she is pierced by thorns."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Kenji Miyazawa</b>
 </blockquote>
 </p>
 
