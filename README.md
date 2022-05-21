@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most of the evil in this world is done by people with good intentions."</i>
+<i>"Our attitude toward life determines life's attitude towards us."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
