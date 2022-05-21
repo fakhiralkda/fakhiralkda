@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about."</i>
+<i>"You're only given a little spark of madness. You mustn't lose it."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
