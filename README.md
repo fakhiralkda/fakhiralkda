@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leadership is solving problems"</i>
+<i>"Perpetual optimism is a force multiplier."</i>
 <br>
 <b>- Colin Powell</b>
 </blockquote>
