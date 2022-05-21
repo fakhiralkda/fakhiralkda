@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the expression of one's values."</i>
+<i>"There is no way to happiness - happiness is the way."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
