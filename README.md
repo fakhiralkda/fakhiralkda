@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A dream you dream alone is only a dream. A dream you dream together is reality."</i>
+<i>"Love is the expression of one's values."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
