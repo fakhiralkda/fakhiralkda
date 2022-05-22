@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who look for the bad in people will surely find it."</i>
+<i>"The happiest people in the world are those who feel absolutely terrific about themselves."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
