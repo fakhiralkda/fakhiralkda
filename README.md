@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't seek, don't avoid, don't expect. Take what comes and be happy."</i>
+<i>"Adventure is not outside man; it is within."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
