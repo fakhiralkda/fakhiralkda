@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cleverness is not wisdom."</i>
+<i>"With the new day comes new strength and new thoughts."</i>
 <br>
-<b>- Euripides</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
