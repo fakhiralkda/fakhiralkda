@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"With the new day comes new strength and new thoughts."</i>
+<i>"But better die than live mechanically a life that is a repetition of repetitions."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
