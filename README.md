@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you truly love Nature, you will find beauty everywhere. "</i>
+<i>"All problems are interpersonal relationship problems."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
