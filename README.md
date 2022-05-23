@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you like yourself, the less you are like anyone else, which makes you unique."</i>
+<i>"Setting goals is the first step in turning the invisible into the visible."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
