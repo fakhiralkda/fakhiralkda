@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genius, in truth, means little more than the faculty of perceiving in an unhabitual way."</i>
+<i>"Nothing is too high for a man to reach, but he must climb with care and confidence"</i>
 <br>
-<b>- William James</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
