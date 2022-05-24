@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise man will be master of his mind, a fool will be its slave."</i>
+<i>"The best teacher is experience and not through someone's distorted point of view."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
