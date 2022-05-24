@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All religions, arts and sciences are branches of the same tree. "</i>
+<i>"The soul without imagination is what an observatory would be without a telescope."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
