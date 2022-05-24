@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good luck is opportunity meeting preparedness."</i>
+<i>"There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
