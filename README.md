@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When it is dark enough, you can see the stars."</i>
+<i>"What the mind can conceive and believe, and the heart desire, you can achieve."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
