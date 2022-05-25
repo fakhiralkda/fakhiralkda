@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're not making mistakes, then you're not doing anything."</i>
+<i>"Nothing is too high for a man to reach, but he must climb with care and confidence"</i>
 <br>
-<b>- John Wooden</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
