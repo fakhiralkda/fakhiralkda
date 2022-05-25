@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is too high for a man to reach, but he must climb with care and confidence"</i>
+<i>"Don't change your mind just because people are offended; change your mind if you're wrong."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
