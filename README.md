@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I can stop one heart from breaking, I shall not live in vain."</i>
+<i>"We are all faced with a series of great opportunities brilliantly disguised as impossible situations. "</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Charles Swindoll</b>
 </blockquote>
 </p>
 
