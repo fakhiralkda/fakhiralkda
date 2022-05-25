@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make each day a new horizon."</i>
+<i>"Life's too mysterious to take too serious."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
