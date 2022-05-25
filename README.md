@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live life as though nobody is watching, and express yourself as though everyone is listening."</i>
+<i>"Great ones are willing to get burned time and again as they sharpen their swords in the fire."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
