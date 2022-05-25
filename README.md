@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The soul without imagination is what an observatory would be without a telescope."</i>
+<i>"We make a living by what we get, but we make a life by what we give."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
