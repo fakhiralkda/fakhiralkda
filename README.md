@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't change your mind just because people are offended; change your mind if you're wrong."</i>
+<i>"You can put lipstick on a pig. It's still a pig."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
