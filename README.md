@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To accomplish big things, I am convinced you must first dream big dreams."</i>
+<i>"No one returns from a long journey the same person they were before."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
