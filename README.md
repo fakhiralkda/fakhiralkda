@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The joy of life comes from our encounters with new experiences."</i>
+<i>"TEAMWORK: the fuel that allows common people attain uncommon results."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
