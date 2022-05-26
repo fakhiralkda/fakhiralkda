@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one returns from a long journey the same person they were before."</i>
+<i>"Many people spend more time looking at their failures than focusing on their successes."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
