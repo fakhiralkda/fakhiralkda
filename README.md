@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pain doesn't last. And when it's gone, we have something to show for it. Growth."</i>
+<i>"Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?"</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
