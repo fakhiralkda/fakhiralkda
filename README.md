@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intelligence is the ability to adapt to change."</i>
+<i>"When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
