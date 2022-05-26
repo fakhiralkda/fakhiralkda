@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Instead of thinking outside the box, get rid of the box."</i>
+<i>"Information changes your mind. Action changes your circumstances."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
