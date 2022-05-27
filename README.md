@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let making a living prevent you from making a life."</i>
+<i>"When one does not have what one wants, one must want what one has."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
