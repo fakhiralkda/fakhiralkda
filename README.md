@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is an option here. If things are not failing, you are not innovating enough."</i>
+<i>"Do not pray for an easy life, pray for the strength to endure a difficult one.  "</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
