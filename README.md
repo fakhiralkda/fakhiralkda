@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Care about what other people think and you will always be their prisoner."</i>
+<i>"Presents are made for the pleasure of who gives them, not the merits of who receives them."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
