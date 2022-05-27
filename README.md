@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think and wonder, wonder and think."</i>
+<i>"Animals don't hate, and we're supposed to be better than them."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
