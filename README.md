@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is either a daring adventure, or nothing."</i>
+<i>"The more acquaintances you have, the less you know them."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
