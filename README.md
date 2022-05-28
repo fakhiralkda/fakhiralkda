@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Presents are made for the pleasure of who gives them, not the merits of who receives them."</i>
+<i>"Focused, hard work is the real key to success."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- John Carmack</b>
 </blockquote>
 </p>
 
