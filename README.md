@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more acquaintances you have, the less you know them."</i>
+<i>"Strategy is a commodity, execution is an art."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
