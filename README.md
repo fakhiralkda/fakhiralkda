@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one returns from a long journey the same person they were before."</i>
+<i>"Throughout this life, you can never be certain of living long enough to take another breath."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
