@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Strategy is a commodity, execution is an art."</i>
+<i>"Do you want to know who you are? Don't ask. Act! Action will delineate and define you."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
