@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do you want to know who you are? Don't ask. Act! Action will delineate and define you."</i>
+<i>"No one returns from a long journey the same person they were before."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
