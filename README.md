@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not allow your inner doubts to keep you from achieving what you can do."</i>
+<i>"The beautiful journey of today can only begin when we learn to let go of yesterday."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
