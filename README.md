@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How much pain they have cost us, the evils which have never happened."</i>
+<i>"You use a glass mirror to see your face; you use works of art to see your soul."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
