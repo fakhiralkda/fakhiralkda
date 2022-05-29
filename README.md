@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't pretend to know everything; I just only speak on matters I know I'll win."</i>
+<i>"Without the rain there would be no rainbow."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
