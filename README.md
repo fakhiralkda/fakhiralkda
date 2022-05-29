@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is the true magic carpet."</i>
+<i>"Distant water does not put out a nearby fire."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
