@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more we value things, the less we value ourselves.  "</i>
+<i>"All know that the drop merges into the ocean, but few know that the ocean merges into the drop."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
