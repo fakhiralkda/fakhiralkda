@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We create the world and ourselves;"</i>
+<i>"If we did all the things we are capable of, we would literally astound ourselves."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
