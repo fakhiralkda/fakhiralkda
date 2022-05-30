@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are patient in one moment of anger, you will escape a hundred days of sorrow. "</i>
+<i>"Whatever is begun in anger, ends in shame."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
