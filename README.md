@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn only how to avoid seeking for and attaching yourselves to anything."</i>
+<i>"People who say it cannot be done should not interrupt those who are doing it."</i>
 <br>
-<b>- Huang Po</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
