@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace."</i>
+<i>"By the practice of meditation, you will find that you are carrying within your heart a portable paradise."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
