@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You talk when you cease to be at peace with your thoughts."</i>
+<i>"Don't change your mind just because people are offended; change your mind if you're wrong."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
