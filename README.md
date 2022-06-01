@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People will forget what you said, people will forget what you did, but people will never forget how you made them feel."</i>
+<i>"Your only limitations are those you set up in your mind or permit others to set up for you."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
