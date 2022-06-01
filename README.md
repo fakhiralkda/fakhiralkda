@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything is in your own heart."</i>
+<i>"We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
