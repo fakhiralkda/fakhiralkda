@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is literally true that you can succeed best and quickest by helping others succeed."</i>
+<i>"We can spend our whole lives escaping from the monsters of our minds."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
