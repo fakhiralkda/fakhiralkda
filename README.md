@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make no small plans for they have no power to stir the soul."</i>
+<i>"It is literally true that you can succeed best and quickest by helping others succeed."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
