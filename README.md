@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even the smallest person can change the course of the future."</i>
+<i>"A man is great not because he hasn't failed; a man is great because failure hasn't stopped him."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
