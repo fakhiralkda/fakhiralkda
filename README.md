@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When angry count to ten before you speak. If very angry, count to one hundred."</i>
+<i>"The two most powerful warriors are patience and time."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
