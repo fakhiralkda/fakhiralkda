@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He is not a lover who does not love forever."</i>
+<i>"The search for happiness is one of the chief sources of unhappiness."</i>
 <br>
-<b>- Euripides</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
