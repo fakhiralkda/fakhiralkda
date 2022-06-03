@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results."</i>
+<i>"The only people without problems are those in cemeteries."</i>
 <br>
-<b>- James Allen</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
