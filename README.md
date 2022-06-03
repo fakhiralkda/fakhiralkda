@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All wealth is the product of labor."</i>
+<i>"What do we live for if not to make life less difficult for each other?"</i>
 <br>
-<b>- John Locke</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
