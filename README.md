@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is useless to meet revenge with revenge; it will heal nothing."</i>
+<i>"Mistakes are always forgivable, if one has the courage to admit them. "</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
