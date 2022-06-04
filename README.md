@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to be successful, you have to jump, there's no way around it."</i>
+<i>"I didn't get there by wishing for it or hoping for it, but by working for it."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
