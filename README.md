@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may be one person in this world, but to one person you may mean the world."</i>
+<i>"We make a living by what we get, but we make a life by what we give."</i>
 <br>
 <b>- Unknown</b>
 </blockquote>
