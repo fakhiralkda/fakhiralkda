@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The dream is free, but the hustle is sold separately."</i>
+<i>"When something is important enough, you do it even if the odds are not in your favor."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
