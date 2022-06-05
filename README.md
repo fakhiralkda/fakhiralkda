@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go and do the things you can't. That is how you get to do them."</i>
+<i>"Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
