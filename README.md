@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throw your heart over the fence and the rest will follow"</i>
+<i>"Fear is stupid. So are regrets."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
