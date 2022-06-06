@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be mindful. Be grateful. Be positive. Be true. Be kind."</i>
+<i>"Leadership starts at the top."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Morgan Wootten</b>
 </blockquote>
 </p>
 
