@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We build too many walls and not enough bridges."</i>
+<i>"When one door closes another door opens. "</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
