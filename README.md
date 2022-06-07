@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who looks outside, dreams; who looks inside, awakes."</i>
+<i>"There is always risk, so learn to manage risk instead of avoiding it."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
