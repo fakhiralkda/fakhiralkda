@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Walk towards the sunshine, and the shadows will fall behind you."</i>
+<i>"Consider the rights of others before your own feelings, and the feelings of others before your own rights."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
