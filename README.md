@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Exceptional thinkers ignore their critics and go about their business making history."</i>
+<i>"Focused, hard work is the real key to success."</i>
 <br>
-<b>- John Eliot</b>
+<b>- John Carmack</b>
 </blockquote>
 </p>
 
