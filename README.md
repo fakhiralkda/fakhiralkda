@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every artist dips his brush in his own soul, and paints his own nature into his pictures."</i>
+<i>"Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
