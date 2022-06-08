@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine."</i>
+<i>"Wit is educated insolence."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
