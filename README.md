@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't try to steer the river."</i>
+<i>"Walk towards the sunshine, and the shadows will fall behind you."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
