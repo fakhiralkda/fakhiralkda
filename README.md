@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who attain the middle Dominate the whole."</i>
+<i>"Don't try to steer the river."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
