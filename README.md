@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who wants to achieve a dream must stay strong, focused and steady."</i>
+<i>"Art is the signature of civilizations. "</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
