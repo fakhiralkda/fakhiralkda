@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You become a worrier by practicing worry. You become free of worry by practicing the opposite."</i>
+<i>"Most of the evil in this world is done by people with good intentions."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
