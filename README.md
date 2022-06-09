@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Look to the beauty of this day, miracles are all around you."</i>
+<i>"Why do you stay in prison when the door is so wide open?"</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
