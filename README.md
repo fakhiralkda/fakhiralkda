@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The degree of responsibility you take for your life determines how much change you can create in it."</i>
+<i>"Curiosity is the most powerful thing you own."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
