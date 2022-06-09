@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Consider the rights of others before your own feelings, and the feelings of others before your own rights."</i>
+<i>"In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result."</i>
 <br>
-<b>- John Wooden</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
