@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To affect the quality of the day, that is the highest of arts."</i>
+<i>"an action committed in anger is an action doomed to failure. "</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
