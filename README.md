@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Respect is earned by effort not age, all things age without effort."</i>
+<i>"Your dream has to be bigger than your fear."</i>
 <br>
-<b>- C. Sean McGee</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
