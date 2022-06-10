@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"an action committed in anger is an action doomed to failure. "</i>
+<i>"Every man gotta right to decide his own destiny."</i>
 <br>
-<b>- Genghis Khan</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
