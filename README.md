@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change begets change. Nothing propagates so fast."</i>
+<i>"When you believe in a thing, believe in it all the way, implicitly and unquestionable."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
