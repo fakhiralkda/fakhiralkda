@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is like reaching an important birthday and finding you're exactly the same."</i>
+<i>"It's your life-but only if you make it so."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
