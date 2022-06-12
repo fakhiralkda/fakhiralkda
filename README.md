@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think and wonder, wonder and think."</i>
+<i>"To know your Enemy, you must become your Enemy."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
