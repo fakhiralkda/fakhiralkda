@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win."</i>
+<i>"Life is filled with secrets. You can't learn them all at once."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
