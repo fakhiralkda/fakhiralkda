@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's your life-but only if you make it so."</i>
+<i>"The ego wants comfort and certainty. The soul wants to live fully."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
