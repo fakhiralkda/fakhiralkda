@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True love stories never have endings."</i>
+<i>"Your conscience is the measure of the honesty of your selfishness. Listen to it carefully."</i>
 <br>
 <b>- Richard Bach</b>
 </blockquote>
