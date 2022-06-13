@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An un-examined life is not worth living."</i>
+<i>"We run to win, not just to be in the race.  "</i>
 <br>
-<b>- Socrates</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
