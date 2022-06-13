@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your conscience is the measure of the honesty of your selfishness. Listen to it carefully."</i>
+<i>"An un-examined life is not worth living."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
