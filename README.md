@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't spend major time on minor things."</i>
+<i>"You don't need a weatherman to know which way the wind blows."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
