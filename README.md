@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Insanity: doing the same thing over and over again and expecting different results."</i>
+<i>"Sometimes things become possible if we want them bad enough."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
