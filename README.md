@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live life as though nobody is watching, and express yourself as though everyone is listening."</i>
+<i>"The more you feed your mind with positive thoughts, the more you can attract great things into your life."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
