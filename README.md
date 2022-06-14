@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't need a weatherman to know which way the wind blows."</i>
+<i>"One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
