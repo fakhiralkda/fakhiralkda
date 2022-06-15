@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are your best thing."</i>
+<i>"The guest will judge better of a feast than the cook."</i>
 <br>
-<b>- Toni Morrison</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
