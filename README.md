@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wit is educated insolence."</i>
+<i>"Never regret your past. Rather, embrace it as the teacher that it is."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
