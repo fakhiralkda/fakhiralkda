@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The guest will judge better of a feast than the cook."</i>
+<i>"One loyal friend is worth ten thousand relatives."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
