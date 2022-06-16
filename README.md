@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give so much away people insist on paying you."</i>
+<i>"Sadness is but a wall between two gardens."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
