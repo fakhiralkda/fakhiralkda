@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the expression of one's values."</i>
+<i>"Normality is a paved road: It's comfortable to walk,? but no flowers grow on it."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
