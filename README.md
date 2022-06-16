@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is like most opinions - best unexpressed."</i>
+<i>"Love is the expression of one's values."</i>
 <br>
-<b>- Kenneth Branagh</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
