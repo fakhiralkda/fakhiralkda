@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love."</i>
+<i>"You don't have to be great to start, but you have to start to be great.  "</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
