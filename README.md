@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't have to be great to start, but you have to start to be great.  "</i>
+<i>"People who have goals succeed because they know where they're going. It's that simple."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
