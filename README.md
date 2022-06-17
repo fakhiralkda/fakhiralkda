@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good system shortens the road to the goal. "</i>
+<i>"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
