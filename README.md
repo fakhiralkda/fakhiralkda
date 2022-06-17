@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I never dwell on what happened. You can't change it. Move forward."</i>
+<i>"Without the confidence, nothing can be accomplished."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
