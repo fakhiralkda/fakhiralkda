@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing we see or hear is perfect. But right there in the imperfection is perfect reality."</i>
+<i>"One day, in retrospect, the years of struggle will strike you as the most beautiful."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
