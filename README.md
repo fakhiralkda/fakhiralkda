@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the only problem you will ever have and you are the only solution."</i>
+<i>"An intelligence test sometimes shows a man how smart he would have been not to have taken it."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
