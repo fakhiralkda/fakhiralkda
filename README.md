@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first step is to establish that something is possible; then probability will occur."</i>
+<i>"Where violence reigns, reason is weak."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
