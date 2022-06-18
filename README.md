@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An intelligence test sometimes shows a man how smart he would have been not to have taken it."</i>
+<i>"It is useless to attempt to reason a man out of a thing he was never reasoned into."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
