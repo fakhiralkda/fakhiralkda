@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One day, in retrospect, the years of struggle will strike you as the most beautiful."</i>
+<i>"The first step is to establish that something is possible; then probability will occur."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
