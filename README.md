@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life happens in the river, not the shore."</i>
+<i>"Difficult roads often lead to beautiful destinations."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
