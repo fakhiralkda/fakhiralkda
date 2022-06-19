@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My guiding principle is this: Guilt is never to be doubted. "</i>
+<i>"Champions keep playing until they get it right."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Billie Jean King</b>
 </blockquote>
 </p>
 
