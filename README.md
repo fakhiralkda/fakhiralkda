@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Difficult roads often lead to beautiful destinations."</i>
+<i>"Who you are is always right."</i>
 <br>
-<b>- Unknown</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
