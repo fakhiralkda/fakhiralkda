@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leadership starts at the top."</i>
+<i>"Most people fail in life because they major in minor things."</i>
 <br>
-<b>- Morgan Wootten</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
