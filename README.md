@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just try to be the best you can be; never cease trying to be the best you can be. That's in your power."</i>
+<i>"You don't need to be better than anyone else, you just need to be better than you used to be."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
