@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is but one dream flowing into another."</i>
+<i>"Cease striving. Then there will be transformation."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
