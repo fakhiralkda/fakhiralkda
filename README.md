@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Avoiding danger is no safer in the long run than exposure."</i>
+<i>"The chief enemy of creativity is good sense."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
