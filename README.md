@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People have the illusion that all over the world, all the time, all kinds of fantastic things are happening."</i>
+<i>"Avoiding danger is no safer in the long run than exposure."</i>
 <br>
-<b>- David Brinkley</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
