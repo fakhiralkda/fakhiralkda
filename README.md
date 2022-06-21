@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only man who never makes mistakes is the man who never does anything."</i>
+<i>"Courage is resistance to fear, mastery of fear - not absence of fear."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
