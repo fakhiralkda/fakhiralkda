@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only lost cause is one we give up on before we enter the struggle."</i>
+<i>"If you do not get the chills when you set your goal you're not setting big enough goals."</i>
 <br>
-<b>- Vaclav Havel</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
