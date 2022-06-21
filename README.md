@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never whine, never complain, never try to justify yourself."</i>
+<i>"Chop your own wood and it will warm you twice. "</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
