@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Chop your own wood and it will warm you twice. "</i>
+<i>"The only man who never makes mistakes is the man who never does anything."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
