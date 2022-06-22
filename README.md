@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Deeds will not be less valiant because they are upraised."</i>
+<i>"An un-examined life is not worth living."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
