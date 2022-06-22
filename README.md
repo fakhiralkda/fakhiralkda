@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We learn to walk by falling down. If we never fell down, we would never walk."</i>
+<i>"Don't be afraid to see what you see."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
