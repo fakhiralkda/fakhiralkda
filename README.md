@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who dream by day are cognizant of many things which escape those who dream only by night."</i>
+<i>"She who loves roses must be patient and not cry out when she is pierced by thorns."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Kenji Miyazawa</b>
 </blockquote>
 </p>
 
