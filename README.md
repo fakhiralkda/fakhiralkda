@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never confuse a single defeat with a final defeat."</i>
+<i>"Change will not come if we wait for some other person, or if we wait for some other time."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
