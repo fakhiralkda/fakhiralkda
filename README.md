@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. "</i>
+<i>"It is better to learn late than never."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
