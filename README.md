@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself."</i>
+<i>"Adventure is not outside man; it is within."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
