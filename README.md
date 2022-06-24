@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just throw away all thoughts of imaginary things, and stand firm in that which you are."</i>
+<i>"A hopeless man is a very desperate and dangerous man, almost a dead man."</i>
 <br>
-<b>- Kabir</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
