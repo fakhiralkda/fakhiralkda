@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your purpose will be clear only when you listen to your heart."</i>
+<i>"All has not been said and never will be."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
