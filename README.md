@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Self-control is strength."</i>
+<i>"Productize your perspective."</i>
 <br>
-<b>- James Allen</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
