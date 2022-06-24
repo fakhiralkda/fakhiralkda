@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Productize your perspective."</i>
+<i>"The biggest adventure is what lies ahead."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
