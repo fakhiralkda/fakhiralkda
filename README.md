@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'"</i>
+<i>"Great minds are always feared by lesser minds."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
