@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A hopeless man is a very desperate and dangerous man, almost a dead man."</i>
+<i>"Even when a friend does something you do not like, he continues to be your friend. "</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
