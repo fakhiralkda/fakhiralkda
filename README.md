@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is always risk, so learn to manage risk instead of avoiding it."</i>
+<i>"It's not about what it is, it's about what it can become."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
