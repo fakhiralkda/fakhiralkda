@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest adventure is what lies ahead."</i>
+<i>"I do not exist to impress the world. I exist to live my life in a way that will make me happy."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
