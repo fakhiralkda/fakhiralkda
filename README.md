@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not about what it is, it's about what it can become."</i>
+<i>"To earn more you must learn more."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
