@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thoughts become things. If you see it in your mind, you will hold it in your hand."</i>
+<i>"Don't think money does everything or you are going to end up doing everything for money."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
