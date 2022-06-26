@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Insanity is relative. It depends on who has who locked in what cage.  "</i>
+<i>"A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
