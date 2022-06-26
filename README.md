@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make failure your teacher, not your undertaker.  "</i>
+<i>"It takes a minute to have a crush on someone, an hour to like someone, and a day to love someone... but it takes a lifetime to forget someone."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
