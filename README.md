@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you have to lose all you have to find out who you truly are."</i>
+<i>"Act the way you want to be and soon you'll be the way you act."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
