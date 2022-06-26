@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I didn't get there by wishing for it or hoping for it, but by working for it."</i>
+<i>"The future is not a gift. It is an achievement."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
