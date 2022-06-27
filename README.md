@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important thing in communication is to hear what isn't being said."</i>
+<i>"We are all faced with a series of great opportunities brilliantly disguised as impossible situations. "</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Charles Swindoll</b>
 </blockquote>
 </p>
 
