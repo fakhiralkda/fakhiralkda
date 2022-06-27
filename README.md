@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is."</i>
+<i>"Only put off until tomorrow what you are willing to die having left undone."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
