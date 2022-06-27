@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I love fools' experiments. I am always making them."</i>
+<i>"If I can laugh, I can live."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
