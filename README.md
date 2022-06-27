@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd."</i>
+<i>"I love fools' experiments. I am always making them."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
