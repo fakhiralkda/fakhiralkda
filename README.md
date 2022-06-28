@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wisdom of life consists in the elimination of the nonessentials."</i>
+<i>"Unhappiness enters through a door that has been left open."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
