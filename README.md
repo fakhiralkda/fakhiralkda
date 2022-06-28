@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is like money, easier made than kept."</i>
+<i>"Sometimes a change of perspective is all it takes to see the light."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
