@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"They say love is the best investment; the more you give, the more you get in return."</i>
+<i>"Dream big and dare to fail."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Norman Vaughan</b>
 </blockquote>
 </p>
 
