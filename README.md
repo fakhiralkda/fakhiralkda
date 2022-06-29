@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Heroes don't need to talk about what they did."</i>
+<i>"They say love is the best investment; the more you give, the more you get in return."</i>
 <br>
-<b>- W.P. Kinsella</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
