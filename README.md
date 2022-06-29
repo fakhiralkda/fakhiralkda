@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you reach the top of the mountain, keep climbing. "</i>
+<i>"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
