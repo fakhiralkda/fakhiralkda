@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."</i>
+<i>"Realize deeply that the present moment is all you ever have. "</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
