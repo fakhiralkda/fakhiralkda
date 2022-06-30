@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Empty yourself of everything - let the mind become still."</i>
+<i>"He who knows, does not speak. He who speaks, does not know."</i>
 <br>
 <b>- Lao Tzu</b>
 </blockquote>
