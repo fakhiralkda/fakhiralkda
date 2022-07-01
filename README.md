@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Given the choice between the experience of pain and nothing, I would choose pain."</i>
+<i>"The best way to find yourself is to lose yourself in the service of others."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
