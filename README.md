@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety."</i>
+<i>"He who is not contented with what he has, would not be contented with what he would like to have."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
