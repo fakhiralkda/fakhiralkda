@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is more important than knowledge."</i>
+<i>"He is not a lover who does not love forever."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
