@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He is not a lover who does not love forever."</i>
+<i>"Trust is the foundation of great leadership."</i>
 <br>
-<b>- Euripides</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
