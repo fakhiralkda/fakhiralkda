@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people spend more time and energy going around problems than in trying to solve them. "</i>
+<i>"If the grass is greener on the other side, maybe that's because you're not taking good care of your grass."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
