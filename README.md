@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. "</i>
+<i>"When you love someone, you love the person as they are, and not as you'd like them to be."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
