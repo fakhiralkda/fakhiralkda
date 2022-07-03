@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People who bite the hand that feeds them usually lick the boot that kicks them."</i>
+<i>"If you want to be successful, you have to jump, there's no way around it."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
