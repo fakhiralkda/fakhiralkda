@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to be successful, you have to jump, there's no way around it."</i>
+<i>"It is better to disappoint people with the truth than to appease them with a lie."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
