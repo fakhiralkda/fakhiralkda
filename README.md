@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is contagious. So is lack of confidence."</i>
+<i>"Winners never quit and quitters never win."</i>
 <br>
 <b>- Vince Lombardi</b>
 </blockquote>
