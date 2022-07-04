@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything is possible. The impossible just takes longer."</i>
+<i>"Instead of worrying about what you cannot control, shift your energy to what you can create."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
