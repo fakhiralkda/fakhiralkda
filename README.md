@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work is always an antidote to depression."</i>
+<i>"If you quit once it becomes a habit."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
