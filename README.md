@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All human beings can alter their lives by altering their attitudes."</i>
+<i>"Be fascinated instead of frustrated."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
