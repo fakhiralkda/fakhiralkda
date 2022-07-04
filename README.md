@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The past has no power over the present moment. "</i>
+<i>"Try all things, hold fast that which is good."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
