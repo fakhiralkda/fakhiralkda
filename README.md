@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road."</i>
+<i>"The one who boasts does so only out of a feeling of inferiority."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
