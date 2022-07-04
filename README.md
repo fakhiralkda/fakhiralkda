@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Try all things, hold fast that which is good."</i>
+<i>"Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy."</i>
 <br>
-<b>- John Locke</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
