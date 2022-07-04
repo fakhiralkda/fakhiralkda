@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Instead of worrying about what you cannot control, shift your energy to what you can create."</i>
+<i>"A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
