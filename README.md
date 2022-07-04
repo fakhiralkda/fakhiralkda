@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you quit once it becomes a habit."</i>
+<i>"All human beings can alter their lives by altering their attitudes."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
