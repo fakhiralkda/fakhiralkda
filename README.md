@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thinking is the hardest work there is, which is probably the reason why so few engage in it."</i>
+<i>"All happiness depends on courage and work."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
