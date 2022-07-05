@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love."</i>
+<i>"Thinking is the hardest work there is, which is probably the reason why so few engage in it."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
