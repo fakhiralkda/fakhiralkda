@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A rational person can find peace by cultivating indifference to things outside of their control."</i>
+<i>"The truth is not for all men, but for those who seek it."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
