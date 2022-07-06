@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The foolish reject what they see, not what they think; the wise reject what they think, not what they see."</i>
+<i>"A rational person can find peace by cultivating indifference to things outside of their control."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
