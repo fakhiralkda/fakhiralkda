@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All happiness depends on courage and work."</i>
+<i>"Hope is not a strategy. Luck is not a factor. Fear is not an option."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
