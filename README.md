@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forgive yourself for your faults and your mistakes and move on."</i>
+<i>"I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
