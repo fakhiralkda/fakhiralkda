@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only man who never makes mistakes is the man who never does anything."</i>
+<i>"There are no mistakes in life, only lessons."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
