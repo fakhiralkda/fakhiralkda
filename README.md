@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the practice of tolerance, one's enemy is the best teacher."</i>
+<i>"The only man who never makes mistakes is the man who never does anything."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
