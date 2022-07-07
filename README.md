@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What would you do if you weren't afraid?"</i>
+<i>"Everybody has talent, but ability takes hard work."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
