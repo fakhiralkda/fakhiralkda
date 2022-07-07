@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way it gets better for you is when you get better. Better is not something you wish, it's something you become."</i>
+<i>"The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!"</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
