@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't, you must. If you must, you can."</i>
+<i>"You know the more one does the more one can do."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
