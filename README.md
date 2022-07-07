@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you extend kindness to yourself, the more it will become your automatic response to others."</i>
+<i>"If you can't, you must. If you must, you can."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
