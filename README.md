@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who looks outside, dreams; who looks inside, awakes."</i>
+<i>"We must be free not because we claim freedom, but because we practice it."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
