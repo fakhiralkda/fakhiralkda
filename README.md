@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must be free not because we claim freedom, but because we practice it."</i>
+<i>"Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
