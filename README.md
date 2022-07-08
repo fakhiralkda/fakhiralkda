@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You know the more one does the more one can do."</i>
+<i>"Science can flourish only in an atmosphere of free speech. "</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
