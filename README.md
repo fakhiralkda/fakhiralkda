@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you believe in a thing, believe in it all the way, implicitly and unquestionable."</i>
+<i>"Every strike brings me closer to the next home run. "</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Babe Ruth</b>
 </blockquote>
 </p>
 
