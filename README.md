@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let each man exercise the art he knows."</i>
+<i>"People who avoid failure also avoid success."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
