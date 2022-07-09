@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every strike brings me closer to the next home run. "</i>
+<i>"Anyone who has ever made anything of importance was disciplined."</i>
 <br>
-<b>- Babe Ruth</b>
+<b>- Andrew Hendrixson</b>
 </blockquote>
 </p>
 
