@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness."</i>
+<i>"How you think when you lose determines how long it will be until you win."</i>
 <br>
-<b>- Unknown</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
