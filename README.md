@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who has ever made anything of importance was disciplined."</i>
+<i>"Where you are right now doesn't have to determine where you'll end up."</i>
 <br>
-<b>- Andrew Hendrixson</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
