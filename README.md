@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where you are right now doesn't have to determine where you'll end up."</i>
+<i>"Let each man exercise the art he knows."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
