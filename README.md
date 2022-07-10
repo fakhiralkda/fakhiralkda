@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whether you have a problem in your life or not depends upon your own attitude, your own understanding."</i>
+<i>"Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
