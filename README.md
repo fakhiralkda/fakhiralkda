@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform."</i>
+<i>"Numbing the pain for a while will only make it worse when you finally feel it."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
