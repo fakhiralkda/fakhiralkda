@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the expression of one's values."</i>
+<i>"Never whine, never complain, never try to justify yourself."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
