@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A journey of a thousand miles must begin with a single step."</i>
+<i>"However difficult life may seem, there is always something you can do and succeed at."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
