@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is like money, easier made than kept."</i>
+<i>"The meaning of life is just to be alive. It is so plain and so obvious and so simple."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
