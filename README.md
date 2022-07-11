@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people find fault like there is a reward for it.  "</i>
+<i>"The more you praise and celebrate your life, the more there is in life to celebrate. "</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
