@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience is a bitter plant, but its fruit is sweet."</i>
+<i>"If you genuinely want something, don't wait for it - teach yourself."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
