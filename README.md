@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that is made beautiful and fair and lovely is made for the eye of one who sees."</i>
+<i>"I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive."</i>
 <br>
-<b>- Rumi</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
