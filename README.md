@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An ounce of performance is worth pounds of promises."</i>
+<i>"Attitude, not aptitude, determines altitude.  "</i>
 <br>
-<b>- Mae West</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
