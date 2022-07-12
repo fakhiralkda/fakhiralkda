@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents."</i>
+<i>"Quality is not an act, it is a habit."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
