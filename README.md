@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let the noise of others opinions drown out your inner voice."</i>
+<i>"It's not what you've got; it's what you do that makes the difference."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
