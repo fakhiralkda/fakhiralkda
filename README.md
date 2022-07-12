@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What loneliness is more lonely than distrust?"</i>
+<i>"Don't let the noise of others opinions drown out your inner voice."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
