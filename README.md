@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"However difficult life may seem, there is always something you can do and succeed at."</i>
+<i>"People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
