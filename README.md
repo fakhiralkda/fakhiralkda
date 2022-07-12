@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality is not an act, it is a habit."</i>
+<i>"If you can't imagine it, you can't have it."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Toni Morrison</b>
 </blockquote>
 </p>
 
