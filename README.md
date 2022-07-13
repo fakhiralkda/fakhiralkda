@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is everything. It is the preview of life's coming attractions."</i>
+<i>"Work out your own salvation. Do not depend on others."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
