@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."</i>
+<i>"I hear and I forget. I see and I remember. I do and I understand. "</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
