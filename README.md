@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do every act of your life as if it were your last."</i>
+<i>"The only time you run out of chances is when you stop taking them."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
