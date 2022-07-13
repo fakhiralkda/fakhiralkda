@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live."</i>
+<i>"I love fools' experiments. I am always making them."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
