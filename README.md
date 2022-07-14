@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most courageous act is still to think for yourself. Aloud."</i>
+<i>"It's not about what it is, it's about what it can become."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
