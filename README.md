@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Big people don't make people feel small."</i>
+<i>"You will not do incredible things without an incredible dream."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
