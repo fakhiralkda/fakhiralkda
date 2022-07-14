@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Art, like morality, consists of drawing the line somewhere."</i>
+<i>"The less you open your heart to others, the more your heart suffers."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
