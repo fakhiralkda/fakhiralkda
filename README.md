@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Judge your success by what you had to give up in order to get it."</i>
+<i>"Big people don't make people feel small."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
