@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The dreamers are the saviors of the worlds."</i>
+<i>"What would life be if we had no courage to attempt anything? "</i>
 <br>
-<b>- James Allen</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
