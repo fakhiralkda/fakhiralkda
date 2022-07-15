@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The businessman's tool is value."</i>
+<i>"Believe you can and you will be halfway there."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
