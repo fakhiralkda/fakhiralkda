@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who knows, does not speak. He who speaks, does not know."</i>
+<i>"The wise accomplish all that they want without arousing the envy or scorn of others."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
