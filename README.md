@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you reach the top of the mountain, keep climbing. "</i>
+<i>"It's not what you pay a man, but what he costs you that counts."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
