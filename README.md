@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not get the chills when you set your goal you're not setting big enough goals."</i>
+<i>"The biggest adventure you can ever take is to live the life of your dreams. "</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
