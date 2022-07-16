@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throw your heart over the fence and the rest will follow"</i>
+<i>"If you do not get the chills when you set your goal you're not setting big enough goals."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
