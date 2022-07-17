@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we have no peace, it is because we have forgotten that we belong to each other."</i>
+<i>"Rudeness is the weak man's imitation of strength."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
