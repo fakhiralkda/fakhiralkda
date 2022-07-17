@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher."</i>
+<i>"To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
