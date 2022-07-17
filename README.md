@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead."</i>
+<i>"Sometimes a change of perspective is all it takes to see the light."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
