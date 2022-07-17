@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth is simple. If it was complicated, everyone would understand it."</i>
+<i>"If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
