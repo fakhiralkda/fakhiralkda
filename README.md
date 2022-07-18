@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not allow your inner doubts to keep you from achieving what you can do."</i>
+<i>"Love is merely the name for the desire and pursuit of the whole."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
