@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Someday death will take us to another star."</i>
+<i>"He who hesitates is a damned fool."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
