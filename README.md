@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is liking yourself, liking what you do, and liking how you do it."</i>
+<i>"Someday death will take us to another star."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
