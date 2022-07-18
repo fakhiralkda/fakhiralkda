@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can handle rejection, you'll learn to get everything you want."</i>
+<i>"From morning till night, we should never rely on a single thing."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
