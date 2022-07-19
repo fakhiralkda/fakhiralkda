@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life begins where fear ends."</i>
+<i>"Never close your lips to those whom you have already opened your heart."</i>
 <br>
-<b>- Osho</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
