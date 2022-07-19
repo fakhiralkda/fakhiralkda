@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Progress is limited by your ability to change your mind."</i>
+<i>"The ability to observe without evaluating is the highest form of intelligence."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
