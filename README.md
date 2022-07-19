@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is achieved and maintained by those who try and keep trying. "</i>
+<i>"A person is only by the thoughts that he chooses."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
