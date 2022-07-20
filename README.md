@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are tough on yourself, life is going to be infinitely easier on you.  "</i>
+<i>"Just do the best you can. No one can do more than that."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
