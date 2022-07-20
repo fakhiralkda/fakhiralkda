@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to understanding is a few good examples."</i>
+<i>"Circumstances rule men; men do not rule circumstances. "</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
