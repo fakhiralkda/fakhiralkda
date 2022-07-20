@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Excellence is not an exception, it is a prevailing attitude."</i>
+<i>"Friendship takes time and energy if it's going to work."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
