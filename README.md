@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Turn off your mind, relax, and float downstream."</i>
+<i>"Life is a question and how we live it is our answer."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
