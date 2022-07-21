@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Awaken. Take heed, do not squander your life."</i>
+<i>"Emancipate yourself from mental slavery, none but ourselves can free our mind."</i>
 <br>
-<b>- Dogen</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
