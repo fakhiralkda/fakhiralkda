@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never was anything great achieved without danger."</i>
+<i>"Intense love does not measure, it just gives."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
