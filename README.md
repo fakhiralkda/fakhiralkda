@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Emancipate yourself from mental slavery, none but ourselves can free our mind."</i>
+<i>"We build too many walls and not enough bridges."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
