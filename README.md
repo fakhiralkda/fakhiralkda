@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Start the day with love, spend the day with love, fill the day with love and end the day with love."</i>
+<i>"Always do your best. What you plant now, you will harvest later."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
