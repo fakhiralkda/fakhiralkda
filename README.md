@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy."</i>
+<i>"Start the day with love, spend the day with love, fill the day with love and end the day with love."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
