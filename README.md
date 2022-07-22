@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important thing is to enjoy your life, to be happy, it's all that matters."</i>
+<i>"Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
