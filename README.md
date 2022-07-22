@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our view of the world is truly shaped by what we decide to hear."</i>
+<i>"The most important thing is to enjoy your life, to be happy, it's all that matters."</i>
 <br>
-<b>- William James</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
