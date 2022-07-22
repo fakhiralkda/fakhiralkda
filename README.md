@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always do your best. What you plant now, you will harvest later."</i>
+<i>"Definitions belong to the definers, not the defined."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Toni Morrison</b>
 </blockquote>
 </p>
 
