@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your home is where your thoughts find peace."</i>
+<i>"People are doing the best that they can from their own level of consciousness."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
