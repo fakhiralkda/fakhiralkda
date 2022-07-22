@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who hesitates is a damned fool."</i>
+<i>"Your home is where your thoughts find peace."</i>
 <br>
-<b>- Mae West</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
