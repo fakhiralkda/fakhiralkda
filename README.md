@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is within the reach of just about everyone."</i>
+<i>"Nourish the mind like you would your body. The mind cannot survive on junk food."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
