@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not look for approval except for the consciousness of doing your best."</i>
+<i>"Life is what you make it. Always has been, always will be."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
