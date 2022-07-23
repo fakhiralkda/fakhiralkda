@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Constantly think about how you could be doing things better."</i>
+<i>"Ask no questions, and you'll be told no lies."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
