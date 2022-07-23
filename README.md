@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nourish the mind like you would your body. The mind cannot survive on junk food."</i>
+<i>"Begin now to be what you will be hereafter."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
