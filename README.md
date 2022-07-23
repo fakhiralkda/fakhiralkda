@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future is not a gift. It is an achievement."</i>
+<i>"Constantly think about how you could be doing things better."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
