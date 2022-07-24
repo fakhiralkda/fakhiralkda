@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The purpose of life is the expansion of happiness."</i>
+<i>"The more you know, the more you know you don't know."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
