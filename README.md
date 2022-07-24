@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is a source of great strength."</i>
+<i>"The greatest of empires, is the empire over one's self."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
