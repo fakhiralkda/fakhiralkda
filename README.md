@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give out what you most want to come back."</i>
+<i>"The people who succeed are irrationally passionate about something."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
