@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you can't make them see the light, make them feel the heat."</i>
+<i>"Don't learn to do, but learn in doing."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
