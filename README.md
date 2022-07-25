@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important things are the hardest to say."</i>
+<i>"You are the only problem you will ever have and you are the only solution."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
