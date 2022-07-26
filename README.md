@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win."</i>
+<i>"Greatest success comes just one step beyond the point at which defeat overtakes you."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
