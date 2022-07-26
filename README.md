@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Preoccupied with a single leaf you won't see the tree."</i>
+<i>"Success is liking yourself, liking what you do, and liking how you do it."</i>
 <br>
-<b>- Unknown</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
