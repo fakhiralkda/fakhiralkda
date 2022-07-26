@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you."</i>
+<i>"Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it."</i>
 <br>
-<b>- Jeffrey Gitomer</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
