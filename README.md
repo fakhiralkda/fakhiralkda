@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is built sequentially. It's one thing at a time."</i>
+<i>"Waste not fresh tears over old griefs."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
