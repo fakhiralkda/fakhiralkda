@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where there is no struggle, there is no strength. "</i>
+<i>"Conflict cannot survive without your participation. "</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
