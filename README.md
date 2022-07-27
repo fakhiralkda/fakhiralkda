@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Act the way you want to be and soon you'll be the way you act."</i>
+<i>"Do what you can, with what you have, where you are."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
