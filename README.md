@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fashion fades, only style remains the same."</i>
+<i>"Self-knowledge is the beginning of self-correction."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
