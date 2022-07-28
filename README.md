@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Self-knowledge is the beginning of self-correction."</i>
+<i>"We can either add to our character each day, or we can fritter away our energies in distractions."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
