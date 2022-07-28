@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can either add to our character each day, or we can fritter away our energies in distractions."</i>
+<i>"Judge a man by his questions rather than his answers."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
