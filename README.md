@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be angry is to revenge the faults of others on ourselves."</i>
+<i>"Educating the mind without educating the heart is no education at all."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
