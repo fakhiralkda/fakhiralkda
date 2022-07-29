@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whenever you do a thing, act as if all the world were watching."</i>
+<i>"Any idea, plan, or purpose may be placed in the mind through repetition of thought."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
