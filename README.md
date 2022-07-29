@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  "</i>
+<i>"Failure is just information and an opportunity to change your course."</i>
 <br>
-<b>- David Brinkley</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
