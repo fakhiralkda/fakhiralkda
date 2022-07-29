@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You'll never find rainbows if you're looking down.  "</i>
+<i>"A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  "</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- David Brinkley</b>
 </blockquote>
 </p>
 
