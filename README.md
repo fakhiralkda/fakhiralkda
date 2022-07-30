@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Death is not sad; the sad thing is that most people don't really live at all."</i>
+<i>"A leader leads by example, not by force."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
