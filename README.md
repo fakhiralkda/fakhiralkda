@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The businessman's tool is value."</i>
+<i>"Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
