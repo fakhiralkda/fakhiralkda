@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not final, failure is not fatal: it is the courage to continue that counts."</i>
+<i>"To lead an orchestra, you must turn your back on the crowd."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
