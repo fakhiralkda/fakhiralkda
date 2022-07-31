@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who know, do. Those that understand, teach."</i>
+<i>"If you do the work you get rewarded. There are no shortcuts in life."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
