@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To lead an orchestra, you must turn your back on the crowd."</i>
+<i>"There's no next time. It's now or never."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
