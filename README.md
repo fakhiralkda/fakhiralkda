@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Becoming a great leader doesn't mean being perfect. it means living with your imperfections."</i>
+<i>"I would rather die on my feet than live on my knees."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
