@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your conscience is the measure of the honesty of your selfishness. Listen to it carefully."</i>
+<i>"Repetition does not transform a lie into a truth."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
