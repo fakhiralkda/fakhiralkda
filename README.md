@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not fight with pigs - you will be smeared in mud but the pig will like it."</i>
+<i>"When you rise in the morning, form a resolution to make the day a happy one for a fellow creature."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
