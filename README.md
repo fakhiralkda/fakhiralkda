@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you take responsibility for yourself you will develop a hunger to accomplish your dream."</i>
+<i>"Life is like underwear, should be changed twice a day.  "</i>
 <br>
-<b>- Les Brown</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
