@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you rise in the morning, form a resolution to make the day a happy one for a fellow creature."</i>
+<i>"Humans and prosperity never endure side by side for long."</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
