@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little."</i>
+<i>"There is no excuse for not trying."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
