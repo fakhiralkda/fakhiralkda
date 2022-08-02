@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unless someone truly has the power to say no, they never truly have the power to say yes."</i>
+<i>"To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
