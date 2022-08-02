@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Humans and prosperity never endure side by side for long."</i>
+<i>"Keep your dreams, you never know when you might need them."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
