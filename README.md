@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life and the simple beauty of it is too good to pass up."</i>
+<i>"Confidence comes not from always being right but not fearing to be wrong."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
