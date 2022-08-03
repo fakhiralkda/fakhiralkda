@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work harder on yourself than you do on your job."</i>
+<i>"Fools resist. The wise embrace."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
