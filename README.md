@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rudeness is the weak man's imitation of strength."</i>
+<i>"Your gift is something that you can do innately better than anything else."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
