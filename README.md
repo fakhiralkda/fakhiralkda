@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What we know is a drop, what we don't know is an ocean. "</i>
+<i>"Setting goals is the first step in turning the invisible into the visible."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
