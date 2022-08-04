@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not follow the ideas of others, but learn to listen to the voice within yourself."</i>
+<i>"He who cannot be a good follower cannot be a good leader."</i>
 <br>
-<b>- Dogen</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
