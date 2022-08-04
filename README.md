@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every hour of every day is an unspeakably perfect miracle."</i>
+<i>"Do not follow the ideas of others, but learn to listen to the voice within yourself."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
