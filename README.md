@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The thing about smart people is that they seem like crazy people to dumb people."</i>
+<i>"Wise people, even though all laws were abolished, would still lead the same life."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
