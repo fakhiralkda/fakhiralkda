@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time."</i>
+<i>"Every hour of every day is an unspeakably perfect miracle."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
