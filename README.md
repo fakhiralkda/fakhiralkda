@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wise people, even though all laws were abolished, would still lead the same life."</i>
+<i>"Believe in your infinite potential. Your only limitations are those you set upon yourself."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
