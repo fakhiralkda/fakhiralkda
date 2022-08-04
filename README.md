@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"But better die than live mechanically a life that is a repetition of repetitions."</i>
+<i>"The thing about smart people is that they seem like crazy people to dumb people."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
