@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leaders think and talk about solutions. Followers think and talk about the problems."</i>
+<i>"But better die than live mechanically a life that is a repetition of repetitions."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
