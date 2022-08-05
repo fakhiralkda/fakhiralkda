@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Walk towards the sunshine, and the shadows will fall behind you."</i>
+<i>"Lost Time is never found again."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
