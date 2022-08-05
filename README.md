@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who cannot be a good follower cannot be a good leader."</i>
+<i>"In peace, sons bury their fathers. In war, fathers bury their sons. "</i>
 <br>
-<b>- Aristotle</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
