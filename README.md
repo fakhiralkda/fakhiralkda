@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A tiny change today brings a dramatically different tomorrow."</i>
+<i>"Life doesn't get easier or more forgiving, we get stronger and more resilient."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
