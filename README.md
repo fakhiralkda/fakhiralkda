@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In peace, sons bury their fathers. In war, fathers bury their sons. "</i>
+<i>"The chief enemy of creativity is good sense."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
