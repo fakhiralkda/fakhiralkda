@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The chief enemy of creativity is good sense."</i>
+<i>"The way to change others' minds is with affection, and not anger."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
