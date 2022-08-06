@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The number one cause of failure is the fear of failure."</i>
+<i>"We've got to live, no matter how many skies have fallen."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
