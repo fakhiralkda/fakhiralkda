@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who know, do. Those that understand, teach."</i>
+<i>"The number one cause of failure is the fear of failure."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
