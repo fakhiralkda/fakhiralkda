@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even when a friend does something you do not like, he continues to be your friend. "</i>
+<i>"The more one judges, the less one loves."</i>
 <br>
-<b>- Genghis Khan</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
