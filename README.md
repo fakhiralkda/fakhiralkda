@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of getting ahead is getting started."</i>
+<i>"Wheresoever you go, go with all your heart."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
