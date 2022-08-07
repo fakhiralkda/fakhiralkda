@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The smallest of actions is always better than the noblest of intentions."</i>
+<i>"Do not look for approval except for the consciousness of doing your best."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
