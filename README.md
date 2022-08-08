@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We will outstretch the hand if you unclench your fist."</i>
+<i>"All problems are interpersonal relationship problems."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
