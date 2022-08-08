@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more often a stupidity is repeated, the more it gets the appearance of wisdom."</i>
+<i>"The person who is his own master cannot tolerate another boss. "</i>
 <br>
-<b>- Voltaire</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
