@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person who is his own master cannot tolerate another boss. "</i>
+<i>"To escape from the world means that one's mind is not concerned with the opinions of the world."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
