@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to achieve greatness stop asking for permission."</i>
+<i>"Time goes from present to past."</i>
 <br>
-<b>- Unknown</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
