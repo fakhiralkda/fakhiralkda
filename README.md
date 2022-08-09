@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All problems are interpersonal relationship problems."</i>
+<i>"The pursuit of mastery bears gifts. "</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
