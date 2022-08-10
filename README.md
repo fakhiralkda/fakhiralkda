@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we have our body and mind in order, everything else will exist in the right place, in the right way."</i>
+<i>"One of the most difficult things is not to change society - but to change yourself."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
