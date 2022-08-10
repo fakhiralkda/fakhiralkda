@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is useless to attempt to reason a man out of a thing he was never reasoned into."</i>
+<i>"Like it or not, this moment is all we really have to work with."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
