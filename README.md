@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live!"</i>
+<i>"Victims recite problems, leaders provide solutions."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
