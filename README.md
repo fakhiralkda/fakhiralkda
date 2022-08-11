@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot push anyone up a ladder unless he is willing to climb a little himself."</i>
+<i>"Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
