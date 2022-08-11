@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is easier to fight for one's principles than to live up to them. "</i>
+<i>"You cannot push anyone up a ladder unless he is willing to climb a little himself."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
