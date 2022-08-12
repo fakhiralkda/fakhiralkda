@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To create more positive results in your life, replace 'if only' with 'next time'."</i>
+<i>"Integrity is the ability to stand by an idea."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
