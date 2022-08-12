@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The one who boasts does so only out of a feeling of inferiority."</i>
+<i>"It is easy to discover what another has discovered before."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Christopher Columbus</b>
 </blockquote>
 </p>
 
