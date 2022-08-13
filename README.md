@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A very little key will open a very heavy door."</i>
+<i>"You change the world by being yourself."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
