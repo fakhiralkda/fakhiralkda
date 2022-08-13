@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only put off until tomorrow what you are willing to die having left undone."</i>
+<i>"Love doesn't need reason. It speaks from the irrational wisdom of the heart."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
