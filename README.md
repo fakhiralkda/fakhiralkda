@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genius is one percent inspiration and ninety-nine percent perspiration."</i>
+<i>"When something comes from within, when it is a part of you, you have no choice but to live it, to express it."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
