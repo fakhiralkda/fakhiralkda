@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person who cannot control his words shows that he cannot control himself."</i>
+<i>"Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!"</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
