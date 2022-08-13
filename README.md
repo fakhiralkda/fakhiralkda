@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's easier to lose than to win.  "</i>
+<i>"A very little key will open a very heavy door."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
