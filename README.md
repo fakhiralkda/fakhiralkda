@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people dream of success, while others wake up and work hard at it."</i>
+<i>"Judge a man by his questions rather than his answers."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
