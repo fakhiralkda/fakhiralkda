@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence comes not from always being right but not fearing to be wrong."</i>
+<i>"Surround yourself only with people who are going to take you higher."</i>
 <br>
-<b>- Unknown</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
