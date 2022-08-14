@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mistake is a mistake only if you make it twice."</i>
+<i>"You may think I'm small, but I have a universe inside my mind."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
