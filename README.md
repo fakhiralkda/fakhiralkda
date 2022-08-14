@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is what you have before you understand the problem."</i>
+<i>"Mistake is a mistake only if you make it twice."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
