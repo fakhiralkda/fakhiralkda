@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is never easy, but always possible."</i>
+<i>"He will win who knows when to fight and when not to fight."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
