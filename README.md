@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If light is in your heart, you will find your way home.  "</i>
+<i>"Do not go where the path may lead, go instead where there is no path and leave a trail."</i>
 <br>
-<b>- Rumi</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
