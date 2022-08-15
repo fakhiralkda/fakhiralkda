@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have within you right now, everything you need to deal with whatever the world can throw at you."</i>
+<i>"In order to be walked over, you have to be lying down."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
