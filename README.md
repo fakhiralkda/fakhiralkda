@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only limits in our life are those we impose on ourselves."</i>
+<i>"A golden cage is still just a cage."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
