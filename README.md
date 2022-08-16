@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Like it or not, this moment is all we really have to work with."</i>
+<i>"If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
