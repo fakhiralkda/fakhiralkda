@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human beings can alter their lives by altering their attitudes of mind."</i>
+<i>"Like it or not, this moment is all we really have to work with."</i>
 <br>
-<b>- William James</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
