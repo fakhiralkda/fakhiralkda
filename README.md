@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot change your destination overnight but you can change your direction overnight."</i>
+<i>"As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
