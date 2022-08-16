@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A golden cage is still just a cage."</i>
+<i>"Human beings can alter their lives by altering their attitudes of mind."</i>
 <br>
-<b>- Anita Krizzan</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
