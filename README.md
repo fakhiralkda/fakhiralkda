@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become."</i>
+<i>"Troubles are often the tools by which God fashions us for better things."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
