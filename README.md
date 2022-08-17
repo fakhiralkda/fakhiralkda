@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Troubles are often the tools by which God fashions us for better things."</i>
+<i>"Things may come to those who wait, but only the things left by those who hustle."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
