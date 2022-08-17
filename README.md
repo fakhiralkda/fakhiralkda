@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things may come to those who wait, but only the things left by those who hustle."</i>
+<i>"Creativity is intelligence having fun."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
