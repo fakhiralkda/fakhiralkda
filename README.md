@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. "</i>
+<i>"Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
