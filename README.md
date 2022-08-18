@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more acquaintances you have, the less you know them."</i>
+<i>"It is better to disappoint people with the truth than to appease them with a lie."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
