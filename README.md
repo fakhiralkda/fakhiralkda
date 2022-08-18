@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to disappoint people with the truth than to appease them with a lie."</i>
+<i>"The older you get the stronger the wind gets - and it's always in your face."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
