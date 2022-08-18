@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A lie can travel half way around the world while the truth is putting on its shoes."</i>
+<i>"Quality is more important than quantity. One home run is much better than two doubles."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
