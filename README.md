@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you're curious, you find lots of interesting things to do."</i>
+<i>"Don't bother people for help without first trying to solve the problem yourself."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
