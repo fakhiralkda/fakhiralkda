@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One loyal friend is worth ten thousand relatives."</i>
+<i>"When you're curious, you find lots of interesting things to do."</i>
 <br>
-<b>- Euripides</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
