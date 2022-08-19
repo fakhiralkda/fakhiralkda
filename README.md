@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Looking after my health today gives me a better hope for tomorrow. "</i>
+<i>"Saying nothing sometimes says the most."</i>
 <br>
-<b>- Anne Wilson Schaef</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
