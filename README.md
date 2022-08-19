@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is more creative...nor destructive...than a brilliant mind with a purpose."</i>
+<i>"Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. "</i>
 <br>
-<b>- Dan Brown</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
