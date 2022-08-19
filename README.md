@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The search for happiness is one of the chief sources of unhappiness."</i>
+<i>"Distant water does not put out a nearby fire."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
