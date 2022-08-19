@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life does not get better by chance, it gets better by change."</i>
+<i>"Looking after my health today gives me a better hope for tomorrow. "</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Anne Wilson Schaef</b>
 </blockquote>
 </p>
 
