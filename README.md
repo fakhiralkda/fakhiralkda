@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have."</i>
+<i>"Nothing is more creative...nor destructive...than a brilliant mind with a purpose."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
