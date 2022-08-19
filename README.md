@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. "</i>
+<i>"Life does not get better by chance, it gets better by change."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
