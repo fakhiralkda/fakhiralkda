@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Difficulties strengthen the mind, as labor does the body.  "</i>
+<i>"Your home is where your thoughts find peace."</i>
 <br>
-<b>- Seneca</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
