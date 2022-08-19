@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your home is where your thoughts find peace."</i>
+<i>"The search for happiness is one of the chief sources of unhappiness."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
