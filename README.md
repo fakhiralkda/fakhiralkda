@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The dead receive more flowers than the living because regret is stronger than gratitude."</i>
+<i>"Pleasure in the job puts perfection in the work."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
