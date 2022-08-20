@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What worries you, masters you."</i>
+<i>"Death walks faster than the wind and never returns what he has taken."</i>
 <br>
-<b>- John Locke</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
