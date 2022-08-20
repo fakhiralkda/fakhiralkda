@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be grateful for what you have now, and nothing should be taken for granted."</i>
+<i>"Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Jeffrey Gitomer</b>
 </blockquote>
 </p>
 
