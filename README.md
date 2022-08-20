@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pleasure in the job puts perfection in the work."</i>
+<i>"What worries you, masters you."</i>
 <br>
-<b>- Aristotle</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
