@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you."</i>
+<i>"Patience is bitter, but its fruit is sweet."</i>
 <br>
-<b>- Jeffrey Gitomer</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
