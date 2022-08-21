@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The privilege of a lifetime is to become who you truly are."</i>
+<i>"It does not matter how slowly you go so long as you do not stop."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
