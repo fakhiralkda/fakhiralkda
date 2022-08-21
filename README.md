@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just as true humor is laughter at oneself, true humanity is knowledge of oneself."</i>
+<i>"Before anything else, preparation is the key to success."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
