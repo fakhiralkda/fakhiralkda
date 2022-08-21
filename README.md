@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My guiding principle is this: Guilt is never to be doubted. "</i>
+<i>"If you done it, it ain't bragging."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
