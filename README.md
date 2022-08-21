@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the mark of an educated mind to be able to entertain a thought without accepting it."</i>
+<i>"One loses many laughs by not laughing at oneself."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
