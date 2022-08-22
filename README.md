@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I do not seek. I find."</i>
+<i>"By perseverance the snail reached the ark."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Charles Spurgeon</b>
 </blockquote>
 </p>
 
