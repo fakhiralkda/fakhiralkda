@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who cannot change their minds cannot change anything."</i>
+<i>"In matters of style, swim with the current; in matters of principle, stand like a rock."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
