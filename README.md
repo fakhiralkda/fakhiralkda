@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your setback is just a setup for a comeback."</i>
+<i>"All that a man achieves and all that he fails to achieve is the direct result of his own thoughts."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
