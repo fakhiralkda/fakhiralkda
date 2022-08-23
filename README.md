@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the oldest human needs is having someone to wonder where you are when you don't come home at night. "</i>
+<i>"Man should fear never beginning to live."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
