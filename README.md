@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the root is strong, the fruit is sweet."</i>
+<i>"Acknowledging the good that you already have in your life is the foundation for all abundance."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
