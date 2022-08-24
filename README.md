@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life begins where fear ends."</i>
+<i>"There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen."</i>
 <br>
-<b>- Osho</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
