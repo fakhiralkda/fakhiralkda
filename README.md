@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Little by little, one travels far."</i>
+<i>"Whatever you are, be a good one."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
