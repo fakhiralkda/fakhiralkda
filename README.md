@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The two most important days in your life are the day you are born and the day you find out why."</i>
+<i>"Each time we don't say what we wanna say, we're dying."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
