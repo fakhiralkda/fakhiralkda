@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mistakes are always forgivable, if one has the courage to admit them. "</i>
+<i>"The two most important days in your life are the day you are born and the day you find out why."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
