@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who hesitates is a damned fool."</i>
+<i>"What are we doing here, that is the question."</i>
 <br>
-<b>- Mae West</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
