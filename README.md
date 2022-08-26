@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live, travel, adventure, bless, and don't be sorry.  "</i>
+<i>"We are all in the gutter, but some of us are looking at the stars. "</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
