@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Find something you love and do it better than everyone else."</i>
+<i>"Unless you change how you are, you will always have what you got."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
