@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The opportunity of defeating the enemy is provided by the enemy himself."</i>
+<i>"Just do the best you can. No one can do more than that."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
