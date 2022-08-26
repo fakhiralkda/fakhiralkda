@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throughout this life, you can never be certain of living long enough to take another breath."</i>
+<i>"Find something you love and do it better than everyone else."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
