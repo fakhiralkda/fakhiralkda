@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To the world you may be one person; but to one person you may be the world."</i>
+<i>"It is easier to fight for one's principles than to live up to them. "</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
