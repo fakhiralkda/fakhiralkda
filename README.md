@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unless you change how you are, you will always have what you got."</i>
+<i>"Live, travel, adventure, bless, and don't be sorry.  "</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
