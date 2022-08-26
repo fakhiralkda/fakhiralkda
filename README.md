@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just do the best you can. No one can do more than that."</i>
+<i>"Know your gifts and share them."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
