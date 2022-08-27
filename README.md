@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Seek not the good in external things;seek it in yourselves."</i>
+<i>"You can't wait for inspiration. You have to go after it with a club. "</i>
 <br>
-<b>- Epictetus</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
