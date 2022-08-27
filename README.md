@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't wait for inspiration. You have to go after it with a club. "</i>
+<i>"Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard."</i>
 <br>
-<b>- Jack London</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
