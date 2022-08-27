@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Generosity is giving more than you can, and pride is taking less than you need."</i>
+<i>"Nothing ever goes away until it has taught us what we need to know."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
