@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is the true magic carpet."</i>
+<i>"We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
