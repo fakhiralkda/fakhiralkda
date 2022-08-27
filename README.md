@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing ever goes away until it has taught us what we need to know."</i>
+<i>"When you know what you want, and want it bad enough, you will find a way to get it."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
