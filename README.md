@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We turn not older with years but newer every day."</i>
+<i>"Only he who has no use for the empire is fit to be entrusted with it."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
