@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Discipline yourself, and others won't need to."</i>
+<i>"We turn not older with years but newer every day."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
