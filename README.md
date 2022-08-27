@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves."</i>
+<i>"The greatest treasures are those invisible to the eye but found by the heart."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
