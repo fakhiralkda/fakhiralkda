@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never whine, never complain, never try to justify yourself."</i>
+<i>"The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
