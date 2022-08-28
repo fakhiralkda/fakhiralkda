@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember that sometimes not getting what you want is a wonderful stroke of luck."</i>
+<i>"The mind is the limit."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
