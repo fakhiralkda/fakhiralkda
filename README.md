@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop wasting time defending your problems and work on addressing them instead."</i>
+<i>"Remember that sometimes not getting what you want is a wonderful stroke of luck."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
