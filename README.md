@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not go where the path may lead, go instead where there is no path and leave a trail."</i>
+<i>"Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
