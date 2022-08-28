@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest treasures are those invisible to the eye but found by the heart."</i>
+<i>"Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!"</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
