@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with."</i>
+<i>"A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
