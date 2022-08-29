@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where there's life, there's hope."</i>
+<i>"Common sense is not so common. "</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
