@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If there were no God, there would be no atheists."</i>
+<i>"All leaders are readers."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
