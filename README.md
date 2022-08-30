@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who look for the bad in people will surely find it."</i>
+<i>"Open your eyes and look within. Are you satisfied with the life you're living?"</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
