@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where does a thought go when it's forgotten?"</i>
+<i>"It is better to offer no excuse than a bad one. "</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
