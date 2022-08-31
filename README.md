@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are free, and that is why you are lost."</i>
+<i>"Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. "</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
