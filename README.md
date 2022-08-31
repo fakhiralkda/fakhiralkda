@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Greatness comes from living with purpose and passion."</i>
+<i>"You are free, and that is why you are lost."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
