@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed."</i>
+<i>"What keeps life fascinating is the constant creativity of the soul."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
