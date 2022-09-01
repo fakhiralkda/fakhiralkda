@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What do we live for if not to make life less difficult for each other?"</i>
+<i>"The time is always right to do what is right."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
