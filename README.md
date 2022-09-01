@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you run you stand a chance of losing, but if you don't run you've already lost."</i>
+<i>"Truth is such a rare thing, it is delighted to tell it."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
