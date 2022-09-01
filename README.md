@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What keeps life fascinating is the constant creativity of the soul."</i>
+<i>"Whoever is happy will make others happy too."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
