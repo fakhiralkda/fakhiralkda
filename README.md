@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is such a rare thing, it is delighted to tell it."</i>
+<i>"In youth we run into difficulties. In old age difficulties run into us. "</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
