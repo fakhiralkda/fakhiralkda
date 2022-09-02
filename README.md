@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Night is a more quiet time to work. It aids thought."</i>
+<i>"Go for it now. The future is promised to no one."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
