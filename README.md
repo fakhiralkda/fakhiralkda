@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go for it now. The future is promised to no one."</i>
+<i>"First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  "</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
