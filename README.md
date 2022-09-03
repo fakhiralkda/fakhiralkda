@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Over time, loneliness gets inside you and doesn't go away."</i>
+<i>"The secret of life isn't what happens to you, but what you do with what happens to you."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
