@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you are, be a good one."</i>
+<i>"Over time, loneliness gets inside you and doesn't go away."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
