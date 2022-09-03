@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. "</i>
+<i>"The chief cause of failure and unhappiness is trading what you want most for what you want right now."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
