@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just get out and do it. You will be very, very glad that you did."</i>
+<i>"What's the point in being smart enough to read, if everything you read makes you dumb?"</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- C. Sean McGee</b>
 </blockquote>
 </p>
 
