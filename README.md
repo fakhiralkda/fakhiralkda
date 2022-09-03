@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What's the point in being smart enough to read, if everything you read makes you dumb?"</i>
+<i>"From a certain point onward there is no longer any turning back. That is the point that must be reached."</i>
 <br>
-<b>- C. Sean McGee</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
