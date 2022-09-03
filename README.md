@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From a certain point onward there is no longer any turning back. That is the point that must be reached."</i>
+<i>"Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. "</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
