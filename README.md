@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why live an ordinary life, when you can live an extraordinary one."</i>
+<i>"Just get out and do it. You will be very, very glad that you did."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
