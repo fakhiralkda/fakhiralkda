@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quality of your life is determined by the quality of your thoughts."</i>
+<i>"Whatever you are, be a good one."</i>
 <br>
-<b>- Unknown</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
