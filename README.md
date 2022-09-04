@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long."</i>
+<i>"Your time is limited, so don't waste it living someone elses. life. Don't be trapped by dogma - which is living with the results of other people's thinking."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
