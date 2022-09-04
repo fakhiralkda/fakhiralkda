@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you done it, it ain't bragging."</i>
+<i>"Don't look back - you're not going that way."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
