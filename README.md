@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is exact correspondence with reality. "</i>
+<i>"If you done it, it ain't bragging."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
