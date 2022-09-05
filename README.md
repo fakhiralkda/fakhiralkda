@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people don't like change, but you need to embrace change if the alternative is disaster."</i>
+<i>"Where your talents and the needs of the world cross, there lies your vocation."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
