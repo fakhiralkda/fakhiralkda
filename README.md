@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is a puzzle; no need to make sense out of it."</i>
+<i>"If you want something new, you have to stop doing something old."</i>
 <br>
-<b>- Socrates</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
