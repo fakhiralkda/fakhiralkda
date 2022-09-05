@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The heart that gives, gathers."</i>
+<i>"The world is a puzzle; no need to make sense out of it."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
