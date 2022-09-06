@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may be disappointed if you fail, but you are doomed if you don't try."</i>
+<i>"Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
