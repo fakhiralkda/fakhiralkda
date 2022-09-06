@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want something new, you have to stop doing something old."</i>
+<i>"Man should fear never beginning to live."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
