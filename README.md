@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no one giant step that does it. It's a lot of little steps."</i>
+<i>"A hero is an ordinary person doing things in an extra ordinary way."</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
