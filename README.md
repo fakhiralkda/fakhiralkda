@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hope is not a strategy. Luck is not a factor. Fear is not an option."</i>
+<i>"Many a man has failed because he had his wishbone where his backbone should have been."</i>
 <br>
-<b>- James Cameron</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
