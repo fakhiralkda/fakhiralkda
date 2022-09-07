@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head."</i>
+<i>"Yesterday is but today's memory, tomorrow is today's dream."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
