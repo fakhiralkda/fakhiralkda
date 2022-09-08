@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember, today is the tomorrow you worried about yesterday."</i>
+<i>"Appear weak when you are strong, and strong when you are weak."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
