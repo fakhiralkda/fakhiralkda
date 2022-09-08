@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My instinct is always to seek out challenges as opposed to avoiding them."</i>
+<i>"It is easy to discover what another has discovered before."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Christopher Columbus</b>
 </blockquote>
 </p>
 
