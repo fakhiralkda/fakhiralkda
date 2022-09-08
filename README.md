@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The birth of the mind is the death of the senses."</i>
+<i>"All power is from within and therefore under our control."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
