@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Write to help yourself, publish to help others."</i>
+<i>"The birth of the mind is the death of the senses."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
