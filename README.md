@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe you can and you're halfway there."</i>
+<i>"Success is like reaching an important birthday and finding you're exactly the same."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
