@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We turn not older with years but newer every day."</i>
+<i>"The question isn't who is going to let me; it's who is going to stop me."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
