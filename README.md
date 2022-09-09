@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the most difficult things is not to change society - but to change yourself."</i>
+<i>"We turn not older with years but newer every day."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
