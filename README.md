@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hope is not a strategy. Luck is not a factor. Fear is not an option."</i>
+<i>"As long as a human being worries about when he will die, and what he has that is his, all of his works are zero."</i>
 <br>
-<b>- James Cameron</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
