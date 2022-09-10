@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we all did the things we are capable of doing, we would literally astound ourselves."</i>
+<i>"One of the most difficult things is not to change society - but to change yourself."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
