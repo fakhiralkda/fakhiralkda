@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people appreciate where they have come from, but they don't let their past set the tone for their future."</i>
+<i>"Most people achieved their greatest success one step beyond what looked like their greatest failure."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
