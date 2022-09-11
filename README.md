@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The significance of life is living."</i>
+<i>"No snowflake ever falls in the wrong place."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
