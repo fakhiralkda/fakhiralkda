@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be yourself; everyone else is already taken."</i>
+<i>"The search for happiness is one of the chief sources of unhappiness."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
