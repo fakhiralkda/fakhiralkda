@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Logic is like the sword - those who appeal to it shall perish by it."</i>
+<i>"A golden cage is still just a cage."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
