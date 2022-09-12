@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is a big difference between being centered and being self-centered."</i>
+<i>"Logic is like the sword - those who appeal to it shall perish by it."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
