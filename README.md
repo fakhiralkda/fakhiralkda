@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Of all men's miseries the bitterest is this: to know so much and to have control over nothing. "</i>
+<i>"When it hurts - observe. Life is trying to teach you something."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
