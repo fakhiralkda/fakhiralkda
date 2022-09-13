@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To every action there is always opposed an equal reaction."</i>
+<i>"The only place where success comes before work is in the dictionary."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Vidal Sassoon</b>
 </blockquote>
 </p>
 
