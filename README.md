@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to fail in originality than to succeed in imitation."</i>
+<i>"Live your life and forget your age."</i>
 <br>
-<b>- Herman Melville</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
