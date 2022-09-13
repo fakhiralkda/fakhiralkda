@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What we know is a drop, what we don't know is an ocean. "</i>
+<i>"To every action there is always opposed an equal reaction."</i>
 <br>
 <b>- Isaac Newton</b>
 </blockquote>
