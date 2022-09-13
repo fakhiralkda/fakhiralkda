@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only place where success comes before work is in the dictionary."</i>
+<i>"It is better to fail in originality than to succeed in imitation."</i>
 <br>
-<b>- Vidal Sassoon</b>
+<b>- Herman Melville</b>
 </blockquote>
 </p>
 
