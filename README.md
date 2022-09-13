@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Plants grow weak without wind."</i>
+<i>"Whatever you are, be a good one."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
