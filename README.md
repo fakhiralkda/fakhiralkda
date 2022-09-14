@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For things to change, you have to change."</i>
+<i>"Our stories may be singular, but our destination is shared."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
