@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I believe that potential is unlimited - success depends on daring to act on dreams.   "</i>
+<i>"The eyes of others our prisons; their thoughts our cages."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
