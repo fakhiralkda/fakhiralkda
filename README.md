@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them."</i>
+<i>"If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
