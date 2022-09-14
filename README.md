@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The eyes of others our prisons; their thoughts our cages."</i>
+<i>"Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
