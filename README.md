@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere."</i>
+<i>"You can't tell big dreams to small minded people."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
