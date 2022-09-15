@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You get paid in direct proportion to the difficulty of problems you solve."</i>
+<i>"We must create our own world or we will die from inaction."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
