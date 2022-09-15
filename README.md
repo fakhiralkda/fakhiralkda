@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are tough on yourself, life is going to be infinitely easier on you.  "</i>
+<i>"The only way it gets better for you is when you get better. Better is not something you wish, it's something you become."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
