@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be confident, not certain."</i>
+<i>"It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
