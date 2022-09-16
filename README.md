@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is good at any age, but the sooner you find it, the longer you will enjoy it."</i>
+<i>"There are few reasons for telling the truth, but for lying the number is infinite."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
