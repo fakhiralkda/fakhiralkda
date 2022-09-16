@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adventure is worthwhile in itself."</i>
+<i>"If the only prayer you ever say in your entire life is thank you, it will be enough."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
