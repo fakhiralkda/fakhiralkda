@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never allow someone to be your priority while allowing yourself to be their option."</i>
+<i>"Learning is a weightless treasure you can always carry easily."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
