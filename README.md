@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you move beyond your fear, you feel free."</i>
+<i>"Our view of the world is truly shaped by what we decide to hear."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
