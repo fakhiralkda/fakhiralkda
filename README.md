@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are few reasons for telling the truth, but for lying the number is infinite."</i>
+<i>"Let us rather run the risk of wearing out than rusting out."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
