@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you win, say nothing, when you lose say less."</i>
+<i>"Dreams are the touchstones of our characters."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
