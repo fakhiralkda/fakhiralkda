@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't want anything. Then you get everything."</i>
+<i>"When you win, say nothing, when you lose say less."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
