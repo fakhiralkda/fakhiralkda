@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People don't care how much you know until they know how much you care."</i>
+<i>"I would rather be hated for who I am than loved for who I'm not.  "</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
