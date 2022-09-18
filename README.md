@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter how qualified or deserving we are, we will never reach a better life until we can imagine it for ourselves and allow ourselves to have it."</i>
+<i>"Patience expands your options. If you insist on immediate gratification, your choices are severely limited."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
