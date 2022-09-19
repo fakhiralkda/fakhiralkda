@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Small men think they are small; great men never know they are great. "</i>
+<i>"If you cannot understand something, then you have understood it incorrectly."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
