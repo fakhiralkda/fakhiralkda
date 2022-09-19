@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness."</i>
+<i>"A heart is not judged by how much you love, but by how much you are loved by others."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
