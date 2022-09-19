@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The goal is not to show how great you are to others, but how vulnerable you are to yourself."</i>
+<i>"Hold yourself responsible for a higher standard than anybody else expects of you."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
