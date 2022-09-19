@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You live by what you thrill to, and there's the end of it."</i>
+<i>"The goal is not to show how great you are to others, but how vulnerable you are to yourself."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
