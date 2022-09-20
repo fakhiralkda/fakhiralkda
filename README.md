@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind."</i>
+<i>"The greatest doer must also be a great dreamer."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
