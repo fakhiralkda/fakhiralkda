@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A lot of people have gone further than they thought they could because someone else thought they could."</i>
+<i>"It is not how much we have, but how much we enjoy, that makes happiness."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Charles Spurgeon</b>
 </blockquote>
 </p>
 
