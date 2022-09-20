@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All our dreams can come true, if we have the courage to pursue them."</i>
+<i>"An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
