@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest doer must also be a great dreamer."</i>
+<i>"Life is a traveling to the edge of knowledge, then a leap taken."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
