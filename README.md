@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."</i>
+<i>"All our dreams can come true, if we have the courage to pursue them."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
