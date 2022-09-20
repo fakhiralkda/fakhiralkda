@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a traveling to the edge of knowledge, then a leap taken."</i>
+<i>"You are now, and you do become, what you think about."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
