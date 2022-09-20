@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way to get started is to quit talking and begin doing."</i>
+<i>"Today will never happen again. Don't waste it with a false start or no start at all."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
