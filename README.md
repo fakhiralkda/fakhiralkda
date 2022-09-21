@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I defeat my enemies when I make them my friends."</i>
+<i>"Life becomes easier and more beautiful when we can see the good in other people."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
