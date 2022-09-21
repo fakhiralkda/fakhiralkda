@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it."</i>
+<i>"A man who dares to waste one hour of time has not discovered the value of life."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
