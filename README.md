@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life becomes easier and more beautiful when we can see the good in other people."</i>
+<i>"Open your mind before your mouth."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
