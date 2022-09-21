@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man who dares to waste one hour of time has not discovered the value of life."</i>
+<i>"The energy of the mind is the essence of life."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
