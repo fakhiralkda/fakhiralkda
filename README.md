@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you've never eaten while crying you don t know what life tastes like."</i>
+<i>"Anxiety is the dizziness of freedom."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Soren Kierkegaard</b>
 </blockquote>
 </p>
 
