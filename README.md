@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Open your mind before your mouth."</i>
+<i>"Don't settle, and don't struggle."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
