@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The past has no power over the present moment. "</i>
+<i>"If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
