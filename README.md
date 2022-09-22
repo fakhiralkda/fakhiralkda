@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Here is the test to find whether your mission on earth is finished. If you're alive, it isn't."</i>
+<i>"The people who are crazy enough to think they can change the world are the ones who do."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
