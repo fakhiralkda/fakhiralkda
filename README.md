@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter how tall the mountain is, it cannot block the sun."</i>
+<i>"Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
