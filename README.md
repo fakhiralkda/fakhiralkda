@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment."</i>
+<i>"Man should fear never beginning to live."</i>
 <br>
-<b>- Buddha</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
