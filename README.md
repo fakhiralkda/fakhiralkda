@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What keeps life fascinating is the constant creativity of the soul."</i>
+<i>"We are what we repeatedly do. Excellence, then, is not an act, but a habit."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
