@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are what we repeatedly do. Excellence, then, is not an act, but a habit."</i>
+<i>"All power is from within and therefore under our control."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
