@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To do great work one must be very idle as well as very industrious."</i>
+<i>"Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
