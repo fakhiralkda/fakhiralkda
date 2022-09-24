@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Find your Light; They can't love you if they can't see you."</i>
+<i>"Even if you persuade me, you won't persuade me."</i>
 <br>
-<b>- Bette Midler</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
