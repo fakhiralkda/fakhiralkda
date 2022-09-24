@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most of us will do anything to avoid facing ourselves."</i>
+<i>"Light a candle instead of cursing the darkness."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
