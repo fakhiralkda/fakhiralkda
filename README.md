@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Light a candle instead of cursing the darkness."</i>
+<i>"Man suffers only because he takes seriously what the gods made for fun."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
