@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?"</i>
+<i>"Find your Light; They can't love you if they can't see you."</i>
 <br>
-<b>- Seneca</b>
+<b>- Bette Midler</b>
 </blockquote>
 </p>
 
