@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It ain't where you start in life, it's where you end up, and what you did along the way."</i>
+<i>"If your happiness depends on what somebody else does, I guess you do have a problem."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
