@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not a problem to be solved, but a reality to be experienced."</i>
+<i>"It ain't where you start in life, it's where you end up, and what you did along the way."</i>
 <br>
-<b>- Soren Kierkegaard</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
