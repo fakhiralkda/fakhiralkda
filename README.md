@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Become the kind of leader that people would follow voluntarily, even if you had no title or position."</i>
+<i>"Don't be afraid to give up the good to go for the great."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- John D. Rockefeller</b>
 </blockquote>
 </p>
 
