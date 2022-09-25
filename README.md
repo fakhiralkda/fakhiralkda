@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid to give up the good to go for the great."</i>
+<i>"The eye with which I see God is the same eye with which God sees me."</i>
 <br>
-<b>- John D. Rockefeller</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
