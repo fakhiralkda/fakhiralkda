@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win."</i>
+<i>"The significance of life is living."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
