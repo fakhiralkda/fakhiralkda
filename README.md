@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If your happiness depends on what somebody else does, I guess you do have a problem."</i>
+<i>"Blessed is he who expects nothing, for he shall be disappointed."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
