@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future."</i>
+<i>"All power is from within and therefore under our control."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
