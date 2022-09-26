@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment."</i>
+<i>"No one can compete with you on being you. Most of life is a search for who and what needs you the most."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
