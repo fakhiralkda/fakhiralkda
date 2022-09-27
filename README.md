@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without the rain there would be no rainbow."</i>
+<i>"Do it with passion, or not at all."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Rosa Nouchette Carey</b>
 </blockquote>
 </p>
 
