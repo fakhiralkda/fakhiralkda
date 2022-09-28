@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Integrity is telling myself the truth. And honesty is telling the truth to other people."</i>
+<i>"There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. "</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
