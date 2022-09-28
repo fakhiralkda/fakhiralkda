@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything begins with an idea."</i>
+<i>"Reading should be a pleasure, not a chore."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
