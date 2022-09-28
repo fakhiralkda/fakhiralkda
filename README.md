@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What worries you, masters you."</i>
+<i>"Everything begins with an idea."</i>
 <br>
-<b>- John Locke</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
