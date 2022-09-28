@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Absorb what is useful, discard what is not, add what is uniquely your own."</i>
+<i>"There can be no deep disappointment where there is not deep love."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
