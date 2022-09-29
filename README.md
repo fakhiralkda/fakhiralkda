@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Experience is simply the name we give our mistakes. "</i>
+<i>"If you tell the truth, you don't have to remember anything."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
