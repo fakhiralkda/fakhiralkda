@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It does not matter how slowly you go so long as you do not stop."</i>
+<i>"Experience is simply the name we give our mistakes. "</i>
 <br>
-<b>- Confucius</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
