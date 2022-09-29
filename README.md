@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn the rules like a pro, so you can break them like an artist."</i>
+<i>"Success is never final, failure is never fatal. It's courage that counts."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
