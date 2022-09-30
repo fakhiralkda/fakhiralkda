@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without education, we are in a horrible and deadly danger of taking educated people seriously."</i>
+<i>"Concentrated power has always been the enemy of liberty."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
