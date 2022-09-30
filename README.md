@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Focus on how far you have come in life rather than looking at the accomplishments of others."</i>
+<i>"Without education, we are in a horrible and deadly danger of taking educated people seriously."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
