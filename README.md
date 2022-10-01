@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all here for some special reason."</i>
+<i>"Become the kind of leader that people would follow voluntarily, even if you had no title or position."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
