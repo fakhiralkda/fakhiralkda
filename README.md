@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Become the kind of leader that people would follow voluntarily, even if you had no title or position."</i>
+<i>"Decide upon your major definite purpose in life and then organize all your activities around it."</i>
 <br>
 <b>- Brian Tracy</b>
 </blockquote>
