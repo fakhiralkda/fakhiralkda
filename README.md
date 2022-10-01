@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conflict cannot survive without your participation. "</i>
+<i>"Thought is so cunning, so clever, that it distorts everything for its own convenience."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
