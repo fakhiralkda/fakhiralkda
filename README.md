@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor."</i>
+<i>"Conflict cannot survive without your participation. "</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
