@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decide upon your major definite purpose in life and then organize all your activities around it."</i>
+<i>"Great things are not accomplished by those who yield to trends and fads and popular opinion."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
