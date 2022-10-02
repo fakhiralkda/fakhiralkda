@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the average of the five people you spend the most time with."</i>
+<i>"I love fools' experiments. I am always making them."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
