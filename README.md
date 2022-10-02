@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wheels of justice grind slow but grind fine."</i>
+<i>"You are the average of the five people you spend the most time with."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
