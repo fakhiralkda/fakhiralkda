@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Look to the beauty of this day, miracles are all around you."</i>
+<i>"Always seek out the seed of triumph in every adversity."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
