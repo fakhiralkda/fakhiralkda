@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Here and now...breathe and relax...in battle and in life."</i>
+<i>"Shoot for the moon, because even if you miss, you'll land among the stars."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
