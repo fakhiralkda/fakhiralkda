@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be curious, not judgmental."</i>
+<i>"Look to the beauty of this day, miracles are all around you."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
