@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go for it now. The future is promised to no one. "</i>
+<i>"You are always your own best guru, your own best teacher, the answers are always inside you."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
