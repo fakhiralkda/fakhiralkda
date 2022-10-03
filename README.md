@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When things go wrong, don't go with them."</i>
+<i>"Here and now...breathe and relax...in battle and in life."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
