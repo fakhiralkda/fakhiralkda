@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are lucky enough to find love, remember it is there and don't throw it away."</i>
+<i>"Opportunity often comes disguised in the form of misfortune or temporary defeat."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
