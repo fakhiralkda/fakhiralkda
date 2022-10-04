@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life comes at us in waves. We can't predict or control those waves, but we can learn to surf."</i>
+<i>"The best time to plant a tree was 20 years ago. The second best time is now."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
