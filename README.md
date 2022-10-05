@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Falling down is not failure. Failure comes when you stay where you have fallen."</i>
+<i>"He is richest who is content with the least, for content is the wealth of nature."</i>
 <br>
 <b>- Socrates</b>
 </blockquote>
