@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whether you think you can or think you can't – you are right."</i>
+<i>"The harder the conflict, the greater the triumph. "</i>
 <br>
-<b>- Henry Ford</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
