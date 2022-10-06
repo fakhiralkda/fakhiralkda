@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Normal is the average of deviance."</i>
+<i>"There are no shortcuts to any place worth going. "</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
