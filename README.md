@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No need to hurry. No need to sparkle. No need to be anybody but oneself."</i>
+<i>"People seldom do what they believe in. They do what is convenient, then repent."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
