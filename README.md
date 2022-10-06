@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creative people are often found either disagreeable or intimidating by mediocrities."</i>
+<i>"If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
