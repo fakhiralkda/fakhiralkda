@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can only lose something that you have, but you cannot lose something that you are."</i>
+<i>"Never regret your past. Rather, embrace it as the teacher that it is."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
