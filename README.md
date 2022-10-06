@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never regret your past. Rather, embrace it as the teacher that it is."</i>
+<i>"You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
