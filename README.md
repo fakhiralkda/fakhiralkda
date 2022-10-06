@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Listening well is as powerful as talking well, and is also as essential to true conversation."</i>
+<i>"Creative people are often found either disagreeable or intimidating by mediocrities."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
