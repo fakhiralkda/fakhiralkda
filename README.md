@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Setting goals is the first step in turning the invisible into the visible."</i>
+<i>"You get in life what you have the courage to ask for."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
