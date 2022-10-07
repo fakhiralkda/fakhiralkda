@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fools talk, cowards are silent, wise men listen."</i>
+<i>"There are two things a person should never be angry at, what they can help, and what they cannot."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
