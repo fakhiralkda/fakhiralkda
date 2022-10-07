@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences "</i>
+<i>"Fools talk, cowards are silent, wise men listen."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
