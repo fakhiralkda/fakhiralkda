@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who has overcome his fears will truly be free."</i>
+<i>"Setting goals is the first step in turning the invisible into the visible."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
