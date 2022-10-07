@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where you are right now doesn't have to determine where you'll end up."</i>
+<i>"People are not disturbed by things, but by the views they take of them."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
