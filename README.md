@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People are not disturbed by things, but by the views they take of them."</i>
+<i>"Do not allow your inner doubts to keep you from achieving what you can do."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
