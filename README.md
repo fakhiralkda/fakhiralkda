@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two things a person should never be angry at, what they can help, and what they cannot."</i>
+<i>"If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month."</i>
 <br>
-<b>- Plato</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
