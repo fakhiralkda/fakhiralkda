@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily."</i>
+<i>"Remember that sometimes not getting what you want is a wonderful stroke of luck."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
