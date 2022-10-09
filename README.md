@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is getting what you want, happiness is wanting what you get."</i>
+<i>"Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer."</i>
 <br>
-<b>- W.P. Kinsella</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
