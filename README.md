@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn to use your emotions to think, not think with your emotions."</i>
+<i>"Your problem isn't the problem. Your reaction is the problem."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
