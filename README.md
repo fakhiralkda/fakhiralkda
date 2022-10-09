@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer."</i>
+<i>"Decide what your truth is. Then live it."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
