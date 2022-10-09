@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I would rather die on my feet than live on my knees."</i>
+<i>"You don't need to be better than anyone else, you just need to be better than you used to be."</i>
 <br>
-<b>- Euripides</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
