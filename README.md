@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decide what your truth is. Then live it."</i>
+<i>"The best time to plant a tree was 20 years ago. The second best time is now."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
