@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I never dwell on what happened. You can't change it. Move forward."</i>
+<i>"Sometimes you have to lose all you have to find out who you truly are."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
