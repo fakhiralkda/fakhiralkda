@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is easier than fault finding."</i>
+<i>"Experience is a comb which nature gives us when we are bald. "</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
