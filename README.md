@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is nothing more than a few simple disciplines practiced every day."</i>
+<i>"We can either add to our character each day, or we can fritter away our energies in distractions."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
