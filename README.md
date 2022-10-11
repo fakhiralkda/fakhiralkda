@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you."</i>
+<i>"The people who are crazy enough to think they can change the world are the ones who do."</i>
 <br>
-<b>- Jeffrey Gitomer</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
