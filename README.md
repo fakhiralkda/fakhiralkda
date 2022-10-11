@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All happiness depends on courage and work."</i>
+<i>"Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Jeffrey Gitomer</b>
 </blockquote>
 </p>
 
