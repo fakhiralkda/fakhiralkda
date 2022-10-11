@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can either add to our character each day, or we can fritter away our energies in distractions."</i>
+<i>"Fool me once, shame on you; fool me twice, shame on me. "</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
