@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know."</i>
+<i>"It's easy to be a critic, but being a doer requires effort, risk, and change.  "</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
