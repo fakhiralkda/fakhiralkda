@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is ten percent what you experience and ninety percent how you respond to it."</i>
+<i>"Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know."</i>
 <br>
-<b>- Unknown</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
