@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't set your own goals by what other people make important."</i>
+<i>"Only those who will risk going too far can possibly find out how far one can go."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
