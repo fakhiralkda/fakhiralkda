@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's easy to be a critic, but being a doer requires effort, risk, and change.  "</i>
+<i>"Don't set your own goals by what other people make important."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
