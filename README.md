@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The weak can never forgive. Forgiveness is the attribute of the strong."</i>
+<i>"Love your enemies, for they tell you your faults."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
