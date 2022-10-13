@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A real friend is one who walks in when the rest of the world walks out."</i>
+<i>"The difference between treason and patriotism is only a matter of dates."</i>
 <br>
-<b>- Unknown</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
