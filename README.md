@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people spend more time and energy going around problems than in trying to solve them. "</i>
+<i>"Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
