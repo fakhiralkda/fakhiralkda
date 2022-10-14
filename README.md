@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must have strong minds, ready to accept facts as they are."</i>
+<i>"Most people spend more time and energy going around problems than in trying to solve them. "</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
