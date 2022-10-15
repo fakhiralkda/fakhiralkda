@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you look for perfection, you'll never be content."</i>
+<i>"The only reason to be alive is to enjoy it."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
