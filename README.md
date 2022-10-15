@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I would rather be a little nobody, then to be an evil somebody."</i>
+<i>"Everything is in your own heart."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
