@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything is in your own heart."</i>
+<i>"He that can have patience can have what he will."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
