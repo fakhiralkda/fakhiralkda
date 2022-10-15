@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A little impatience will spoil great plans."</i>
+<i>"Change is never easy, but always possible."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
