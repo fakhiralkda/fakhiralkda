@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us."</i>
+<i>"If you look for perfection, you'll never be content."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
