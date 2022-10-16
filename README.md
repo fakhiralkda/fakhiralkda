@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Listening well is as powerful as talking well, and is also as essential to true conversation."</i>
+<i>"There is always room in your life for thinking bigger, pushing limits and imagining the impossible."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
