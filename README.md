@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results."</i>
+<i>"The truly rich men are the ones who have health, loved ones and a work they love."</i>
 <br>
-<b>- James Allen</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
