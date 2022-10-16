@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As you love yourself, life loves you back."</i>
+<i>"We can spend our whole lives escaping from the monsters of our minds."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
