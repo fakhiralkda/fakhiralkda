@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is always room in your life for thinking bigger, pushing limits and imagining the impossible."</i>
+<i>"Focus on how far you have come in life rather than looking at the accomplishments of others."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
