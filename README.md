@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To become what you are not, behave as you do not."</i>
+<i>"To be happy we need something to solve. Happiness is therefore a form of action."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
