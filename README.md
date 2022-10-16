@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Focus on how far you have come in life rather than looking at the accomplishments of others."</i>
+<i>"The most important single ingredient in the formula of success is knowing how to get along with people."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
