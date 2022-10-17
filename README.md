@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less you talk about your shame, the more of it you have."</i>
+<i>"Be as fluid as water, do not give your enemies anything solid to attack."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
