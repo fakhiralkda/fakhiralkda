@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am not what happened to me, I am what I choose to become."</i>
+<i>"The one who boasts does so only out of a feeling of inferiority."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
