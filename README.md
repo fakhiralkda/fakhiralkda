@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your best life will not be found in comfort. It will be found in fighting for what you believe in."</i>
+<i>"We suffer more often in imagination than in reality.  "</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
