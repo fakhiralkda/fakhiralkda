@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enjoy when you can, and endure when you must."</i>
+<i>"Inner peace is when you realize that, in the end, nothing matters."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
