@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the beginner's mind there are many possibilities, but in the expert's mind there are few."</i>
+<i>"True wealth is of the heart, not of the purse."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
