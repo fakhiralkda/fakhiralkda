@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What most people need to learn in life is how to love people and use things instead of using people and loving things."</i>
+<i>"Nothing is really work unless you would rather be doing something else. "</i>
 <br>
-<b>- Unknown</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
