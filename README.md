@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Luck is a matter of preparation meeting opportunity."</i>
+<i>"Action may not always bring happiness, but there is no happiness without action."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
