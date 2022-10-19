@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not everything that weighs you down is yours to carry."</i>
+<i>"Without the rain there would be no rainbow."</i>
 <br>
-<b>- Unknown</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
