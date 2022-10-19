@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone wants to go to Heaven, but no one wants to die."</i>
+<i>"What most people need to learn in life is how to love people and use things instead of using people and loving things."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
