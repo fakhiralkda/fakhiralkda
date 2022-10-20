@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart."</i>
+<i>"Think and wonder, wonder and think."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
