@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't walk away from things that I think are unfinished."</i>
+<i>"To become what you are not, behave as you do not."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
