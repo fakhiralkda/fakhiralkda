@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human happiness and moral duty are inseparably connected. "</i>
+<i>"Tis not too late to seek a newer world."</i>
 <br>
-<b>- George Washington</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
