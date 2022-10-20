@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mastering others is strength, mastering yourself is true power."</i>
+<i>"Human happiness and moral duty are inseparably connected. "</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
