@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Making your mark on the world is hard. If it were easy, everybody would do it."</i>
+<i>"Mastering others is strength, mastering yourself is true power."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
