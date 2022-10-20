@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tis not too late to seek a newer world."</i>
+<i>"The most important thing in communication is to hear what isn't being said."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
