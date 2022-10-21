@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Allow motion to equal emotion."</i>
+<i>"New beginnings are disguised as painful endings."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
