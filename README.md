@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man must use what he has, not hope for what is not."</i>
+<i>"The man who moved the mountain was the one who began carrying away the smallest stones."</i>
 <br>
-<b>- G.I. Gurdjieff</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
