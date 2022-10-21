@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"New beginnings are disguised as painful endings."</i>
+<i>"Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
