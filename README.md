@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not stop thinking of life as an adventure."</i>
+<i>"You can't tell big dreams to small minded people."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
