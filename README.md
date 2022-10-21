@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't tell big dreams to small minded people."</i>
+<i>"Allow motion to equal emotion."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
