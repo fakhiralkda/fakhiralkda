@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You change the world by being yourself."</i>
+<i>"Man must use what he has, not hope for what is not."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- G.I. Gurdjieff</b>
 </blockquote>
 </p>
 
