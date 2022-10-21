@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no shortcuts to any place worth going."</i>
+<i>"You change the world by being yourself."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
