@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I can live without money, but I cannot live without love."</i>
+<i>"When reading, only read. When eating, only eat. When thinking, only think."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Seungsahn</b>
 </blockquote>
 </p>
 
