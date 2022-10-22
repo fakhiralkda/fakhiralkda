@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold."</i>
+<i>"Fear is stupid. So are regrets."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
