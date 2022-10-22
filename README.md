@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When reading, only read. When eating, only eat. When thinking, only think."</i>
+<i>"Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
