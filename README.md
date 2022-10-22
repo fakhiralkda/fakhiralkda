@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years."</i>
+<i>"Your purpose will be clear only when you listen to your heart."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
