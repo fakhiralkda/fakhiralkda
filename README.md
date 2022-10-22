@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who seek the easy way do not seek the true way."</i>
+<i>"The quality of your life is determined by the quality of your thoughts."</i>
 <br>
-<b>- Dogen</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
