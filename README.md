@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is well known that those who do not trust themselves never trust others."</i>
+<i>"Those who seek the easy way do not seek the true way."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
