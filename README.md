@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything flows, nothing stands still."</i>
+<i>"Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!"</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
