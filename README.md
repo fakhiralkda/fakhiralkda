@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The real meditation is how you live your life."</i>
+<i>"We all give up great expectations along the way."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
