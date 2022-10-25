@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again."</i>
+<i>"Believe you can and you're halfway there."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
