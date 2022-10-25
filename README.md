@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe you can and you're halfway there."</i>
+<i>"If ever you feel like an animal among men, be a lion."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
