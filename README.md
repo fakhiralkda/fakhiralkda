@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth is not for all men, but for those who seek it."</i>
+<i>"There is peace even in the storm."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
