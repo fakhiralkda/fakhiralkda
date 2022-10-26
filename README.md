@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is the key to success; each mistake teaches us something."</i>
+<i>"You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
