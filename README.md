@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Definiteness of purpose is the starting point of all achievement. "</i>
+<i>"The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
