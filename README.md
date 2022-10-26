@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never argue with ignorance. It only leads to frustration."</i>
+<i>"Failure is the key to success; each mistake teaches us something."</i>
 <br>
-<b>- Unknown</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
