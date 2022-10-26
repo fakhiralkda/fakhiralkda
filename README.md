@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learning never exhausts the mind. "</i>
+<i>"Never argue with ignorance. It only leads to frustration."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
