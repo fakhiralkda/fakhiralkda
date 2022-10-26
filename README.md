@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any fool can paint a picture, but it takes a wise man to be able to sell it."</i>
+<i>"Sometimes you have to travel a long way to find what is near."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
