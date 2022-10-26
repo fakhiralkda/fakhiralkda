@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you have to travel a long way to find what is near."</i>
+<i>"Learning never exhausts the mind. "</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
