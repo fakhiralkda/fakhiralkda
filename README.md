@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way."</i>
+<i>"What would life be if we had no courage to attempt anything? "</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
