@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is well known that those who do not trust themselves never trust others."</i>
+<i>"If you aim at nothing, you will hit it every time.  "</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
