@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you take responsibility for yourself you will develop a hunger to accomplish your dream."</i>
+<i>"Just do the best you can. No one can do more than that."</i>
 <br>
-<b>- Les Brown</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
