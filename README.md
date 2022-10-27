@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have lost friends, some by death...others by sheer inability to cross the street."</i>
+<i>"Courage is found in unlikely places."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
