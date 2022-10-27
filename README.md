@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you aim at nothing, you will hit it every time.  "</i>
+<i>"Be polite to all, but intimate with few."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
