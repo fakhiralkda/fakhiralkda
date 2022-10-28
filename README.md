@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only I can change my life. No one can do it for me."</i>
+<i>"If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month."</i>
 <br>
-<b>- Carol Burnett</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
