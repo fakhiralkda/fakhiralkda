@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't give up on your dreams, or your dreams will give up on you."</i>
+<i>"Take care of your body. It's the only place you have to live."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
