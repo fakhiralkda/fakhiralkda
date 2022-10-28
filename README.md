@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you become is far more important than what you get."</i>
+<i>"If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
