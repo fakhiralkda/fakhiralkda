@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Challenge yourself to find the good and beautiful thing inside of everyone."</i>
+<i>"Never let your memories be greater than your dreams."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Doug Ivester</b>
 </blockquote>
 </p>
 
