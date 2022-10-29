@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We're kept from our goal not by obstacles, but by a clear path to a lesser goal."</i>
+<i>"Sometimes you will never know the value of something, until it becomes a memory."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
