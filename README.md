@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The sweetest pleasure arises from difficulties overcome."</i>
+<i>"We're kept from our goal not by obstacles, but by a clear path to a lesser goal."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
