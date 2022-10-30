@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  "</i>
+<i>"You can often change your circumstances by changing your attitude."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
