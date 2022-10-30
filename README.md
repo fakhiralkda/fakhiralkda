@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intelligent men are cruel. Stupid men are monstrously cruel."</i>
+<i>"Never lose hope. Storms make people stronger and never last forever."</i>
 <br>
-<b>- Jack London</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
