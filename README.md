@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never lose hope. Storms make people stronger and never last forever."</i>
+<i>"Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  "</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
