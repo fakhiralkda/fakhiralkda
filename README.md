@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The past has no power over the present moment. "</i>
+<i>"The difference between winning and losing is most often not quitting."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
