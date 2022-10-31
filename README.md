@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't try to steer the river."</i>
+<i>"When it comes to mastering a skill, time is the magic ingredient."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
