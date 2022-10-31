@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One loyal friend is worth ten thousand relatives."</i>
+<i>"The past has no power over the present moment. "</i>
 <br>
-<b>- Euripides</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
