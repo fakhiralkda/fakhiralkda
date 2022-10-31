@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if you persuade me, you won't persuade me."</i>
+<i>"Don't try to steer the river."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
