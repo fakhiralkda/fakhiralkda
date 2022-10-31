@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When it comes to mastering a skill, time is the magic ingredient."</i>
+<i>"One loyal friend is worth ten thousand relatives."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
