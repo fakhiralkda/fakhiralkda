@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The difference between winning and losing is most often not quitting."</i>
+<i>"Not why the addiction but why the pain."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Gabor Mate</b>
 </blockquote>
 </p>
 
