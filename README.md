@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not why the addiction but why the pain."</i>
+<i>"What's the point in being smart enough to read, if everything you read makes you dumb?"</i>
 <br>
-<b>- Gabor Mate</b>
+<b>- C. Sean McGee</b>
 </blockquote>
 </p>
 
