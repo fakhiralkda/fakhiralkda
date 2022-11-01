@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The destiny of man is in his own soul. "</i>
+<i>"The chief danger in life is that you may take too many precautions."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
