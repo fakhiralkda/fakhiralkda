@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone thinks of changing the world, but no one thinks of changing himself."</i>
+<i>"A thing must be loved before it is lovable."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
