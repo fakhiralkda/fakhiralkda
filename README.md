@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Develop success from failures. Discouragement and failure are two of the surest stepping stones to success."</i>
+<i>"It's possible in ways both large or small to make a difference in someone's life."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
