@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You become a worrier by practicing worry. You become free of worry by practicing the opposite."</i>
+<i>"At the end of the day, let there be no excuses, no explanations, no regrets."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
