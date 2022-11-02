@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"At the end of the day, let there be no excuses, no explanations, no regrets."</i>
+<i>"Act as if what you do makes a difference. It does."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
