@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you get by achieving your goals is not as important as what you become by achieving your goals."</i>
+<i>"Never feel shame for trying and failing, for he who has never failed is he who has never tried."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
