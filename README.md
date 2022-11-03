@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is hopeless; we must hope for everything."</i>
+<i>"The least deviation from truth will be multiplied later."</i>
 <br>
-<b>- Euripides</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
