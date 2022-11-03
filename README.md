@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest of all mistakes is to do nothing because you think you can only do a little.  "</i>
+<i>"I would rather be a little nobody, then to be an evil somebody."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
