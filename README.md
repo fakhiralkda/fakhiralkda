@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe you can and you're halfway there."</i>
+<i>"All we have to decide is what to do with the time that is given to us."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
