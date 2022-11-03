@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is hard at first, messy in the middle and gorgeous at the end."</i>
+<i>"Nothing is hopeless; we must hope for everything."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
