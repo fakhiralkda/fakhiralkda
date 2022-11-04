@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The least deviation from truth will be multiplied later."</i>
+<i>"Don't just sit there. Do something. The answers will follow."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
