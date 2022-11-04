@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time."</i>
+<i>"Determine never to be idle. No person will have occasion to complain of the want of time who never loses any."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
