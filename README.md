@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Over time, loneliness gets inside you and doesn't go away."</i>
+<i>"You can not live your life just based on what everyone else thinks."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
