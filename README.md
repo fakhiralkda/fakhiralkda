@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty."</i>
+<i>"Most people fail in life because they major in minor things."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
