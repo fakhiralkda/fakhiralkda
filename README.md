@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month."</i>
+<i>"We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
