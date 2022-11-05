@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people fail in life because they major in minor things."</i>
+<i>"To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
