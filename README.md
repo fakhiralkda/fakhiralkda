@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All problems are illusions of the mind."</i>
+<i>"By perseverance the snail reached the ark."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Charles Spurgeon</b>
 </blockquote>
 </p>
 
