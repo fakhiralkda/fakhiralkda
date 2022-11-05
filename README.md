@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By perseverance the snail reached the ark."</i>
+<i>"Imagination is the true magic carpet."</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
