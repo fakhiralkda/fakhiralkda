@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not push the boundaries, you will never know where they are."</i>
+<i>"If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
