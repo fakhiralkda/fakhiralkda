@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way we feel is the direct result of what we think."</i>
+<i>"A clever person turns great troubles into little ones, and little ones into none at all. "</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
