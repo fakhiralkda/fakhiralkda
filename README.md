@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt."</i>
+<i>"Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!"</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
