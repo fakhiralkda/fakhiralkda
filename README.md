@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result."</i>
+<i>"The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich."</i>
 <br>
-<b>- James Allen</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
