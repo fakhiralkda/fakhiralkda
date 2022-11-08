@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life itself is the most wonderful fairy tale."</i>
+<i>"If you change the way you look at things, the things you look at change. "</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
