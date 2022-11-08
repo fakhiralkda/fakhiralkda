@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When it hurts - observe. Life is trying to teach you something."</i>
+<i>"When the time is gone, you can never get it back."</i>
 <br>
-<b>- Anita Krizzan</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
