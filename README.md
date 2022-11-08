@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"She who loves roses must be patient and not cry out when she is pierced by thorns."</i>
+<i>"Do not believe that you will reach your destination without leaving the shore. "</i>
 <br>
-<b>- Kenji Miyazawa</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
