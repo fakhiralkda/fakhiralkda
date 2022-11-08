@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When something is important enough, you do it even if the odds are not in your favor."</i>
+<i>"The power of human thought grows exponentially with the number of minds that share that thought."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
