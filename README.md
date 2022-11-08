@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not believe that you will reach your destination without leaving the shore. "</i>
+<i>"When it hurts - observe. Life is trying to teach you something."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
