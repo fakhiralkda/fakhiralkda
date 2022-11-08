@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the time is gone, you can never get it back."</i>
+<i>"When something is important enough, you do it even if the odds are not in your favor."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
