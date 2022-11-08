@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In youth we run into difficulties. In old age difficulties run into us. "</i>
+<i>"Disobedience is the true foundation of liberty. The obedient must be slaves."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
