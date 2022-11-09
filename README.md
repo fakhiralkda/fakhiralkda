@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great minds are always feared by lesser minds."</i>
+<i>"Self-control is strength."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
