@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success and failure come and go, but don't let them define you. It's who you are that matters."</i>
+<i>"There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
