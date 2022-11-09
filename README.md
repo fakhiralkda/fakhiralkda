@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The dead receive more flowers than the living because regret is stronger than gratitude."</i>
+<i>"Success and failure come and go, but don't let them define you. It's who you are that matters."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
