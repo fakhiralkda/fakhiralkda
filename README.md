@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust thyself: every heart vibrates to that iron string."</i>
+<i>"When you reach the end of your rope, tie a knot in it and hang on."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
