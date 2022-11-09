@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect."</i>
+<i>"Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. "</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
