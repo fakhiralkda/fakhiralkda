@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We cannot change anything unless we accept it."</i>
+<i>"Human behavior flows from three main sources: desire, emotion, and knowledge."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
