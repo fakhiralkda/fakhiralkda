@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no greatness where there is not simplicity, goodness, and truth."</i>
+<i>"It is those who concentrate on but one thing at a time who advance in this world."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
