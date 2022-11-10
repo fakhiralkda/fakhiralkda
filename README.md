@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human behavior flows from three main sources: desire, emotion, and knowledge."</i>
+<i>"Courage Is a Love Affair with the Unknown"</i>
 <br>
-<b>- Plato</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
