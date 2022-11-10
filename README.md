@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A dream doesn't become reality through magic it takes sweat, determination and hard work."</i>
+<i>"We cannot change anything unless we accept it."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
