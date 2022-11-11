@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A clear conscience never fears midnight knocking."</i>
+<i>"Change is hard at first, messy in the middle and gorgeous at the end."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
