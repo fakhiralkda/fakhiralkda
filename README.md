@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let each man exercise the art he knows."</i>
+<i>"The sun shines upon good and bad alike."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
