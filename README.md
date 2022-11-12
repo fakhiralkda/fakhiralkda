@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Realistic people do not accomplish extraordinary things."</i>
+<i>"Circumstances do not make the man, they reveal him."</i>
 <br>
-<b>- John Eliot</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
