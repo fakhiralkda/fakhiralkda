@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're always free to change your mind and choose a different future, or a different past."</i>
+<i>"If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
