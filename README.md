@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How many times do you have to get hit over the head until you figure out who's hitting you?"</i>
+<i>"You can, you should, and if you're brave enough to start, you will."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
