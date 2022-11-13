@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person who never made a mistake never tried anything new."</i>
+<i>"It does not do to dwell on dreams and forget to live, remember that."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
