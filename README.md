@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing yourself is the beginning of all wisdom."</i>
+<i>"The person who never made a mistake never tried anything new."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
