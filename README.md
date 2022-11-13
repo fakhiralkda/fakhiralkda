@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What loneliness is more lonely than distrust?"</i>
+<i>"Being entirely honest with oneself is a good exercise."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
