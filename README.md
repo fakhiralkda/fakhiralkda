@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great."</i>
+<i>"What loneliness is more lonely than distrust?"</i>
 <br>
-<b>- Billie Jean King</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
