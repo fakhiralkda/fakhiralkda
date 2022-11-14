@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All our dreams can come true, if we have the courage to pursue them."</i>
+<i>"Acknowledging the good that you already have in your life is the foundation for all abundance."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
