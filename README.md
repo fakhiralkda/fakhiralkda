@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do."</i>
+<i>"The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
