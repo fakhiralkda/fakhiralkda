@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Arise, slay thy enemies, enjoy a prosperous kingdom."</i>
+<i>"Not all readers are leaders, but all leaders are readers."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
