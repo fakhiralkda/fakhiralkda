@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing brings down walls as surely as acceptance."</i>
+<i>"Think and wonder, wonder and think."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
