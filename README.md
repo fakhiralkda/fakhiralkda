@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't have anything worthwhile without difficulties."</i>
+<i>"Work harder on yourself than you do on your job."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
