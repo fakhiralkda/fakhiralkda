@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One's best success comes after their greatest disappointments."</i>
+<i>"You can't have anything worthwhile without difficulties."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
