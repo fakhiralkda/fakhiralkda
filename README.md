@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work harder on yourself than you do on your job."</i>
+<i>"As a matter of fact is an expression that precedes many an expression that isn't."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
