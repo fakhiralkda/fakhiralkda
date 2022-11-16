@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine."</i>
+<i>"I'm not afraid of death, but I'm in no hurry to die."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
