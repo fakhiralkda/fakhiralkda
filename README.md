@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Gratitude is the fairest blossom which springs from the soul."</i>
+<i>"So we beat on, boats against the current, borne back ceaselessly into the past."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
