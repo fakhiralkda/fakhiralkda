@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People inspire you, or they drain you. Pick them wisely."</i>
+<i>"No amount of regretting can change the past, and no amount of worrying can change the future."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
