@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust your instincts: my first reaction is almost invariably the right one.  "</i>
+<i>"People inspire you, or they drain you. Pick them wisely."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
