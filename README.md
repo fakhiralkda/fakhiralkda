@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter how tall the mountain is, it cannot block the sun."</i>
+<i>"When things go wrong, don't go with them."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
