@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Much learning does not teach understanding."</i>
+<i>"The scariest moment is always just before you start. After that, things can only get better."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
