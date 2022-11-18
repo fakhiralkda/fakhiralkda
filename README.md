@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your mind is infinite, it's your doubts that are limiting."</i>
+<i>"People are not disturbed by things, but by the views they take of them."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
