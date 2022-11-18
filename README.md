@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Chop your own wood and it will warm you twice. "</i>
+<i>"Great minds are always feared by lesser minds."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
