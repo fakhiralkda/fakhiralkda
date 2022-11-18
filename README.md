@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The scariest moment is always just before you start. After that, things can only get better."</i>
+<i>"Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
