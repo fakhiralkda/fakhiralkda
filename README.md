@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have no methods; all I do is accept people as they are."</i>
+<i>"Better a diamond with a flaw than a pebble without one."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
