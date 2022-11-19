@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One beam, no matter how big, cannot support an entire house on its own."</i>
+<i>"For the things we have to learn before we can do them, we learn by doing them."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
