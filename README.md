@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed is he who expects nothing, for he shall never be disappointed."</i>
+<i>"Because of your smile, you make life more beautiful."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
