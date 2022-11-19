@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Because of your smile, you make life more beautiful."</i>
+<i>"If you want something then you lose everything. If you don't want anything then you already have everything."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Seungsahn</b>
 </blockquote>
 </p>
 
