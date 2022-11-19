@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want something then you lose everything. If you don't want anything then you already have everything."</i>
+<i>"I have no methods; all I do is accept people as they are."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
