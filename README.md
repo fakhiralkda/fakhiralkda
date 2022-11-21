@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't explain it simply, you don't understand it well enough."</i>
+<i>"Imagination is everything. It is the preview of life's coming attractions."</i>
 <br>
 <b>- Albert Einstein</b>
 </blockquote>
