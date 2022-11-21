@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear of death is fear of the Unknown."</i>
+<i>"For the things we have to learn before we can do them, we learn by doing them."</i>
 <br>
-<b>- Adi Da Samraj</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
