@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything you've ever wanted is on the other side of fear."</i>
+<i>"Throughout this life, you can never be certain of living long enough to take another breath."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
