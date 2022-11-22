@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wisdom of life consists in the elimination of the nonessentials."</i>
+<i>"Desire for the fruits of work must never be your motive in working."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
