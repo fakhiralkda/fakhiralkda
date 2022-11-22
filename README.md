@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You came empty handed, and you will leave empty handed."</i>
+<i>"Imagination means nothing without doing.  "</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
