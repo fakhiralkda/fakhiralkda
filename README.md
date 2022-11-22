@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't live the same year 75 times and call it a life."</i>
+<i>"The wisdom of life consists in the elimination of the nonessentials."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
