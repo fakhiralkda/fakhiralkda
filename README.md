@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Deeds will not be less valiant because they are upraised."</i>
+<i>"The present moment is filled with joy and happiness. If you are attentive, you will see it."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
