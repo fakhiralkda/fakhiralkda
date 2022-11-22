@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Judgments prevent us from seeing the good that lies beyond appearances.  "</i>
+<i>"When we think about our strengths, we are strong. When we think about our weaknesses, we are weak."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Peter A. Cohen</b>
 </blockquote>
 </p>
 
