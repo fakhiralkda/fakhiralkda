@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination means nothing without doing.  "</i>
+<i>"Don't live the same year 75 times and call it a life."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
