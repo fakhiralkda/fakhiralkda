@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not fear failure but rather fear not trying."</i>
+<i>"Learn the rules like a pro, so you can break them like an artist."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
