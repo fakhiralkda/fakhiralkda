@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What keeps life fascinating is the constant creativity of the soul."</i>
+<i>"The only reason to be alive is to enjoy it."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
