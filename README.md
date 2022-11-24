@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People think you're crazy if you talk about things they don't understand."</i>
+<i>"One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
