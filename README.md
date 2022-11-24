@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to be looked over than overlooked."</i>
+<i>"Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. "</i>
 <br>
-<b>- Mae West</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
