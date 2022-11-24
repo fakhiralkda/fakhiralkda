@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth is not for all men, but for those who seek it."</i>
+<i>"What is planted in each person's soul will sprout.  "</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
