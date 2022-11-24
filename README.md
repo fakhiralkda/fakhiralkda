@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Honesty is the first chapter in the book of wisdom."</i>
+<i>"Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
