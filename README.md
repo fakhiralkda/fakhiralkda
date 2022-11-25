@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace."</i>
+<i>"Everybody needs a passion. That's what keeps life interesting."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
