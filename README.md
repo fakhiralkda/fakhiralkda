@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence."</i>
+<i>"No man will make a great leader who wants to do it all himself or to get all the credit for doing it."</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
