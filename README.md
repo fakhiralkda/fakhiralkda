@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who know, do. Those that understand, teach."</i>
+<i>"If I persist long enough I will win."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
