@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no greater agony than bearing an untold story inside you."</i>
+<i>"I begin with an idea and then it becomes something else."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
