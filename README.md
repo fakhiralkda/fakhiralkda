@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I persist long enough I will win."</i>
+<i>"Man invented language to satisfy his deep need to complain."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
