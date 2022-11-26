@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The worst part of success is trying to find someone who is happy for you."</i>
+<i>"Human happiness and moral duty are inseparably connected. "</i>
 <br>
-<b>- Bette Midler</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
