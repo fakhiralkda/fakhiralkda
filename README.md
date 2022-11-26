@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man invented language to satisfy his deep need to complain."</i>
+<i>"Patience is bitter, but its fruit is sweet."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
