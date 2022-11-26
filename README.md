@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human happiness and moral duty are inseparably connected. "</i>
+<i>"You may think I'm small, but I have a universe inside my mind."</i>
 <br>
-<b>- George Washington</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
