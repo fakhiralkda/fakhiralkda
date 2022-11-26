@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we have our body and mind in order, everything else will exist in the right place, in the right way."</i>
+<i>"The worst part of success is trying to find someone who is happy for you."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Bette Midler</b>
 </blockquote>
 </p>
 
