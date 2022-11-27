@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is like a dragon where, for every head cut off, two more heads grow back."</i>
+<i>"Human behavior flows from three main sources: desire, emotion, and knowledge."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
