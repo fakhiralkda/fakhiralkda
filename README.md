@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do."</i>
+<i>"You're always free to change your mind and choose a different future, or a different past."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
