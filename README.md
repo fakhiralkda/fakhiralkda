@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everybody has talent, but ability takes hard work."</i>
+<i>"There is no greatness where there is not simplicity, goodness, and truth."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
