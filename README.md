@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tomorrow is only found in the calendar of fools."</i>
+<i>"Management is doing things right; leadership is doing the right things."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
