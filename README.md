@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're always free to change your mind and choose a different future, or a different past."</i>
+<i>"If you aim at nothing, you will hit it every time.  "</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
