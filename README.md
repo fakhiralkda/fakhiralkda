@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People are doing the best that they can from their own level of consciousness."</i>
+<i>"Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
