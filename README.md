@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you extend kindness to yourself, the more it will become your automatic response to others."</i>
+<i>"My instinct is always to seek out challenges as opposed to avoiding them."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
