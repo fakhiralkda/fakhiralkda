@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many of life's failures are people who did not realize how close they were to success when they gave up."</i>
+<i>"In the long run, the sharpest weapon of all is a kind and gentle spirit."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
