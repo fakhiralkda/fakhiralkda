@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thinking is difficult, that's why most people judge."</i>
+<i>"The difference between treason and patriotism is only a matter of dates."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
