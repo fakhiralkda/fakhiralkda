@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The difference between treason and patriotism is only a matter of dates."</i>
+<i>"Success is liking yourself, liking what you do, and liking how you do it."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
