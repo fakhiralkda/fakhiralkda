@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Art is the signature of civilizations. "</i>
+<i>"People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
