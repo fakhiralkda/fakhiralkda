@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most virtuous are those who content themselves with being virtuous without seeking to appear so."</i>
+<i>"All leaders are readers."</i>
 <br>
-<b>- Plato</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
