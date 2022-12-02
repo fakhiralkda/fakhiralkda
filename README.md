@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less people know, the more stubbornly they know it."</i>
+<i>"Learn from the rejection and turn it into an opportunity!"</i>
 <br>
-<b>- Osho</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
