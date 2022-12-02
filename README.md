@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every failure brings with it the seed of an equivalent success."</i>
+<i>"The more you give, the more comes back to you."</i>
 <br>
 <b>- Napoleon Hill</b>
 </blockquote>
