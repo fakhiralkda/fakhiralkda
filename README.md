@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are what you believe in. You become that which you believe you can become."</i>
+<i>"We run to win, not just to be in the race.  "</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
