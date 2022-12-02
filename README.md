@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make improvements, not excuses. Seek respect, not attention."</i>
+<i>"You are what you believe in. You become that which you believe you can become."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
