@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lust, anger and greed are the three gates to self-destructive hell."</i>
+<i>"Every failure brings with it the seed of an equivalent success."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
