@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We run to win, not just to be in the race.  "</i>
+<i>"Great loves too must be endured."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
