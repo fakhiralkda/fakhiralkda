@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Challenge yourself to find the good and beautiful thing inside of everyone."</i>
+<i>"The less people know, the more stubbornly they know it."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
