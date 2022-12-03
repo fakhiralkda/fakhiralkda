@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Resentment or grudges do no harm to the person against whom you hold these feelings but every day and every night of your life, they are eating at you."</i>
+<i>"Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  "</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
