@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good luck is opportunity meeting preparedness."</i>
+<i>"Much learning does not teach understanding."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
