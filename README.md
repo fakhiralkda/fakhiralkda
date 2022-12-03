@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  "</i>
+<i>"To create more positive results in your life, replace 'if only' with 'next time'."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
