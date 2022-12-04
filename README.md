@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man who removes a mountain begins by carrying away small stones."</i>
+<i>"People who avoid failure also avoid success."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
