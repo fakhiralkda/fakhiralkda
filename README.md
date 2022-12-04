@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People who avoid failure also avoid success."</i>
+<i>"The more knowledge you have, the more you're free to rely on your instincts."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
