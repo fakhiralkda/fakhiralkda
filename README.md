@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more knowledge you have, the more you're free to rely on your instincts."</i>
+<i>"Be fascinated instead of frustrated."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
