@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no way to happiness - happiness is the way."</i>
+<i>"There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
