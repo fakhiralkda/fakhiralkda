@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You win more from losing than winning."</i>
+<i>"Failure is just information and an opportunity to change your course."</i>
 <br>
-<b>- Morgan Wootten</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
