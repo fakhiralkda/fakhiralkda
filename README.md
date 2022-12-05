@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A single dream is more powerful than a thousand realities."</i>
+<i>"Embrace the life you have and stop wishing that you could be someone else."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
