@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Magic is believing in yourself, if you can do that, you can make anything happen."</i>
+<i>"A single dream is more powerful than a thousand realities."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
