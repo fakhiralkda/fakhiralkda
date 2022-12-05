@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time stays long enough for anyone who will use it."</i>
+<i>"Do not look upon this world with fear and loathing. Bravely face whatever the gods offer."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
