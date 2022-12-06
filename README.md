@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to keep your memories, you first have to live them."</i>
+<i>"Quality is not an act, it is a habit."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
