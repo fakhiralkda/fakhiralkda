@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is like a dragon where, for every head cut off, two more heads grow back."</i>
+<i>"People tend to complicate their own lives, as if living weren't already complicated enough."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
