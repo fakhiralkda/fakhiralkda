@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even in the grave, all is not lost."</i>
+<i>"The wisest men follow their own direction."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
