@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything you've ever wanted is on the other side of fear."</i>
+<i>"Your best life will not be found in comfort. It will be found in fighting for what you believe in."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
