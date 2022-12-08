@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success."</i>
+<i>"Sometimes things become possible if we want them bad enough."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
