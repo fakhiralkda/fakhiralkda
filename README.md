@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace is not absence of conflict, it is the ability to handle conflict by peaceful means."</i>
+<i>"If we have no peace, it is because we have forgotten that we belong to each other."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
