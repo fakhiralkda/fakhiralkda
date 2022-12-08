@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we have no peace, it is because we have forgotten that we belong to each other."</i>
+<i>"Wise men speak because they have something to say; Fools because they have to say something."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
