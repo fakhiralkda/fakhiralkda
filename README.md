@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is our choices that show what we truly are, far more than our abilities."</i>
+<i>"Much learning does not teach understanding."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
