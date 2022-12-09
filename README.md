@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing ever goes away until it has taught us what we need to know."</i>
+<i>"Most people get ahead during the time that others waste."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
