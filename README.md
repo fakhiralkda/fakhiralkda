@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be the change that you want to see in the world."</i>
+<i>"All men who have achieved great things have been great dreamers. "</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
