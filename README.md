@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A mistake is only an error, it becomes a mistake when you fail to correct it."</i>
+<i>"Learn to use your emotions to think, not think with your emotions."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
