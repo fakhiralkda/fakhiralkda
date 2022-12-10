@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If there were no God, there would be no atheists."</i>
+<i>"Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
