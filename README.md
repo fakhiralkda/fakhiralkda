@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn to use your emotions to think, not think with your emotions."</i>
+<i>"Man is made by his belief. As he believes, so he is."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
