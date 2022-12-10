@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"First learn the meaning of what you say, and then speak."</i>
+<i>"If there were no God, there would be no atheists."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
