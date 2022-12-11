@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's easier to lose than to win.  "</i>
+<i>"Courage is not having the strength to go on; it is going on when you don't have the strength."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
