@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No idea, no matter how good, will work if it doesn't get used."</i>
+<i>"You may delay, but time will not."</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
