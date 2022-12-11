@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present."</i>
+<i>"When you know what you want, and want it bad enough, you will find a way to get it."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
