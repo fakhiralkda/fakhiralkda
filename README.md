@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you know what you want, and want it bad enough, you will find a way to get it."</i>
+<i>"Any fool can paint a picture, but it takes a wise man to be able to sell it."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
