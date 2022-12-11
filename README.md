@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any fool can paint a picture, but it takes a wise man to be able to sell it."</i>
+<i>"It's not what we do once in a while that shapes our lives, but what we do consistently."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
