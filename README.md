@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man ever steps in the same river twice, for it's not the same river and he's not the same man."</i>
+<i>"It is not titles that honour men, but men that honour titles."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
