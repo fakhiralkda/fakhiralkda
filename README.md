@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not titles that honour men, but men that honour titles."</i>
+<i>"Listening well is as powerful as talking well, and is also as essential to true conversation."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
