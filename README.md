@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whether you think you can or think you can't – you are right."</i>
+<i>"Friendship takes time and energy if it's going to work."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
