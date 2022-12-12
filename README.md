@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you chase two rabbits, you catch none."</i>
+<i>"Every limit is a beginning as well as an ending."</i>
 <br>
-<b>- Confucius</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
