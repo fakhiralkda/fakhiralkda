@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The difference between impossible and possible is a willing heart."</i>
+<i>"In three words I can sum up everything I've learned about life: it goes on."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
