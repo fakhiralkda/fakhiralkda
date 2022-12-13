@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A zen master's life is one continuous mistake."</i>
+<i>"What have you done today to make someone else happy?"</i>
 <br>
-<b>- Dogen</b>
+<b>- Deepam Chaterjee</b>
 </blockquote>
 </p>
 
