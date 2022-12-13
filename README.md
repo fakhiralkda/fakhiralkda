@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winners are not people who never fail, but people who never quit."</i>
+<i>"If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. "</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Nikola Tesla</b>
 </blockquote>
 </p>
 
