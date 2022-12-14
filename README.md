@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Concentrated power has always been the enemy of liberty."</i>
+<i>"A Penny Saved is a Penny Earned"</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
