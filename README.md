@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A person hears only what they understand."</i>
+<i>"Patience expands your options. If you insist on immediate gratification, your choices are severely limited."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
