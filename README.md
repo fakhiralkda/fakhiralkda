@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes."</i>
+<i>"Concentrated power has always been the enemy of liberty."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
