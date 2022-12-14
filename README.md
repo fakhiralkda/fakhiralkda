@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only defense against the world is a thorough knowledge of it."</i>
+<i>"Not everything that weighs you down is yours to carry."</i>
 <br>
-<b>- John Locke</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
