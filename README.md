@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the energy of life."</i>
+<i>"Be approximately right rather than exactly wrong."</i>
 <br>
-<b>- Robert Browning</b>
+<b>- John Tukey</b>
 </blockquote>
 </p>
 
