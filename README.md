@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution."</i>
+<i>"The finish line is just the beginning of a whole new race."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
