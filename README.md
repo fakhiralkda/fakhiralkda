@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less you talk about your shame, the more of it you have."</i>
+<i>"Words can only have a positive effect on others if and when they are ready to listen."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
