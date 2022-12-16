@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't have to be great to start, but you have to start to be great.  "</i>
+<i>"The more you are motivated by Love, The more Fearless & Free your action will be."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
