@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"FOCUS - Follow One Course Until Successful"</i>
+<i>"If you want to achieve greatness stop asking for permission."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
