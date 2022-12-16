@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to achieve greatness stop asking for permission."</i>
+<i>"The ego wants to go fast. The soul needs to go slow."</i>
 <br>
-<b>- Unknown</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
