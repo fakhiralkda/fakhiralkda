@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man invented language to satisfy his deep need to complain."</i>
+<i>"The friendship that can cease has never been real. "</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
