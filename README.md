@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Real loss is only possible when you love something more than you love yourself."</i>
+<i>"The more you are motivated by Love, The more Fearless & Free your action will be."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
