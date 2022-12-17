@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I can laugh, I can live."</i>
+<i>"Try to be a rainbow in someone's cloud."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
