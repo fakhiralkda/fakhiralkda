@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to be irreplaceable one must always be different."</i>
+<i>"When the root is strong, the fruit is sweet."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
