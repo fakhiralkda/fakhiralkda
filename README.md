@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The friendship that can cease has never been real. "</i>
+<i>"The world makes way for the man who knows where he is going."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
