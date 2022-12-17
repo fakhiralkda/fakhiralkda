@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world makes way for the man who knows where he is going."</i>
+<i>"To raise your consciousness, surround yourself with people of higher consciousness."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
