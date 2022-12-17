@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you are motivated by Love, The more Fearless & Free your action will be."</i>
+<i>"In order to be irreplaceable one must always be different."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
