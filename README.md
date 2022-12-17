@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Originality is the fine art of remembering what you hear but forgetting where you heard it. "</i>
+<i>"The chief danger in life is that you may take too many precautions."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
