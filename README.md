@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To raise your consciousness, surround yourself with people of higher consciousness."</i>
+<i>"Go for it now. The future is promised to no one. "</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
