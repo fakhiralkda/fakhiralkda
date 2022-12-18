@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Relax. Nothing is under control."</i>
+<i>"Time flies whether you are having fun or not."</i>
 <br>
-<b>- Adi Da Samraj</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
