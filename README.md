@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is the highway to success."</i>
+<i>"Thinking is difficult, that's why most people judge."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
