@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The people who are crazy enough to think they can change the world are the ones who do."</i>
+<i>"Life is a question and how we live it is our answer."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
