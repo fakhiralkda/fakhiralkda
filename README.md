@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the root is strong, the fruit is sweet."</i>
+<i>"Keep smiling, because life is a beautiful thing and there's so much to smile about."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
