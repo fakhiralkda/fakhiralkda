@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adults are just children who earn money."</i>
+<i>"If you have only one smile in you give it to the people you love."</i>
 <br>
-<b>- Kenneth Branagh</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
