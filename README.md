@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The roots of education are bitter, but the fruit is sweet."</i>
+<i>"When you are totally at peace with yourself, nothing can shake you."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Deepam Chaterjee</b>
 </blockquote>
 </p>
 
