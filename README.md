@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time flies whether you are having fun or not."</i>
+<i>"You need a plan to build a house. To build a life, it is even more important to have a plan or goal."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
