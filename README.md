@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is far easier to start something than it is to finish it."</i>
+<i>"In the End, we will remember not the words of our enemies, but the silence of our friends."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
