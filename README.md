@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failing is another stepping stone to greatness."</i>
+<i>"It is far easier to start something than it is to finish it."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
