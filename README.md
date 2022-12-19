@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We take care of the future best by taking care of the present now."</i>
+<i>"The divine is not something high above us. It is in heaven, it is in earth, it is inside us."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
