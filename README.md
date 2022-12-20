@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everybody's life is either rewarding or an example."</i>
+<i>"Constantly think about how you could be doing things better."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
