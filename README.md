@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Until you make the unconscious conscious, it will direct your life and you will call it fate."</i>
+<i>"You gain strength, courage and confidence by every experience in which you really stop to look fear in the face."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
