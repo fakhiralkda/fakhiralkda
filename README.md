@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You gain strength, courage and confidence by every experience in which you really stop to look fear in the face."</i>
+<i>"How much pain they have cost us, the evils which have never happened."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
