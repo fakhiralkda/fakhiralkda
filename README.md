@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A dream you dream alone is only a dream. A dream you dream together is reality."</i>
+<i>"Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
