@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What's right is what's left if you do everything else wrong."</i>
+<i>"You miss 100% of the shots you don't take."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
