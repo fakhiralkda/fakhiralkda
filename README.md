@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No great mind has ever existed without a touch of madness."</i>
+<i>"Make no small plans for they have no power to stir the soul."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
