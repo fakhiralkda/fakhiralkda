@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be of use to the world is the only way to be happy."</i>
+<i>"For every minute you are angry you lose sixty seconds of happiness."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
