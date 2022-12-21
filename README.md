@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ability to observe without evaluating is the highest form of intelligence."</i>
+<i>"If you put water into a cup, it becomes the cup."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
