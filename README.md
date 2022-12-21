@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you put water into a cup, it becomes the cup."</i>
+<i>"Imagination is more important than knowledge."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
