@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of happiness is not in doing what you like but in liking what you have to do."</i>
+<i>"Words, once they are printed, have a life of their own."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
