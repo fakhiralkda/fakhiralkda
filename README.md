@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them."</i>
+<i>"Lying can never save us from another lie."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
