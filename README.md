@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lying can never save us from another lie."</i>
+<i>"To travel is to be alive, but to get somewhere is to be dead."</i>
 <br>
-<b>- Vaclav Havel</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
