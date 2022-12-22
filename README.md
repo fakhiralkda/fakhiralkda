@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Begin at once to live, and count each separate day as a separate life.  "</i>
+<i>"The secret of happiness is not in doing what you like but in liking what you have to do."</i>
 <br>
-<b>- Seneca</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
