@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go for it now. The future is promised to no one. "</i>
+<i>"Be yourself; everyone else is already taken "</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
