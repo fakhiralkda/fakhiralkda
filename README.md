@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most of us will do anything to avoid facing ourselves."</i>
+<i>"We create the world and ourselves;"</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
