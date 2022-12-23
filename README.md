@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be happy now, without reason - or you never will be at all."</i>
+<i>"There are no shortcuts to any place worth going. "</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
