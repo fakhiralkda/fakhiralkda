@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To travel is to be alive, but to get somewhere is to be dead."</i>
+<i>"Out of your vulnerabilities will come your strength."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
