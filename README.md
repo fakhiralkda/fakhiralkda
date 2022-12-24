@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to understanding is a few good examples."</i>
+<i>"An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
