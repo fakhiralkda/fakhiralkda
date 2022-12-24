@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold."</i>
+<i>"It's not the men in your life that matters, it's the life in your men."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
