@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your world is a living expression of how you are using and have used your mind."</i>
+<i>"Challenge yourself to find the good and beautiful thing inside of everyone."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
