@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is easier than fault finding."</i>
+<i>"The best way to understanding is a few good examples."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
