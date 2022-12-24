@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Challenge yourself to find the good and beautiful thing inside of everyone."</i>
+<i>"Even if you stumble and fall down, it doesn't mean you've chosen the wrong path."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
