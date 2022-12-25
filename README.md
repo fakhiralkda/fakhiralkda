@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Magic is believing in yourself, if you can do that, you can make anything happen."</i>
+<i>"When you are tough on yourself, life is going to be infinitely easier on you.  "</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
