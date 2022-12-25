@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whenever people agree with me I always feel I must be wrong."</i>
+<i>"The pen is the tongue of the mind. "</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
