@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence comes not from always being right but not fearing to be wrong."</i>
+<i>"When a man is penalized for honesty he learns to lie."</i>
 <br>
-<b>- Unknown</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
