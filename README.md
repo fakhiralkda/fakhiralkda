@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is too high for a man to reach, but he must climb with care and confidence"</i>
+<i>"Confidence comes not from always being right but not fearing to be wrong."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
