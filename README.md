@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing endures but change."</i>
+<i>"To raise your consciousness, surround yourself with people of higher consciousness."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
