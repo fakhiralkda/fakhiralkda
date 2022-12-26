@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams."</i>
+<i>"All happiness depends on courage and work."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
