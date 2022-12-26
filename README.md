@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All power is from within and therefore under our control."</i>
+<i>"Knowing others is wisdom, knowing yourself is enlightenment."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
