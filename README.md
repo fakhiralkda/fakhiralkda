@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All happiness depends on courage and work."</i>
+<i>"There are people who have money and people who are rich."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
