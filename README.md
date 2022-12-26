@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lust, anger and greed are the three gates to self-destructive hell."</i>
+<i>"All power is from within and therefore under our control."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
