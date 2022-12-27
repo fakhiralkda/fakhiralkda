@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is exact correspondence with reality. "</i>
+<i>"Be approximately right rather than exactly wrong."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- John Tukey</b>
 </blockquote>
 </p>
 
