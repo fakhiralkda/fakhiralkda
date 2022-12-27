@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A tiny change today brings a dramatically different tomorrow."</i>
+<i>"In order to be irreplaceable one must always be different."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
