@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To raise your consciousness, surround yourself with people of higher consciousness."</i>
+<i>"Whoever is happy will make others happy too."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
