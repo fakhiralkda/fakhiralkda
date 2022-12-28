@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty."</i>
+<i>"If you aren't sure which way to do something, do it both ways and see which works better."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- John Carmack</b>
 </blockquote>
 </p>
 
