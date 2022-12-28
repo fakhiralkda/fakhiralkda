@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Victims recite problems, leaders provide solutions."</i>
+<i>"Only in the agony of parting do we look into the depths of love."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
