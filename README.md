@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We build too many walls and not enough bridges."</i>
+<i>"Victims recite problems, leaders provide solutions."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
