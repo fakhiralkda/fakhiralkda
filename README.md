@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Growth comes at the point of resistance."</i>
+<i>"Everybody by your side ain't on your side."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
