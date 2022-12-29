@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Create with the heart; build with the mind."</i>
+<i>"Growth comes at the point of resistance."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
