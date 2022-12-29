@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world makes way for the man who knows where he is going."</i>
+<i>"Desire for the fruits of work must never be your motive in working."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
