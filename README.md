@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn to value yourself, which means: fight for your happiness."</i>
+<i>"Stop comparing yourself to others and focus on your own improvement."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
