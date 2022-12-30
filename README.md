@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're only given a little spark of madness. You mustn't lose it."</i>
+<i>"Learn to value yourself, which means: fight for your happiness."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
