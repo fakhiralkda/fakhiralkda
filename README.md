@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Character is doing what you don't want to do but know you should do."</i>
+<i>"Man is made by his belief. As he believes, so he is."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
