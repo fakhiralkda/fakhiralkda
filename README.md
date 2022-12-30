@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop comparing yourself to others and focus on your own improvement."</i>
+<i>"There is no sadder sight than a young pessimist."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
