@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future belongs to those who learn more skills and combine them in creative ways."</i>
+<i>"People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
