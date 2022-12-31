@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can often change your circumstances by changing your attitude."</i>
+<i>"Even if you persuade me, you won't persuade me."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
