@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like underwear, should be changed twice a day.  "</i>
+<i>"You can easily judge the character of a man by how he treats those who can do nothing for him."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
