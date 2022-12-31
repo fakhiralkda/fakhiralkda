@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can easily judge the character of a man by how he treats those who can do nothing for him."</i>
+<i>"Where you are right now doesn't have to determine where you'll end up."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
