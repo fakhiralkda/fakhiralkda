@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you do,strive to do it so well that no man living and no man dead and no man yet to be born could do it any better."</i>
+<i>"Forget yesterday - it has already forgotten you. Don't sweat tomorrow - you haven't even met. Instead, open your eyes and your heart to a truly precious gift - today."</i>
 <br>
-<b>- Benjamin Mays</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
