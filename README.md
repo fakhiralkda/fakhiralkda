@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do the work you get rewarded. There are no shortcuts in life."</i>
+<i>"Life is really simple, but men insist on making it complicated. "</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
