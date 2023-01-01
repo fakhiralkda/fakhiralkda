@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you extend kindness to yourself, the more it will become your automatic response to others."</i>
+<i>"If you do the work you get rewarded. There are no shortcuts in life."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
