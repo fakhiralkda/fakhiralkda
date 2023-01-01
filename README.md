@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is acceptable. Not trying is a whole different ball park."</i>
+<i>"If you aim at nothing, you will hit it every time.  "</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
