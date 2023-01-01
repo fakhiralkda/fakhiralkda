@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To wish you were someone else is to waste the person you are."</i>
+<i>"If you pray for rain, be prepared to deal with some mud."</i>
 <br>
-<b>- Unknown</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
