@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you pray for rain, be prepared to deal with some mud."</i>
+<i>"Question everything. Learn something. Answer nothing."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
