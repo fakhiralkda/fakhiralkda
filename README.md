@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The busy man is never wise and the wise man is never busy."</i>
+<i>"Be approximately right rather than exactly wrong."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- John Tukey</b>
 </blockquote>
 </p>
 
