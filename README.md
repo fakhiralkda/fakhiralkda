@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is pretty simple: someone to love, something to do, something to look forward to."</i>
+<i>"Do not allow your inner doubts to keep you from achieving what you can do."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
