@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way."</i>
+<i>"The clock indicates the moment...but what does eternity indicate?"</i>
 <br>
-<b>- Osho</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
