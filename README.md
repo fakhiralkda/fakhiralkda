@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Either get busy living or get busy dying."</i>
+<i>"You are the sky. Everything else - it's just the weather."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
