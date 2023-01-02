@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always do your best. What you plant now, you will harvest later."</i>
+<i>"Success is achieved and maintained by those who try and keep trying. "</i>
 <br>
-<b>- Og Mandino</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
