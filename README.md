@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The clock indicates the moment...but what does eternity indicate?"</i>
+<i>"Always do your best. What you plant now, you will harvest later."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
