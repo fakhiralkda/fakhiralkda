@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Challenge yourself to find the good and beautiful thing inside of everyone."</i>
+<i>"The busy man is never wise and the wise man is never busy."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
