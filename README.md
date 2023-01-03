@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world doesn't always give you want, but it often gives you what you need."</i>
+<i>"The way to get started is to quit talking and begin doing."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
