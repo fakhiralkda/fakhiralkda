@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths."</i>
+<i>"What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!"</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
