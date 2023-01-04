@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is simply the opportunity to begin again, this time more intelligently."</i>
+<i>"You can't let your failures define you. You have to let your failures teach you."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
