@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections."</i>
+<i>"Everyone has the right to make his own decisions, but none has the right to force his decision on others."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
