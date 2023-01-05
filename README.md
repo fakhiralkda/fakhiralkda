@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Either write something worth reading or do something worth writing."</i>
+<i>"There is always room in your life for thinking bigger, pushing limits and imagining the impossible."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
