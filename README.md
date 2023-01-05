@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success comes from knowing that you did your best to become the best that you are capable of becoming."</i>
+<i>"Learn to value yourself, which means: fight for your happiness."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
