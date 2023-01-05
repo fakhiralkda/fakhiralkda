@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever satisfies the soul is truth."</i>
+<i>"A crisis is an opportunity riding the dangerous wind."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
