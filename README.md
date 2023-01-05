@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A crisis is an opportunity riding the dangerous wind."</i>
+<i>"Poetry is written with tears, fiction with blood, and history with invisible ink."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
