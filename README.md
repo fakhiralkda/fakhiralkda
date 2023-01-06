@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live as if you were to die tomorrow. Learn as if you were to live forever."</i>
+<i>"Lust, anger and greed are the three gates to self-destructive hell."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
