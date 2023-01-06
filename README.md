@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Turn the pain into power."</i>
+<i>"The best way out is always through."</i>
 <br>
-<b>- Unknown</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
