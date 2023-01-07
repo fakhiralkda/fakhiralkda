@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As you think, you travel, and as you love, you attract."</i>
+<i>"All know that the drop merges into the ocean, but few know that the ocean merges into the drop."</i>
 <br>
-<b>- James Allen</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
