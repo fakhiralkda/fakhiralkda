@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Until you change how you get things done, you'll never know what works best."</i>
+<i>"If I love myself I love you. If I love you I love myself."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
