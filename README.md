@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dance first. Think later. It's the natural order."</i>
+<i>"Whenever people agree with me I always feel I must be wrong."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
