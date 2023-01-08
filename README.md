@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot teach a crab to walk straight."</i>
+<i>"A good system shortens the road to the goal. "</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
