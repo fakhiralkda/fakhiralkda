@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All know that the drop merges into the ocean, but few know that the ocean merges into the drop."</i>
+<i>"Your life does not get better by chance, it gets better by change."</i>
 <br>
-<b>- Kabir</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
