@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All our dreams can come true, if we have the courage to pursue them."</i>
+<i>"Start each day with a positive thought and a grateful heart."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
