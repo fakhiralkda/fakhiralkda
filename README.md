@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confuse them with your silence and amaze them with your actions."</i>
+<i>"Normality is a paved road: It's comfortable to walk, but no flowers grow on it."</i>
 <br>
-<b>- Unknown</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
