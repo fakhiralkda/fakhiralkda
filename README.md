@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Loving thoughts and actions are clearly beneficial for our physical and mental health."</i>
+<i>"No one can compete with you on being you. Most of life is a search for who and what needs you the most."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
