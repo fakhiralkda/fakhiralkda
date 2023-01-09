@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for."</i>
+<i>"Loving thoughts and actions are clearly beneficial for our physical and mental health."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
