@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Start each day with a positive thought and a grateful heart."</i>
+<i>"To seek is to suffer. To seek nothing is bliss."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
