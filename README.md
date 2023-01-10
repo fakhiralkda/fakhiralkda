@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Create each day anew."</i>
+<i>"Truth is not something outside to be discovered, it is something inside to be realized."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
