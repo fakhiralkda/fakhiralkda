@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We don't stop playing because we grow old; we grow old because we stop playing."</i>
+<i>"Identify your problems, but give your power and energy to solutions."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
