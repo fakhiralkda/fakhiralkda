@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Among the things you can give and still keep are your word, a smile, and a grateful heart."</i>
+<i>"We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
