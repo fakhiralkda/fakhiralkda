@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fishing is much more than fish."</i>
+<i>"Peace if possible, truth at all costs."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
