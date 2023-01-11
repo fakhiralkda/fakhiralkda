@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I put my heart and soul into my work, and I have lost my mind in the process."</i>
+<i>"Go as far as you can see and you will see further.  "</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
