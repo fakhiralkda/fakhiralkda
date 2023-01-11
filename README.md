@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go as far as you can see and you will see further.  "</i>
+<i>"The only limits in your life are those that you set yourself."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
