@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The road to success and the road to failure are almost exactly the same."</i>
+<i>"If the only prayer you ever say in your entire life is thank you, it will be enough."</i>
 <br>
-<b>- Colin R. Davis</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
