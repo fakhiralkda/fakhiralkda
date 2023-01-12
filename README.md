@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The big thing is to make a winning effort. I'm not obsessed with wins."</i>
+<i>"You can't have anything worthwhile without difficulties."</i>
 <br>
-<b>- Morgan Wootten</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
