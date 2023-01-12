@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive."</i>
+<i>"Until we can manage time, we can manage nothing else."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
