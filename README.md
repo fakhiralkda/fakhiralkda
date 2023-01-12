@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I've always lived in the moment."</i>
+<i>"The key to success is failure."</i>
 <br>
-<b>- Yanni</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
