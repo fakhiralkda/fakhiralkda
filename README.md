@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love doesn't need reason. It speaks from the irrational wisdom of the heart."</i>
+<i>"Those who cannot change their minds cannot change anything."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
