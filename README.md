@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Appear weak when you are strong, and strong when you are weak."</i>
+<i>"I will not walk backward in life."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
