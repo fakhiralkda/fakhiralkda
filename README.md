@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'"</i>
+<i>"Not all readers are leaders, but all leaders are readers."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
