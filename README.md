@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not all readers are leaders, but all leaders are readers."</i>
+<i>"The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
