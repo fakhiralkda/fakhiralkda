@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination."</i>
+<i>"When you rise in the morning, form a resolution to make the day a happy one for a fellow creature."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
