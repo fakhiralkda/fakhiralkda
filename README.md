@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You make your own luck if you stay at it long enough."</i>
+<i>"The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
