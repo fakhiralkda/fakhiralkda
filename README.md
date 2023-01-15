@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People who have goals succeed because they know where they're going. It's that simple."</i>
+<i>"You make your own luck if you stay at it long enough."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
