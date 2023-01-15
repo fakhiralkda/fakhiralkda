@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A random act of kindness, no matter how small, can make a tremendous impact on someone else's life."</i>
+<i>"Good luck is opportunity meeting preparedness."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
