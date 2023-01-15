@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never let the things you can't do stop you from doing what you can."</i>
+<i>"There are people who have money and people who are rich."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
