@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter what happens, always be yourself."</i>
+<i>"In spite of everything, I shall rise again."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
