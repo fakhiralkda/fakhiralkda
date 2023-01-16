@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No tree, it is said, can grow to heaven unless its roots reach down to hell."</i>
+<i>"Never settle for the crumbs of life."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
