@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many people will walk in and out of your life, but only true friends will leave footprints in your heart."</i>
+<i>"The future is the worst thing about the present."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
