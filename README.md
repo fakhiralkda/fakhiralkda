@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Out of your vulnerabilities will come your strength."</i>
+<i>"Man invented language to satisfy his deep need to complain."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
