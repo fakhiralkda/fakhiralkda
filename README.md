@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We will now discuss in a little more detail the Struggle for Existence."</i>
+<i>"Out of your vulnerabilities will come your strength."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
