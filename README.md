@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Real loss is only possible when you love something more than you love yourself."</i>
+<i>"What people need and what they want may be very different."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
