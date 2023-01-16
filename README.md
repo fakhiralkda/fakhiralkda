@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never settle for the crumbs of life."</i>
+<i>"Help others achieve their dreams and you will achieve yours."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
