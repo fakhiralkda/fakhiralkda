@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Help others achieve their dreams and you will achieve yours."</i>
+<i>"Many people will walk in and out of your life, but only true friends will leave footprints in your heart."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
