@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What people need and what they want may be very different."</i>
+<i>"Continuous effort - not strength or intelligence - is the key to unlocking our potential."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
