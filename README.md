@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to know what God thinks about money just look at the people He gives it to."</i>
+<i>"Loyalty and friendship are the most precious possessions a man can have."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
