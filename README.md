@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are today where your thoughts have brought you."</i>
+<i>"Change yourself and you have done your part in changing the world."</i>
 <br>
-<b>- James Allen</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
