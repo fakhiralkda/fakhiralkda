@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear can hold you prisoner. Hope can set you free."</i>
+<i>"Our greatest fears lie in anticipation."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
