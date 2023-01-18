@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Act as if what you do makes a difference. It does."</i>
+<i>"Whatever you think the world is withholding from you, you are withholding from the world."</i>
 <br>
-<b>- William James</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
