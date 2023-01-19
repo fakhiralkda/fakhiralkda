@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Excellence is not an exception, it is a prevailing attitude."</i>
+<i>"Keep your friends close, and your enemies closer."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
