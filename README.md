@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The measure of wisdom is how calm you are when facing any given situation."</i>
+<i>"Too many of us are not living our dreams because we are living our fears."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
