@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When reading, only read. When eating, only eat. When thinking, only think."</i>
+<i>"Against the assault of laughter nothing can stand."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
