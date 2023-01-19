@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who you are is defined by what you're willing to struggle for."</i>
+<i>"As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
