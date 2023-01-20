@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Against the assault of laughter nothing can stand."</i>
+<i>"The very essence of instinct is that it's followed independently of reason."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
