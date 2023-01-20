@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The meaning of life is just to be alive. It is so plain and so obvious and so simple."</i>
+<i>"Do not wait for leaders; do it alone, person to person."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
