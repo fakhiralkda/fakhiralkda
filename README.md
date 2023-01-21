@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only limits in our life are those we impose on ourselves."</i>
+<i>"When we have our body and mind in order, everything else will exist in the right place, in the right way."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
