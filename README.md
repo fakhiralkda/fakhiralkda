@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your worth consists in what you are and not in what you have."</i>
+<i>"The only limits in our life are those we impose on ourselves."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
