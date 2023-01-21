@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What keeps life fascinating is the constant creativity of the soul."</i>
+<i>"Don't let your mind stop you."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
