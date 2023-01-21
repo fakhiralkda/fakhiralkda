@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I defeat my enemies when I make them my friends."</i>
+<i>"See what you're doing wrong, laugh at it, change and do better."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
