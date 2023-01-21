@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to not feel hopeless is to get up and do something."</i>
+<i>"Sometimes adversity is what you need to face in order to become successful."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
