@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let your mind stop you."</i>
+<i>"The best way to not feel hopeless is to get up and do something."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
