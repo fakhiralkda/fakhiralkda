@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have to make time, even for something as universal as staring at the stars."</i>
+<i>"If they wrote it to make money, don't read it."</i>
 <br>
-<b>- W.P. Kinsella</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
