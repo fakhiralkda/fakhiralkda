@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Still your waters."</i>
+<i>"Everything is created twice, first in the mind and then in reality."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
