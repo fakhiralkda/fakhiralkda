@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If they wrote it to make money, don't read it."</i>
+<i>"When you make a choice, you change the future."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
