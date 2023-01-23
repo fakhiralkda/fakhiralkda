@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you set your goals ridiculously high and its a failure, you will fail above everyone elses success."</i>
+<i>"There are no second chances in life, except to feel remorse."</i>
 <br>
-<b>- James Cameron</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
