@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A little progress each day adds up to big results."</i>
+<i>"Growth comes at the point of resistance."</i>
 <br>
-<b>- Unknown</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
