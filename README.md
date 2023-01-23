@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Integrity is telling myself the truth. And honesty is telling the truth to other people."</i>
+<i>"A little progress each day adds up to big results."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
