@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is never final, failure is never fatal. It's courage that counts."</i>
+<i>"If you set your goals ridiculously high and its a failure, you will fail above everyone elses success."</i>
 <br>
-<b>- John Wooden</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
