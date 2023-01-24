@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you."</i>
+<i>"Art is to console those who are broken by life."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
