@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty."</i>
+<i>"Confidence is consistency of thinking about what is possible and how to make it possible."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
