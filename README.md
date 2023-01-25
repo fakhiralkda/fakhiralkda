@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Science can flourish only in an atmosphere of free speech. "</i>
+<i>"You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?"</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
