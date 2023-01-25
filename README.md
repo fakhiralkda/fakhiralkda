@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important single ingredient in the formula of success is knowing how to get along with people."</i>
+<i>"Nothing is more creative...nor destructive...than a brilliant mind with a purpose."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
