@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?"</i>
+<i>"Opportunity is missed by most people because it is dressed in overalls and looks like work."</i>
 <br>
-<b>- Seneca</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
