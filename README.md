@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people."</i>
+<i>"Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
