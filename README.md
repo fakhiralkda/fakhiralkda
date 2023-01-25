@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great things are not done by impulse, but by a series of small things brought together."</i>
+<i>"The most important single ingredient in the formula of success is knowing how to get along with people."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
