@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Older men declare war. But it is youth that must fight and die."</i>
+<i>"When asked, how do you write? I invariably answer, one word at a time."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
