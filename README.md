@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The primary point of this existence is to live, and all living things move and grow."</i>
+<i>"Man's character is his fate."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
