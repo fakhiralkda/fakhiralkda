@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop wasting time looking at someone else's reality while doing nothing about yours."</i>
+<i>"Life moves on and so should we."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
