@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Art, like morality, consists of drawing the line somewhere."</i>
+<i>"Everyone wants to go to Heaven, but no one wants to die."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
