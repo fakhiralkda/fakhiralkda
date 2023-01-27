@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone wants to go to Heaven, but no one wants to die."</i>
+<i>"It is better to fail in originality than to succeed in imitation."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Herman Melville</b>
 </blockquote>
 </p>
 
