@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people are not without problems. They're simply people who've learned to solve their problems."</i>
+<i>"Life is either a daring adventure, or nothing."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
