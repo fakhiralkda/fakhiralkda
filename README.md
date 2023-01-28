@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear does not have any special power unless you empower it by submitting to it."</i>
+<i>"Disobedience is the true foundation of liberty. The obedient must be slaves."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
