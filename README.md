@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life moves on and so should we."</i>
+<i>"Anything worth doing is worth doing slowly."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
