@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge has to be improved, challenged, and increased constantly, or it vanishes."</i>
+<i>"Tomorrow is only found in the calendar of fools."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
