@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Smell the cheese often so you know when it is getting old."</i>
+<i>"You have power over your mind - not outside events. Realize this, and you will find strength."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
