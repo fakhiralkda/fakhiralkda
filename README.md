@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live and act within the limit of your knowledge and keep expanding it to the limit of your life."</i>
+<i>"Good, better, best. Never let it rest. 'Til your good is better and your better is best. "</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
