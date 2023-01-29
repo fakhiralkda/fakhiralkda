@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good, better, best. Never let it rest. 'Til your good is better and your better is best. "</i>
+<i>"Some people find fault like there is a reward for it.  "</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
