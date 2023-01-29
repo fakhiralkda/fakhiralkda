@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always turn a negative situation into a positive situation."</i>
+<i>"Progress comes to those who train and train; reliance on secret techniques will get you nowhere."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
