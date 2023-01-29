@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By failing to prepare, you are preparing to fail."</i>
+<i>"If you don't program yourself, life will program you."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
