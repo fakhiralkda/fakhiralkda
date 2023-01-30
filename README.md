@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way out is in."</i>
+<i>"The essence of the Way is detachment."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
