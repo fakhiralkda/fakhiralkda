@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything eaten is killed. Every meal is a sacrifice."</i>
+<i>"Just living is not enough... one must have sunshine, freedom, and a little flower. "</i>
 <br>
-<b>- Adi Da Samraj</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
