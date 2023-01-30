@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given."</i>
+<i>"Progress lies not in enhancing what is, but in advancing toward what will be."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
