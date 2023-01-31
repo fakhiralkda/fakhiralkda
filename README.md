@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I can live without money, but I cannot live without love."</i>
+<i>"You have a brain and mind of your own. Use it, and reach your own decisions."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
