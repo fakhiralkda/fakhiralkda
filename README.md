@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the expression of one's values."</i>
+<i>"Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?"</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
