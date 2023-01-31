@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit."</i>
+<i>"We are all self-made, but only the successful will admit it."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
