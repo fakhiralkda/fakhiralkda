@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?"</i>
+<i>"We learn to walk by falling down. If we never fell down, we would never walk."</i>
 <br>
-<b>- Seneca</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
