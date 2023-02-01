@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even the finest sword plunged into salt water will eventually rust."</i>
+<i>"Be the silent watcher of your thoughts and behavior. You are beneath the thinker."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
