@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness."</i>
+<i>"Generosity is giving more than you can, and pride is taking less than you need."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
