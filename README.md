@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only time you run out of chances is when you stop taking them."</i>
+<i>"Even the finest sword plunged into salt water will eventually rust."</i>
 <br>
-<b>- Unknown</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
