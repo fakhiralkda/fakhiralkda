@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be the silent watcher of your thoughts and behavior. You are beneath the thinker."</i>
+<i>"Nature is pleased with simplicity. And nature is no dummy."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
