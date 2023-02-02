@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"May you find grace as you surrender to life. May you find happiness, as you stop seeking it."</i>
+<i>"Art is the signature of civilizations. "</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
