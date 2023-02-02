@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When it comes to mastering a skill, time is the magic ingredient."</i>
+<i>"TEAMWORK: the fuel that allows common people attain uncommon results."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
