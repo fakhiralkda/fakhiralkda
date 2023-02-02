@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be where your enemy is not."</i>
+<i>"Write to help yourself, publish to help others."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
