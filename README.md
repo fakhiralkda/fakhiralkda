@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you've got nothing, you've got nothing to lose."</i>
+<i>"Becoming a great leader doesn't mean being perfect. it means living with your imperfections."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
