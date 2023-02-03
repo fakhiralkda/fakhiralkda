@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned."</i>
+<i>"When you've got nothing, you've got nothing to lose."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
