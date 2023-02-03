@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't know who is important to you until you actually lose them."</i>
+<i>"Success is stumbling from failure to failure with no loss of enthusiasm."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
