@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even though you are on the right track - you will get run over if you just sit there."</i>
+<i>"I would rather die on my feet than live on my knees."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
