@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Penny Saved is a Penny Earned"</i>
+<i>"Love is the energy of life."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Robert Browning</b>
 </blockquote>
 </p>
 
