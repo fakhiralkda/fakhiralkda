@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All human beings can alter their lives by altering their attitudes."</i>
+<i>"Smile, breathe and go slowly."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
