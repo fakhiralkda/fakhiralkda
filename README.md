@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All our dreams can come true, if we have the courage to pursue them."</i>
+<i>"Most of the evil in this world is done by people with good intentions."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
