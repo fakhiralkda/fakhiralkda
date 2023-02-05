@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just get out and do it. You will be very, very glad that you did."</i>
+<i>"If you tell the truth, you don't have to remember anything."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
