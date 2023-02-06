@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important things are the hardest to say."</i>
+<i>"When you are content to be simply yourself and don't compare or compete, everybody will respect you. "</i>
 <br>
-<b>- Stephen King</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
