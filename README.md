@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who hesitates is a damned fool."</i>
+<i>"Never confuse a single defeat with a final defeat."</i>
 <br>
-<b>- Mae West</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
