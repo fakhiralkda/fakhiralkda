@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pain doesn't last. And when it's gone, we have something to show for it. Growth."</i>
+<i>"We ordinary people must forge our own beauty."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Kenji Miyazawa</b>
 </blockquote>
 </p>
 
