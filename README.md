@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life can be the scariest and most beautiful thing simultaneously."</i>
+<i>"Every act of creation is first an act of destruction."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
