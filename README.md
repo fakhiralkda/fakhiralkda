@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every act of creation is first an act of destruction."</i>
+<i>"The question is not what you look at, but what you see."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
