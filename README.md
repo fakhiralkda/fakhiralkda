@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence comes from crossing thresholds."</i>
+<i>"Love is the absence of judgment."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
