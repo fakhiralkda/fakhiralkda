@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who wants to achieve a dream must stay strong, focused and steady."</i>
+<i>"The only real mistake is the one from which we learn nothing. "</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
