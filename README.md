@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The question is not what you look at, but what you see."</i>
+<i>"In order to be walked over, you have to be lying down."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
