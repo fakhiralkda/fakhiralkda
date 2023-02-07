@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never confuse a single defeat with a final defeat."</i>
+<i>"Anyone who wants to achieve a dream must stay strong, focused and steady."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
