@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is the meaning and the purpose of life, the whole aim and end of human existence."</i>
+<i>"Self-knowledge is the beginning of self-correction."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
