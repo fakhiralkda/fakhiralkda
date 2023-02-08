@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is dangerous to be right in matters on which the established authorities are wrong."</i>
+<i>"If you're not making mistakes, then you're not doing anything."</i>
 <br>
-<b>- Voltaire</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
