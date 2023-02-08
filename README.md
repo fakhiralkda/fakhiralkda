@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For every minute you are angry you lose sixty seconds of happiness."</i>
+<i>"We take care of the future best by taking care of the present now."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
