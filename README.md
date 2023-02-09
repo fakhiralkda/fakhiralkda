@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am always doing what I cannot do yet, in order to learn how to do it."</i>
+<i>"Discipline is the bridge between goals and accomplishment."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
