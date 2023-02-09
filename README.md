@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly."</i>
+<i>"If you truly expect something to be difficult, it will be."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Peter A. Cohen</b>
 </blockquote>
 </p>
 
