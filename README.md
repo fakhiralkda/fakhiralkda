@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can have more than we've got because we can become more than we are."</i>
+<i>"If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
