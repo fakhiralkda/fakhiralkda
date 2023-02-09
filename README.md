@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have the ability, now apply yourself."</i>
+<i>"Peace begins with a smile."</i>
 <br>
-<b>- Benjamin Mays</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
