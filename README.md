@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be a master of change rather than a victim of change."</i>
+<i>"Wisdom is doing now what you are going to be happy with later on."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
