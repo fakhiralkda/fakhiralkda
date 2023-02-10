@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We will now discuss in a little more detail the Struggle for Existence."</i>
+<i>"To seek greatness is the only righteous vengeance."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
