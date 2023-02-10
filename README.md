@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments."</i>
+<i>"A dead thing can go with the stream, but only a living thing can go against it."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
