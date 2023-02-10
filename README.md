@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot always control what goes on outside. But you can always control what goes on inside. "</i>
+<i>"The time is always right to do what is right."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
