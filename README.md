@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The time is always right to do what is right."</i>
+<i>"Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
