@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today is the oldest you've ever been, and the youngest you'll ever be again."</i>
+<i>"Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- John D. Rockefeller</b>
 </blockquote>
 </p>
 
