@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A golden cage is still just a cage."</i>
+<i>"Remember, today is the tomorrow you worried about yesterday."</i>
 <br>
-<b>- Anita Krizzan</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
