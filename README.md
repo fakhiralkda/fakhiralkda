@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember, today is the tomorrow you worried about yesterday."</i>
+<i>"High thoughts must have high language."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
