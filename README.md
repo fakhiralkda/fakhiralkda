@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The worst part of success is trying to find someone who is happy for you."</i>
+<i>"Your problem isn't the problem. Your reaction is the problem."</i>
 <br>
-<b>- Bette Midler</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
