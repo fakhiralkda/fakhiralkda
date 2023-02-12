@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Here and now...breathe and relax...in battle and in life."</i>
+<i>"I didn't get there by wishing for it or hoping for it, but by working for it."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
