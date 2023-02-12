@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ones who are crazy enough to think they can change the world, are the ones that do."</i>
+<i>"Human beings believe just as they breathe - in order to survive."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
