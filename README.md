@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be fully alive, fully human, and completely awake is to be continually thrown out of the nest."</i>
+<i>"The ones who are crazy enough to think they can change the world, are the ones that do."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
