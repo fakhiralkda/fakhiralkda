@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No problem can be solved from the same level of consciousness that created it."</i>
+<i>"Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
