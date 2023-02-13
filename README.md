@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If the plan doesn't work, change the plan, but never the goal."</i>
+<i>"Failure is an option, fear is not."</i>
 <br>
-<b>- Unknown</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
