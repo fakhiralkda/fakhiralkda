@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A poet should be so crafty with words that he is envied even for his pains."</i>
+<i>"All problems are interpersonal relationship problems."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
