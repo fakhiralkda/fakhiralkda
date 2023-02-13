@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most effective way to do it, is to do it."</i>
+<i>"A poet should be so crafty with words that he is envied even for his pains."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
