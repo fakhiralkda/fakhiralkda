@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is about doing the right thing, not about doing everything right."</i>
+<i>"If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
