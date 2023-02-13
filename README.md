@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No amount of regretting can change the past, and no amount of worrying can change the future."</i>
+<i>"Success is about doing the right thing, not about doing everything right."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
