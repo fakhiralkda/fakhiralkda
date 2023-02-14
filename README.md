@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A random act of kindness, no matter how small, can make a tremendous impact on someone else's life."</i>
+<i>"No problem can be solved from the same level of consciousness that created it."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
