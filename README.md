@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only place success comes before work is in the dictionary."</i>
+<i>"He who leaves the game wins it."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
