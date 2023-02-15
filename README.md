@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot."</i>
+<i>"Without struggle, no progress and no result. Every breaking of habit produces a change in the machine."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- G.I. Gurdjieff</b>
 </blockquote>
 </p>
 
