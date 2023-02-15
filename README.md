@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wrong does not cease to be wrong because the majority share in it."</i>
+<i>"Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
