@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to see things just as they are, then you yourself must practice just as you are."</i>
+<i>"To judge a man by his weakest link or deed is like judging the power of the ocean by one wave."</i>
 <br>
-<b>- Dogen</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
