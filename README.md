@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Growth is in a series of mistakes. That's the only way you learn."</i>
+<i>"Do not think you will necessarily be aware of your own enlightenment."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
