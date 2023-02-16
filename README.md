@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To judge a man by his weakest link or deed is like judging the power of the ocean by one wave."</i>
+<i>"We live only now. Everything else is either passed or is unknown."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
