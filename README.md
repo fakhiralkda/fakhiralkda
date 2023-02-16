@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not think you will necessarily be aware of your own enlightenment."</i>
+<i>"Discipline yourself, and others won't need to."</i>
 <br>
-<b>- Dogen</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
