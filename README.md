@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Discipline yourself, and others won't need to."</i>
+<i>"Most people get ahead during the time that others waste."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
