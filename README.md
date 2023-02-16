@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people get ahead during the time that others waste."</i>
+<i>"If we know how to adapt, we end up being superior."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
