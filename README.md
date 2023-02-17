@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else."</i>
+<i>"All men are equal before fish."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
