@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The Only Thing That Is Constant Is Change"</i>
+<i>"Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
