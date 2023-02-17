@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who dream by day are cognizant of many things which escape those who dream only by night."</i>
+<i>"Everything will be ok in the end. If it's not ok, it's not the end."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
