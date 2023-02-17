@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All men are equal before fish."</i>
+<i>"When you move beyond your fear, you feel free."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
