@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything will be ok in the end. If it's not ok, it's not the end."</i>
+<i>"Don't seek, don't search, don't ask, don't knock, don't demand - relax."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
