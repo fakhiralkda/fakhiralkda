@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone telling you it's pointless to share your perspective is sharing their perspective."</i>
+<i>"The Only Thing That Is Constant Is Change"</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
