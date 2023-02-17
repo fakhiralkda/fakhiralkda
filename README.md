@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Look to the beauty of this day, miracles are all around you."</i>
+<i>"Anyone telling you it's pointless to share your perspective is sharing their perspective."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
