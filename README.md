@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The roots of education are bitter, but the fruit is sweet."</i>
+<i>"It is amazing what you can accomplish if you do not care who gets the credit."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
