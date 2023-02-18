@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"First say to yourself what you would be; and then do what you have to do."</i>
+<i>"A day wasted on others is not wasted on one's self."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
