@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A day wasted on others is not wasted on one's self."</i>
+<i>"The whole of life, from the moment you are born to the moment you die, is a process of learning."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
