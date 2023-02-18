@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We may not be able to stop evil in the world, but how we treat one another is entirely up to us."</i>
+<i>"Alone we can do so little; together we can do so much."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
