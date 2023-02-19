@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking."</i>
+<i>"Health is the greatest of all possessions."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
