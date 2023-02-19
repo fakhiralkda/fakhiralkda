@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all different. Don't judge, understand instead."</i>
+<i>"It is better to change an opinion than to persist in a wrong one."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
