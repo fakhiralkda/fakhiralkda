@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to change an opinion than to persist in a wrong one."</i>
+<i>"If we will be quiet and ready enough, we shall find compensation in every disappointment."</i>
 <br>
-<b>- Socrates</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
