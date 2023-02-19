@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where you are right now doesn't have to determine where you'll end up."</i>
+<i>"To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
