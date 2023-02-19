@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Is it really possible to tell someone else what one feels?"</i>
+<i>"Don't settle, and don't struggle."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
