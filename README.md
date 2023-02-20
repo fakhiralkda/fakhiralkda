@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not how high you have climbed, but how you make a positive difference to the world."</i>
+<i>"If you care about someone enough, you'll always be there for them no matter what."</i>
 <br>
 <b>- Roy T. Bennett</b>
 </blockquote>
