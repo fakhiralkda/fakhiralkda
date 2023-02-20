@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be polite to all, but intimate with few."</i>
+<i>"Do one thing every day that scares you."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
