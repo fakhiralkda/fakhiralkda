@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If no one ever broke the rules, then we'd never advance."</i>
+<i>"The greatest doer must also be a great dreamer."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
