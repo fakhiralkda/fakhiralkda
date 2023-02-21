@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only when you can be extremely pliable and soft can you be extremely hard and strong."</i>
+<i>"Desire is suffering."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
