@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To love means loving the unlovable."</i>
+<i>"If you don't program yourself, life will program you."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
