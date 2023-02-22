@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want."</i>
+<i>"The privilege of a lifetime is to become who you truly are."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
