@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many roads lead to the path, but basically there are only two: reason and practice. "</i>
+<i>"It is the power of the mind to be unconquerable."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
