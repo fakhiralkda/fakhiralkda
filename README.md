@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Well done is better than well said."</i>
+<i>"The sun is new each day."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
