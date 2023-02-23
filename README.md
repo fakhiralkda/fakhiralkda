@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The roots of education are bitter, but the fruit is sweet."</i>
+<i>"Honor is the foundation of courage."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
