@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"TEAMWORK: the fuel that allows common people attain uncommon results."</i>
+<i>"The roots of education are bitter, but the fruit is sweet."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
