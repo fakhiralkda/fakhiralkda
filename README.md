@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The sun is new each day."</i>
+<i>"Patience is not the ability to wait but the ability to keep a good attitude while waiting."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
