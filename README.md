@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience is not the ability to wait but the ability to keep a good attitude while waiting."</i>
+<i>"It is in changing that we find purpose."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
