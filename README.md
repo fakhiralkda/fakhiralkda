@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There exists only the present instant; a Now which always and without end is itself new."</i>
+<i>"We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
