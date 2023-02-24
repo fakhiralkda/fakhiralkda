@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one can compete with you on being you. Most of life is a search for who and what needs you the most."</i>
+<i>"To improve is to change, so to be perfect is to change often."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
