@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To improve is to change, so to be perfect is to change often."</i>
+<i>"People rarely succeed unless they have fun in what they are doing."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
