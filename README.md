@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A warrior does not give up what he loves, he finds the love in what he does."</i>
+<i>"You are the average of the five people you spend the most time with."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
