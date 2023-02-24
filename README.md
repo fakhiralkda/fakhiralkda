@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We meet ourselves time and again in a thousand disguises on the path of life."</i>
+<i>"No one can compete with you on being you. Most of life is a search for who and what needs you the most."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
