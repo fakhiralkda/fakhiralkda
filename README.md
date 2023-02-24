@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the average of the five people you spend the most time with."</i>
+<i>"We meet ourselves time and again in a thousand disguises on the path of life."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
