@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People rarely succeed unless they have fun in what they are doing."</i>
+<i>"Life is either a daring adventure, or it is nothing."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
