@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes, the only way to evolve is to open ourselves fully."</i>
+<i>"Live the moment for the moment."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
