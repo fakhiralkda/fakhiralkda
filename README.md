@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every moment is a fresh beginning."</i>
+<i>"The river that flows in you also flows in me."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
