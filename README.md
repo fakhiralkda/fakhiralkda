@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to understanding is a few good examples."</i>
+<i>"Sometimes, the only way to evolve is to open ourselves fully."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
