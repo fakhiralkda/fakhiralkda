@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let your mind stop you."</i>
+<i>"Care about what other people think and you will always be their prisoner."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
