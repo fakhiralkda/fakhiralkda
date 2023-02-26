@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hope means hoping when everything seems hopeless."</i>
+<i>"Great things happen to those who don't stop believing, trying, learning, and being grateful."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
