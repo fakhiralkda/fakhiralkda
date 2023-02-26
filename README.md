@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great things happen to those who don't stop believing, trying, learning, and being grateful."</i>
+<i>"The primary point of this existence is to live, and all living things move and grow."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
