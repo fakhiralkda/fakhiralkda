@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Instead of thinking outside the box, get rid of the box."</i>
+<i>"Live your life and forget your age."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
