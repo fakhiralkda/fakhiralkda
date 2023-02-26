@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves."</i>
+<i>"Instead of thinking outside the box, get rid of the box."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
