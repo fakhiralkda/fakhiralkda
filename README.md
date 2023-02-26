@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live your life and forget your age."</i>
+<i>"Don't let your mind stop you."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
