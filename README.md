@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your neighbor is the man who needs you."</i>
+<i>"Everyone you admire was once a beginner."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
