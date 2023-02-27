@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want something you've never had you must be willing to do something you've never done."</i>
+<i>"The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
