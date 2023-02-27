@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is."</i>
+<i>"It's not whether you get knocked down, its whether you get back up."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
