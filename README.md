@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone you admire was once a beginner."</i>
+<i>"Every man gotta right to decide his own destiny."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
