@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't get to a place that you don't believe exists."</i>
+<i>"He is not a lover who does not love forever."</i>
 <br>
-<b>- Unknown</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
