@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is a difference between giving directions and giving direction."</i>
+<i>"The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
