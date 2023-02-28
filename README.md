@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Speak when you are angry - and you'll make the best speech you'll ever regret."</i>
+<i>"Do not be so open-minded that your brains fall out."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
