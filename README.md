@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no ordinary moments."</i>
+<i>"If you aim at nothing, you will hit it every time.  "</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
