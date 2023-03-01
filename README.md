@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't get to a place that you don't believe exists."</i>
+<i>"You have to make time, even for something as universal as staring at the stars."</i>
 <br>
-<b>- Unknown</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
