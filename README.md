@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you resist, persists."</i>
+<i>"You can't get to a place that you don't believe exists."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
