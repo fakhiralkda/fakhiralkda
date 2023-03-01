@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  "</i>
+<i>"Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
