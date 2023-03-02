@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whether you have a problem in your life or not depends upon your own attitude, your own understanding."</i>
+<i>"Most people get ahead during the time that others waste."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
