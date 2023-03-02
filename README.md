@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just do the best you can. No one can do more than that."</i>
+<i>"Don't stop when you're tired. Stop when you're done."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
