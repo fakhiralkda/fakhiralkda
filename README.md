@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people get ahead during the time that others waste."</i>
+<i>"Just do the best you can. No one can do more than that."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
