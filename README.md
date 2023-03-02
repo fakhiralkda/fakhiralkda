@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to fail in originality than to succeed in imitation."</i>
+<i>"Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams."</i>
 <br>
-<b>- Herman Melville</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
