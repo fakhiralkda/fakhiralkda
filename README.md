@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In youth we run into difficulties. In old age difficulties run into us. "</i>
+<i>"Faithless is he that says farewell when the road darkens."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
