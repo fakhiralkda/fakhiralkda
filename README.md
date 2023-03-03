@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Showing off is the fool's idea of glory. "</i>
+<i>"I can think of nothing less pleasurable than a life devoted to pleasure."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- John D. Rockefeller</b>
 </blockquote>
 </p>
 
