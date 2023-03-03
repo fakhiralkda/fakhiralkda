@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't stop when you're tired. Stop when you're done."</i>
+<i>"To be alive - is Power."</i>
 <br>
-<b>- Marilyn Monroe</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
