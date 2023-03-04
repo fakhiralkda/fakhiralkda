@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The highest form of ignorance is when you reject something you don't know anything about. "</i>
+<i>"A gentleman accepts the responsibility of his actions and bears the burden of their consequences."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
