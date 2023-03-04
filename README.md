@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A gentleman accepts the responsibility of his actions and bears the burden of their consequences."</i>
+<i>"Write to help yourself, publish to help others."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
