@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are few reasons for telling the truth, but for lying the number is infinite."</i>
+<i>"It's not about what it is, it's about what it can become."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
