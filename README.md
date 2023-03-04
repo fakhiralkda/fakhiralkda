@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Teachers open the door. You enter by yourself. "</i>
+<i>"Don't blame others. it won't make you a better person."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
