@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who is untrue to his own cause cannot command the respect of others."</i>
+<i>"Life is a succession of lessons, which must be lived to be understood."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
