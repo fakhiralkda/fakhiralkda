@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a succession of lessons, which must be lived to be understood."</i>
+<i>"The trouble with the rat race is that even if you win, you're still a rat."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
