@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you."</i>
+<i>"When you can't make them see the light, make them feel the heat."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
