@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust in dreams, for in them is the hidden gate to eternity.  "</i>
+<i>"A Penny Saved is a Penny Earned"</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
