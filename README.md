@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Chase your passion, not your pension. "</i>
+<i>"Only those who do nothing at all make no mistakes."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
