@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not how much money you make, it's how much money you keep."</i>
+<i>"Not why the addiction but why the pain."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Gabor Mate</b>
 </blockquote>
 </p>
 
