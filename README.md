@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not how much we have, but how much we enjoy, that makes happiness."</i>
+<i>"It's not how much we give but how much love we put into giving."</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
