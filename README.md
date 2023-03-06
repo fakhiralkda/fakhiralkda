@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only those who do nothing at all make no mistakes."</i>
+<i>"It's not how much money you make, it's how much money you keep."</i>
 <br>
-<b>- Unknown</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
