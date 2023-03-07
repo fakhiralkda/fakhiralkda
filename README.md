@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must learn to live together as brothers or perish together as fools."</i>
+<i>"It is better to fail in originality than to succeed in imitation."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Herman Melville</b>
 </blockquote>
 </p>
 
