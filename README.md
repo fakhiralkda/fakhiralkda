@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do one thing every day that scares you."</i>
+<i>"Try all things, hold fast that which is good."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
