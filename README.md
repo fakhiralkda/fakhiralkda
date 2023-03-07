@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you make a choice, you change the future."</i>
+<i>"Success is within the reach of just about everyone."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
