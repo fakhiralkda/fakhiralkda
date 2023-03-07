@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Try all things, hold fast that which is good."</i>
+<i>"When you make a choice, you change the future."</i>
 <br>
-<b>- John Locke</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
