@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is within the reach of just about everyone."</i>
+<i>"Live life as though nobody is watching, and express yourself as though everyone is listening."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
