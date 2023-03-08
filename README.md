@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who has overcome his fears will truly be free."</i>
+<i>"Distant water does not put out a nearby fire."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
