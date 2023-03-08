@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ones who are crazy enough to think they can change the world, are the ones that do."</i>
+<i>"Whatever you are, be a good one."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
