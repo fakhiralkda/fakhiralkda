@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you are, be a good one."</i>
+<i>"I don't walk away from things that I think are unfinished."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
