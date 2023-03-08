@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forgive yourself for your faults and your mistakes and move on."</i>
+<i>"The ones who are crazy enough to think they can change the world, are the ones that do."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
