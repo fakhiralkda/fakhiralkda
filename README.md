@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Distant water does not put out a nearby fire."</i>
+<i>"Begin now to be what you will be hereafter."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
