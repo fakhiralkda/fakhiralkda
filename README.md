@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't walk away from things that I think are unfinished."</i>
+<i>"Choose to be optimistic, it feels better."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
