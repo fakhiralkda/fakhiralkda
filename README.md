@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The opposite of courage in our society is not cowardice... it is conformity."</i>
+<i>"Forgive yourself for your faults and your mistakes and move on."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
