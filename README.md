@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt."</i>
+<i>"Make your mind your own business."</i>
 <br>
-<b>- Jack London</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
