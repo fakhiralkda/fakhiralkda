@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people dabble their way through life, never deciding to master anything in particular."</i>
+<i>"Sometimes, the only way to evolve is to open ourselves fully."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
