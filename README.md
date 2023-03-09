@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes, the only way to evolve is to open ourselves fully."</i>
+<i>"A clever person turns great troubles into little ones, and little ones into none at all. "</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
