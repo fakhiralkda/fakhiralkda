@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A poet should be so crafty with words that he is envied even for his pains."</i>
+<i>"If you love life, don't waste time, for time is what life is made up of. "</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
