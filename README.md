@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't feed a hundred people, then feed just one."</i>
+<i>"Fools talk, cowards are silent, wise men listen."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
