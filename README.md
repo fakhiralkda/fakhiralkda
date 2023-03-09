@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fools talk, cowards are silent, wise men listen."</i>
+<i>"A poet should be so crafty with words that he is envied even for his pains."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
