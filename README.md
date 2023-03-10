@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Circumstances do not make the man, they reveal him."</i>
+<i>"If you need inspiration, don't do it."</i>
 <br>
-<b>- James Allen</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
