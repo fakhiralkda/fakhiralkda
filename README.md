@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The harder the conflict, the greater the triumph. "</i>
+<i>"Out of your vulnerabilities will come your strength."</i>
 <br>
-<b>- George Washington</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
