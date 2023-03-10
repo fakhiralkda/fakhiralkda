@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People do not decide their futures, they decide their habits and their habits decide their futures."</i>
+<i>"This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
