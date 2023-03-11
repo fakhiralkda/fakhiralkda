@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By words the mind is winged."</i>
+<i>"Only the hand that erases can write the true thing."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
