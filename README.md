@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are now, and you do become, what you think about."</i>
+<i>"Rewards and punishment is the lowest form of education."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
