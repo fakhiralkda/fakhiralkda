@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where words fail, music speaks."</i>
+<i>"You are not stuck where you are unless you decide to be.  "</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
