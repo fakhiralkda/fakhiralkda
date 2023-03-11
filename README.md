@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only the hand that erases can write the true thing."</i>
+<i>"You are now, and you do become, what you think about."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
