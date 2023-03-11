@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not fight with pigs - you will be smeared in mud but the pig will like it."</i>
+<i>"Where words fail, music speaks."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
