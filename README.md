@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the fish is caught we pay no more attention to the trap."</i>
+<i>"Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
