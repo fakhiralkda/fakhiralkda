@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have to make time, even for something as universal as staring at the stars."</i>
+<i>"If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere."</i>
 <br>
-<b>- W.P. Kinsella</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
