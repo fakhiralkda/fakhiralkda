@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself."</i>
+<i>"Winning isn't everything, but wanting to win is."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
