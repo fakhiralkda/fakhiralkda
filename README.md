@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone wants to go to Heaven, but no one wants to die."</i>
+<i>"A day without laughter is a day wasted."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
