@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words without actions are the assassins of idealism."</i>
+<i>"Life is a gift. Never forget to enjoy and bask in every moment you are in."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
