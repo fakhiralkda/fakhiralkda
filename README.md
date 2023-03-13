@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not pray for an easy life, pray for the strength to endure a difficult one.  "</i>
+<i>"The wise man reads both books and life itself."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
