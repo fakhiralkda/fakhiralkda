@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do the work you get rewarded. There are no shortcuts in life."</i>
+<i>"All men who have achieved great things have been great dreamers. "</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
