@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your life does not get better by chance, it gets better by change."</i>
+<i>"Do not pray for an easy life, pray for the strength to endure a difficult one.  "</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
