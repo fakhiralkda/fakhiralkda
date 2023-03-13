@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise man reads both books and life itself."</i>
+<i>"Every moment of happiness requires a great amount of Ignorance"</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
