@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust thyself: every heart vibrates to that iron string."</i>
+<i>"Thinking is difficult, that's why most people judge."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
