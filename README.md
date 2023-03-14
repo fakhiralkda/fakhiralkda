@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All men who have achieved great things have been great dreamers. "</i>
+<i>"You only live once, but if you do it right, once is enough."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
