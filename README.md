@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When one door closes another door opens. "</i>
+<i>"Do not look for a sanctuary in anyone except your self."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
