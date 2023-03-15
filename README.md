@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not look for a sanctuary in anyone except your self."</i>
+<i>"Although the world is full of suffering, it is also full of the overcoming of it."</i>
 <br>
-<b>- Buddha</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
