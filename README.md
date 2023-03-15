@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more knowledge you have, the more you're free to rely on your instincts."</i>
+<i>"Life is a series of choices and all we can do is make them."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
