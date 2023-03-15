@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree. "</i>
+<i>"There is an essence of when you are fearless, you become more creative."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
