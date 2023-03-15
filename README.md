@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a series of choices and all we can do is make them."</i>
+<i>"To get angry is like to revenge yourself for the guilt of others."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
