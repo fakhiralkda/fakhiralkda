@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must find the place inside yourself where nothing is impossible."</i>
+<i>"For fast-acting relief try slowing down."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
