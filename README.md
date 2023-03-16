@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each day your life grows a day shorter. Make every move count."</i>
+<i>"Everything that is made beautiful and fair and lovely is made for the eye of one who sees."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
