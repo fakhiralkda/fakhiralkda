@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is an essence of when you are fearless, you become more creative."</i>
+<i>"For fast-acting relief try slowing down."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
