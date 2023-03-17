@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you let your head get too big, it'll break your neck."</i>
+<i>"The world only exists in your eyes. You can make it as big or as small as you want."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
