@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By perseverance the snail reached the ark."</i>
+<i>"Discipline is the bridge between goals and accomplishment."</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
