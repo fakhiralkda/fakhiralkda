@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To belittle, you have to be little."</i>
+<i>"Less is more."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Robert Browning</b>
 </blockquote>
 </p>
 
