@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who leaves the game wins it."</i>
+<i>"To belittle, you have to be little."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
