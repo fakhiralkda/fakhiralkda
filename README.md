@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many people spend more time looking at their failures than focusing on their successes."</i>
+<i>"A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
