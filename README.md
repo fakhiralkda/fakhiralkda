@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your dream has to be bigger than your fear."</i>
+<i>"The chief danger in life is that you may take too many precautions."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
