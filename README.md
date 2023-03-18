@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service."</i>
+<i>"Your dream has to be bigger than your fear."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
