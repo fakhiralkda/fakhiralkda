@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Choose to be optimistic, it feels better."</i>
+<i>"The people who are crazy enough to think they can change the world are the ones who do."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
