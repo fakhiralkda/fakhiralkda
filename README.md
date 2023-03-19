@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  "</i>
+<i>"Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."</i>
 <br>
-<b>- David Brinkley</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
