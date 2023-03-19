@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn to use your emotions to think, not think with your emotions."</i>
+<i>"The best thing to hold onto in life is each other."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
