@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A life without a cause is a life without effect."</i>
+<i>"Learn to use your emotions to think, not think with your emotions."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
