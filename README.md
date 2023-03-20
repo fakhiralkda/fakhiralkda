@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive."</i>
+<i>"You are never too old to set another goal or to dream a new dream."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
