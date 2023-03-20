@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The attempt to escape from pain, is what creates more pain."</i>
+<i>"If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems."</i>
 <br>
-<b>- Gabor Mate</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
