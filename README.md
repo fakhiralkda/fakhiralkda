@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind."</i>
+<i>"You have within you right now, everything you need to deal with whatever the world can throw at you."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
