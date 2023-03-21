@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everybody by your side ain't on your side."</i>
+<i>"It's easier to lose than to win.  "</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
