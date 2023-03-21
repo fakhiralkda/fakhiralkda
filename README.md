@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't climb the ladder of success with your hands in your pockets."</i>
+<i>"Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
