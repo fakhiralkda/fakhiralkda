@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't waste time on excuses. Just get it done."</i>
+<i>"Everybody by your side ain't on your side."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
