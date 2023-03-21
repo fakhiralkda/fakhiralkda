@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no path to Peace. Peace is the path."</i>
+<i>"Only the hand that erases can write the true thing."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
