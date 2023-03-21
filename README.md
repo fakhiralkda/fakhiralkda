@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who leaves the game wins it."</i>
+<i>"Don't waste time on excuses. Just get it done."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
