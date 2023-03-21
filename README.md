@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you praise and celebrate your life, the more there is in life to celebrate. "</i>
+<i>"He who leaves the game wins it."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
