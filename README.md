@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's easier to lose than to win.  "</i>
+<i>"Show me a hero, and I'll write you a tragedy."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
