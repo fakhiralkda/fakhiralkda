@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life belongs to the living, and he who lives must be prepared for changes."</i>
+<i>"If you can handle rejection, you'll learn to get everything you want."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
