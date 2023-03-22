@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quality of your life is determined by the quality of your thoughts."</i>
+<i>"Be willing to be a beginner every single morning."</i>
 <br>
-<b>- Unknown</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
