@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who wants to achieve a dream must stay strong, focused and steady."</i>
+<i>"The fewer the words, the better the prayer."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
