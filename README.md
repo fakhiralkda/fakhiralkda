@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fewer the words, the better the prayer."</i>
+<i>"A Quitter never wins - and - a Winner never quits."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
