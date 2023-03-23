@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great minds discuss ideas. Average minds discuss events. Small minds discuss people."</i>
+<i>"A hero is an ordinary person doing things in an extra ordinary way."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
