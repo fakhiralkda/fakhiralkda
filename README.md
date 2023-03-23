@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to learn late than never."</i>
+<i>"Even the finest sword plunged into salt water will eventually rust."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
