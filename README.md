@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A hero is an ordinary person doing things in an extra ordinary way."</i>
+<i>"The best way to predict the future is to create it."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
