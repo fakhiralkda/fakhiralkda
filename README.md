@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We would accomplish many more things if we did not think of them as impossible."</i>
+<i>"Believe and you're halfway there."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
