@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let the noise of others' opinions drown out your own inner voice."</i>
+<i>"So we beat on, boats against the current, borne back ceaselessly into the past."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
