@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pleasure is always derived from something outside you, whereas joy arises from within. "</i>
+<i>"A warrior does not give up what he loves, he finds the love in what he does."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
