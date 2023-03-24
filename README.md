@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If your mind is empty, it is always ready for anything, it is open to everything."</i>
+<i>"Love doesn't need reason. It speaks from the irrational wisdom of the heart."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
