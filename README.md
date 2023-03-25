@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition."</i>
+<i>"Even in the grave, all is not lost."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
