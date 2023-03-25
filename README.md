@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to predict your future is to create it."</i>
+<i>"A path is made by walking on it."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
