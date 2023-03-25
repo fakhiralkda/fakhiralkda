@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Associate with people who are likely to improve you.  "</i>
+<i>"For every minute you are angry you lose sixty seconds of happiness."</i>
 <br>
-<b>- Seneca</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
