@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A path is made by walking on it."</i>
+<i>"The businessman's tool is value."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
