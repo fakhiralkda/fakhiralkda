@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"None but ourselves can free our minds."</i>
+<i>"He who possesses most must be most afraid of loss."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
