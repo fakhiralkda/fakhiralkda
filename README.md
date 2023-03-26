@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As a man thinketh in his heart, so shall he be."</i>
+<i>"There are no ordinary moments."</i>
 <br>
-<b>- James Allen</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
