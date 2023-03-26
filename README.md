@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even in the grave, all is not lost."</i>
+<i>"For your life to be great, your faith must be bigger than your fear."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
