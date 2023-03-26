@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner."</i>
+<i>"We are all faced with a series of great opportunities brilliantly disguised as impossible situations. "</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- Charles Swindoll</b>
 </blockquote>
 </p>
 
