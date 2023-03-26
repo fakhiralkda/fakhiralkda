@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all faced with a series of great opportunities brilliantly disguised as impossible situations. "</i>
+<i>"To bear trials with a calm mind robs misfortune of its strength and burden."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
