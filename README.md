@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The two most powerful warriors are patience and time."</i>
+<i>"Nothing we see or hear is perfect. But right there in the imperfection is perfect reality."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
