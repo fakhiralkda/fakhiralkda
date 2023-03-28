@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life moves on and so should we."</i>
+<i>"To every action there is always opposed an equal reaction."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
