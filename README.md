@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the practice of tolerance, one's enemy is the best teacher."</i>
+<i>"At first dreams seem impossible, then improbable, then inevitable."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
