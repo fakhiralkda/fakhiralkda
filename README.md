@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge is a treasure, but practice is the key to it."</i>
+<i>"The two most powerful warriors are patience and time."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
