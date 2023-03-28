@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man is happy who does not think himself so."</i>
+<i>"An ounce of performance is worth pounds of promises."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
