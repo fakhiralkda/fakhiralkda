@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"While some of us act without thinking, too many of us think without acting."</i>
+<i>"In the practice of tolerance, one's enemy is the best teacher."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
