@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To every action there is always opposed an equal reaction."</i>
+<i>"The important thing is not what one is born with but what use one makes of that equipment."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
