@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be able to forget means sanity."</i>
+<i>"Keep away from people who try to belittle your ambitions."</i>
 <br>
-<b>- Jack London</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
