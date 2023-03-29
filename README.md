@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first step toward getting somewhere is to decide that you are not going to stay where you are."</i>
+<i>"By the practice of meditation, you will find that you are carrying within your heart a portable paradise."</i>
 <br>
-<b>- Unknown</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
