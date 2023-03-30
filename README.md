@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The present moment is filled with joy and happiness. If you are attentive, you will see it."</i>
+<i>"We have more possibilities available in each moment than we realize."</i>
 <br>
 <b>- Thich Nhat Hanh</b>
 </blockquote>
