@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decide whether or not the goal is worth the risks involved. If it is, stop worrying."</i>
+<i>"Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
