@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome."</i>
+<i>"The wise warrior avoids the battle."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
