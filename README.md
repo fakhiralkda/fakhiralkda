@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thoughts become things. If you see it in your mind, you will hold it in your hand."</i>
+<i>"The key to success is failure."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
