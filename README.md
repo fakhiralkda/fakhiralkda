@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People inspire you, or they drain you. Pick them wisely."</i>
+<i>"Amateurs sit and wait for inspiration, the rest of us just get up and got to work."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
