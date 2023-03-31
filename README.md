@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear not the path of Truth for the lack of People walking on it."</i>
+<i>"He is not a lover who does not love forever."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
