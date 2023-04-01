@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The key to success is failure."</i>
+<i>"I can live without money, but I cannot live without love."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
