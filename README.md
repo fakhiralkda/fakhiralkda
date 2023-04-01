@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to fail in originality than to succeed in imitation."</i>
+<i>"No idea, no matter how good, will work if it doesn't get used."</i>
 <br>
-<b>- Herman Melville</b>
+<b>- Peter A. Cohen</b>
 </blockquote>
 </p>
 
