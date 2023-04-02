@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being a good example is the best form of service."</i>
+<i>"We must accept finite disappointment, but never lose infinite hope."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
