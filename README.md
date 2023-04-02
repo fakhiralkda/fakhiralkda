@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must accept finite disappointment, but never lose infinite hope."</i>
+<i>"We can see through others only when we can see through ourselves."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
