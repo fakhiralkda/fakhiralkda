@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The privilege of a lifetime is to become who you truly are."</i>
+<i>"The only time you run out of chances is when you stop taking them."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
