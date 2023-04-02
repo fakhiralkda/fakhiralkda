@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change begets change. Nothing propagates so fast."</i>
+<i>"From error to error one discovers the entire truth."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
