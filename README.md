@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear does not have any special power unless you empower it by submitting to it."</i>
+<i>"The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
