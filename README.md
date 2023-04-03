@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do what is right, not what is easy, nor what is popular."</i>
+<i>"Create with the heart; build with the mind."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
