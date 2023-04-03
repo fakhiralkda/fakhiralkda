@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities."</i>
+<i>"Do what is right, not what is easy, nor what is popular."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
