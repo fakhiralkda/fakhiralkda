@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like underwear, should be changed twice a day.  "</i>
+<i>"Silence is the great teacher and to learn its lessons you must pay attention to it."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
