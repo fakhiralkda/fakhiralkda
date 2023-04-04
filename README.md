@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have."</i>
+<i>"The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
