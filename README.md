@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dance first. Think later. It's the natural order."</i>
+<i>"The number one cause of failure is the fear of failure."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
