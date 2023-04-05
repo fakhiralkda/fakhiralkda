@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The road to success is always under construction."</i>
+<i>"Do not look for a sanctuary in anyone except your self."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
