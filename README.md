@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A comfort zone is a beautiful place, but nothing ever grows there."</i>
+<i>"The only thing we have to fear is fear itself."</i>
 <br>
-<b>- Unknown</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
