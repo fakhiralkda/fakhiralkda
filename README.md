@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is the great teacher and to learn its lessons you must pay attention to it."</i>
+<i>"A comfort zone is a beautiful place, but nothing ever grows there."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
