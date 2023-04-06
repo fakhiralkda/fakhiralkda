@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Greatest success comes just one step beyond the point at which defeat overtakes you."</i>
+<i>"My sun sets to rise again."</i>
 <br>
-<b>- Unknown</b>
+<b>- Robert Browning</b>
 </blockquote>
 </p>
 
