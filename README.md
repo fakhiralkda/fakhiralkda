@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dream big. Start small. But most of all, start."</i>
+<i>"We lie the loudest when we lie to ourselves."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
