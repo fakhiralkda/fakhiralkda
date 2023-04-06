@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is safer to search in the maze than to remain in a cheeseless situation."</i>
+<i>"Happiness is not a goal...it's a by-product of a life well lived."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
