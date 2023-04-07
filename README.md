@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't like something change it. If you can't change it, change your attitude about it. Don't complain."</i>
+<i>"I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
