@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We forge the chains we wear in life."</i>
+<i>"Your mind is infinite, it's your doubts that are limiting."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
