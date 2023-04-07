@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your mind is infinite, it's your doubts that are limiting."</i>
+<i>"Few things are more deceptive than memories."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
