@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The farther backward you can look, the farther forward you are likely to see."</i>
+<i>"If you do not change direction, you may end up where you are heading."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
