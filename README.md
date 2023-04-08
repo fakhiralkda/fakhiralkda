@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People tend to complicate their own lives, as if living weren't already complicated enough."</i>
+<i>"High thoughts must have high language."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
