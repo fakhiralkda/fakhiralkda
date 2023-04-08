@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to attain the impossible, one must attempt the absurd."</i>
+<i>"People who bite the hand that feeds them usually lick the boot that kicks them."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
