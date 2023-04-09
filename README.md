@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want something new, you have to stop doing something old."</i>
+<i>"A wise person should have money in their head, but not in their heart."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
