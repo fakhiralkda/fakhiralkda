@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise person should have money in their head, but not in their heart."</i>
+<i>"Constantly think about how you could be doing things better."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
