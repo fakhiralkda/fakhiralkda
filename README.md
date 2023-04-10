@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Integrity is telling myself the truth. And honesty is telling the truth to other people."</i>
+<i>"Become the kind of leader that people would follow voluntarily, even if you had no title or position."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
