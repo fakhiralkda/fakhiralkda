@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A leader leads by example, not by force."</i>
+<i>"We shape clay into a pot, but it is the emptiness inside that holds whatever we want."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
