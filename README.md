@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We run to win, not just to be in the race.  "</i>
+<i>"Faith means believing the unbelievable."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
