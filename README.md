@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Open your mind before your mouth."</i>
+<i>"We run to win, not just to be in the race.  "</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
