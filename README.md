@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the power of the mind to be unconquerable."</i>
+<i>"Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work."</i>
 <br>
-<b>- Seneca</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
