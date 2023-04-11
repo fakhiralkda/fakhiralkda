@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work for something because it is good, not just because it stands a chance to succeed."</i>
+<i>"Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane."</i>
 <br>
-<b>- Vaclav Havel</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
