@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are today where your thoughts have brought you."</i>
+<i>"Our deeds determine us, as much as we determine our deeds."</i>
 <br>
-<b>- James Allen</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
