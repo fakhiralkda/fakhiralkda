@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe."</i>
+<i>"The greatest work that kindness does to others is that it makes them kind themselves."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
