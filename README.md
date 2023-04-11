@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Faith means believing the unbelievable."</i>
+<i>"Riches don't make a man rich, they only make him busier."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Christopher Columbus</b>
 </blockquote>
 </p>
 
