@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our deeds determine us, as much as we determine our deeds."</i>
+<i>"When it comes to mastering a skill, time is the magic ingredient."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
