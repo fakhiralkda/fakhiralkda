@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Doubt is an uncomfortable condition, but certainty is a ridiculous one."</i>
+<i>"Faith means believing the unbelievable."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
