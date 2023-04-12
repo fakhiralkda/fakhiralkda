@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Acknowledging the good that you already have in your life is the foundation for all abundance."</i>
+<i>"Every great change is preceded by chaos."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
