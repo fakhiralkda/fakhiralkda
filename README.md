@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every great change is preceded by chaos."</i>
+<i>"I am always doing that which I can not do, in order that I may learn how to do it."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
