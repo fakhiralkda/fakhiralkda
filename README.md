@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Luck is a matter of preparation meeting opportunity."</i>
+<i>"Your chances of success in any undertaking can always be measured by your belief in yourself."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
