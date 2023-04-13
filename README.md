@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The enemy is a very good teacher."</i>
+<i>"Ponder and deliberate before you make a move."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
