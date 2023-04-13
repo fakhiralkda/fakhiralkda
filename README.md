@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Educating the mind without educating the heart is no education at all."</i>
+<i>"Luck is a matter of preparation meeting opportunity."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
