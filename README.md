@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The single biggest problem in communication is the illusion that it has taken place."</i>
+<i>"Be mindful. Be grateful. Be positive. Be true. Be kind."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
