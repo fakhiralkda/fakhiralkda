@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more often a stupidity is repeated, the more it gets the appearance of wisdom."</i>
+<i>"To the mind that is still, the whole universe surrenders."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
