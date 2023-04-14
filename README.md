@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand."</i>
+<i>"You don't know who is important to you until you actually lose them."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
