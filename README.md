@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never waste a minute of your precious life thinking about people you don't like."</i>
+<i>"It is indeed a radical act of love just to sit down and be quiet for a time by yourself."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
