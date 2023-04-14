@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the end, it's not the years in your life that count. It's the life in your years."</i>
+<i>"Change is hard at first, messy in the middle and gorgeous at the end."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
