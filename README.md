@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't, you must. If you must, you can."</i>
+<i>"Change will not come if we wait for some other person, or if we wait for some other time."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
