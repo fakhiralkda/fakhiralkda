@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To the mind that is still, the whole universe surrenders."</i>
+<i>"Every strike brings me closer to the next home run. "</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Babe Ruth</b>
 </blockquote>
 </p>
 
