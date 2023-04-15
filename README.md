@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever."</i>
+<i>"If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
