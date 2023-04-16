@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Circumstances rule men; men do not rule circumstances. "</i>
+<i>"Better a diamond with a flaw than a pebble without one."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
