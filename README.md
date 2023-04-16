@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There exists only the present instant; a Now which always and without end is itself new."</i>
+<i>"There are few reasons for telling the truth, but for lying the number is infinite."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
