@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let the beauty of what you love be what you do."</i>
+<i>"The sweetest pleasure arises from difficulties overcome."</i>
 <br>
-<b>- Rumi</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
