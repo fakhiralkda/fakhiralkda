@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When I let go of what I am, I become what I might be."</i>
+<i>"Little minds have little worries, big minds have no time for worries."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
