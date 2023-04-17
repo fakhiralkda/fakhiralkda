@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'd rather welcome change than cling to the past."</i>
+<i>"If you take responsibility for yourself you will develop a hunger to accomplish your dream."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
