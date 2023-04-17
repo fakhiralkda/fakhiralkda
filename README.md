@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Little minds have little worries, big minds have no time for worries."</i>
+<i>"Facts are the enemy of truth. "</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
