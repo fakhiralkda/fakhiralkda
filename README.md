@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others."</i>
+<i>"Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
