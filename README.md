@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to."</i>
+<i>"Our greatest fears lie in anticipation."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
