@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the End, we will remember not the words of our enemies, but the silence of our friends."</i>
+<i>"FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
