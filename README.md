@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our greatest fears lie in anticipation."</i>
+<i>"As long as a human being worries about when he will die, and what he has that is his, all of his works are zero."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
