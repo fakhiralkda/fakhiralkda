@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours."</i>
+<i>"It is the power of thought that gives man power over nature."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
