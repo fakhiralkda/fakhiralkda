@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends."</i>
+<i>"At the center of your being you have the answer; you know who you are and you know what you want."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
