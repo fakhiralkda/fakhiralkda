@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The heart wants what it wants - or else it does not care."</i>
+<i>"Freedom lies in being bold."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
