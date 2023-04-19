@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For things to change, you have to change."</i>
+<i>"The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
