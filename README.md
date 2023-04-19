@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Children are our greatest natural resource."</i>
+<i>"Live in the sunshine, swim the sea, drink the wild air."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
