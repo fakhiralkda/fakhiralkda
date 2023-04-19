@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no one giant step that does it. It's a lot of little steps."</i>
+<i>"Turn your face to the sun, as flowers know how to do."</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
