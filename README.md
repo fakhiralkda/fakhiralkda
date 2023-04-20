@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win."</i>
+<i>"Challenge yourself to find the good and beautiful thing inside of everyone."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
