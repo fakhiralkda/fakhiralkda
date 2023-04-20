@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The single biggest problem in communication is the illusion that it has taken place."</i>
+<i>"We become what we believe."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
