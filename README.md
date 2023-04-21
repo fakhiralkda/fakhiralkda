@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the world pushes you to your knees, you're in the perfect position to pray."</i>
+<i>"When we think about our strengths, we are strong. When we think about our weaknesses, we are weak."</i>
 <br>
-<b>- Rumi</b>
+<b>- Peter A. Cohen</b>
 </blockquote>
 </p>
 
