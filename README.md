@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Focused, hard work is the real key to success."</i>
+<i>"A clear conscience is the sure sign of a bad memory."</i>
 <br>
-<b>- John Carmack</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
