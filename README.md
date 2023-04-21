@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I love myself I love you. If I love you I love myself."</i>
+<i>"When the world pushes you to your knees, you're in the perfect position to pray."</i>
 <br>
 <b>- Rumi</b>
 </blockquote>
