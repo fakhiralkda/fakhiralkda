@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Persistence is very important. You should not give up unless you are forced to give up."</i>
+<i>"If I love myself I love you. If I love you I love myself."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
