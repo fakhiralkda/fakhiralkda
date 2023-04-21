@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we think about our strengths, we are strong. When we think about our weaknesses, we are weak."</i>
+<i>"One must be poor to know the luxury of giving."</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
