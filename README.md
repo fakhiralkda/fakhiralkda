@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Generosity is giving more than you can, and pride is taking less than you need."</i>
+<i>"There is nothing quite so tragic as a young cynic."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
