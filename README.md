@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition."</i>
+<i>"You don't earn loyalty in a day. You earn loyalty day-by-day."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Jeffrey Gitomer</b>
 </blockquote>
 </p>
 
