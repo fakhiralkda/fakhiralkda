@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only normal people are the ones you don't know very well."</i>
+<i>"To be fully alive is to feel that everything is possible."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
