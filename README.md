@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never fear quarrels, but seek hazardous adventures."</i>
+<i>"If you want work well done, select a busy man; the other kind has no time."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
