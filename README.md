@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reality is the leading cause of stress among those in touch with it."</i>
+<i>"Youth has no age."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
