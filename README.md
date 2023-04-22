@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have lost friends, some by death...others by sheer inability to cross the street."</i>
+<i>"If you don't have time to do it right, when will you have time to do it over?"</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
