@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What do we live for if not to make life less difficult for each other?"</i>
+<i>"It is truth that liberates, not your effort to be free."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
