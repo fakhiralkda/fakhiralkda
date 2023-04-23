@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man with outward courage dares to die: a man with inner courage dares to live."</i>
+<i>"What have you done today to make someone else happy?"</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Deepam Chaterjee</b>
 </blockquote>
 </p>
 
