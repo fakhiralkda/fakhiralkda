@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life can only be understood backwards; but it must be lived forwards."</i>
+<i>"The salvation of the world lies in the human heart."</i>
 <br>
-<b>- Soren Kierkegaard</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
