@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The salvation of the world lies in the human heart."</i>
+<i>"Behind every cloud is another cloud."</i>
 <br>
-<b>- Vaclav Havel</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
