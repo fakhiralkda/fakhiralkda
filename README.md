@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is truth that liberates, not your effort to be free."</i>
+<i>"Success is built sequentially. It's one thing at a time."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
