@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not look upon this world with fear and loathing. Bravely face whatever the gods offer."</i>
+<i>"If you want something then you lose everything. If you don't want anything then you already have everything."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Seungsahn</b>
 </blockquote>
 </p>
 
