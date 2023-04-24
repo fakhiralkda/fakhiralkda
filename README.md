@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you know what you want, and want it bad enough, you will find a way to get it."</i>
+<i>"Find the game where you can win, and then commit your life to playing it; and play to win."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
