@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We love the things we love for what they are."</i>
+<i>"Everyone thinks of changing the world, but no one thinks of changing himself."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
