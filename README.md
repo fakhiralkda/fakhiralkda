@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't explain your philosophy. Embody it."</i>
+<i>"Waste not fresh tears over old griefs."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
