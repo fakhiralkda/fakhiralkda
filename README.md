@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success comes from knowing that you did your best to become the best that you are capable of becoming."</i>
+<i>"Giving is living. If you stop wanting to give, there's nothing more to live for."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
