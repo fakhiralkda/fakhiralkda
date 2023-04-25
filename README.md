@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The danger of an adventure is worth a thousand days of ease and comfort."</i>
+<i>"Even if you're sure you can win, be careful that you can live with what you lose."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
