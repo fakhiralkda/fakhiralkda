@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you."</i>
+<i>"Don't explain your philosophy. Embody it."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
