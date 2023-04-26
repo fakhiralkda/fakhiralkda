@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your gift is something that you can do innately better than anything else."</i>
+<i>"What you resist, persists."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
