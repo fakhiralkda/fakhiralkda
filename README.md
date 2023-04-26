@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't look back - you're not going that way."</i>
+<i>"You can have the mind or you can have the moment."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
