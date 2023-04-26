@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like underwear, should be changed twice a day.  "</i>
+<i>"The way to love anything is to realize that it may be lost."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
