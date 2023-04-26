@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fortunate are those who take the first steps."</i>
+<i>"Life is like underwear, should be changed twice a day.  "</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
