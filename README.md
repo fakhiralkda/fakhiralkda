@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose."</i>
+<i>"It's not what you've got; it's what you do that makes the difference."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
