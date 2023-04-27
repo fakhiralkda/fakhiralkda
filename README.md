@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We meet ourselves time and again in a thousand disguises on the path of life."</i>
+<i>"You need a plan to build a house. To build a life, it is even more important to have a plan or goal."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
