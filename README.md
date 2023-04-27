@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always keep your eyes open. Keep watching. Because whatever you see can inspire you."</i>
+<i>"We must embrace pain and burn it as fuel for our journey."</i>
 <br>
-<b>- Grace Coddington</b>
+<b>- Kenji Miyazawa</b>
 </blockquote>
 </p>
 
