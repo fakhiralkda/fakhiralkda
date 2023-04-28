@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What the caterpillar calls the end of the world, the master calls a butterfly."</i>
+<i>"Do not be so open-minded that your brains fall out."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
