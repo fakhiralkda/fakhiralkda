@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not be so open-minded that your brains fall out."</i>
+<i>"The ego wants to go fast. The soul needs to go slow."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
