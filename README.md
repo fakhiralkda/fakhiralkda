@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Circumstances do not make the man, they reveal him."</i>
+<i>"Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment."</i>
 <br>
-<b>- James Allen</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
