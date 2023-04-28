@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must embrace pain and burn it as fuel for our journey."</i>
+<i>"Circumstances do not make the man, they reveal him."</i>
 <br>
-<b>- Kenji Miyazawa</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
