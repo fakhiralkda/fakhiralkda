@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed."</i>
+<i>"You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
