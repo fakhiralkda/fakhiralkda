@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You only live once, but if you do it right, once is enough."</i>
+<i>"It is hard to fail, but it is worse never to have tried to succeed."</i>
 <br>
-<b>- Mae West</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
