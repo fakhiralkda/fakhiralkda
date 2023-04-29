@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make each day a new horizon."</i>
+<i>"Be as fluid as water, do not give your enemies anything solid to attack."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
