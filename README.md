@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. "</i>
+<i>"It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
