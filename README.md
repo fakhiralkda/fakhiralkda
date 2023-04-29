@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you think you can do a thing or think you can't do a thing, you're right."</i>
+<i>"You can live a whole life time never being awake."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
