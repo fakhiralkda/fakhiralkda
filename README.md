@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can live a whole life time never being awake."</i>
+<i>"Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
