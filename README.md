@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Loss is nothing else but change and change is nature's delight."</i>
+<i>"Success is often achieved by those who don't know that failure is inevitable."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
