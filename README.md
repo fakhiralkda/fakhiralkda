@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Real learning comes about when the competitive spirit has ceased."</i>
+<i>"Don't ever save anything for a special occasion. Being alive is the special occasion."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
