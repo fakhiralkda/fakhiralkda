@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We learn to walk by falling down. If we never fell down, we would never walk."</i>
+<i>"Real learning comes about when the competitive spirit has ceased."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
