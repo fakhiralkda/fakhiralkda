@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Would you rather learn to deal with the truth now than be forced to do so later on?"</i>
+<i>"Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
