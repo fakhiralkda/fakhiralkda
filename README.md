@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you quit once it becomes a habit."</i>
+<i>"Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
