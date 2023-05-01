@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I have seen further than others, it is by standing upon the shoulders of giants."</i>
+<i>"Don't listen to the person who has the answers; listen to the person who has the questions."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
