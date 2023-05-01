@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't listen to the person who has the answers; listen to the person who has the questions."</i>
+<i>"You can't tell big dreams to small minded people."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
