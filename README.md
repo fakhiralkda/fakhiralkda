@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy."</i>
+<i>"Would you rather learn to deal with the truth now than be forced to do so later on?"</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
