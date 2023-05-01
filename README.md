@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself."</i>
+<i>"If I have seen further than others, it is by standing upon the shoulders of giants."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
