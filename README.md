@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enjoy every minute of life. Never second-guess life."</i>
+<i>"The real meditation is how you live your life."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
