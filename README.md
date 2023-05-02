@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We need never be ashamed of our tears."</i>
+<i>"If you don't program yourself, life will program you."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
