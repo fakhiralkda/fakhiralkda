@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Poetry is written with tears, fiction with blood, and history with invisible ink."</i>
+<i>"You do not read a book for the book's sake, but for your own."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
