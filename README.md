@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we have our body and mind in order, everything else will exist in the right place, in the right way."</i>
+<i>"Don't shortchange yourself when it comes to investing in your own better future."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
