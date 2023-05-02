@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All our knowledge has its origins in our perceptions."</i>
+<i>"It is best to begin at the beginning."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
