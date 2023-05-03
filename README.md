@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you resist, persists."</i>
+<i>"You don't know who is important to you until you actually lose them."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
