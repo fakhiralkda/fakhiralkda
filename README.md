@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winners are not people who never fail, but people who never quit."</i>
+<i>"This is the most simple and basic component of life: our struggles determine our successes."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
