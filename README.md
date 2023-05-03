@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Doing the best at this moment puts you in the best place for the next moment."</i>
+<i>"Whenever people agree with me I always feel I must be wrong."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
