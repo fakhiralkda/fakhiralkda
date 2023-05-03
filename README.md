@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every time we liberate a woman, we liberate a man. "</i>
+<i>"She who loves roses must be patient and not cry out when she is pierced by thorns."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Kenji Miyazawa</b>
 </blockquote>
 </p>
 
