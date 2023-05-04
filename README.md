@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anything you may hold firmly in your imagination can be yours."</i>
+<i>"Passion is energy. Feel the power that comes from focusing on what excites you. "</i>
 <br>
-<b>- William James</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
