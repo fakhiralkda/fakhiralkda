@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Walk towards the sunshine, and the shadows will fall behind you."</i>
+<i>"Try all things, hold fast that which is good."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
