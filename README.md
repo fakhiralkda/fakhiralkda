@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life would be tragic if it weren't funny."</i>
+<i>"Everyone you admire was once a beginner."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
