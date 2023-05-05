@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people want it to happen, some wish it would happen, others make it happen."</i>
+<i>"The temptation to give up is strongest just before victory."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
