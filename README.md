@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life has the name of life, but in reality it is death."</i>
+<i>"If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
