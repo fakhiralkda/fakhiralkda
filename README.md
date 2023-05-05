@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life itself is the most wonderful fairy tale."</i>
+<i>"Being a good example is the best form of service."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
