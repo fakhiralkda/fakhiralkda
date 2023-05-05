@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The temptation to give up is strongest just before victory."</i>
+<i>"Zen insists that the whole trouble is just our failure to realize that there is no problem."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
