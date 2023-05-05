@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Try all things, hold fast that which is good."</i>
+<i>"Life itself is the most wonderful fairy tale."</i>
 <br>
-<b>- John Locke</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
