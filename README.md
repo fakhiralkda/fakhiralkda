@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take away love and our earth is a tomb."</i>
+<i>"The more reasons you have for achieving your goal, the more determined you will become."</i>
 <br>
-<b>- Robert Browning</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
