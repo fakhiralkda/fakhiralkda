@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more reasons you have for achieving your goal, the more determined you will become."</i>
+<i>"It's just a bad day, not a bad life."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
