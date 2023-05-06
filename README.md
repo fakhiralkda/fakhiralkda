@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no path to Love. Love is the path."</i>
+<i>"Life is not meant to be easy my child, but take courage: it can be delightful."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
