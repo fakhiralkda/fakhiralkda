@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not meant to be easy my child, but take courage: it can be delightful."</i>
+<i>"Rather than love, than money, than fame, give me truth."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
