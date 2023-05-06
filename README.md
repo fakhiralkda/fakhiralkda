@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're on earth. There's no cure for that."</i>
+<i>"Where does a thought go when it's forgotten?"</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
