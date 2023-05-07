@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies."</i>
+<i>"The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
