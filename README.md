@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make each day your masterpiece."</i>
+<i>"Don't look for meaning in the words. Listen to the silences."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
