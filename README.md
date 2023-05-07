@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who are enlightened never stop forging themselves."</i>
+<i>"Any idea, plan, or purpose may be placed in the mind through repetition of thought."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
