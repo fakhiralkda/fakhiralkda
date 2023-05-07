@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't look for meaning in the words. Listen to the silences."</i>
+<i>"Life without love is like a tree without blossoms or fruit."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
