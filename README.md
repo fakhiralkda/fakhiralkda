@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunity comes when you continually push forward."</i>
+<i>"Optimism is the one quality more associated with success and happiness than any other."</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
