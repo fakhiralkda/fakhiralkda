@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life goes by fast. Enjoy it. Calm down. It's all funny."</i>
+<i>"Opportunity comes when you continually push forward."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
