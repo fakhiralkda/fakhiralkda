@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can handle rejection, you'll learn to get everything you want."</i>
+<i>"Life goes by fast. Enjoy it. Calm down. It's all funny."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
