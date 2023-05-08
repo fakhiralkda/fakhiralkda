@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities."</i>
+<i>"If you chase two rabbits, you catch none."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
