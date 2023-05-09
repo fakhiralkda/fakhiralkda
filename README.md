@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What lies behind us and what lies before us are tiny matters compared to what lies within us."</i>
+<i>"Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
