@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not titles that honour men, but men that honour titles."</i>
+<i>"Paths are made by walking."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
