@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great minds discuss ideas. Average minds discuss events. Small minds discuss people."</i>
+<i>"Any game becomes important when you know and love the players."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
