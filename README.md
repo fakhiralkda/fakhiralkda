@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any game becomes important when you know and love the players."</i>
+<i>"The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich."</i>
 <br>
-<b>- W.P. Kinsella</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
