@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Optimism is the one quality more associated with success and happiness than any other."</i>
+<i>"The only thing new in the world is the history you do not know."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
