@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no ordinary moments."</i>
+<i>"It is not titles that honour men, but men that honour titles."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
