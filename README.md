@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learning is a gift, even when pain is your teacher."</i>
+<i>"The only place where success comes before work is in the dictionary."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Vidal Sassoon</b>
 </blockquote>
 </p>
 
