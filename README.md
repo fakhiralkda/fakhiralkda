@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have more possibilities available in each moment than we realize."</i>
+<i>"Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
