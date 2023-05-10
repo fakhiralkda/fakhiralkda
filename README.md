@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where words fail, music speaks."</i>
+<i>"Wrong turns are as important as right turns. More important, sometimes."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
