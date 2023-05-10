@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest of empires, is the empire over one's self."</i>
+<i>"The time is always right to do what is right."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
