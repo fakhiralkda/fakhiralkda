@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing like a health problem to turn up the contrast dial for the rest of life."</i>
+<i>"Growing up is losing some illusions, in order to acquire others."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
