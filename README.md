@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you have to lose all you have to find out who you truly are."</i>
+<i>"Man should fear never beginning to live."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
