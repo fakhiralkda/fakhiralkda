@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things."</i>
+<i>"Sometimes you have to lose all you have to find out who you truly are."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
