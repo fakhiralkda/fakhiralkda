@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most creative act you will ever undertake is the act of creating yourself."</i>
+<i>"Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
