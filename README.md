@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life."</i>
+<i>"If you have only one smile in you give it to the people you love."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
