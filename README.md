@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Strive for excellence, not perfection, because we don't live in a perfect world."</i>
+<i>"Success is getting what you want... Happiness is wanting what you get."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
