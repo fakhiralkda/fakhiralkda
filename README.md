@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise. "</i>
+<i>"Do good, live in the most positive and joyful way possible every day."</i>
 <br>
-<b>- Buddha</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
