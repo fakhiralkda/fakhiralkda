@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A warrior does not give up what he loves, he finds the love in what he does."</i>
+<i>"Remember, hope is a good thing, maybe the best of things."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
