@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is getting what you want... Happiness is wanting what you get."</i>
+<i>"Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- John D. Rockefeller</b>
 </blockquote>
 </p>
 
