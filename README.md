@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not change direction, you may end up where you are heading."</i>
+<i>"Strive for excellence, not perfection, because we don't live in a perfect world."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
