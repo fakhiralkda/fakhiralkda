@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creativity is intelligence having fun."</i>
+<i>"It is better to learn late than never."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
