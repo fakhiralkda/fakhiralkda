@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Action may not always bring happiness, but there is no happiness without action."</i>
+<i>"The most virtuous are those who content themselves with being virtuous without seeking to appear so."</i>
 <br>
-<b>- William James</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
