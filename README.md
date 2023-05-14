@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose."</i>
+<i>"Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
