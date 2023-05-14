@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Optimism, when applied to your life, develops strength and peace within you."</i>
+<i>"Confidence is consistency of thinking about what is possible and how to make it possible."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
