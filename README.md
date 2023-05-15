@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We cannot change anything unless we accept it."</i>
+<i>"You cannot teach a crab to walk straight."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
