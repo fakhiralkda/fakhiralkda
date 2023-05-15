@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Concentrated power has always been the enemy of liberty."</i>
+<i>"Don't let making a living prevent you from making a life."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
