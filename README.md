@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all here for some special reason."</i>
+<i>"Concentrated power has always been the enemy of liberty."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
