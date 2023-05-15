@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard."</i>
+<i>"Doing the best at this moment puts you in the best place for the next moment."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
