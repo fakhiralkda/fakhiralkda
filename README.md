@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anything worth doing is worth doing slowly."</i>
+<i>"Never allow someone to be your priority while allowing yourself to be their option."</i>
 <br>
-<b>- Mae West</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
