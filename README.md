@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not follow the ideas of others, but learn to listen to the voice within yourself."</i>
+<i>"Out of your vulnerabilities will come your strength."</i>
 <br>
-<b>- Dogen</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
