@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tomorrow is only found in the calendar of fools."</i>
+<i>"Tradition is the illusion of permanence. "</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
