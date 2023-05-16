@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only in the agony of parting do we look into the depths of love."</i>
+<i>"Life is a process. We are a process. The universe is a process."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Anne Wilson Schaef</b>
 </blockquote>
 </p>
 
