@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Out of your vulnerabilities will come your strength."</i>
+<i>"The art of being happy lies in the power of extracting happiness from common things."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
