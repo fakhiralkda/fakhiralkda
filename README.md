@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases."</i>
+<i>"Sometimes it is more important to discover what one cannot do, than what one can do."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
