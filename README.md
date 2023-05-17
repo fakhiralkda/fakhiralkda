@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time stays long enough for anyone who will use it."</i>
+<i>"In the midst of movement and chaos, keep stillness inside of you."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
