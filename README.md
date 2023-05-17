@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes it is more important to discover what one cannot do, than what one can do."</i>
+<i>"Wealth is the product of man's capacity to think."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
