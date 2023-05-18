@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you do,strive to do it so well that no man living and no man dead and no man yet to be born could do it any better."</i>
+<i>"Appear weak when you are strong, and strong when you are weak."</i>
 <br>
-<b>- Benjamin Mays</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
