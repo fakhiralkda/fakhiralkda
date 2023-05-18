@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more we value things, the less we value ourselves.  "</i>
+<i>"I would rather be a little nobody, then to be an evil somebody."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
