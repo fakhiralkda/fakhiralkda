@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If the plan doesn't work, change the plan, but never the goal."</i>
+<i>"If a man knows not to which port he sails, no wind is favorable.  "</i>
 <br>
-<b>- Unknown</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
