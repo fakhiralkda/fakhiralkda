@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is amazing what you can accomplish if you do not care who gets the credit."</i>
+<i>"When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
