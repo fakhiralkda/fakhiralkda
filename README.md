@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop being a prisoner of your past. Become the architect of your future."</i>
+<i>"We may not be able to stop evil in the world, but how we treat one another is entirely up to us."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
