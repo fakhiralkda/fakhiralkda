@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't wait for extraordinary opportunities. Seize common occasions and make them great."</i>
+<i>"Happiness is a gift and the trick is not to expect it, but to delight in it when it comes."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
