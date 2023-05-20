@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The dead receive more flowers than the living because regret is stronger than gratitude."</i>
+<i>"Try not to become a man of success, but rather try to become a man of value."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
