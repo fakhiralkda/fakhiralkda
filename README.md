@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pleasure can be supported by an illusion; but happiness rests upon truth. "</i>
+<i>"In the midst of movement and chaos, keep stillness inside of you."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
