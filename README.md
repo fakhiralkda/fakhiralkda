@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want more luck, take more chances."</i>
+<i>"Pleasure can be supported by an illusion; but happiness rests upon truth. "</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
