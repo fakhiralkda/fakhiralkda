@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do the difficult things while they are easy and do the great things while they are small."</i>
+<i>"If you don't find the time, if you don't do the work, you don't get the results."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
