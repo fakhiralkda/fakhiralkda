@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the midst of movement and chaos, keep stillness inside of you."</i>
+<i>"Fiction is the truth inside the lie."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
