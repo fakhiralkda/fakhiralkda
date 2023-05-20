@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a gift and the trick is not to expect it, but to delight in it when it comes."</i>
+<i>"Do the difficult things while they are easy and do the great things while they are small."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
