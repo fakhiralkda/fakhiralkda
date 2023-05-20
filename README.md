@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Projecting your mind into a successful situation is the most powerful means to achieve goals.  "</i>
+<i>"Learn the rules like a pro, so you can break them like an artist."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
