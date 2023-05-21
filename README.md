@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you get by achieving your goals is not as important as what you become by achieving your goals."</i>
+<i>"Life may be full of pain but that's not an excuse to give up."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
