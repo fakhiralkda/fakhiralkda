@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is getting what you want... Happiness is wanting what you get."</i>
+<i>"If you do not conquer self, you will be conquered by self."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
