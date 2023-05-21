@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The two most important days in your life are the day you are born and the day you find out why."</i>
+<i>"We're kept from our goal not by obstacles, but by a clear path to a lesser goal."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
