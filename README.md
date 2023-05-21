@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything is possible. The impossible just takes longer."</i>
+<i>"The two most important days in your life are the day you are born and the day you find out why."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
