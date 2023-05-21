@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The goal of an artist is to create the definitive work that cannot be surpassed."</i>
+<i>"What you get by achieving your goals is not as important as what you become by achieving your goals."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
