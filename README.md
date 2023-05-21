@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life itself is the most wonderful fairy tale."</i>
+<i>"Success is getting what you want... Happiness is wanting what you get."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
