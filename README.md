@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are able to employ your will always for constructive purposes, you become the controller of your destiny."</i>
+<i>"The only thing more frustrating than slanderers is those foolish enough to listen to them."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
