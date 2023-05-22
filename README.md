@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more knowledge you have, the more you're free to rely on your instincts."</i>
+<i>"If you want to be sad, no one in the world can make you happy. But if you make up your mind to be happy, no one and nothing on earth can take that happiness from you."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
