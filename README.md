@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver."</i>
+<i>"Life is a series of choices and all we can do is make them."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
