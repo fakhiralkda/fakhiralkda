@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only thing more frustrating than slanderers is those foolish enough to listen to them."</i>
+<i>"You cannot find peace by avoiding life."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
