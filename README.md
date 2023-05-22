@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to be sad, no one in the world can make you happy. But if you make up your mind to be happy, no one and nothing on earth can take that happiness from you."</i>
+<i>"Any game becomes important when you know and love the players."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
