@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot find peace by avoiding life."</i>
+<i>"A path is made by walking on it."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
