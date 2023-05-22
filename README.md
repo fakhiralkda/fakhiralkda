@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a series of choices and all we can do is make them."</i>
+<i>"Boldness makes even the smallest animal dangerous."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
