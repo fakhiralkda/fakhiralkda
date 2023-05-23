@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person who says something is impossible should not interrupt the person who is doing it."</i>
+<i>"Confidence is contagious. So is lack of confidence."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
