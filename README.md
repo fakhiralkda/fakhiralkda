@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we will be quiet and ready enough, we shall find compensation in every disappointment."</i>
+<i>"The person who says something is impossible should not interrupt the person who is doing it."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
