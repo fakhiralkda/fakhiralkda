@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Against the assault of laughter nothing can stand."</i>
+<i>"If we will be quiet and ready enough, we shall find compensation in every disappointment."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
