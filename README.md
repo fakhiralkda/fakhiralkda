@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's your outlook on life that counts."</i>
+<i>"Do not stop thinking of life as an adventure."</i>
 <br>
-<b>- Betty White</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
