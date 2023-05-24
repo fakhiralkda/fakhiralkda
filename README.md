@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pleasure can be supported by an illusion; but happiness rests upon truth. "</i>
+<i>"Be fascinated instead of frustrated."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
