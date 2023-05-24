@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be fascinated instead of frustrated."</i>
+<i>"Better to light a candle than to curse the darkness. "</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
