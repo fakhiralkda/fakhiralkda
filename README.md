@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to predict your future is to create it."</i>
+<i>"Goodness is the only investment that never fails."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
