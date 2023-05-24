@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest of empires, is the empire over one's self."</i>
+<i>"The best way to predict your future is to create it."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
