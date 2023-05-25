@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better to light a candle than to curse the darkness. "</i>
+<i>"You'll get more from being a peacemaker than a warrior."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
