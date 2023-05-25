@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty."</i>
+<i>"You're never given a dream without also being given the power to make it true."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
