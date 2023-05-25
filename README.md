@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid that you do not know something. Be afraid of not learning about it."</i>
+<i>"You may think I'm small, but I have a universe inside my mind."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
