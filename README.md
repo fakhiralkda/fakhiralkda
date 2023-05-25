@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You'll get more from being a peacemaker than a warrior."</i>
+<i>"A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
