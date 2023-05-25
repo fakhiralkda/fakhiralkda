@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may think I'm small, but I have a universe inside my mind."</i>
+<i>"Nothing can dim the light which shines from within."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
