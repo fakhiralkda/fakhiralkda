@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The scariest moment is always just before you start. After that, things can only get better."</i>
+<i>"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
