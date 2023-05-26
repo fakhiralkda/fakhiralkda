@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A hut full of laughter is richer than a palace full of sadness."</i>
+<i>"There is little success where there is little laughter."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
