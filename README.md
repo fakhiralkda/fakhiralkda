@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is impossible. The word itself says 'I'm possible!'"</i>
+<i>"If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
