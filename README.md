@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men are disturbed not by things, but by the view which they take of them."</i>
+<i>"A hut full of laughter is richer than a palace full of sadness."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
