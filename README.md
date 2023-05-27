@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enthusiasm makes up for a host of deficiencies."</i>
+<i>"Change is never easy, but always possible."</i>
 <br>
 <b>- Barack Obama</b>
 </blockquote>
