@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What gets measured gets improved."</i>
+<i>"It is not titles that honour men, but men that honour titles."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
