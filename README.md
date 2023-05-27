@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why do you stay in prison when the door is so wide open?"</i>
+<i>"All things come into being by conflict of opposites."</i>
 <br>
-<b>- Rumi</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
