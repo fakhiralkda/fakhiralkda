@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't imagine it, you can't have it."</i>
+<i>"You use a glass mirror to see your face; you use works of art to see your soul."</i>
 <br>
-<b>- Toni Morrison</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
