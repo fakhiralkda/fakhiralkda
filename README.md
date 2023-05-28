@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be confident, not certain."</i>
+<i>"Children are our greatest natural resource."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
