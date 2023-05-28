@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Loss is nothing else but change and change is nature's delight."</i>
+<i>"You give but little when you give of your possessions. It is when you give of yourself that you truly give."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
