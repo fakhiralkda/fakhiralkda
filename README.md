@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Short cuts make long delays."</i>
+<i>"Be confident, not certain."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
