@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Children are our greatest natural resource."</i>
+<i>"The road to success and the road to failure are almost exactly the same."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Colin R. Davis</b>
 </blockquote>
 </p>
 
