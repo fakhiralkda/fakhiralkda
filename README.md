@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Loyalty and friendship are the most precious possessions a man can have."</i>
+<i>"Listen to what you know instead of what you fear."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
