@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What loneliness is more lonely than distrust?"</i>
+<i>"The busy man is never wise and the wise man is never busy."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
