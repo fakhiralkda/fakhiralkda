@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Far and away the best prize that life has to offer is the chance to work hard at work worth doing."</i>
+<i>"What loneliness is more lonely than distrust?"</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
