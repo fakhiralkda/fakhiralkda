@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your setback is just a setup for a comeback."</i>
+<i>"Change will not come if we wait for some other person, or if we wait for some other time."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
