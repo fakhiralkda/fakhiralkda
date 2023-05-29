@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who fails to plan, plans to fail."</i>
+<i>"Don't let the behavior of others destroy your inner peace."</i>
 <br>
-<b>- Unknown</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
