@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be angry is to revenge the faults of others on ourselves."</i>
+<i>"The giving of love is an education in itself."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
