@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is from the inside out. When you shift on the inside, life shifts on the outside."</i>
+<i>"Where violence reigns, reason is weak."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
