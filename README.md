@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The giving of love is an education in itself."</i>
+<i>"Preoccupied with a single leaf you won't see the tree."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
