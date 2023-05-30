@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best dreams happen when you're awake."</i>
+<i>"Strategy is a commodity, execution is an art."</i>
 <br>
-<b>- Cherie Gilderbloom</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
