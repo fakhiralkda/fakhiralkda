@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let the behavior of others destroy your inner peace."</i>
+<i>"The best dreams happen when you're awake."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Cherie Gilderbloom</b>
 </blockquote>
 </p>
 
