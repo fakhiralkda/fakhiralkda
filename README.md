@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no excuse for not trying."</i>
+<i>"To be angry is to revenge the faults of others on ourselves."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
