@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quiet people have the loudest minds."</i>
+<i>"Relax. Nothing is under control."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Adi Da Samraj</b>
 </blockquote>
 </p>
 
