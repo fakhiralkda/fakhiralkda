@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Troubles are often the tools by which God fashions us for better things."</i>
+<i>"Smile, breathe and go slowly."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
