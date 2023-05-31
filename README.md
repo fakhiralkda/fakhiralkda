@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winning isn't always championships."</i>
+<i>"Loving thoughts and actions are clearly beneficial for our physical and mental health."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
