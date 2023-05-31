@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Distant water does not put out a nearby fire."</i>
+<i>"Life and the simple beauty of it is too good to pass up."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
