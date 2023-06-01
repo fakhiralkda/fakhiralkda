@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every time we liberate a woman, we liberate a man. "</i>
+<i>"The time is now, the place is here. Stay in the present."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
