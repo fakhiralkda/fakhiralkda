@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What loneliness is more lonely than distrust?"</i>
+<i>"Goals are the fuel in the furnace of achievement."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
