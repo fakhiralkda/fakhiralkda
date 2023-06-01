@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life and the simple beauty of it is too good to pass up."</i>
+<i>"Goals are the fuel in the furnace of achievement."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
