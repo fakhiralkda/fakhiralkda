@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers."</i>
+<i>"Change begets change. Nothing propagates so fast."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
