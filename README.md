@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The sun is new each day."</i>
+<i>"Not all readers are leaders, but all leaders are readers."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
