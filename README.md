@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I would rather be a little nobody, then to be an evil somebody."</i>
+<i>"As a man thinketh in his heart, so shall he be."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
