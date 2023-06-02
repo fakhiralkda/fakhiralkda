@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It doesn't matter where you are, you are nowhere compared to where you can go."</i>
+<i>"It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
