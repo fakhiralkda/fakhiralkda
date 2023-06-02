@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As a man thinketh in his heart, so shall he be."</i>
+<i>"Simplicity is the glory of expression."</i>
 <br>
-<b>- James Allen</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
