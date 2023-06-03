@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's better to stand by someone's side than by yourself."</i>
+<i>"Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it."</i>
 <br>
-<b>- Jack London</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
