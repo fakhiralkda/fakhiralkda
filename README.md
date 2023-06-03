@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best of us sometimes eat our words.  "</i>
+<i>"Chop your own wood and it will warm you twice. "</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
