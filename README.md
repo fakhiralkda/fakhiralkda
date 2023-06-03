@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do you have the patience to wait until your mud settles and the water is clear?"</i>
+<i>"Sometimes, the only way to evolve is to open ourselves fully."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
