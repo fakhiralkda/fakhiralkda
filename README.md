@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes, the only way to evolve is to open ourselves fully."</i>
+<i>"You're never too old for anything."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
