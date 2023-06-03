@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're never too old for anything."</i>
+<i>"It's better to stand by someone's side than by yourself."</i>
 <br>
-<b>- Betty White</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
