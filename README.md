@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are totally at peace with yourself, nothing can shake you."</i>
+<i>"You drown not by falling into a river, but by staying submerged in it."</i>
 <br>
-<b>- Deepam Chaterjee</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
