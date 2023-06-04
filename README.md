@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I do not seek. I find."</i>
+<i>"It does not do to dwell on dreams and forget to live, remember that."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
