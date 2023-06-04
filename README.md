@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. "</i>
+<i>"I can live without money, but I cannot live without love."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
