@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It does not do to dwell on dreams and forget to live, remember that."</i>
+<i>"Memory is the scribe of the soul."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
