@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you see yourself as prosperous, you will be."</i>
+<i>"A clear conscience is the sure sign of a bad memory."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
