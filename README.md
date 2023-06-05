@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have the fearless attitude of a hero and the loving heart of a child."</i>
+<i>"The quality of your life is determined by the quality of questions you ask."</i>
 <br>
-<b>- Soyen Shaku</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
