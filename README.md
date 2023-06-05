@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genius is patience."</i>
+<i>"All know the way; few actually walk it. "</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
