@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A clear conscience is the sure sign of a bad memory."</i>
+<i>"Some people find fault like there is a reward for it.  "</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
