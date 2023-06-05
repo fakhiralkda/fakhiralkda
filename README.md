@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You drown not by falling into a river, but by staying submerged in it."</i>
+<i>"If you see yourself as prosperous, you will be."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
