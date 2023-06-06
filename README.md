@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are ever the smartest person in the room, you are in the wrong room."</i>
+<i>"The future is the worst thing about the present."</i>
 <br>
-<b>- C. Sean McGee</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
