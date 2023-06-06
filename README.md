@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The measure of wisdom is how calm you are when facing any given situation."</i>
+<i>"To the world you may be one person; but to one person you may be the world."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
