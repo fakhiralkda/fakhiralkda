@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember, hope is a good thing, maybe the best of things."</i>
+<i>"Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. "</i>
 <br>
-<b>- Stephen King</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
