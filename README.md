@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I try more and more to be myself, caring relatively little whether people approve or disapprove."</i>
+<i>"Life is much more successfully looked at from a single window."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
