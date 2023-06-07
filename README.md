@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love your enemies, for they tell you your faults."</i>
+<i>"In the practice of tolerance, one's enemy is the best teacher."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
