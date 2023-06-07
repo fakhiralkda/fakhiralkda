@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Inspire yourself to be great. Being good isn't good enough."</i>
+<i>"Not everything that weighs you down is yours to carry."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
