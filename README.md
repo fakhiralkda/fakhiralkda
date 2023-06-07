@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success does not consist in never making mistakes but in never making the same one a second time."</i>
+<i>"A good stance and posture reflect a proper state of mind."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
