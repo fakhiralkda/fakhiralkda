@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust, like the soul, never returns once it is gone."</i>
+<i>"The only place where success comes before work is in the dictionary."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Vidal Sassoon</b>
 </blockquote>
 </p>
 
