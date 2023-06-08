@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't go forward and backwards at the same time."</i>
+<i>"It doesn't matter if the glass is half empty or half full. Be grateful you have a glass - you're the only person that can decide what's in it."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
