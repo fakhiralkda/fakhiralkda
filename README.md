@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Doubt is an uncomfortable condition, but certainty is a ridiculous one."</i>
+<i>"How people treat you is their karma; how you react is yours. "</i>
 <br>
-<b>- Voltaire</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
