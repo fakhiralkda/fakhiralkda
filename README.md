@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that is done in the world is done by hope."</i>
+<i>"Investing in yourself is the best investment you will ever make."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
