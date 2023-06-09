@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service."</i>
+<i>"To be alive - is Power."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
