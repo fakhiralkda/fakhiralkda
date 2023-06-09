@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you stop questioning, you stop learning."</i>
+<i>"Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
