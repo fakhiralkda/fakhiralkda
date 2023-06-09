@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love."</i>
+<i>"Life is a succession of lessons, which must be lived to be understood."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
