@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whether you think you can or think you can't – you are right."</i>
+<i>"To be great is to be misunderstood."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
