@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Until you make the unconscious conscious, it will direct your life and you will call it fate."</i>
+<i>"The longer we dwell on our misfortunes, the greater is their power to harm us."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
