@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be alive - is Power."</i>
+<i>"Do something worth remembering."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
