@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The longer we dwell on our misfortunes, the greater is their power to harm us."</i>
+<i>"Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
