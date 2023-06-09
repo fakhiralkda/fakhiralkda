@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do something worth remembering."</i>
+<i>"Misfortune shows those who are not really friends."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
