@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True knowledge exists in knowing that you know nothing."</i>
+<i>"The greatest deception men suffer is from their own opinions."</i>
 <br>
-<b>- Socrates</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
