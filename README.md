@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human happiness and moral duty are inseparably connected. "</i>
+<i>"True knowledge exists in knowing that you know nothing."</i>
 <br>
-<b>- George Washington</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
