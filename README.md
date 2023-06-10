@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not wait for leaders; do it alone, person to person."</i>
+<i>"Always turn a negative situation into a positive situation."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
