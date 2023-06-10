@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always turn a negative situation into a positive situation."</i>
+<i>"If you get up one more time than you fall, you will make it through."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
