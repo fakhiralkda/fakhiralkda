@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we think about our strengths, we are strong. When we think about our weaknesses, we are weak."</i>
+<i>"You must be willing to do what others won't do, to have what others won't have."</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
