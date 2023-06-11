@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before you embark on a journey of revenge, dig two graves. "</i>
+<i>"We are always complaining that our days are few, and acting as though there would be no end of them.  "</i>
 <br>
-<b>- Confucius</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
