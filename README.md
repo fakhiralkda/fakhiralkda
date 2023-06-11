@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't have time to do it right, when will you have time to do it over?"</i>
+<i>"When we think about our strengths, we are strong. When we think about our weaknesses, we are weak."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Peter A. Cohen</b>
 </blockquote>
 </p>
 
