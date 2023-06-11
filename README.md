@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A person hears only what they understand."</i>
+<i>"To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
