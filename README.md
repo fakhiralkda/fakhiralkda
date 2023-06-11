@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be - don't try to become "</i>
+<i>"It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose."</i>
 <br>
-<b>- Osho</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
