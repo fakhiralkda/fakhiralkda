@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A dream you dream alone is only a dream. A dream you dream together is reality."</i>
+<i>"Winners don't Quit. That's why they Win."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
