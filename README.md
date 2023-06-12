@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your heart is full of fertile seeds, waiting to sprout."</i>
+<i>"A dream you dream alone is only a dream. A dream you dream together is reality."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
