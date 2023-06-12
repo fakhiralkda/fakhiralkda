@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams are the touchstones of our characters."</i>
+<i>"Where the willingness is great, the difficulties cannot be great."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
