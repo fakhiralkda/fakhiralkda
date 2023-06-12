@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear, uncertainty, and discomfort are your compasses toward growth."</i>
+<i>"Dreams are the touchstones of our characters."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
