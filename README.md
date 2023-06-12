@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are totally at peace with yourself, nothing can shake you."</i>
+<i>"Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want."</i>
 <br>
-<b>- Deepam Chaterjee</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
