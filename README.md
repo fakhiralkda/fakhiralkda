@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The happiest people in the world are those who feel absolutely terrific about themselves."</i>
+<i>"Invisible things are the only realities."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
