@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only I can change my life. No one can do it for me."</i>
+<i>"Quiet people have the loudest minds."</i>
 <br>
-<b>- Carol Burnett</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
