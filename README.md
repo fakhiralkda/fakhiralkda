@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Invisible things are the only realities."</i>
+<i>"People are not disturbed by things, but by the views they take of them."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
