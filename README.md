@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man invented language to satisfy his deep need to complain."</i>
+<i>"Failure is an option here. If things are not failing, you are not innovating enough."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
