@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If fear is too strong, the genius is suppressed."</i>
+<i>"Stop comparing yourself to others and focus on your own improvement."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
