@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good system shortens the road to the goal. "</i>
+<i>"We have a duty to maintain the light of consciousness to make sure it continues into the future."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
