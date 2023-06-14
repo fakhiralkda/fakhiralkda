@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Definitions belong to the definers, not the defined."</i>
+<i>"If fear is too strong, the genius is suppressed."</i>
 <br>
-<b>- Toni Morrison</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
