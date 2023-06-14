@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Behind every cloud is another cloud."</i>
+<i>"If you want more luck, take more chances."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
