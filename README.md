@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember, hope is a good thing, maybe the best of things."</i>
+<i>"The only thing worse than being blind is having sight but no vision."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
