@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have a duty to maintain the light of consciousness to make sure it continues into the future."</i>
+<i>"Rewards and punishment is the lowest form of education."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
