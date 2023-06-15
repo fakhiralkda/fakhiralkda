@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only thing worse than being blind is having sight but no vision."</i>
+<i>"An intelligent person hires people who are more intelligent than he is."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
