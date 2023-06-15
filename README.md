@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rewards and punishment is the lowest form of education."</i>
+<i>"There is only one thing in the world worse than being talked about, and that is not being talked about. "</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
