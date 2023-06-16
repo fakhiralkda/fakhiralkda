@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words are the clothes thoughts wear."</i>
+<i>"He who possesses most must be most afraid of loss."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
