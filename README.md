@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pursuit of mastery bears gifts. "</i>
+<i>"The future belongs to those who believe in the beauty of their dreams."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
