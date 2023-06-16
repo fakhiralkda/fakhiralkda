@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first step is to establish that something is possible; then probability will occur."</i>
+<i>"Success is not final, failure is not fatal: it is the courage to continue that counts."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
