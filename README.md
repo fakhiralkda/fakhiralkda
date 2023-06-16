@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not all those who wander are lost."</i>
+<i>"Don't look for meaning in the words. Listen to the silences."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
