@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future belongs to those who believe in the beauty of their dreams."</i>
+<i>"As long as a human being worries about when he will die, and what he has that is his, all of his works are zero."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
