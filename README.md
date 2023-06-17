@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are not stuck where you are unless you decide to be.  "</i>
+<i>"Speak when you are angry - and you'll make the best speech you'll ever regret."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
