@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only the hand that erases can write the true thing."</i>
+<i>"If you want to be successful, you have to jump, there's no way around it."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
