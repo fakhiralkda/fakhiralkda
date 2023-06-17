@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."</i>
+<i>"Great things happen to those who don't stop believing, trying, learning, and being grateful."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
