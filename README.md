@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I think self-awareness is probably the most important thing towards being a champion. "</i>
+<i>"Only the hand that erases can write the true thing."</i>
 <br>
-<b>- Billie Jean King</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
