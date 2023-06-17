@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rest in reason; move in passion."</i>
+<i>"You are not stuck where you are unless you decide to be.  "</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
