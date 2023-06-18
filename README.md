@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn the rules like a pro, so you can break them like an artist."</i>
+<i>"It ain't where you start in life, it's where you end up, and what you did along the way."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
