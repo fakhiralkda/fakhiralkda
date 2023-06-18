@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lack of emotion causes lack of progress and lack of motivation."</i>
+<i>"Among the things you can give and still keep are your word, a smile, and a grateful heart."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
