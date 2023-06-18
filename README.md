@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no path to Peace. Peace is the path."</i>
+<i>"Children are our greatest natural resource."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
