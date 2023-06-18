@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles."</i>
+<i>"Resentment or grudges do no harm to the person against whom you hold these feelings but every day and every night of your life, they are eating at you."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
