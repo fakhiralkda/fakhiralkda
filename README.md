@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Resentment or grudges do no harm to the person against whom you hold these feelings but every day and every night of your life, they are eating at you."</i>
+<i>"Till it has loved, no man or woman can become itself."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
