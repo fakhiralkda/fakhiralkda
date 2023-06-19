@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I hear and I forget. I see and I remember. I do and I understand. "</i>
+<i>"The truth is not for all men, but for those who seek it."</i>
 <br>
-<b>- Confucius</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
