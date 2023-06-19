@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the keys to happiness is a bad memory."</i>
+<i>"The least deviation from truth will be multiplied later."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
