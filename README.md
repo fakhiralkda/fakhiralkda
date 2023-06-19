@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If it's not broken, tinker with it till you find out how it works."</i>
+<i>"One of the keys to happiness is a bad memory."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
