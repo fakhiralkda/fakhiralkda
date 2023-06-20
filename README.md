@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The key to success is failure."</i>
+<i>"The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
