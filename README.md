@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it."</i>
+<i>"Don't worry about being successful, but work toward being significant and the success will naturally follow."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
