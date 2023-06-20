@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't worry about being successful, but work toward being significant and the success will naturally follow."</i>
+<i>"We are most nearly ourselves when we achieve the seriousness of the child at play."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
