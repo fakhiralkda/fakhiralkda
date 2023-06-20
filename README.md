@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking."</i>
+<i>"There are dark shadows on the earth, but its lights are stronger in the contrast."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
