@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are few reasons for telling the truth, but for lying the number is infinite."</i>
+<i>"We should not look back unless it is to derive useful lessons from past errors."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
