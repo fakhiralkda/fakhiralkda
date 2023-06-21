@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never give up work. Work gives you meaning and purpose and life is empty without it."</i>
+<i>"Life is simply what our feelings do to us."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
