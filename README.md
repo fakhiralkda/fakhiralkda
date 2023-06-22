@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you."</i>
+<i>"Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
