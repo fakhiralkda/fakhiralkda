@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is never final, failure is never fatal. It's courage that counts."</i>
+<i>"Appear weak when you are strong, and strong when you are weak."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
