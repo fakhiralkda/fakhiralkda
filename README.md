@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where words fail, music speaks."</i>
+<i>"The less you respond to negative people, the more positive your life will become."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
