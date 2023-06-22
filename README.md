@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We should not look back unless it is to derive useful lessons from past errors."</i>
+<i>"Rich people have small TVs and big libraries, and poor people have small libraries and big TVs."</i>
 <br>
-<b>- George Washington</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
