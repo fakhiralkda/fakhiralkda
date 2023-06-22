@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Respect was invented to cover the empty place where love should be."</i>
+<i>"Success is never final, failure is never fatal. It's courage that counts."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
