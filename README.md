@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fools read fast. Geniuses reread."</i>
+<i>"Always do what is right. It will gratify half of mankind and astound the other."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
