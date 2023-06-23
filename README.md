@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less you respond to negative people, the more positive your life will become."</i>
+<i>"Friendship is like money, easier made than kept."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
