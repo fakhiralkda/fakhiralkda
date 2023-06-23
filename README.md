@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without the rain there would be no rainbow."</i>
+<i>"Being a good example is the best form of service."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
