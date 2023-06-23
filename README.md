@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you lose your desire for things that do not matter, you will be free."</i>
+<i>"It is impossible for a man to learn what he thinks he already knows."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
