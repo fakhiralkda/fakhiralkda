@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Receive without complaint, Work with fate."</i>
+<i>"When you lose your desire for things that do not matter, you will be free."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
