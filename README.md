@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forgive those who have hurt you."</i>
+<i>"He who knows best knows how little he knows."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
