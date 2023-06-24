@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decide upon your major definite purpose in life and then organize all your activities around it."</i>
+<i>"Art is to console those who are broken by life."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
