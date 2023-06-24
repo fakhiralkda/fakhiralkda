@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't talk about what you have done or what you are going to do."</i>
+<i>"Decide upon your major definite purpose in life and then organize all your activities around it."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
