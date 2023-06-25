@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each of us is a unique strand in the intricate web of life and here to make a contribution."</i>
+<i>"Hardly anybody recognizes the most significant moments of their life at the time they happen."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
