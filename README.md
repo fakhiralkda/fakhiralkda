@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A self that goes on changing is a self that goes on living."</i>
+<i>"Dreams are the royal road to the unconscious. "</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
