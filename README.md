@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a quality of the soul...not a function of one's material circumstances."</i>
+<i>"Change begets change. Nothing propagates so fast."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
