@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hardly anybody recognizes the most significant moments of their life at the time they happen."</i>
+<i>"No matter how tall the mountain is, it cannot block the sun."</i>
 <br>
-<b>- W.P. Kinsella</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
