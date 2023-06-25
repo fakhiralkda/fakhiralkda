@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot teach a crab to walk straight."</i>
+<i>"The road to success is always under construction.."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
