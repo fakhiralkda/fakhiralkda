@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You only live once, but if you do it right, once is enough."</i>
+<i>"A self that goes on changing is a self that goes on living."</i>
 <br>
-<b>- Mae West</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
