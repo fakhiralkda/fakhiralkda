@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wrong turns are as important as right turns. More important, sometimes."</i>
+<i>"I am thankful to all those who said no. It's because of them, I did it myself.  "</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
