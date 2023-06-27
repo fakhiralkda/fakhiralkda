@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I dream my painting and I paint my dream."</i>
+<i>"Decide what your truth is. Then live it."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
