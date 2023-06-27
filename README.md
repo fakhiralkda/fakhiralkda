@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your worth consists in what you are and not in what you have."</i>
+<i>"Never trust he who trusts everyone."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
