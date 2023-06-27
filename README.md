@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I must also have a dark side if I am to be whole."</i>
+<i>"Begin at once to live, and count each separate day as a separate life.  "</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
