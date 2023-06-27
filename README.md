@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am thankful to all those who said no. It's because of them, I did it myself.  "</i>
+<i>"Your worth consists in what you are and not in what you have."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
