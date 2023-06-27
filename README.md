@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to change an opinion than to persist in a wrong one."</i>
+<i>"Actions are the seeds of fate. Deeds grow into destiny."</i>
 <br>
-<b>- Socrates</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
