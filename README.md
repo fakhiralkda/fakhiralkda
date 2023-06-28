@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone telling you it's pointless to share your perspective is sharing their perspective."</i>
+<i>"A memory is a beautiful thing, it's almost a desire that you miss."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
