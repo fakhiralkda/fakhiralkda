@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is best to begin at the beginning."</i>
+<i>"You have a brain and mind of your own. Use it, and reach your own decisions."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
