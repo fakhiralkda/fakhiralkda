@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is far easier to start something than it is to finish it."</i>
+<i>"Anyone telling you it's pointless to share your perspective is sharing their perspective."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
