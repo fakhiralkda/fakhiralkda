@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  "</i>
+<i>"It is far easier to start something than it is to finish it."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
