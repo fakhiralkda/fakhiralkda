@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have no methods; all I do is accept people as they are."</i>
+<i>"Life is really simple, but men insist on making it complicated. "</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
