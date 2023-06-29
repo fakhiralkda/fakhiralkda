@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to be irreplaceable one must always be different."</i>
+<i>"I have no methods; all I do is accept people as they are."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
