@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a process. We are a process. The universe is a process."</i>
+<i>"There are no differences but differences of degree between different degrees of difference and no difference."</i>
 <br>
-<b>- Anne Wilson Schaef</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
