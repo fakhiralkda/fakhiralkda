@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you change what you believe, you change what you do."</i>
+<i>"Money poisons you when you've got it, and starves you when you haven't."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
