@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change your thoughts and you change your world."</i>
+<i>"It is only depth of character that determines the profundity with which we face life."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
