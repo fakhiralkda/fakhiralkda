@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is only depth of character that determines the profundity with which we face life."</i>
+<i>"Never give way to laziness."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
