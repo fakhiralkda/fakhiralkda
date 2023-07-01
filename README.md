@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who laughs at himself never runs out of things to laugh at."</i>
+<i>"Just throw away all thoughts of imaginary things, and stand firm in that which you are."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
