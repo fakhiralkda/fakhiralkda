@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you resist, persists."</i>
+<i>"If you chase two rabbits, you catch none."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
