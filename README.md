@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just throw away all thoughts of imaginary things, and stand firm in that which you are."</i>
+<i>"What you resist, persists."</i>
 <br>
-<b>- Kabir</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
