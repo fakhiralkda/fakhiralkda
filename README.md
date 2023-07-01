@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"That some achieve great success is proof to all that others can achieve it as well."</i>
+<i>"I begin with an idea and then it becomes something else."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
