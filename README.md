@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you chase two rabbits, you catch none."</i>
+<i>"The busy man is never wise and the wise man is never busy."</i>
 <br>
-<b>- Confucius</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
