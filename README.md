@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Obstacles are those frightful things you see when you take your eyes off your goal."</i>
+<i>"It is dangerous to be right in matters on which the established authorities are wrong."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
