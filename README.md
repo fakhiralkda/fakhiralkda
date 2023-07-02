@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your gift is something that you can do innately better than anything else."</i>
+<i>"Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
