@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is."</i>
+<i>"Until you change how you get things done, you'll never know what works best."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
