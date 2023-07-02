@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The busy man is never wise and the wise man is never busy."</i>
+<i>"It is in the darkness that one finds the light."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
