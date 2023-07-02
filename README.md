@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's the job that's never started that takes the longest to finish."</i>
+<i>"Your gift is something that you can do innately better than anything else."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
