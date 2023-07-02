@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future is not a gift. It is an achievement."</i>
+<i>"Help others and give something back."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
