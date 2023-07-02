@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes."</i>
+<i>"The best way to not feel hopeless is to get up and do something."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
