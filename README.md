@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to not feel hopeless is to get up and do something."</i>
+<i>"The future is not a gift. It is an achievement."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
