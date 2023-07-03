@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is either a daring adventure, or nothing."</i>
+<i>"When you know what you want, and want it bad enough, you will find a way to get it."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
