@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ability is a poor man's wealth."</i>
+<i>"Never to suffer would never to have been blessed."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
