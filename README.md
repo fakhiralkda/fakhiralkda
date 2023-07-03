@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is just information and an opportunity to change your course."</i>
+<i>"Wit is educated insolence."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
