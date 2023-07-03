@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You Create Your Own Present By What You Give Your Attention To Today."</i>
+<i>"The secret of getting ahead is getting started."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
