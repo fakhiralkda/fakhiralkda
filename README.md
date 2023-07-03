@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win."</i>
+<i>"Life is either a daring adventure, or nothing."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
