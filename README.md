@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you know what you want, and want it bad enough, you will find a way to get it."</i>
+<i>"My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
