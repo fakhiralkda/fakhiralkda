@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if you stumble and fall down, it doesn't mean you've chosen the wrong path."</i>
+<i>"Keep others in suspense, cultivate an air of unpredictability."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
