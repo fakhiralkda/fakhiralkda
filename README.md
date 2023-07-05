@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not whether you get knocked down, its whether you get back up."</i>
+<i>"You are what you believe yourself to be."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
