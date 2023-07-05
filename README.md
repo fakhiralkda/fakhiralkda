@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every act of creation is first an act of destruction."</i>
+<i>"The biggest challenge after success is shutting up about it."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
