@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not push the boundaries, you will never know where they are."</i>
+<i>"It's not whether you get knocked down, its whether you get back up."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
