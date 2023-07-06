@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not whether you get knocked down, its whether you get back up."</i>
+<i>"If you quit once it becomes a habit."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
