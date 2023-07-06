@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change begets change. Nothing propagates so fast."</i>
+<i>"Find the game where you can win, and then commit your life to playing it; and play to win."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
