@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Find the game where you can win, and then commit your life to playing it; and play to win."</i>
+<i>"Don't let the noise of others opinions drown out your inner voice."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
