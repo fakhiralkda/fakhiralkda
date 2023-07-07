@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Understanding that rests in what it does not understand is the finest."</i>
+<i>"The greatest step towards a life of simplicity is to learn to let go."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
