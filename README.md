@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the long run, the sharpest weapon of all is a kind and gentle spirit."</i>
+<i>"No problem can be solved from the same level of consciousness that created it."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
