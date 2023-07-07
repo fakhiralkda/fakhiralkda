@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is a big difference between being centered and being self-centered."</i>
+<i>"Understanding that rests in what it does not understand is the finest."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
