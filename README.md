@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life isn't about finding yourself. Life is about creating yourself."</i>
+<i>"Inspire yourself to be great. Being good isn't good enough."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
