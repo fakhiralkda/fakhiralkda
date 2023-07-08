@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor."</i>
+<i>"Life reflects your own thoughts back to you."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
