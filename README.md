@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not about what it is, it's about what it can become."</i>
+<i>"Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
