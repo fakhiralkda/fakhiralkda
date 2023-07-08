@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Discontent is the first necessity of progress."</i>
+<i>"The most effective way to do it, is to do it."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
