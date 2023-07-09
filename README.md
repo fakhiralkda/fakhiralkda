@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place."</i>
+<i>"The greatest weariness comes from work not done."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
