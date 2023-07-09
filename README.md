@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We should not look back unless it is to derive useful lessons from past errors."</i>
+<i>"When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place."</i>
 <br>
-<b>- George Washington</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
