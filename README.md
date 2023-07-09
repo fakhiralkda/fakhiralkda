@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I can stop one heart from breaking, I shall not live in vain."</i>
+<i>"We should not look back unless it is to derive useful lessons from past errors."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
