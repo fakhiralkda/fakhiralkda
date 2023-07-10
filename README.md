@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do something worth remembering."</i>
+<i>"Character is doing what you don't want to do but know you should do."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
