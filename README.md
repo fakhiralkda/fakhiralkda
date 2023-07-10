@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who realize their folly are not true fools."</i>
+<i>"The best thing to hold onto in life is each other."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
