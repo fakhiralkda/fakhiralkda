@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man must use what he has, not hope for what is not."</i>
+<i>"You are free, and that is why you are lost."</i>
 <br>
-<b>- G.I. Gurdjieff</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
