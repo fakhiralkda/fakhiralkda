@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take away love and our earth is a tomb."</i>
+<i>"Those who realize their folly are not true fools."</i>
 <br>
-<b>- Robert Browning</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
