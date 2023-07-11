@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good judgment comes from experience, and experience comes from bad judgment."</i>
+<i>"It is in changing that we find purpose."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
