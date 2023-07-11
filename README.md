@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is in the darkness that one finds the light."</i>
+<i>"Good judgment comes from experience, and experience comes from bad judgment."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
