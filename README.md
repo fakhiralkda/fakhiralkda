@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is in changing that we find purpose."</i>
+<i>"The important thing is not to stop questioning. Curiosity has its own reason for existing."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
