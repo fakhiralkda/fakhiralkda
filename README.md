@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The important thing is not to stop questioning. Curiosity has its own reason for existing."</i>
+<i>"Whatever you are, be a good one."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
