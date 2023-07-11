@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sorrow is how we learn to love."</i>
+<i>"The fastest way to change is to laugh at your own folly."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
