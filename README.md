@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To belittle, you have to be little."</i>
+<i>"Your vision will become clear only when you can look into your own heart."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
