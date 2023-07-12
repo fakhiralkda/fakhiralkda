@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment."</i>
+<i>"The power of man has grown in every sphere, except over himself."</i>
 <br>
-<b>- Buddha</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
