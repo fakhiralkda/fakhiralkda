@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most of us will do anything to avoid facing ourselves."</i>
+<i>"There is no limitations except those we create for ourselves."</i>
 <br>
 <b>- Lolly Daskal</b>
 </blockquote>
