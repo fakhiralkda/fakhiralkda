@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am who I am today because of the choices I made yesterday."</i>
+<i>"An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
