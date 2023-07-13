@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your spirit is the true shield."</i>
+<i>"Whatever you are, be a good one."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
