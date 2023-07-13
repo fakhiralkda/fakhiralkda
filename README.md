@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success comes to those who become success conscious."</i>
+<i>"It's not how much we give but how much love we put into giving."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
