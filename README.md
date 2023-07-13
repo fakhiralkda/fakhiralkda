@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you are, be a good one."</i>
+<i>"Enlightenment is intimacy with all things."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
