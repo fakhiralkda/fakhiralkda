@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time is a game played beautifully by children."</i>
+<i>"Your spirit is the true shield."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
