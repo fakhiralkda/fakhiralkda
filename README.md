@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is from the inside out. When you shift on the inside, life shifts on the outside."</i>
+<i>"Time is a game played beautifully by children."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
