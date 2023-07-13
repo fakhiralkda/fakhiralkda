@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Evil is whatever distracts. "</i>
+<i>"Success comes to those who become success conscious."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
