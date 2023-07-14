@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I defeat my enemies when I make them my friends."</i>
+<i>"You don't earn loyalty in a day. You earn loyalty day-by-day."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Jeffrey Gitomer</b>
 </blockquote>
 </p>
 
