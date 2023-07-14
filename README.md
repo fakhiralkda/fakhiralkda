@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words used to attract the dull of wit are not to be relied on."</i>
+<i>"I defeat my enemies when I make them my friends."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
