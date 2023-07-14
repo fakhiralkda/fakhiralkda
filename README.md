@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Help others achieve their dreams and you will achieve yours."</i>
+<i>"If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
