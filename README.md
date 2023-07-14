@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only limits in our life are those we impose on ourselves."</i>
+<i>"Words used to attract the dull of wit are not to be relied on."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
