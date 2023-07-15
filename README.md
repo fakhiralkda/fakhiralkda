@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the power of the mind to be unconquerable."</i>
+<i>"Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit."</i>
 <br>
-<b>- Seneca</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
