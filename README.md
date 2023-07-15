@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better to live until you die."</i>
+<i>"This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
