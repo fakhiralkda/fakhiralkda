@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Because of your smile, you make life more beautiful."</i>
+<i>"Life is like underwear, should be changed twice a day.  "</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
