@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like underwear, should be changed twice a day.  "</i>
+<i>"If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
