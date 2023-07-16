@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no fear for one whose mind is not filled with desires."</i>
+<i>"Kindness is a language which the deaf can hear and the blind can see."</i>
 <br>
-<b>- Buddha</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
