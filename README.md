@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world only exists in your eyes. You can make it as big or as small as you want."</i>
+<i>"Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
