@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Investing in yourself is the best investment you will ever make."</i>
+<i>"The less you try to impress, the more peaceful you can be."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
