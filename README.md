@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can spend our whole lives escaping from the monsters of our minds."</i>
+<i>"A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
