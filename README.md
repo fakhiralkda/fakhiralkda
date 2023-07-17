@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When it is dark enough, you can see the stars."</i>
+<i>"The successful warrior is the average man, with laser-like focus."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
