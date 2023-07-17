@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The successful warrior is the average man, with laser-like focus."</i>
+<i>"To arrive at the simplest truth requires years of contemplation."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
