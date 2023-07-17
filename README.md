@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not what you pay a man, but what he costs you that counts."</i>
+<i>"There are only encounters in history. There are no accidents."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
