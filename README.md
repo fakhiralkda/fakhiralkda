@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts."</i>
+<i>"When it is dark enough, you can see the stars."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
