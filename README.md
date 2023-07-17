@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are only encounters in history. There are no accidents."</i>
+<i>"Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
