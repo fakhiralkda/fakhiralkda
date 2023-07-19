@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world would go on even without you. Don't take yourself so seriously."</i>
+<i>"The salvation of the world lies in the human heart."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
