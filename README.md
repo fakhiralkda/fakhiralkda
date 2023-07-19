@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sad thing is, you can still love someone and be wrong for them."</i>
+<i>"Be yourself; everyone else is already taken "</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
