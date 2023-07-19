@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear is your worst enemy. Risk is your best friend."</i>
+<i>"Against the assault of laughter nothing can stand."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
