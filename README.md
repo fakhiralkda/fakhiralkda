@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where there is no struggle, there is no strength. "</i>
+<i>"The big thing is to make a winning effort. I'm not obsessed with wins."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Morgan Wootten</b>
 </blockquote>
 </p>
 
