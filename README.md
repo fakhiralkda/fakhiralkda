@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The big thing is to make a winning effort. I'm not obsessed with wins."</i>
+<i>"The right thing to do and the hard thing to do are usually the same."</i>
 <br>
-<b>- Morgan Wootten</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
