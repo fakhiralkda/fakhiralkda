@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT."</i>
+<i>"Mistake is a mistake only if you make it twice."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
