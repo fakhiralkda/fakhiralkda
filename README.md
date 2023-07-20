@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing good ever comes of violence."</i>
+<i>"The best way to find yourself is to lose yourself in the service of others."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
