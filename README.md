@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</i>
+<i>"Sometimes it is harder to deprive oneself of a pain than of a pleasure."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
