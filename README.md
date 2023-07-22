@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better a diamond with a flaw than a pebble without one."</i>
+<i>"A golden cage is still just a cage."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
