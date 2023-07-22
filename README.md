@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We ordinary people must forge our own beauty."</i>
+<i>"It's wise to tell the truth. It's even wiser to tell it kindly."</i>
 <br>
-<b>- Kenji Miyazawa</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
