@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature loves to hide."</i>
+<i>"The few who do are the envy of the many who only watch."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
