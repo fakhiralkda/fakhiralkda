@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A golden cage is still just a cage."</i>
+<i>"Nature loves to hide."</i>
 <br>
-<b>- Anita Krizzan</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
