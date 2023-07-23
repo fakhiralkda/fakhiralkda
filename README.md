@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important thing is to enjoy your life, to be happy, it's all that matters."</i>
+<i>"Always be a first-rate version of yourself, instead of a second-rate version of someone else."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
