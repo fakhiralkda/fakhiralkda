@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future belongs to those who learn more skills and combine them in creative ways."</i>
+<i>"Study logic and math, because once you've mastered them, you won't fear any book."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
