@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People are doing the best that they can from their own level of consciousness."</i>
+<i>"Do anything, but let it produce joy."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
