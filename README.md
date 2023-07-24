@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The art of being wise is knowing what to overlook."</i>
+<i>"Mastering others is strength, mastering yourself is true power."</i>
 <br>
-<b>- William James</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
