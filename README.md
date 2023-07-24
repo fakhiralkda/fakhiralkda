@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All things come into being by conflict of opposites."</i>
+<i>"The future belongs to those who learn more skills and combine them in creative ways."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
