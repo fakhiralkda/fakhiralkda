@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're walking down the right path and you're willing to keep walking, eventually you'll make progress."</i>
+<i>"Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
