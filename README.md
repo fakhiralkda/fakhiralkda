@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing your own darkness is the best method for dealing with the darknesses of other people."</i>
+<i>"Repetition does not transform a lie into a truth."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
