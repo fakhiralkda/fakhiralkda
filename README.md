@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It takes half your life before you discover life is a do-it-yourself project."</i>
+<i>"Knowing your own darkness is the best method for dealing with the darknesses of other people."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
