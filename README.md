@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reality is nothing but a collective hunch."</i>
+<i>"The attempt to escape from pain, is what creates more pain."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Gabor Mate</b>
 </blockquote>
 </p>
 
