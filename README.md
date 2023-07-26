@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving."</i>
+<i>"There is no sadder sight than a young pessimist."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
