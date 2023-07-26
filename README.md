@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not look for approval except for the consciousness of doing your best."</i>
+<i>"Reality is nothing but a collective hunch."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
