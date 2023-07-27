@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone wants to go to Heaven, but no one wants to die."</i>
+<i>"For things to change, you have to change."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
