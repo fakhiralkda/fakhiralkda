@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Looking after my health today gives me a better hope for tomorrow. "</i>
+<i>"Choose a job you love, and you will never have to work a day in your life. "</i>
 <br>
-<b>- Anne Wilson Schaef</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
