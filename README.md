@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The smallest of actions is always better than the noblest of intentions."</i>
+<i>"Mastering others is strength, mastering yourself is true power."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
