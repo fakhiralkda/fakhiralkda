@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Until you change how you get things done, you'll never know what works best."</i>
+<i>"A hero is an ordinary person doing things in an extra ordinary way."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
