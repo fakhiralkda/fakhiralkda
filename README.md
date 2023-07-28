@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage Is a Love Affair with the Unknown"</i>
+<i>"I'd rather welcome change than cling to the past."</i>
 <br>
-<b>- Osho</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
