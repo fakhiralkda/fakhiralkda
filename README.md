@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is never final, failure is never fatal. It's courage that counts."</i>
+<i>"The smallest of actions is always better than the noblest of intentions."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
