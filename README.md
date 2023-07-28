@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Absurdity is the ecstasy of intellectualism."</i>
+<i>"Talent is luck. The important thing in life is courage."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
