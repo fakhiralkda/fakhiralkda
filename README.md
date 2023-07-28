@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mastering others is strength, mastering yourself is true power."</i>
+<i>"Courage Is a Love Affair with the Unknown"</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
