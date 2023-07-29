@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Open your mind before your mouth."</i>
+<i>"Against the assault of laughter nothing can stand."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
