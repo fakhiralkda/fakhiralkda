@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no greater agony than bearing an untold story inside you."</i>
+<i>"Find the game where you can win, and then commit your life to playing it; and play to win."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
