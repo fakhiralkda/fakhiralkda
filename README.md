@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is merely the name for the desire and pursuit of the whole."</i>
+<i>"There is no greater agony than bearing an untold story inside you."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
