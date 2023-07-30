@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always try to be a little kinder than necessary."</i>
+<i>"He who leaves the game wins it."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
