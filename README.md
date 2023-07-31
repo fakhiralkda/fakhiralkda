@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future is not a gift. It is an achievement."</i>
+<i>"If you want to keep your memories, you first have to live them."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
