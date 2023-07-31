@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Troubles are often the tools by which God fashions us for better things."</i>
+<i>"I've always lived in the moment."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
