@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness can be found, even in the darkest of times, if one only remembers to turn on the light."</i>
+<i>"We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
