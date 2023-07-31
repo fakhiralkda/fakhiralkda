@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to keep your memories, you first have to live them."</i>
+<i>"You don't have to control your thoughts; you just have to stop letting them control you."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
