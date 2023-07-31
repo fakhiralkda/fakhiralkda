@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves."</i>
+<i>"You don't get in life what you want; you get in life what you are."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
