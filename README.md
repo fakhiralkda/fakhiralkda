@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a constant series of opportunities."</i>
+<i>"We must be free not because we claim freedom, but because we practice it."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
