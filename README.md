@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human behavior flows from three main sources: desire, emotion, and knowledge."</i>
+<i>"The future is not a gift. It is an achievement."</i>
 <br>
-<b>- Plato</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
