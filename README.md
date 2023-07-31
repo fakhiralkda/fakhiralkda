@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't have to control your thoughts; you just have to stop letting them control you."</i>
+<i>"Happiness can be found, even in the darkest of times, if one only remembers to turn on the light."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
