@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your friends close, and your enemies closer."</i>
+<i>"All leaders are readers."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
