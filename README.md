@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can only be afraid of what you think you know."</i>
+<i>"Do the difficult things while they are easy and do the great things while they are small."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
