@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A person hears only what they understand."</i>
+<i>"The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
