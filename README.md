@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Speak when you are angry - and you'll make the best speech you'll ever regret."</i>
+<i>"Never take your position for granted and never let any favors you receive go to your head."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
