@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creativity is intelligence having fun."</i>
+<i>"There is no limitations except those we create for ourselves."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
