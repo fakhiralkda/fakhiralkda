@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no limitations except those we create for ourselves."</i>
+<i>"You don't need anybody to tell you who you are or what you are. You are what you are!"</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
