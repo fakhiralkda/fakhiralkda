@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"While we may not be able to control all that happens to us, we can control what happens inside us."</i>
+<i>"Anger exceeding limits causes fear and excessive kindness eliminates respect."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
