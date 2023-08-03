@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you aim at nothing, you will hit it every time.  "</i>
+<i>"If you don't program yourself, life will program you."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
