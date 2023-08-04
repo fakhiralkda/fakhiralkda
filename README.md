@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control."</i>
+<i>"I learned the value of hard work by working hard. "</i>
 <br>
-<b>- Epictetus</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
