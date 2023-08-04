@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust is built and maintained by many small actions over time."</i>
+<i>"Show up even when you don't want to show up."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
