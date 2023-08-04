@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is the progressive realization of a worthy goal or ideal."</i>
+<i>"Tall oaks grow from little acorns."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
