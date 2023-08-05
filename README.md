@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it."</i>
+<i>"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
