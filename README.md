@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make each day a new horizon."</i>
+<i>"Correct what you can. Learn from what you can't."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Toni Morrison</b>
 </blockquote>
 </p>
 
