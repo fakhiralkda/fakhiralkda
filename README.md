@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is not a goal...it's a by-product of a life well lived."</i>
+<i>"Make each day a new horizon."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
