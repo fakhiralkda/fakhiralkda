@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can avoid reality, but you cannot avoid the consequences of avoiding reality."</i>
+<i>"Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
