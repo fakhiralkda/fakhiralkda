@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words without actions are the assassins of idealism."</i>
+<i>"Every traveler has a home of his own, and he learns to appreciate it the more from his wandering."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
