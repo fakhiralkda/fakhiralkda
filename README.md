@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man becomes rich unless he enriches others."</i>
+<i>"Happiness is not a goal...it's a by-product of a life well lived."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
