@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man is made by his belief. As he believes, so he is."</i>
+<i>"Whatever is begun in anger, ends in shame."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
