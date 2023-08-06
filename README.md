@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is about choice. You can choose to be a victim or anything else you like to be."</i>
+<i>"Man is made by his belief. As he believes, so he is."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
