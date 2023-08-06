@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The single biggest problem in communication is the illusion that it has taken place."</i>
+<i>"You already have every characteristic necessary for success if you recognize, claim, develop and use them."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
