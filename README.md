@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is everything. It is the preview of life's coming attractions."</i>
+<i>"Lying can never save us from another lie."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
