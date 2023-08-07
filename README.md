@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man must use what he has, not hope for what is not."</i>
+<i>"The mind can calculate, but the spirit yearns, and the heart wants what the heart wants."</i>
 <br>
-<b>- G.I. Gurdjieff</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
