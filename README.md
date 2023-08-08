@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Treat everyone with politeness and kindness, not because they are nice, but because you are."</i>
+<i>"All we have to decide is what to do with the time that is given to us."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
