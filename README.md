@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The journey is what brings us happiness not the destination."</i>
+<i>"It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
