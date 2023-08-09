@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some of us learn from other people's mistakes and the rest of us have to be other people.  "</i>
+<i>"The roots of education are bitter, but the fruit is sweet."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
