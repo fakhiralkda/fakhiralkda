@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failing is another stepping stone to greatness."</i>
+<i>"Zen insists that the whole trouble is just our failure to realize that there is no problem."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
