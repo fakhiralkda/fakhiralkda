@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The roots of education are bitter, but the fruit is sweet."</i>
+<i>"Progress is limited by your ability to change your mind."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
