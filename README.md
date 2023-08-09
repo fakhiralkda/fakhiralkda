@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed is he who expects nothing, for he shall never be disappointed."</i>
+<i>"Failing is another stepping stone to greatness."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
