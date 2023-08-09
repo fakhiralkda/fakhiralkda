@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A fool sees himself as another, but a wise man sees others as himself."</i>
+<i>"The greatest test of courage on earth is to bear defeat without losing heart."</i>
 <br>
-<b>- Dogen</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
