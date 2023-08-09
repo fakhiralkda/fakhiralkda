@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Zen insists that the whole trouble is just our failure to realize that there is no problem."</i>
+<i>"The finish line is just the beginning of a whole new race."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
