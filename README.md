@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop comparing yourself to others and focus on your own improvement."</i>
+<i>"The quicker you let go of old cheese, the sooner you find new cheese."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
