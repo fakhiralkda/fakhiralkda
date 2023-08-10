@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people feel the rain. Others just get wet. "</i>
+<i>"Live and act within the limit of your knowledge and keep expanding it to the limit of your life."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
