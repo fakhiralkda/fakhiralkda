@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is the greatest friend."</i>
+<i>"Simplicity is the glory of expression."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
