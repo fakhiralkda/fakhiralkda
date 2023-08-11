@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less you respond to negative people, the more positive your life will become."</i>
+<i>"From morning till night, we should never rely on a single thing."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
