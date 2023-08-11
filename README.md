@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Acknowledging the good that you already have in your life is the foundation for all abundance."</i>
+<i>"A man is literally what he thinks."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
