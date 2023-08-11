@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From morning till night, we should never rely on a single thing."</i>
+<i>"Where there is anger, there is always pain underneath."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
