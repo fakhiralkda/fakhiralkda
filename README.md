@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It all depends on what you choose to believe."</i>
+<i>"Help others achieve their dreams and you will achieve yours."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
