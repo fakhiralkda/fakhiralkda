@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never be bored, and you will never be boring."</i>
+<i>"To get angry is like to revenge yourself for the guilt of others."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
