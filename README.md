@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're on earth. There's no cure for that."</i>
+<i>"Never be bored, and you will never be boring."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
