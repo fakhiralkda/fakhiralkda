@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In life you need either inspiration or desperation."</i>
+<i>"Life reflects your own thoughts back to you."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
