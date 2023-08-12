@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the absence of judgment."</i>
+<i>"Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
