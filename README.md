@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only thing more frustrating than slanderers is those foolish enough to listen to them."</i>
+<i>"In life you need either inspiration or desperation."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
