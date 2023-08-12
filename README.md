@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where your talents and the needs of the world cross, there lies your vocation."</i>
+<i>"It all depends on what you choose to believe."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
