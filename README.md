@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tragedy is a tool for the living to gain wisdom, not a guide by which to live."</i>
+<i>"The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
