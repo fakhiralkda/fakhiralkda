@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whenever you do a thing, act as if all the world were watching."</i>
+<i>"Manifest plainness, embrace simplicity, reduce selfishness, have few desires."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
