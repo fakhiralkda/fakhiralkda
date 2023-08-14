@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you."</i>
+<i>"The meaning of life is to find your gift. The purpose of life is to give it away."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
