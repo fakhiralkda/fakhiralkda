@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone is a moon, and has a dark side which he never shows to anybody."</i>
+<i>"Your conscience is the measure of the honesty of your selfishness. Listen to it carefully."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
