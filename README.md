@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never give way to laziness."</i>
+<i>"If it is not right, do not do it, if it is not true, do not say it."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
