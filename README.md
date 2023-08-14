@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the first signs of the beginning of understanding is the wish to die. "</i>
+<i>"Never give way to laziness."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
