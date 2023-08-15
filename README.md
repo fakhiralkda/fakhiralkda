@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trying to define yourself is like trying to bite your own teeth."</i>
+<i>"It's much better to do good in a way that no one knows anything about it."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
