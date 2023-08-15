@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it."</i>
+<i>"Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
