@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not be so open-minded that your brains fall out."</i>
+<i>"Fear can hold you prisoner. Hope can set you free."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
