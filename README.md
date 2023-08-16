@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The time is now, the place is here. Stay in the present."</i>
+<i>"Do not be so open-minded that your brains fall out."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
