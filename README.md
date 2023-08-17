@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A fall into a ditch makes you wiser."</i>
+<i>"The only way to make sense out of change is to plunge into it, move with it, and join the dance."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
