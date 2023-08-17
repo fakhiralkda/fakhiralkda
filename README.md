@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Worry is a waste of emotional reserve."</i>
+<i>"A fall into a ditch makes you wiser."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
