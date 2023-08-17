@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way to make sense out of change is to plunge into it, move with it, and join the dance."</i>
+<i>"The businessman's tool is value."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
