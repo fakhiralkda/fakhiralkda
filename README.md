@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The businessman's tool is value."</i>
+<i>"All religions, arts and sciences are branches of the same tree. "</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
