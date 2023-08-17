@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conquer the devils with a little thing called love."</i>
+<i>"Adventure is not outside man; it is within."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
