@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any fool can paint a picture, but it takes a wise man to be able to sell it."</i>
+<i>"You don't know who is important to you until you actually lose them."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
