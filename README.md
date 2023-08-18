@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I learned the value of hard work by working hard. "</i>
+<i>"The wiser you get, the less you care to look like a fool."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
