@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wiser you get, the less you care to look like a fool."</i>
+<i>"I know of only one duty, and that is to love."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
