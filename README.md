@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to fail in originality than to succeed in imitation."</i>
+<i>"Any fool can paint a picture, but it takes a wise man to be able to sell it."</i>
 <br>
-<b>- Herman Melville</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
