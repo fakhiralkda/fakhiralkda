@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't have anything worthwhile without difficulties."</i>
+<i>"The people who succeed are irrationally passionate about something."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
