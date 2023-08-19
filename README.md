@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The people who succeed are irrationally passionate about something."</i>
+<i>"Those who can make you believe absurdities can make you commit atrocities. "</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
