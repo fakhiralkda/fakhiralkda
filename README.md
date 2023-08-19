@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Passion is born deaf and dumb."</i>
+<i>"The first rule of handling conflict is don't hang around people who are constantly engaging in conflict."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
