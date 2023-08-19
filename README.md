@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless."</i>
+<i>"It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
