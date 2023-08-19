@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who can make you believe absurdities can make you commit atrocities. "</i>
+<i>"Passion is born deaf and dumb."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
