@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want peace, accept. If you want suffering, expect."</i>
+<i>"You have as much laughter as you have faith."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
