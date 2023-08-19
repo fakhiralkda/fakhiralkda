@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you chase two rabbits, you catch none."</i>
+<i>"You can't have anything worthwhile without difficulties."</i>
 <br>
-<b>- Confucius</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
