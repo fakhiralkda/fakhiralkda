@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't seek, don't avoid, don't expect. Take what comes and be happy."</i>
+<i>"If you chase two rabbits, you catch none."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
