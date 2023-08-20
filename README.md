@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes it is more important to discover what one cannot do, than what one can do."</i>
+<i>"It takes a very long time to become young."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
