@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All human wisdom is contained in these two words - Wait and Hope"</i>
+<i>"When something is important enough, you do it even if the odds are not in your favor."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
