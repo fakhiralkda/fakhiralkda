@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To become what you are not, behave as you do not."</i>
+<i>"Sometimes it is more important to discover what one cannot do, than what one can do."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
