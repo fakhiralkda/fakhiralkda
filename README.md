@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to light a single candle than to curse the darkness."</i>
+<i>"There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
