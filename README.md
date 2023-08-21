@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is achieved and maintained by those who try and keep trying. "</i>
+<i>"Man is made by his belief. As he believes, so he is."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
