@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life reflects your own thoughts back to you."</i>
+<i>"It's not what you've got; it's what you do that makes the difference."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
