@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not what you've got; it's what you do that makes the difference."</i>
+<i>"A tiger doesn't lose sleep over the opinion of sheep."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Shahir Zag</b>
 </blockquote>
 </p>
 
