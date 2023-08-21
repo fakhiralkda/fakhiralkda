@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We've got to live, no matter how many skies have fallen."</i>
+<i>"All happiness depends on courage and work."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
