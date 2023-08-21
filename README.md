@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life becomes easier and more beautiful when we can see the good in other people."</i>
+<i>"The less you open your heart to others, the more your heart suffers."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
