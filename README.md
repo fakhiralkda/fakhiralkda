@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is not something ready made. It comes from your own actions."</i>
+<i>"Success is not to be pursued, it is to be attracted by the person you become."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
