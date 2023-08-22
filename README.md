@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"TEAMWORK: the fuel that allows common people attain uncommon results."</i>
+<i>"Passion creates, addiction consumes."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Gabor Mate</b>
 </blockquote>
 </p>
 
