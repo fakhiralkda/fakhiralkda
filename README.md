@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I pay attention to every minute of the day."</i>
+<i>"When people are free to do as they please, they usually imitate each other."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
