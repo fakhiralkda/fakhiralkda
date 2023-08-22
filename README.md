@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not the men in your life that matters, it's the life in your men."</i>
+<i>"Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it."</i>
 <br>
-<b>- Mae West</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
