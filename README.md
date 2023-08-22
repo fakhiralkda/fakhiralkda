@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The golden opportunity you are seeking is within yourself."</i>
+<i>"The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
