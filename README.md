@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best of us sometimes eat our words.  "</i>
+<i>"Inner peace is when you realize that, in the end, nothing matters."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
