@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches."</i>
+<i>"Successful people appreciate where they have come from, but they don't let their past set the tone for their future."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
