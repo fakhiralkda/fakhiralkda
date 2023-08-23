@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Circumstances rule men; men do not rule circumstances. "</i>
+<i>"We know nothing of tomorrow, our business is to be good and happy today."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
