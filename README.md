@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To accomplish big things, I am convinced you must first dream big dreams."</i>
+<i>"No amount of regretting can change the past, and no amount of worrying can change the future."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
