@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be thankful for everything that happens in your life; it's all an experience."</i>
+<i>"There is a difference between giving directions and giving direction."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
