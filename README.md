@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you done it, it ain't bragging."</i>
+<i>"What the eye doesn't see and the mind doesn't know, doesn't exist."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
