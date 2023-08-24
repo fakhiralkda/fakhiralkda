@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every limit is a beginning as well as an ending."</i>
+<i>"If you done it, it ain't bragging."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
