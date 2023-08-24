@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a question and how we live it is our answer."</i>
+<i>"Force has no place where there is need of skill. "</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
