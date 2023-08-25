@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All life is a manifestation of the spirit, the manifestation of love."</i>
+<i>"Judge your success by what you had to give up in order to get it."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
