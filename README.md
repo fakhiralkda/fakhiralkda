@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present."</i>
+<i>"A wise man can learn more from a foolish question than a fool can learn from a wise answer.  "</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
