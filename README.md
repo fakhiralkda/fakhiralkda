@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Greatness lies not in being strong, but in the right use of strength."</i>
+<i>"The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
