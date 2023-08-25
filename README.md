@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you."</i>
+<i>"If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present."</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
