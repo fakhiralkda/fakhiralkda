@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff."</i>
+<i>"Peace is not absence of conflict, it is the ability to handle conflict by peaceful means."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
