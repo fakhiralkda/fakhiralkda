@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace is not absence of conflict, it is the ability to handle conflict by peaceful means."</i>
+<i>"Be brave enough to suck at something new."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
