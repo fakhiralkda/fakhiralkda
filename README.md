@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be in harmony with the wholeness of things is not to have anxiety over imperfections."</i>
+<i>"No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way."</i>
 <br>
-<b>- Dogen</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
