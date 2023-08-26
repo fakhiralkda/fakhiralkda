@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have lived with several Zen masters -- all of them cats."</i>
+<i>"If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
