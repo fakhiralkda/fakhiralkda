@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time."</i>
+<i>"Not all readers are leaders, but all leaders are readers."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
