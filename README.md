@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Animals don't hate, and we're supposed to be better than them."</i>
+<i>"Avoiding danger is no safer in the long run than exposure."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
