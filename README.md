@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I know not all that may be coming, but be it what it will, I'll go to it laughing."</i>
+<i>"Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy."</i>
 <br>
-<b>- Herman Melville</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
