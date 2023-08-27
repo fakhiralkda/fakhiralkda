@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Avoiding danger is no safer in the long run than exposure."</i>
+<i>"You make your own luck if you stay at it long enough."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
