@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You make your own luck if you stay at it long enough."</i>
+<i>"Great minds are always feared by lesser minds."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
