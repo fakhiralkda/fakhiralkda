@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great minds are always feared by lesser minds."</i>
+<i>"Failure is feedback. Learn from it and move on."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
