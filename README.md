@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rivers know this: there is no hurry. We shall get there some day."</i>
+<i>"A gentleman is one who puts more into the world than he takes out."</i>
 <br>
-<b>- A.A. Milne</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
