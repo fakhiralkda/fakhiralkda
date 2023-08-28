@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The source of a true smile is an awakened mind."</i>
+<i>"However difficult life may seem, there is always something you can do and succeed at."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
