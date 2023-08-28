@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge."</i>
+<i>"Life is growth. If we stop growing, technically and spiritually, we are as good as dead."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
