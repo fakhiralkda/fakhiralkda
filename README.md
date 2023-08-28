@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's no coming to consciousness without pain"</i>
+<i>"Rivers know this: there is no hurry. We shall get there some day."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
