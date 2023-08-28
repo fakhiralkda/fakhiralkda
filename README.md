@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The farther backward you can look, the farther forward you are likely to see."</i>
+<i>"Do something to move yourself toward your major goal every day."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
