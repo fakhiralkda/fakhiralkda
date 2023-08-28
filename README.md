@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is growth. If we stop growing, technically and spiritually, we are as good as dead."</i>
+<i>"Do it with passion, or not at all."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Rosa Nouchette Carey</b>
 </blockquote>
 </p>
 
