@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid that you do not know something. Be afraid of not learning about it."</i>
+<i>"The source of a true smile is an awakened mind."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
