@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When a man is penalized for honesty he learns to lie."</i>
+<i>"It matters not what someone is born, but what they grow to be."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
