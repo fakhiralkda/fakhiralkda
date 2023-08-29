@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not how much we give but how much love we put into giving."</i>
+<i>"When a man is penalized for honesty he learns to lie."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
