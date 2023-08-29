@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is within the reach of just about everyone."</i>
+<i>"It's not how much we give but how much love we put into giving."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
