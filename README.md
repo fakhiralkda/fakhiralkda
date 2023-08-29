@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Often in the real world, it's not the smart that get ahead, but the bold."</i>
+<i>"Success is within the reach of just about everyone."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
