@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Animals don't hate, and we're supposed to be better than them."</i>
+<i>"Living life in style also means living a life of balance."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
