@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way."</i>
+<i>"Animals don't hate, and we're supposed to be better than them."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
