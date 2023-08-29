@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is what you make it. Always has been, always will be."</i>
+<i>"Go for it now. The future is promised to no one."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
