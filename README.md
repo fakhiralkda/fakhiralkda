@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone wants to go to Heaven, but no one wants to die."</i>
+<i>"Love is the expression of one's values."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
