@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams are the royal road to the unconscious. "</i>
+<i>"Productize your perspective."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
