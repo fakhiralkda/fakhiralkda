@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. "</i>
+<i>"Dreams are the royal road to the unconscious. "</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
