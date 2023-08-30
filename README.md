@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Try not to become a man of success, but rather try to become a man of value."</i>
+<i>"A mountain never yields to the wind no matter how strong it is."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
