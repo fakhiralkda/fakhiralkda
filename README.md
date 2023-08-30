@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</i>
+<i>"Perfection is not attainable, but if we chase perfection we can catch excellence."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
