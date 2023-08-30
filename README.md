@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work."</i>
+<i>"Life's too mysterious to take too serious."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
