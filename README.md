@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It matters not what someone is born, but what they grow to be."</i>
+<i>"Try not to become a man of success, but rather try to become a man of value."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
