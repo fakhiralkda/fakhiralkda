@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest of all mistakes is to do nothing because you think you can only do a little.  "</i>
+<i>"Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
