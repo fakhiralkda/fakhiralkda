@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perfection is not attainable, but if we chase perfection we can catch excellence."</i>
+<i>"Either you run the day or the day runs you."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
