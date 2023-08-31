@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can."</i>
+<i>"Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
