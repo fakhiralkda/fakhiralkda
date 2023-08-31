@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have more possibilities available in each moment than we realize."</i>
+<i>"The greatest of all mistakes is to do nothing because you think you can only do a little.  "</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
