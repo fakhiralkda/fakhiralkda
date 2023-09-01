@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The harder the conflict, the greater the triumph. "</i>
+<i>"Successful people are not without problems. They're simply people who've learned to solve their problems."</i>
 <br>
-<b>- George Washington</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
