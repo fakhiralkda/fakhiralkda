@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cultivate the merry heart, develop the happiness habit, and life will become a continual feast."</i>
+<i>"The harder the conflict, the greater the triumph. "</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
