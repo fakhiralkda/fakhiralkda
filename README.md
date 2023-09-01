@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose."</i>
+<i>"Memory is the scribe of the soul."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
