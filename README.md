@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Memory is the scribe of the soul."</i>
+<i>"We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
