@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If a thing is worth doing, it is worth doing badly."</i>
+<i>"Never give up work. Work gives you meaning and purpose and life is empty without it."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
