@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be true to yourself, help others, make each day your masterpiece"</i>
+<i>"If you can't imagine it, you can't have it."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Toni Morrison</b>
 </blockquote>
 </p>
 
