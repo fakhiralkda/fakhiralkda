@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you think adventure is dangerous, try routine; it is lethal."</i>
+<i>"If we all did the things we are capable of doing, we would literally astound ourselves."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
