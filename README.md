@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never give way to laziness."</i>
+<i>"If you think adventure is dangerous, try routine; it is lethal."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
