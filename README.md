@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The strongest and sweetest songs yet remain to be sung."</i>
+<i>"Never give way to laziness."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
