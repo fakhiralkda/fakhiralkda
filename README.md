@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway."</i>
+<i>"Success is often achieved by those who don't know that failure is inevitable."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
