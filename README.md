@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have the potential for greatness."</i>
+<i>"Be yourself; everyone else is already taken "</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
