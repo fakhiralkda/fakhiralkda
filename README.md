@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One day, in retrospect, the years of struggle will strike you as the most beautiful."</i>
+<i>"The truth is rarely pure and never simple. "</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
