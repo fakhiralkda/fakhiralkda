@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Through selfless service, you will always be fruitful and find the fulfillment of your desires."</i>
+<i>"Nothing makes a man broad-minded like adversity."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
