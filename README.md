@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no one giant step that does it. It's a lot of little steps."</i>
+<i>"Judge your success by what you had to give up in order to get it."</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
