@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People inspire you, or they drain you. Pick them wisely."</i>
+<i>"There is no one giant step that does it. It's a lot of little steps."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Peter A. Cohen</b>
 </blockquote>
 </p>
 
