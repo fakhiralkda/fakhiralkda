@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If the grass is greener on the other side, maybe that's because you're not taking good care of your grass."</i>
+<i>"People inspire you, or they drain you. Pick them wisely."</i>
 <br>
-<b>- Unknown</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
