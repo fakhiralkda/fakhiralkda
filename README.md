@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give more than you think you can, trusting that you are richer than you think."</i>
+<i>"All men are equal before fish."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
