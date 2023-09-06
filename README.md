@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Circumstances do not make the man, they reveal him."</i>
+<i>"Elegance does not consist in putting on a new dress."</i>
 <br>
-<b>- James Allen</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
