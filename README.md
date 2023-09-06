@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Circumstances do not make the man, they reveal him."</i>
+<i>"Every day may not be good, but there's something good in every day."</i>
 <br>
-<b>- James Allen</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
