@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We love the things we love for what they are."</i>
+<i>"What do we live for, if it is not to make life less difficult for each other?"</i>
 <br>
-<b>- Robert Frost</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
