@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Much learning does not teach understanding."</i>
+<i>"Throw your heart over the bar and your body will follow."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
