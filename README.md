@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All men are equal before fish."</i>
+<i>"Keep your face to the sunshine and you cannot see the shadows."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
