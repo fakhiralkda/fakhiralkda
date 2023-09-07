@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not wait for leaders; do it alone, person to person."</i>
+<i>"It is amazing what you can accomplish if you do not care who gets the credit."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
