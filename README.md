@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great loves too must be endured."</i>
+<i>"The only people without problems are those in cemeteries."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
