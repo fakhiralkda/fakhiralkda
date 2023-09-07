@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Relax. Nothing is under control."</i>
+<i>"Believe you can and you will be halfway there."</i>
 <br>
-<b>- Adi Da Samraj</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
