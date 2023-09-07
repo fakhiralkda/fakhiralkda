@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is amazing what you can accomplish if you do not care who gets the credit."</i>
+<i>"The more people you help become successful the more successful you become."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
