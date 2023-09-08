@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every limit is a beginning as well as an ending."</i>
+<i>"If you do not push the boundaries, you will never know where they are."</i>
 <br>
-<b>- George Eliot</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
