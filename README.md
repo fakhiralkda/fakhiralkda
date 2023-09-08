@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important thing in communication is to hear what isn't being said."</i>
+<i>"A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
