@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe you can and you will be halfway there."</i>
+<i>"You become stronger with every problem you face and every obstacle you overcome."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
