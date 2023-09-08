@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is never easy, but always possible."</i>
+<i>"The whole world is a series of miracles, but we're so used to them we call them ordinary things."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
