@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not push the boundaries, you will never know where they are."</i>
+<i>"Change is never easy, but always possible."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
