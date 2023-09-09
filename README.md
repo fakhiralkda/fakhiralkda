@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you consider things like the stars, our affairs don't seem to matter very much, do they?"</i>
+<i>"Courage Is a Love Affair with the Unknown"</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
