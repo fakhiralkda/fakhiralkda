@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on."</i>
+<i>"Trust, but verify."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
