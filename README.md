@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is our choices that show what we truly are, far more than our abilities."</i>
+<i>"Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
