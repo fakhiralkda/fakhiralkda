@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage Is a Love Affair with the Unknown"</i>
+<i>"Confidence breeds beauty.  "</i>
 <br>
-<b>- Osho</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
