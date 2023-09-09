@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions."</i>
+<i>"When you consider things like the stars, our affairs don't seem to matter very much, do they?"</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
