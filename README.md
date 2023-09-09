@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust, but verify."</i>
+<i>"Normal is the average of deviance."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
