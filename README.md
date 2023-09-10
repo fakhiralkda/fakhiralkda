@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is amazing what you can accomplish if you do not care who gets the credit."</i>
+<i>"Opportunities don't often come along. So, when they do, you have to grab them."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
