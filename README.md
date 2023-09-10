@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunities don't often come along. So, when they do, you have to grab them."</i>
+<i>"Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
