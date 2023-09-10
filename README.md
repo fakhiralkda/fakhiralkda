@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn from the mistakes of others. You can't live long enough to make them all yourself."</i>
+<i>"Change will not come if we wait for some other person, or if we wait for some other time."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
