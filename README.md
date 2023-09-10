@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship takes time and energy if it's going to work."</i>
+<i>"The only time you run out of chances is when you stop taking them."</i>
 <br>
-<b>- Betty White</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
