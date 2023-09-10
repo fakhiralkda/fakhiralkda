@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only time you run out of chances is when you stop taking them."</i>
+<i>"Always try to be a little kinder than necessary."</i>
 <br>
-<b>- Unknown</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
