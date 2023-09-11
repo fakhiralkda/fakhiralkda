@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not a problem to be solved, but a reality to be experienced."</i>
+<i>"In order to be walked over, you have to be lying down."</i>
 <br>
-<b>- Soren Kierkegaard</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
