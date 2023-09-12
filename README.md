@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Worry is a waste of emotional reserve."</i>
+<i>"The river that flows in you also flows in me."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
