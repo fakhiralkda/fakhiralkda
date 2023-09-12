@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you look for perfection, you'll never be content."</i>
+<i>"Desire for the fruits of work must never be your motive in working."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
