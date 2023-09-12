@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Desire for the fruits of work must never be your motive in working."</i>
+<i>"To be angry is to revenge the faults of others on ourselves."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
