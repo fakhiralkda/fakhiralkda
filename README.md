@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being a good example is the best form of service."</i>
+<i>"If you look for perfection, you'll never be content."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
