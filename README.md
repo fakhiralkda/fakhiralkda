@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The river that flows in you also flows in me."</i>
+<i>"To arrive at the simplest truth requires years of contemplation."</i>
 <br>
-<b>- Kabir</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
