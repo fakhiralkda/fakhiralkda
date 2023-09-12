@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I know not all that may be coming, but be it what it will, I'll go to it laughing."</i>
+<i>"Worry is a waste of emotional reserve."</i>
 <br>
-<b>- Herman Melville</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
