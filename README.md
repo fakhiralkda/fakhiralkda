@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Realize deeply that the present moment is all you ever have. "</i>
+<i>"I know not all that may be coming, but be it what it will, I'll go to it laughing."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Herman Melville</b>
 </blockquote>
 </p>
 
