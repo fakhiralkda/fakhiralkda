@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever your mind can conceive and believe, it can achieve."</i>
+<i>"First say to yourself what you would be; and then do what you have to do."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
