@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am not absentminded. It is the presence of mind that makes me unaware of everything else."</i>
+<i>"I do not seek. I find."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
