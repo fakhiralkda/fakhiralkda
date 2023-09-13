@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not about what it is, it's about what it can become."</i>
+<i>"It's not how much money you make, it's how much money you keep."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
