@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talk does not cook rice."</i>
+<i>"The temptation to give up is strongest just before victory."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
