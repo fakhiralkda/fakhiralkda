@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The temptation to give up is strongest just before victory."</i>
+<i>"We run to win, not just to be in the race.  "</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
