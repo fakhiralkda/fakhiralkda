@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I love myself I love you. If I love you I love myself."</i>
+<i>"There is nothing more frightful than ignorance in action."</i>
 <br>
-<b>- Rumi</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
