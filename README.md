@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"At the center of your being you have the answer; you know who you are and you know what you want."</i>
+<i>"The day is for honest men, the night for thieves."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
