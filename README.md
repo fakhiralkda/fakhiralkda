@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's your outlook on life that counts."</i>
+<i>"No matter what happens in life, never lose sight of who you are."</i>
 <br>
-<b>- Betty White</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
