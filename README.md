@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be a good animal, true to your instincts."</i>
+<i>"It's your outlook on life that counts."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
