@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not tell the truth about yourself you cannot tell it about other people."</i>
+<i>"Getting lost along your path is a part of finding the path you are meant to be on."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
