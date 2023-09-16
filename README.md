@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your life does not get better by chance, it gets better by change."</i>
+<i>"The world is a puzzle; no need to make sense out of it."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
