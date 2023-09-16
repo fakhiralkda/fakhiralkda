@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Longevity is a fleeting moment that lasts forever."</i>
+<i>"How people treat you is their karma; how you react is yours. "</i>
 <br>
-<b>- Vidal Sassoon</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
