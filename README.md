@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The time is always right to do what is right."</i>
+<i>"Your life does not get better by chance, it gets better by change."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
