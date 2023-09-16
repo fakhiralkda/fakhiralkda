@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Looking after my health today gives me a better hope for tomorrow. "</i>
+<i>"There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world."</i>
 <br>
-<b>- Anne Wilson Schaef</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
