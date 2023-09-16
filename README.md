@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Would you rather learn to deal with the truth now than be forced to do so later on?"</i>
+<i>"The time is always right to do what is right."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
