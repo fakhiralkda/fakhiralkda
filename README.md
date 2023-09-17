@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't criticize what you can't understand. "</i>
+<i>"True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
