@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity."</i>
+<i>"A strong man overcomes an obstacle, a wise man goes the whole way."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
