@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It does not do to dwell on dreams and forget to live, remember that."</i>
+<i>"Remember, hope is a good thing, maybe the best of things."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
