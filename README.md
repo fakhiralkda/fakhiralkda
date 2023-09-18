@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is acceptable. Not trying is a whole different ball park."</i>
+<i>"By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
