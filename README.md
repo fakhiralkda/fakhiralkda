@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember, hope is a good thing, maybe the best of things."</i>
+<i>"Be - don't try to become "</i>
 <br>
-<b>- Stephen King</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
