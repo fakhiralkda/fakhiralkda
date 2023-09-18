@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be - don't try to become "</i>
+<i>"Anyone who reads a book with a sense of obligation does not understand the art of reading."</i>
 <br>
-<b>- Osho</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
