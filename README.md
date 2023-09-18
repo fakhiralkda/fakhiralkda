@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Inner peace is when you realize that, in the end, nothing matters."</i>
+<i>"Confidence is what you have before you understand the problem."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
