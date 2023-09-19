@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no limitations except those we create for ourselves."</i>
+<i>"Those who are easily shocked should be shocked more often."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
