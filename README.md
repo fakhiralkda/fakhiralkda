@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Much learning does not teach understanding."</i>
+<i>"Be polite to all, but intimate with few."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
