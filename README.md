@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success."</i>
+<i>"There is no limitations except those we create for ourselves."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
