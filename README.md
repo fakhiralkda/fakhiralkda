@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is often safer to be in chains than to be free. "</i>
+<i>"Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
