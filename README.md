@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I would rather be hated for who I am than loved for who I'm not.  "</i>
+<i>"Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
