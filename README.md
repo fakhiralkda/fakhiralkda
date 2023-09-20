@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is built sequentially. It's one thing at a time."</i>
+<i>"When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. "</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Charles Swindoll</b>
 </blockquote>
 </p>
 
