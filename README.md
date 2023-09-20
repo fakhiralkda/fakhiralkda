@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long."</i>
+<i>"Life is really simple, but men insist on making it complicated. "</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
