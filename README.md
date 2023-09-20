@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most difficult times for many of us are the ones we give ourselves."</i>
+<i>"Success is built sequentially. It's one thing at a time."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
