@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is really simple, but men insist on making it complicated. "</i>
+<i>"Older men declare war. But it is youth that must fight and die."</i>
 <br>
-<b>- Confucius</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
