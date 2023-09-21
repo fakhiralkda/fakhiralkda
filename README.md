@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who laughs at himself never runs out of things to laugh at."</i>
+<i>"Giving back involves a certain amount of giving up."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
