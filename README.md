@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make improvements, not excuses. Seek respect, not attention."</i>
+<i>"Your vision will become clear only when you can look into your own heart."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
