@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Receive without pride, let go without attachment."</i>
+<i>"If a man knows not to which port he sails, no wind is favorable.  "</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
