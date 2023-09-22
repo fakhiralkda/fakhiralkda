@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most tragic thing in the world is a man of genius who is not a man of honor."</i>
+<i>"If you can't argue both sides, you can't argue."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
