@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing quite so tragic as a young cynic."</i>
+<i>"If you chase two rabbits, you catch none."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
