@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A little impatience will spoil great plans."</i>
+<i>"Mistake is a mistake only if you make it twice."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
