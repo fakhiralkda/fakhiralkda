@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear of death is fear of the Unknown."</i>
+<i>"Great loves too must be endured."</i>
 <br>
-<b>- Adi Da Samraj</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
