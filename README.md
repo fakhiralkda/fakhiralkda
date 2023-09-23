@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be curious, not judgmental."</i>
+<i>"Still your waters."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
