@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love doesn't need reason. It speaks from the irrational wisdom of the heart."</i>
+<i>"The heart that gives, gathers."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
