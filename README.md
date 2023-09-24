@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams provide nourishment for the soul, just as a meal does for the body."</i>
+<i>"The salvation of the world lies in the human heart."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
