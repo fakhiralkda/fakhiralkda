@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not follow the ideas of others, but learn to listen to the voice within yourself."</i>
+<i>"The future doesn't belong to the faint-hearted; it belongs to the brave."</i>
 <br>
-<b>- Dogen</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
