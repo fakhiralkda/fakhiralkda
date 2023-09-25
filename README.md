@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I dream my painting and I paint my dream."</i>
+<i>"Fishing is much more than fish."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
