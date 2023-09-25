@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A leader leads by example, not by force."</i>
+<i>"No one is useless in this world who lightens the burdens of another."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
