@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reality is nothing but a collective hunch."</i>
+<i>"Why do you stay in prison when the door is so wide open?"</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
