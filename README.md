@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Excellence is not a skill. It is an attitude. "</i>
+<i>"If you want something new, you have to stop doing something old."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
