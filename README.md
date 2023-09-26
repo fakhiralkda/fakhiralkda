@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No kind action ever stops with itself. One kind action leads to another. Good example is followed."</i>
+<i>"When you stop questioning, you stop learning."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
