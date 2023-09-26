@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Once a decision was made, I didn't worry about it afterward."</i>
+<i>"Excellence is not a skill. It is an attitude. "</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
