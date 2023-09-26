@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you stop questioning, you stop learning."</i>
+<i>"Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
