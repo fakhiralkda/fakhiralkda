@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The shoe that fits one person pinches another; there is no recipe for living that suits all cases."</i>
+<i>"FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
