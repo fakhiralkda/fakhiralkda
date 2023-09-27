@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Walk towards the sunshine, and the shadows will fall behind you."</i>
+<i>"The right thing to do and the hard thing to do are usually the same."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
