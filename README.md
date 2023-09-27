@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The people who are crazy enough to think they can change the world are the ones who do."</i>
+<i>"Let the beauty of what you love be what you do."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
