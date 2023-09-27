@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever your heart clings to and confides in, that is really your God."</i>
+<i>"There are three classes of people: those who see. Those who see when they are shown. Those who do not see."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
