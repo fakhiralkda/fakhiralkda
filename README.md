@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The right thing to do and the hard thing to do are usually the same."</i>
+<i>"Don't be afraid to see what you see."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
