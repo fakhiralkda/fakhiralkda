@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars."</i>
+<i>"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
