@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid to see what you see."</i>
+<i>"Be thankful for everything that happens in your life; it's all an experience."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
