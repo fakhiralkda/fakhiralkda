@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are dark shadows on the earth, but its lights are stronger in the contrast."</i>
+<i>"Realistic people do not accomplish extraordinary things."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
