@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."</i>
+<i>"Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
