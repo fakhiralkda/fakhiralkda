@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest of all mistakes is to do nothing because you think you can only do a little.  "</i>
+<i>"Older men declare war. But it is youth that must fight and die."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
