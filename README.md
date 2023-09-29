@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not a problem to be solved, but a reality to be experienced."</i>
+<i>"The greatest doer must also be a great dreamer."</i>
 <br>
-<b>- Soren Kierkegaard</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
