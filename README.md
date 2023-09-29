@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The significance of life is living."</i>
+<i>"If you're really truthful with yourself, it's a wonderful guidance.  "</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
