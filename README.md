@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I know not all that may be coming, but be it what it will, I'll go to it laughing."</i>
+<i>"There's no next time. It's now or never."</i>
 <br>
-<b>- Herman Melville</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
