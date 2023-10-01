@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our attitude toward life determines life's attitude towards us."</i>
+<i>"Music is like creating an emotional painting. The sounds are the colors."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
