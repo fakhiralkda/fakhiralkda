@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's easy to be a critic, but being a doer requires effort, risk, and change.  "</i>
+<i>"If you get up one more time than you fall, you will make it through."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
