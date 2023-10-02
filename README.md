@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given."</i>
+<i>"Focused, hard work is the real key to success."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- John Carmack</b>
 </blockquote>
 </p>
 
