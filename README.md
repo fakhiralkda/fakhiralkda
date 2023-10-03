@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man can get rich himself unless he enriches others."</i>
+<i>"Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
