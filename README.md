@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever."</i>
+<i>"It is literally true that you can succeed best and quickest by helping others succeed."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
