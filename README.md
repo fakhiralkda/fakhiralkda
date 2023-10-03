@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always remember that you are absolutely unique. Just like everyone else. "</i>
+<i>"No man can get rich himself unless he enriches others."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
