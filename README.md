@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The strongest and sweetest songs yet remain to be sung."</i>
+<i>"I will not walk backward in life."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
