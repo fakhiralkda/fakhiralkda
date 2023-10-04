@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It doesn't matter where you are coming from. All that matters is where you are going. "</i>
+<i>"Life goes by fast. Enjoy it. Calm down. It's all funny."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
