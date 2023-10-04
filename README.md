@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throw your heart over the bar and your body will follow."</i>
+<i>"If it's not broken, tinker with it till you find out how it works."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
