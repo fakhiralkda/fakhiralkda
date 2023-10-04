@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you always do what you've always done, you'll always get what you've always got. "</i>
+<i>"Throw your heart over the bar and your body will follow."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
