@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you have to shut your eyes, so you can see the real beauty."</i>
+<i>"Keep away from people who try to belittle your ambitions."</i>
 <br>
-<b>- Kilian Jornet</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
