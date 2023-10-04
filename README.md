@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep away from people who try to belittle your ambitions."</i>
+<i>"Setting goals is the first step in turning the invisible into the visible."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
