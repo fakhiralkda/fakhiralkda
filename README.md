@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life goes by fast. Enjoy it. Calm down. It's all funny."</i>
+<i>"The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
