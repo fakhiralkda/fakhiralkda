@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I succeeded by saying what everyone else is thinking."</i>
+<i>"If what you're doing is not your passion, you have nothing to lose."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
