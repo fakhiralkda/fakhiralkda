@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If what you're doing is not your passion, you have nothing to lose."</i>
+<i>"Rather than love, than money, than fame, give me truth."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
