@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is truth that liberates, not your effort to be free."</i>
+<i>"Care about what other people think and you will always be their prisoner."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
