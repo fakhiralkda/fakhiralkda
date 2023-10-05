@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man invented language to satisfy his deep need to complain."</i>
+<i>"Open your eyes and look within. Are you satisfied with the life you're living?"</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
