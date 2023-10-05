@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A hero is an ordinary person doing things in an extra ordinary way."</i>
+<i>"There is no absolute success in the world, only constant progress."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
