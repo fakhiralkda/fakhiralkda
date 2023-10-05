@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are far from the enemy, make him believe you are near."</i>
+<i>"Man invented language to satisfy his deep need to complain."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
