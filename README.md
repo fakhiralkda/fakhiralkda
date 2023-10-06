@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it."</i>
+<i>"Everybody's life is either rewarding or an example."</i>
 <br>
-<b>- Rumi</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
