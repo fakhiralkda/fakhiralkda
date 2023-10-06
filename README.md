@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A path is made by walking on it."</i>
+<i>"Some people feel the rain. Others just get wet. "</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
