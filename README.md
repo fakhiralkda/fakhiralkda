@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is really work unless you would rather be doing something else. "</i>
+<i>"The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
