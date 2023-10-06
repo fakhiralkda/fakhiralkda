@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things turn out best for the people who make the best of the way things turn out."</i>
+<i>"Find something you love and do it better than everyone else."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
