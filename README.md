@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be great is to be misunderstood."</i>
+<i>"All problems are illusions of the mind."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
