@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us."</i>
+<i>"When reading, only read. When eating, only eat. When thinking, only think."</i>
 <br>
-<b>- Socrates</b>
+<b>- Seungsahn</b>
 </blockquote>
 </p>
 
