@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who possesses most must be most afraid of loss."</i>
+<i>"Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
