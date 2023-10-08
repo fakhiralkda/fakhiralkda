@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge."</i>
+<i>"The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
