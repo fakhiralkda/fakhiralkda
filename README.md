@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enjoy when you can, and endure when you must."</i>
+<i>"But better die than live mechanically a life that is a repetition of repetitions."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
