@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean."</i>
+<i>"You get in life what you have the courage to ask for."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
