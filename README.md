@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road."</i>
+<i>"Don't let the noise of others' opinions drown out your own inner voice."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
