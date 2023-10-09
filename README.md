@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is dangerous to be right in matters on which the established authorities are wrong."</i>
+<i>"Night is a more quiet time to work. It aids thought."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
