@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have a heart that never hardens, and a temper that never tires, and a touch that never hurts."</i>
+<i>"Do good, live in the most positive and joyful way possible every day."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
