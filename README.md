@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life can be the scariest and most beautiful thing simultaneously."</i>
+<i>"Remember the entrance to the sanctuary is inside you."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
