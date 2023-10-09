@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember the entrance to the sanctuary is inside you."</i>
+<i>"We may not be able to stop evil in the world, but how we treat one another is entirely up to us."</i>
 <br>
-<b>- Rumi</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
