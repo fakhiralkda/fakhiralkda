@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think and wonder, wonder and think."</i>
+<i>"You must welcome change as the rule but not as your ruler. "</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
