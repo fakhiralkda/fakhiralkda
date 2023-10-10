@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quiet people have the loudest minds."</i>
+<i>"When you have a dream, you've got to grab it and never let go."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
