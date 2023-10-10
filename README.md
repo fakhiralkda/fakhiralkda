@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We may not be able to stop evil in the world, but how we treat one another is entirely up to us."</i>
+<i>"We know nothing of tomorrow, our business is to be good and happy today."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
