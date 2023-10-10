@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't ever give up. I'd have to be dead or completely incapacitated."</i>
+<i>"As a man thinketh in his heart, so shall he be."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
