@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We know nothing of tomorrow, our business is to be good and happy today."</i>
+<i>"Anyone who reads a book with a sense of obligation does not understand the art of reading."</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
