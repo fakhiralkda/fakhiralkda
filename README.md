@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who reads a book with a sense of obligation does not understand the art of reading."</i>
+<i>"I can live without money, but I cannot live without love."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
