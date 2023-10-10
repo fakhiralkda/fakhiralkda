@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I can live without money, but I cannot live without love."</i>
+<i>"The journey, not the destination matters."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
