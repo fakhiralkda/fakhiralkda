@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are shaped and fashioned by what we love."</i>
+<i>"Winners are not people who never fail, but people who never quit."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
