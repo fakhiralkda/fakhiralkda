@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All life is a manifestation of the spirit, the manifestation of love."</i>
+<i>"Even if you stumble and fall down, it doesn't mean you've chosen the wrong path."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
