@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man becomes rich unless he enriches others."</i>
+<i>"Create with the heart; build with the mind."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
