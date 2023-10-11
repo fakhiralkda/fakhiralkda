@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you have a dream, you've got to grab it and never let go."</i>
+<i>"Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries."</i>
 <br>
-<b>- Carol Burnett</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
