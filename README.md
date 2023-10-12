@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All life is an experiment. The more experiments you make, the better."</i>
+<i>"Difficult roads often lead to beautiful destinations."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
