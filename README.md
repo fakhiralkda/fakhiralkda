@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If everyone is moving forward together, then success takes care of itself."</i>
+<i>"Reality is the leading cause of stress among those in touch with it."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
