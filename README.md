@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Optimism, when applied to your life, develops strength and peace within you."</i>
+<i>"Presents are made for the pleasure of who gives them, not the merits of who receives them."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
