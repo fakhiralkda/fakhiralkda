@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are born from a quiet sleep, and we die to a calm awakening"</i>
+<i>"Anyone telling you it's pointless to share your perspective is sharing their perspective."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
