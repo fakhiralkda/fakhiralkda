@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. "</i>
+<i>"Good things aren't supposed to just fall into your lap."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
