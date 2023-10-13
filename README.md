@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future doesn't belong to the faint-hearted; it belongs to the brave."</i>
+<i>"Time is a game played beautifully by children."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
