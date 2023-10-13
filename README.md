@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Champions keep playing until they get it right."</i>
+<i>"In order to be walked over, you have to be lying down."</i>
 <br>
-<b>- Billie Jean King</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
