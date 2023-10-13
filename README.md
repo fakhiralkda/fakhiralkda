@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time flies whether you are having fun or not."</i>
+<i>"A loving heart is the truest wisdom."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
