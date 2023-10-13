@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is changed by your example, not by your opinion."</i>
+<i>"The quality of your life is determined by the quality of your thoughts."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
