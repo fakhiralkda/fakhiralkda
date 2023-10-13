@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're brave enough to say goodbye, life will reward you with a new hello."</i>
+<i>"Time flies whether you are having fun or not."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
