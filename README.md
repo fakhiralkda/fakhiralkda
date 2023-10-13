@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why do you stay in prison when the door is so wide open?"</i>
+<i>"Champions keep playing until they get it right."</i>
 <br>
-<b>- Rumi</b>
+<b>- Billie Jean King</b>
 </blockquote>
 </p>
 
