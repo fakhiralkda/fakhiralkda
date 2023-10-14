@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Constantly think about how you could be doing things better."</i>
+<i>"We must be free not because we claim freedom, but because we practice it."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
