@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All human wisdom is contained in these two words - Wait and Hope"</i>
+<i>"If you don't program yourself, life will program you."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
