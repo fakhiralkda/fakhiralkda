@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must be free not because we claim freedom, but because we practice it."</i>
+<i>"If we all did the things we are capable of doing, we would literally astound ourselves."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
