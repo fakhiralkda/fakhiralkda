@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your home is where your thoughts find peace."</i>
+<i>"Vision is the art of seeing things invisible."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
