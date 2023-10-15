@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the middle of chaos lies opportunity.  "</i>
+<i>"Preoccupied with a single leaf you won't see the tree."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
