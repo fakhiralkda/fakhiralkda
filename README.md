@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Create with the heart; build with the mind."</i>
+<i>"You will succeed because most people are lazy."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Shahir Zag</b>
 </blockquote>
 </p>
 
