@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The past has no power over the present moment. "</i>
+<i>"No need to hurry. No need to sparkle. No need to be anybody but oneself."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
