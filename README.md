@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Vision is the art of seeing things invisible."</i>
+<i>"Take responsibility of your own happiness, never put it in other people's hands."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
