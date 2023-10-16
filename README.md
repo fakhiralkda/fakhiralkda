@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never let the fear of striking out keep you from playing the game."</i>
+<i>"Let us rather run the risk of wearing out than rusting out."</i>
 <br>
-<b>- Babe Ruth</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
