@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't know who is important to you until you actually lose them."</i>
+<i>"I am who I am today because of the choices I made yesterday."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
