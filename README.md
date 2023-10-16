@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity."</i>
+<i>"Make improvements, not excuses. Seek respect, not attention."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
