@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make improvements, not excuses. Seek respect, not attention."</i>
+<i>"Never let the fear of striking out keep you from playing the game."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Babe Ruth</b>
 </blockquote>
 </p>
 
