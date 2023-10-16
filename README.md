@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"None but ourselves can free our minds."</i>
+<i>"You don't know who is important to you until you actually lose them."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
