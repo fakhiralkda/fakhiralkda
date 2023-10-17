@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't allow your mind to tell your heart what to do. The mind gives up easily."</i>
+<i>"It always seems impossible until it's done."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
