@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Closing your eyes and listening to silence is self-care."</i>
+<i>"What are we doing here, that is the question."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
