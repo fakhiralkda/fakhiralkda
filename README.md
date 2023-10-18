@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The merit of all things lies in their difficulty."</i>
+<i>"If your happiness depends on what somebody else does, I guess you do have a problem."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
