@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is an option, fear is not."</i>
+<i>"How to get more opportunity: Create more opportunity for others."</i>
 <br>
-<b>- James Cameron</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
