@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If the grass is greener on the other side, maybe that's because you're not taking good care of your grass."</i>
+<i>"Try all things, hold fast that which is good."</i>
 <br>
-<b>- Unknown</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
