@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It always seems impossible until it's done."</i>
+<i>"Don´t hesitate or allow yourself to make excuses. Just get out and do it."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
