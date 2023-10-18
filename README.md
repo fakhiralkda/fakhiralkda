@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If there is a book that you want to read, but it hasn't been written yet, then you must write it."</i>
+<i>"You can easily judge the character of a man by how he treats those who can do nothing for him."</i>
 <br>
-<b>- Toni Morrison</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
