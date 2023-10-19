@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A dream doesn't become reality through magic it takes sweat, determination and hard work."</i>
+<i>"The moment you doubt whether you can fly, you cease for ever to be able to do it."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
