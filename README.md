@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Exceptional thinkers ignore their critics and go about their business making history."</i>
+<i>"So long as we are being remembered, we remain alive."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
