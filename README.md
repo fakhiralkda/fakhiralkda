@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"So long as we are being remembered, we remain alive."</i>
+<i>"Allow motion to equal emotion."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
