@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Although the world is full of suffering, it is also full of the overcoming of it."</i>
+<i>"You cannot swim for new horizons until you have courage to lose sight of the shore."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
