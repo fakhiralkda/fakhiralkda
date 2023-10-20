@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Discipline is the mark of intelligent living."</i>
+<i>"It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
