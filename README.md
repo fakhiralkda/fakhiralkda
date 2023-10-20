@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give a girl the right shoes, and she can conquer the world."</i>
+<i>"They who have conquered doubt and fear have conquered failure."</i>
 <br>
-<b>- Bette Midler</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
