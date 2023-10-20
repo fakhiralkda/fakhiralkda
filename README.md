@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want."</i>
+<i>"The beautiful journey of today can only begin when we learn to let go of yesterday."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
