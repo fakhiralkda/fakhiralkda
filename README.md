@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are patient in one moment of anger, you will escape a hundred days of sorrow. "</i>
+<i>"Blessed is he who expects nothing, for he shall never be disappointed."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
