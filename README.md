@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing you do is going to matter that much in the long run. Don't take yourself so seriously."</i>
+<i>"It isn't that they can't see the solution. It is that they can't see the problem."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
