@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It isn't that they can't see the solution. It is that they can't see the problem."</i>
+<i>"Hope and fear come from feeling that we lack something; they come from a sense of poverty."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
