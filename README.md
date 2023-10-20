@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The beautiful journey of today can only begin when we learn to let go of yesterday."</i>
+<i>"If you are patient in one moment of anger, you will escape a hundred days of sorrow. "</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
