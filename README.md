@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We would accomplish many more things if we did not think of them as impossible."</i>
+<i>"Presents are made for the pleasure of who gives them, not the merits of who receives them."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
