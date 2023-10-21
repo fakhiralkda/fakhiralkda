@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams are the royal road to the unconscious. "</i>
+<i>"Always remember that you are absolutely unique. Just like everyone else. "</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
