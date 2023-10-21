@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform."</i>
+<i>"We would accomplish many more things if we did not think of them as impossible."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
