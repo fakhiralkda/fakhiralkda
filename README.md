@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The great use of life is to spend it for something that will outlast it."</i>
+<i>"Life is ours to be spent, not to be saved. "</i>
 <br>
-<b>- William James</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
