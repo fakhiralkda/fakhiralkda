@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your gift is something that you can do innately better than anything else."</i>
+<i>"Most people fail in life because they major in minor things."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
