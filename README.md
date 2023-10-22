@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unless a man is master of his soul, all other kinds of mastery amount to little."</i>
+<i>"Stop wasting time looking at someone else's reality while doing nothing about yours."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
