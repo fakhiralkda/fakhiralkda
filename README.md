@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you think the world is withholding from you, you are withholding from the world."</i>
+<i>"Your gift is something that you can do innately better than anything else."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
