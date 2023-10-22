@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let each man exercise the art he knows."</i>
+<i>"Being wrong opens us up to the possibility of change."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
