@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people fail in life because they major in minor things."</i>
+<i>"What you do today can improve all your tomorrows."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
