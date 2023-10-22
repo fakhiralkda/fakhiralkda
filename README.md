@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is an option, fear is not."</i>
+<i>"The giving of love is an education in itself."</i>
 <br>
-<b>- James Cameron</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
