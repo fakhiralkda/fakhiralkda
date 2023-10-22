@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you do today can improve all your tomorrows."</i>
+<i>"However difficult life may seem, there is always something you can do and succeed at."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
