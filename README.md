@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"However difficult life may seem, there is always something you can do and succeed at."</i>
+<i>"It is not as important how we start, but how we finish."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
