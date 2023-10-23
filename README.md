@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Embody what you teach, and teach only what you have embodied."</i>
+<i>"Believe and you're halfway there."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
