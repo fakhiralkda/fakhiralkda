@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes things become possible if we want them bad enough."</i>
+<i>"By changing nothing, nothing changes."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
