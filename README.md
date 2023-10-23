@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all in the gutter, but some of us are looking at the stars. "</i>
+<i>"Respect other people's feelings. It might mean nothing to you, but it could mean everything to them."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
