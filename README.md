@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm not afraid of death, but I'm in no hurry to die."</i>
+<i>"How to get more opportunity: Create more opportunity for others."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
