@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How to get more opportunity: Create more opportunity for others."</i>
+<i>"People become attached to their burdens sometimes more than the burdens are attached to them."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
