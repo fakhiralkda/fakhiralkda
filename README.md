@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People are doing the best that they can from their own level of consciousness."</i>
+<i>"When we think about our strengths, we are strong. When we think about our weaknesses, we are weak."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Peter A. Cohen</b>
 </blockquote>
 </p>
 
