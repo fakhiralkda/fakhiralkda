@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we think about our strengths, we are strong. When we think about our weaknesses, we are weak."</i>
+<i>"Surround yourself only with people who are going to take you higher."</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
