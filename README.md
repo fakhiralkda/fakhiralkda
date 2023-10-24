@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People become attached to their burdens sometimes more than the burdens are attached to them."</i>
+<i>"We don't stop playing because we grow old; we grow old because we stop playing."</i>
 <br>
 <b>- George Bernard Shaw</b>
 </blockquote>
