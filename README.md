@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</i>
+<i>"The more something scares you, the more you should do it."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
