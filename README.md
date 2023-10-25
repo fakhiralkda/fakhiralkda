@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whether you think you can or think you can't – you are right."</i>
+<i>"Simplicity is a difficult thing to achieve.  "</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
