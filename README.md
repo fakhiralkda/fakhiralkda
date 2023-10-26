@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Exceptional thinkers ignore their critics and go about their business making history."</i>
+<i>"The only limits in our life are those we impose on ourselves."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
