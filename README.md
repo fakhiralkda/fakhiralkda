@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing others is wisdom, knowing yourself is enlightenment."</i>
+<i>"Don't wish it were easier, wish you were better."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
