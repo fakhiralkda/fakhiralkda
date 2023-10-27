@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are never too old to set another goal or to dream a new dream."</i>
+<i>"Whoever is happy will make others happy too."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
