@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person who cannot control his words shows that he cannot control himself."</i>
+<i>"The quality of your life is the quality of your relationships."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
