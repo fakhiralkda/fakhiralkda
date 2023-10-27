@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lust, anger and greed are the three gates to self-destructive hell."</i>
+<i>"When the fish is caught we pay no more attention to the trap."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
