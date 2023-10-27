@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the fish is caught we pay no more attention to the trap."</i>
+<i>"The most courageous act is still to think for yourself. Aloud."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
