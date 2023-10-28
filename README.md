@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!"</i>
+<i>"When angry count to ten before you speak. If very angry, count to one hundred."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
