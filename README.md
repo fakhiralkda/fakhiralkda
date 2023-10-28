@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As you think, you travel, and as you love, you attract."</i>
+<i>"Even the finest sword plunged into salt water will eventually rust."</i>
 <br>
-<b>- James Allen</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
