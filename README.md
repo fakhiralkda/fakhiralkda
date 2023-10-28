@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can change your mind, you can change your life."</i>
+<i>"The more perfect a person is on the outside, the more demons they have on the inside."</i>
 <br>
-<b>- William James</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
