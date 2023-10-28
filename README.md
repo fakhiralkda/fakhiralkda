@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most courageous act is still to think for yourself. Aloud."</i>
+<i>"The trouble with most of us is that we'd rather be ruined by praise than saved by criticism."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
