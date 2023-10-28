@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more perfect a person is on the outside, the more demons they have on the inside."</i>
+<i>"As you think, you travel, and as you love, you attract."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
