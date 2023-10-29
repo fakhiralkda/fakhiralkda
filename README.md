@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must embrace pain and burn it as fuel for our journey."</i>
+<i>"No man is happy unless he believes he is."</i>
 <br>
-<b>- Kenji Miyazawa</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
