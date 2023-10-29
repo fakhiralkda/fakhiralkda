@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your dream has to be bigger than your fear."</i>
+<i>"The enemy is a very good teacher."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
