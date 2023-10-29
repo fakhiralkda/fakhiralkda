@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man is happy unless he believes he is."</i>
+<i>"Work harder on yourself than you do on your job."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
