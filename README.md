@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When angry count to ten before you speak. If very angry, count to one hundred."</i>
+<i>"To travel is to be alive, but to get somewhere is to be dead."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
