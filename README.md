@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Begin now to be what you will be hereafter."</i>
+<i>"Keep your face always toward the sunshine -  shadows will fall behind you."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
