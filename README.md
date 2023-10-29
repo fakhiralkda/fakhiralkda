@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your time is limited, so don't waste it living someone elses. life."</i>
+<i>"Your dream has to be bigger than your fear."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
