@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To travel is to be alive, but to get somewhere is to be dead."</i>
+<i>"Begin now to be what you will be hereafter."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
