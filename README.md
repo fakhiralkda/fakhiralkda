@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work harder on yourself than you do on your job."</i>
+<i>"Your time is limited, so don't waste it living someone elses. life."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
