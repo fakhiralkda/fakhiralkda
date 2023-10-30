@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself."</i>
+<i>"Human beings believe just as they breathe - in order to survive."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
