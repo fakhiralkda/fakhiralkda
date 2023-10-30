@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice."</i>
+<i>"Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
