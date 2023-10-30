@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lack of direction, not lack of time, is the problem. We all have twenty-four hour days."</i>
+<i>"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
