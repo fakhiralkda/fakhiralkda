@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no limit to the amount of good you can do if you don't care who gets the credit."</i>
+<i>"Lack of direction, not lack of time, is the problem. We all have twenty-four hour days."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
