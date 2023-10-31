@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not the knowing that is difficult, but the doing. "</i>
+<i>"Confidence is contagious. So is lack of confidence."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
