@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Realistic people do not accomplish extraordinary things."</i>
+<i>"It is not the knowing that is difficult, but the doing. "</i>
 <br>
-<b>- John Eliot</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
