@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where violence reigns, reason is weak."</i>
+<i>"Realistic people do not accomplish extraordinary things."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
