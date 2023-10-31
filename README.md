@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is contagious. So is lack of confidence."</i>
+<i>"The great use of life is to spend it for something that will outlast it."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
