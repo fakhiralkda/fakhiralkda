@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be brave enough to suck at something new."</i>
+<i>"Sometimes good things fall apart so better things can fall together."</i>
 <br>
-<b>- Unknown</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
