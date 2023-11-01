@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you run you stand a chance of losing, but if you don't run you've already lost."</i>
+<i>"The greatest miracle is to be alive."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
