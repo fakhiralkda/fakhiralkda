@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friends ask you questions; enemies question you."</i>
+<i>"We must accept finite disappointment, but never lose infinite hope."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
