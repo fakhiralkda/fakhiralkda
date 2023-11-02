@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man gotta right to decide his own destiny."</i>
+<i>"One always begins to forgive a place as soon as it's left behind."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
