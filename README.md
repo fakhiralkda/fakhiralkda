@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Seek not the good in external things;seek it in yourselves."</i>
+<i>"Everybody's life is either rewarding or an example."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
