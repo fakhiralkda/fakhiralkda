@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest miracle is to be alive."</i>
+<i>"Every man gotta right to decide his own destiny."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
