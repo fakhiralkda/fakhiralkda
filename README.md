@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Turn off your mind, relax, and float downstream."</i>
+<i>"Lying can never save us from another lie."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
