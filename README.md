@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friends ask you questions; enemies question you."</i>
+<i>"Fashion fades, only style remains the same."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
