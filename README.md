@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is never final, failure is never fatal. It's courage that counts."</i>
+<i>"If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
