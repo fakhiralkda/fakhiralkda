@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fashion fades, only style remains the same."</i>
+<i>"Your problem isn't the problem. Your reaction is the problem."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
