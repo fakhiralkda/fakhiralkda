@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By words the mind is winged."</i>
+<i>"We've got to live, no matter how many skies have fallen."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
