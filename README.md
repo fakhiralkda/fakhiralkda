@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You drown not by falling into a river, but by staying submerged in it."</i>
+<i>"By words the mind is winged."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
