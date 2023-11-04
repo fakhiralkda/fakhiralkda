@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before preparing to improve the world, first look around your own home three times. "</i>
+<i>"Rivers know this: there is no hurry. We shall get there some day."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
