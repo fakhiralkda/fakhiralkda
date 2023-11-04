@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who cheats the earth will be cheated by the earth."</i>
+<i>"Heart is what separates the good from the great."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
