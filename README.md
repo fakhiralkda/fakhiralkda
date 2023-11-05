@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never stand begging for that which you have the power to earn."</i>
+<i>"It is well known that those who do not trust themselves never trust others."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
