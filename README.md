@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thinking will not overcome fear but action will. "</i>
+<i>"If you tell the truth, you don't have to remember anything."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
