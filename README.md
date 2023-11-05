@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you tell the truth, you don't have to remember anything."</i>
+<i>"Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
