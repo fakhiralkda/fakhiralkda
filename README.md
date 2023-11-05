@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Common sense is not so common. "</i>
+<i>"Never stand begging for that which you have the power to earn."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
