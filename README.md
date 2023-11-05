@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fashion fades, only style remains the same."</i>
+<i>"People think about what they don't want and attract more of the same."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
