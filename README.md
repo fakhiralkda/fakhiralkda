@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Amateurs sit and wait for inspiration, the rest of us just get up and got to work."</i>
+<i>"Understanding that rests in what it does not understand is the finest."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
