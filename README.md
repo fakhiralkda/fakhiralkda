@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Understanding that rests in what it does not understand is the finest."</i>
+<i>"What's right is what's left if you do everything else wrong."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
