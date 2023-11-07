@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace is not the absence of conflict, but the ability to cope with it."</i>
+<i>"A dream doesn't become reality through magic it takes sweat, determination and hard work."</i>
 <br>
-<b>- Unknown</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
