@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All power is from within and therefore under our control."</i>
+<i>"Peace is not the absence of conflict, but the ability to cope with it."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
