@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything eaten is killed. Every meal is a sacrifice."</i>
+<i>"The glow of one warm thought is to me worth more than money."</i>
 <br>
-<b>- Adi Da Samraj</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
