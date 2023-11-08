@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little."</i>
+<i>"What the eye doesn't see and the mind doesn't know, doesn't exist."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
