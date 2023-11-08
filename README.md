@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no mistakes in life, only lessons."</i>
+<i>"The most difficult times for many of us are the ones we give ourselves."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
