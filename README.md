@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What worries you, masters you."</i>
+<i>"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."</i>
 <br>
-<b>- John Locke</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
