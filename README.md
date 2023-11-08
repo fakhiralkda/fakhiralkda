@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We think too much and feel too little."</i>
+<i>"Make no small plans for they have no power to stir the soul."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
