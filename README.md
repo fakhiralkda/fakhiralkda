@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."</i>
+<i>"To the mind that is still, the whole universe surrenders."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
