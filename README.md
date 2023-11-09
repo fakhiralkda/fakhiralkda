@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge."</i>
+<i>"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. "</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
