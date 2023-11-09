@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To escape from the world means that one's mind is not concerned with the opinions of the world."</i>
+<i>"Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams."</i>
 <br>
-<b>- Dogen</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
