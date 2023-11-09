@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may delay, but time will not."</i>
+<i>"The idea of ourselves is our escape from the fact of what we really are."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
