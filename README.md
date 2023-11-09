@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For every minute you are angry you lose sixty seconds of happiness."</i>
+<i>"The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
