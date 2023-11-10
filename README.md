@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An un-examined life is not worth living."</i>
+<i>"Not all those who wander are lost."</i>
 <br>
-<b>- Socrates</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
