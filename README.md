@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Faithless is he that says farewell when the road darkens."</i>
+<i>"Art is the signature of civilizations. "</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
