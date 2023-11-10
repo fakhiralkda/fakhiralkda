@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anything you may hold firmly in your imagination can be yours."</i>
+<i>"Who wishes to fight must first count the cost."</i>
 <br>
-<b>- William James</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
