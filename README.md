@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do your duty and a little more and the future will take care of itself."</i>
+<i>"To improve is to change, so to be perfect is to change often."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
