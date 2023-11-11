@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play."</i>
+<i>"It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way."</i>
 <br>
 <b>- Alan Watts</b>
 </blockquote>
