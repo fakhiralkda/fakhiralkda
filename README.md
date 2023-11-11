@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future belongs to those who believe in the beauty of their dreams."</i>
+<i>"Do your duty and a little more and the future will take care of itself."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
