@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives."</i>
+<i>"Here is the test to find whether your mission on earth is finished. If you're alive, it isn't."</i>
 <br>
-<b>- Betty White</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
