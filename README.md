@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom itself demands discomfort."</i>
+<i>"When you're the only sane person, you look like the only insane person."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
