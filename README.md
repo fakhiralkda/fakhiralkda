@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding."</i>
+<i>"Faithless is he that says farewell when the road darkens."</i>
 <br>
-<b>- John D. Rockefeller</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
