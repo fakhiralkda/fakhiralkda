@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you're the only sane person, you look like the only insane person."</i>
+<i>"Don't seek, don't search, don't ask, don't knock, don't demand - relax."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
