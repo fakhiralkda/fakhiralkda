@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't want anything. Then you get everything."</i>
+<i>"Your vision will become clear only when you can look into your own heart."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
