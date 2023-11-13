@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The search for happiness is one of the chief sources of unhappiness."</i>
+<i>"Don't want anything. Then you get everything."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Seungsahn</b>
 </blockquote>
 </p>
 
