@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your vision will become clear only when you can look into your own heart."</i>
+<i>"Imagination means nothing without doing.  "</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
