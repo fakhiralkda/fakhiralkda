@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through."</i>
+<i>"The more you are motivated by Love, The more Fearless & Free your action will be."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
