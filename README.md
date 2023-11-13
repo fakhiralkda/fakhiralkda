@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever your mind can conceive and believe, it can achieve."</i>
+<i>"Your heart is the size of an ocean. Go find yourself in its hidden depths."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
