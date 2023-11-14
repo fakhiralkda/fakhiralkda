@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one ever said life was fair. Just Eventful."</i>
+<i>"A creative man is motivated by the desire to achieve, not by the desire to beat others."</i>
 <br>
-<b>- Carol Burnett</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
