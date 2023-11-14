@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to predict your future is to create it."</i>
+<i>"A golden cage is still just a cage."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
