@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you decide to do, make sure it makes you happy."</i>
+<i>"People who belittle people, will be LITTLE people, and will accomplish very Little"</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
