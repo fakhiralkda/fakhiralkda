@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A day wasted on others is not wasted on one's self."</i>
+<i>"You cannot have a positive life and a negative mind."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
