@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot have a positive life and a negative mind."</i>
+<i>"No one ever said life was fair. Just Eventful."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
