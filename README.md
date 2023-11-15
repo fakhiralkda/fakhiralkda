@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't allow your mind to tell your heart what to do. The mind gives up easily."</i>
+<i>"Friendship takes time and energy if it's going to work."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
