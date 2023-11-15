@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The positive thinker sees the invisible, feels the intangible, and achieves the impossible."</i>
+<i>"If the only prayer you ever say in your entire life is thank you, it will be enough."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
