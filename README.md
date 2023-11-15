@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day passes whether you participate or not."</i>
+<i>"I begin with an idea and then it becomes something else."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
