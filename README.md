@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live your life and forget your age."</i>
+<i>"Happiness is not something ready made. It comes from your own actions."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
