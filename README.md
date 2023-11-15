@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Receive without pride, let go without attachment."</i>
+<i>"Live your life and forget your age."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
