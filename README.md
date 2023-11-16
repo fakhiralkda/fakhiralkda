@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most courageous act is still to think for yourself. Aloud."</i>
+<i>"Numbing the pain for a while will make it worse when you finally feel it."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
