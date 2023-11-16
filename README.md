@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Numbing the pain for a while will make it worse when you finally feel it."</i>
+<i>"Don't seek, don't search, don't ask, don't knock, don't demand - relax."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
