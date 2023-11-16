@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers."</i>
+<i>"Working hard for something we don't care about is called stress: Working hard for something we love is called passion."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
