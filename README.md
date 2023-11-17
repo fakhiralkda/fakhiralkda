@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human happiness and moral duty are inseparably connected. "</i>
+<i>"Love is not about possession. Love is about appreciation."</i>
 <br>
-<b>- George Washington</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
