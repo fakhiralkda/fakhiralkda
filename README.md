@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wrong turns are as important as right turns. More important, sometimes."</i>
+<i>"Pleasure in the job puts perfection in the work."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
