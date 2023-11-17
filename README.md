@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Zen insists that the whole trouble is just our failure to realize that there is no problem."</i>
+<i>"We are all born ignorant, but one must work hard to remain stupid."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
