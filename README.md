@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life may be full of pain but that's not an excuse to give up."</i>
+<i>"Zen insists that the whole trouble is just our failure to realize that there is no problem."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
