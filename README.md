@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pleasure in the job puts perfection in the work."</i>
+<i>"Great minds discuss ideas. Average minds discuss events. Small minds discuss people."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
