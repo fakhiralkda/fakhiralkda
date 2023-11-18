@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is ten percent what you experience and ninety percent how you respond to it."</i>
+<i>"Formal education will make you a living, self-education will make you a fortune."</i>
 <br>
-<b>- Unknown</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
