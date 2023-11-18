@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make each day a new horizon."</i>
+<i>"Things may come to those who wait, but only the things left by those who hustle."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
