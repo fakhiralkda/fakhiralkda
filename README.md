@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't have to control your thoughts; you just have to stop letting them control you."</i>
+<i>"Life is ten percent what you experience and ninety percent how you respond to it."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
