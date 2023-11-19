@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be prepared is half the victory. "</i>
+<i>"Integrity is the ability to stand by an idea."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
