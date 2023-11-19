@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience is bitter, but its fruit is sweet."</i>
+<i>"Our stories may be singular, but our destination is shared."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
