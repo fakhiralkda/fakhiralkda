@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one has ever become poor by giving."</i>
+<i>"Never settle for the crumbs of life."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
