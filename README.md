@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is like the sun. You can shut it out for a time, but it ain't going away."</i>
+<i>"Patience is bitter, but its fruit is sweet."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
