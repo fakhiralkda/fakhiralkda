@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Money poisons you when you've got it, and starves you when you haven't."</i>
+<i>"Each time we don't say what we wanna say, we're dying."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
