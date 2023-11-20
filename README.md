@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each time we don't say what we wanna say, we're dying."</i>
+<i>"You Create Your Own Present By What You Give Your Attention To Today."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
