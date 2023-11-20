@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today will never happen again. Don't waste it with a false start or no start at all."</i>
+<i>"Experience is a comb which nature gives us when we are bald. "</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
