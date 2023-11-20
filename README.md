@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The whole is greater than the sum of its parts."</i>
+<i>"It is our choices that show what we truly are, far more than our abilities."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
