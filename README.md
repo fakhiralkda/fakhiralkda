@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no one giant step that does it. It's a lot of little steps."</i>
+<i>"Your dream has to be bigger than your fear."</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
