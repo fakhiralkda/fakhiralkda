@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fishing is much more than fish."</i>
+<i>"The sweetest pleasure arises from difficulties overcome."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
