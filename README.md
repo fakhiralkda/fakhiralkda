@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The season of failure is the best time for sowing the seeds of success. "</i>
+<i>"Even though you are on the right track - you will get run over if you just sit there."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
