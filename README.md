@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The sweetest pleasure arises from difficulties overcome."</i>
+<i>"When at last you are come to the ocean of happiness, do not go back thirsty."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
