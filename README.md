@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Coming together is a beginning, staying together is progress, and working together is success. "</i>
+<i>"A diamond is a piece of charcoal that handled stress exceptionally well."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
