@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is not a four letter word...but often your reaction to it is!"</i>
+<i>"Each path to knowledge involves different rules and these rules are not interchangeable."</i>
 <br>
-<b>- Jeffrey Gitomer</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
