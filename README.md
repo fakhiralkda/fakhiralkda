@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one thing that makes a dream impossible to achieve: the fear of failure."</i>
+<i>"Coming together is a beginning, staying together is progress, and working together is success. "</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
