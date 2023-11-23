@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is hard to fail, but it is worse never to have tried to succeed."</i>
+<i>"If I cannot do great things. I can do small things in a great way."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
