@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I cannot do great things. I can do small things in a great way."</i>
+<i>"Either write something worth reading or do something worth writing."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
