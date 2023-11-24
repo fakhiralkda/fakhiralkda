@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are free, and that is why you are lost."</i>
+<i>"The greatest of empires, is the empire over one's self."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
