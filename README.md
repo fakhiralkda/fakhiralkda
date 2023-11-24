@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The successful warrior is the average man, with laser-like focus."</i>
+<i>"To lead the people, walk behind them."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
