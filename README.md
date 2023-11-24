@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A gentleman is one who puts more into the world than he takes out."</i>
+<i>"You are free, and that is why you are lost."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
