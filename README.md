@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never put off to tomorrow what you can do to-day."</i>
+<i>"The successful warrior is the average man, with laser-like focus."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
