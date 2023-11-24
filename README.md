@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To lead the people, walk behind them."</i>
+<i>"Of all men's miseries the bitterest is this: to know so much and to have control over nothing. "</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
