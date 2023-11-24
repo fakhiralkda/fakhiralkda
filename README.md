@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed."</i>
+<i>"Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
