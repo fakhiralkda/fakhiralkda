@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Doing what you love is the cornerstone of having abundance in your life. "</i>
+<i>"People think you're crazy if you talk about things they don't understand."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
