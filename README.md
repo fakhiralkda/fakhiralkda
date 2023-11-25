@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throughout this life, you can never be certain of living long enough to take another breath."</i>
+<i>"Embrace the life you have and stop wishing that you could be someone else."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
