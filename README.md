@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Of all men's miseries the bitterest is this: to know so much and to have control over nothing. "</i>
+<i>"No man is free who is not master of himself."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
