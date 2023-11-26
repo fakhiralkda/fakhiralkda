@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is like the sun. You can shut it out for a time, but it ain't going away."</i>
+<i>"Do the difficult things while they are easy and do the great things while they are small."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
