@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every strike brings me closer to the next home run. "</i>
+<i>"Your setback is just a setup for a comeback."</i>
 <br>
-<b>- Babe Ruth</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
