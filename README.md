@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who look for the bad in people will surely find it."</i>
+<i>"Every strike brings me closer to the next home run. "</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Babe Ruth</b>
 </blockquote>
 </p>
 
