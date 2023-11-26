@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no second chances in life, except to feel remorse."</i>
+<i>"In the middle of chaos lies opportunity.  "</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
