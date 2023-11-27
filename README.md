@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always focus on the front windshield and not the rear view mirror."</i>
+<i>"Thoughts become things. If you see it in your mind, you will hold it in your hand."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
