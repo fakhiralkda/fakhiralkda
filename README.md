@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pain of parting is nothing to the joy of meeting again."</i>
+<i>"Always focus on the front windshield and not the rear view mirror."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
