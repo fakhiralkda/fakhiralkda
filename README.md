@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one is useless in this world who lightens the burdens of another."</i>
+<i>"Everything you've ever wanted is on the other side of fear."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
