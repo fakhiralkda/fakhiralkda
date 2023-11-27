@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Obstacles don't block the path, they are the path."</i>
+<i>"If life were predictable it would cease to be life, and be without flavor."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
