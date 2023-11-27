@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If life were predictable it would cease to be life, and be without flavor."</i>
+<i>"The desire for more positive experience is itself a negative experience."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
