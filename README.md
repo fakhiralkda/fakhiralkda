@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no limitations except those we create for ourselves."</i>
+<i>"The mind is the limit."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
