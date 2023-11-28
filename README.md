@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One small positive thought can change your whole day."</i>
+<i>"There is no limitations except those we create for ourselves."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
