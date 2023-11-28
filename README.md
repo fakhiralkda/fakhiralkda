@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have to give up some of the old so that you can make room for the new."</i>
+<i>"A dead thing can go with the stream, but only a living thing can go against it."</i>
 <br>
-<b>- Yanni</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
