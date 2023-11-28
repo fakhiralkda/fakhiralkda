@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you judge others, you do not define them, you define yourself."</i>
+<i>"Life is the dancer and you are the dance."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
