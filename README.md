@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Animals don't hate, and we're supposed to be better than them."</i>
+<i>"When you judge others, you do not define them, you define yourself."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
