@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The educated differ from the uneducated as much as the living differ from the dead."</i>
+<i>"We are all different. Don't judge, understand instead."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
