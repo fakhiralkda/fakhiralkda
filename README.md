@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one is useless in this world who lightens the burdens of another."</i>
+<i>"You are what you believe in. You become that which you believe you can become."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
