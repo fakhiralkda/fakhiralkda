@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are what you believe in. You become that which you believe you can become."</i>
+<i>"He who laughs at himself never runs out of things to laugh at."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
