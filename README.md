@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Treat everyone with politeness and kindness, not because they are nice, but because you are."</i>
+<i>"There exists only the present instant; a Now which always and without end is itself new."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
