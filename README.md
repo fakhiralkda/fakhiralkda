@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember that the best relationship is one in which your love for each other exceeds your need for each other."</i>
+<i>"The measure of wisdom is how calm you are when facing any given situation."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
