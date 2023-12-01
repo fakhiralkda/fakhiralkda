@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why do you stay in prison when the door is so wide open?"</i>
+<i>"Success is liking yourself, liking what you do, and liking how you do it."</i>
 <br>
-<b>- Rumi</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
