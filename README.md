@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People have the illusion that all over the world, all the time, all kinds of fantastic things are happening."</i>
+<i>"Never be bored, and you will never be boring."</i>
 <br>
-<b>- David Brinkley</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
