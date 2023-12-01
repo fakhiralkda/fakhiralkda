@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Teachers open the door. You enter by yourself. "</i>
+<i>"We are all different. Don't judge, understand instead."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
