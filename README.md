@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is liking yourself, liking what you do, and liking how you do it."</i>
+<i>"To know your Enemy, you must become your Enemy."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
