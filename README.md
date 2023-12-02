@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed is he who expects nothing, for he shall be disappointed."</i>
+<i>"The only real security that a man can have in this world is a reserve of knowledge, experience and ability. "</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
