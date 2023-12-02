@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If it entertains you now but will bore you someday, it's a distraction. Keep looking."</i>
+<i>"Blessed is he who expects nothing, for he shall be disappointed."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
