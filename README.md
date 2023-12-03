@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Persistence is very important. You should not give up unless you are forced to give up."</i>
+<i>"To wish you were someone else is to waste the person you are."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
