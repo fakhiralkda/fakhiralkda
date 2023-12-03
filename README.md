@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You get in life what you have the courage to ask for."</i>
+<i>"Persistence is very important. You should not give up unless you are forced to give up."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
