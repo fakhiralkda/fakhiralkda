@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Passion creates, addiction consumes."</i>
+<i>"The world is a puzzle; no need to make sense out of it."</i>
 <br>
-<b>- Gabor Mate</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
