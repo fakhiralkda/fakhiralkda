@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let someone elses. opinion become your reality."</i>
+<i>"No man is free who is not master of himself."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
