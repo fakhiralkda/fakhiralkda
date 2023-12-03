@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The whole is greater than the sum of its parts."</i>
+<i>"Don't let someone elses. opinion become your reality."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
