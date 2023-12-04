@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We become brave by doing brave acts."</i>
+<i>"Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
