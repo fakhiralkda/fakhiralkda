@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man ever steps in the same river twice, for it's not the same river and he's not the same man."</i>
+<i>"Take away love and our earth is a tomb."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Robert Browning</b>
 </blockquote>
 </p>
 
