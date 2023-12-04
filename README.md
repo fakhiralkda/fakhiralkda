@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why change? Everyone has his own style. When you have found it, you should stick to it."</i>
+<i>"First say to yourself what you would be; and then do what you have to do."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
