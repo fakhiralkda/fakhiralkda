@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of happiness is not in doing what you like but in liking what you have to do."</i>
+<i>"No man ever steps in the same river twice, for it's not the same river and he's not the same man."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
