@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage Is a Love Affair with the Unknown"</i>
+<i>"Throughout this life, you can never be certain of living long enough to take another breath."</i>
 <br>
-<b>- Osho</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
