@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great things are not done by impulse, but by a series of small things brought together."</i>
+<i>"When you can't make them see the light, make them feel the heat."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
