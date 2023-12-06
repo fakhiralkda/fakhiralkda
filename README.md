@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"At the end of the day, let there be no excuses, no explanations, no regrets."</i>
+<i>"Confidence is like a dragon where, for every head cut off, two more heads grow back."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
