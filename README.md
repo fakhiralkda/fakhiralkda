@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who cheats the earth will be cheated by the earth."</i>
+<i>"You cannot find peace avoiding life."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
