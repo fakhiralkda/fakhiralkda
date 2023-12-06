@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If there is a book that you want to read, but it hasn't been written yet, then you must write it."</i>
+<i>"At the end of the day, let there be no excuses, no explanations, no regrets."</i>
 <br>
-<b>- Toni Morrison</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
