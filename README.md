@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never waste a minute of your precious life thinking about people you don't like."</i>
+<i>"What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
