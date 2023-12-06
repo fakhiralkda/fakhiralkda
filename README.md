@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The desire for more positive experience is itself a negative experience."</i>
+<i>"He who cheats the earth will be cheated by the earth."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
