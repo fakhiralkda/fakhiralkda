@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no sadder sight than a young pessimist."</i>
+<i>"There are three classes of people: those who see. Those who see when they are shown. Those who do not see."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
