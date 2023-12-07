@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is little success where there is little laughter."</i>
+<i>"He who leaves the game wins it."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
