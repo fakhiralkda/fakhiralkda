@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best revenge is to be unlike him who performed the injury."</i>
+<i>"There is little success where there is little laughter."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
