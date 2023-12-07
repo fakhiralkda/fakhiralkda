@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who leaves the game wins it."</i>
+<i>"What gets measured gets improved."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
