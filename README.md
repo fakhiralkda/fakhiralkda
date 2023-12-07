@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He will win who knows when to fight and when not to fight."</i>
+<i>"The best revenge is to be unlike him who performed the injury."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
