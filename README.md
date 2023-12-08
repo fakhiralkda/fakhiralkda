@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let anyone define you. You define yourself."</i>
+<i>"When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done."</i>
 <br>
-<b>- Billie Jean King</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
