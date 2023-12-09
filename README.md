@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot push anyone up a ladder unless he is willing to climb a little himself."</i>
+<i>"A golden cage is still just a cage."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
