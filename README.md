@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A golden cage is still just a cage."</i>
+<i>"Our attitude toward life determines life's attitude towards us."</i>
 <br>
-<b>- Anita Krizzan</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
