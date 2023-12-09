@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Open your eyes and look within. Are you satisfied with the life you're living?"</i>
+<i>"Where you are right now doesn't have to determine where you'll end up."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
