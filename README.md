@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where you are right now doesn't have to determine where you'll end up."</i>
+<i>"I am who I am today because of the choices I made yesterday."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
