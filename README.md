@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be able to forget means sanity."</i>
+<i>"Don't cry because it's over. Smile because it happened."</i>
 <br>
-<b>- Jack London</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
