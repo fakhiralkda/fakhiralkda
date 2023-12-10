@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Correct what you can. Learn from what you can't."</i>
+<i>"The energy of the mind is the essence of life."</i>
 <br>
-<b>- Toni Morrison</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
