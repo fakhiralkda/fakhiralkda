@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hope is a waking dream."</i>
+<i>"To achieve, you need thought. You have to know what you are doing and that's real power."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
