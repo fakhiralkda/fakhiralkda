@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't cry because it's over. Smile because it happened."</i>
+<i>"Boldness makes even the smallest animal dangerous."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
