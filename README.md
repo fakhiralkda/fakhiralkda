@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great things are not done by impulse, but by a series of small things brought together."</i>
+<i>"If you tell the truth, you don't have to remember anything."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
