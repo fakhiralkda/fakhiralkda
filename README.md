@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way."</i>
+<i>"No need to hurry. No need to sparkle. No need to be anybody but oneself."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
