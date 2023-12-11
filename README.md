@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To handle yourself, use your head; to handle others, use your heart."</i>
+<i>"Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?"</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
