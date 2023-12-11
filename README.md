@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great loves too must be endured."</i>
+<i>"True knowledge exists in knowing that you know nothing."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
