@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a journey, not a destination."</i>
+<i>"Focus is a matter of deciding what things you're not going to do."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- John Carmack</b>
 </blockquote>
 </p>
 
