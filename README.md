@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good entrepreneurs don't fail because they stay at it."</i>
+<i>"Be mindful. Be grateful. Be positive. Be true. Be kind."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
