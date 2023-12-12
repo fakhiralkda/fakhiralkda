@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be mindful. Be grateful. Be positive. Be true. Be kind."</i>
+<i>"The nearer a man comes to a calm mind, the closer he is to strength."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
