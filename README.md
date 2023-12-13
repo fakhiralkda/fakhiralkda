@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience is not the ability to wait but the ability to keep a good attitude while waiting."</i>
+<i>"He who is untrue to his own cause cannot command the respect of others."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
