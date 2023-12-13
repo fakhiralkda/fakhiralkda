@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who is untrue to his own cause cannot command the respect of others."</i>
+<i>"It's much better to do good in a way that no one knows anything about it."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
