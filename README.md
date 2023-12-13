@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tragedy is a tool for the living to gain wisdom, not a guide by which to live."</i>
+<i>"Intelligent men are cruel. Stupid men are monstrously cruel."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
