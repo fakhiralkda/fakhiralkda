@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Care about what other people think and you will always be their prisoner."</i>
+<i>"We become brave by doing brave acts."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
