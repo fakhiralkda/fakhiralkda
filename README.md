@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are lucky enough to find love, remember it is there and don't throw it away."</i>
+<i>"Whether you have a problem in your life or not depends upon your own attitude, your own understanding."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
