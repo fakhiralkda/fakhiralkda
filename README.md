@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. "</i>
+<i>"The positive thinker sees the invisible, feels the intangible, and achieves the impossible."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
