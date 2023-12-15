@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The measure of wisdom is how calm you are when facing any given situation."</i>
+<i>"The only limits in our life are those we impose on ourselves."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
