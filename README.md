@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is feedback. Learn from it and move on."</i>
+<i>"If we are not able to smile, then the world will not have peace."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
