@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace."</i>
+<i>"When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
