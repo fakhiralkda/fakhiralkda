@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your success and happiness lie in you."</i>
+<i>"Failure is feedback. Learn from it and move on."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
