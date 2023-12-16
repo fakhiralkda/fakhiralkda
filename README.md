@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not how high you have climbed, but how you make a positive difference to the world."</i>
+<i>"Progress is impossible without change, and those who cannot change their minds cannot change anything."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
