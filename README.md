@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Progress is impossible without change, and those who cannot change their minds cannot change anything."</i>
+<i>"Do not ignore the passion that burns in you. Spend time to discover your gift."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
