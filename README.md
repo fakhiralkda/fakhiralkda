@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quality, not the longevity, of one's life is what is important."</i>
+<i>"Success is not how high you have climbed, but how you make a positive difference to the world."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
