@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is the meaning and the purpose of life, the whole aim and end of human existence."</i>
+<i>"Any idea, plan, or purpose may be placed in the mind through repetition of thought."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
