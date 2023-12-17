@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Growth comes at the point of resistance."</i>
+<i>"Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
