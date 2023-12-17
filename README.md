@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength."</i>
+<i>"The real meditation is how you live your life."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
