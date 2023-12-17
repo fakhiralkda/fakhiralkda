@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"However difficult life may seem, there is always something you can do and succeed at."</i>
+<i>"To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
