@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cleverness is not wisdom."</i>
+<i>"To bear trials with a calm mind robs misfortune of its strength and burden."</i>
 <br>
-<b>- Euripides</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
