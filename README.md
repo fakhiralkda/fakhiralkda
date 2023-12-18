@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes good things fall apart so better things can fall together."</i>
+<i>"Waste not fresh tears over old griefs."</i>
 <br>
-<b>- Marilyn Monroe</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
