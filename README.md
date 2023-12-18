@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is impossible for a man to learn what he thinks he already knows."</i>
+<i>"The wisdom of life consists in the elimination of the nonessentials."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
