@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I have seen further than others, it is by standing upon the shoulders of giants."</i>
+<i>"It is impossible for a man to learn what he thinks he already knows."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
