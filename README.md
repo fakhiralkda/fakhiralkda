@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Until you change how you get things done, you'll never know what works best."</i>
+<i>"Heal the past, live the present, dream the future."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
