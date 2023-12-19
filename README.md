@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice."</i>
+<i>"It's much better to do good in a way that no one knows anything about it."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
