@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Heal the past, live the present, dream the future."</i>
+<i>"The biggest adventure is what lies ahead."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
