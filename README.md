@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die."</i>
+<i>"If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
