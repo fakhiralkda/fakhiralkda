@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Help others and give something back."</i>
+<i>"Man should fear never beginning to live."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
