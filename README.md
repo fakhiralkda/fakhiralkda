@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man should fear never beginning to live."</i>
+<i>"Nothing is easier than fault finding."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
