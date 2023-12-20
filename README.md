@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Either you choose to stay in the shallow end of the pool or you go out into the ocean."</i>
+<i>"Discontent is the first necessity of progress."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
