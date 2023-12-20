@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I hear and I forget. I see and I remember. I do and I understand. "</i>
+<i>"When the fish is caught we pay no more attention to the trap."</i>
 <br>
-<b>- Confucius</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
