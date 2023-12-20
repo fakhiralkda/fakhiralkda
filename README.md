@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the fish is caught we pay no more attention to the trap."</i>
+<i>"Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
