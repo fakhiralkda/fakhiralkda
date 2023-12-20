@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Discontent is the first necessity of progress."</i>
+<i>"Success is the sum of small efforts, repeated day in and day out."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
