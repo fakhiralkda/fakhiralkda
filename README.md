@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A tiger doesn't lose sleep over the opinion of sheep."</i>
+<i>"Know your gifts and share them."</i>
 <br>
-<b>- Shahir Zag</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
