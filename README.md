@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The question is not what you look at, but what you see."</i>
+<i>"If I love myself I love you. If I love you I love myself."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
