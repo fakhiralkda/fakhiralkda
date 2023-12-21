@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Magic is believing in yourself, if you can do that, you can make anything happen."</i>
+<i>"The question is not what you look at, but what you see."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
