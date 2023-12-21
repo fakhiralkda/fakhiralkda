@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know your gifts and share them."</i>
+<i>"The best thing to hold onto in life is each other."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
