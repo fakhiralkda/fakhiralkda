@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I love myself I love you. If I love you I love myself."</i>
+<i>"A crisis is an opportunity riding the dangerous wind."</i>
 <br>
-<b>- Rumi</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
