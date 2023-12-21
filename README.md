@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A crisis is an opportunity riding the dangerous wind."</i>
+<i>"Motivation gets you going and habit gets you there.  "</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
