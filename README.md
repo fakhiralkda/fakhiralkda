@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is particularly hard if you divide it into small jobs. "</i>
+<i>"Educating the mind without educating the heart is no education at all."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
