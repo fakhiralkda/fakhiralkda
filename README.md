@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the End, we will remember not the words of our enemies, but the silence of our friends."</i>
+<i>"If you have to be in a soap opera try not to be cast in the worst role."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
