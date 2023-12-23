@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only when you can be extremely pliable and soft can you be extremely hard and strong."</i>
+<i>"No one ever is defeated until defeat has been accepted as a reality."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
