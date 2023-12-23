@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them."</i>
+<i>"You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
