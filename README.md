@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Of all men's miseries the bitterest is this: to know so much and to have control over nothing. "</i>
+<i>"Great ones are willing to get burned time and again as they sharpen their swords in the fire."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
