@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being."</i>
+<i>"Be happy now, without reason - or you never will be at all."</i>
 <br>
-<b>- Anita Krizzan</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
