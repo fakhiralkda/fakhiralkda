@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Facts are the enemy of truth. "</i>
+<i>"As a man thinketh in his heart, so shall he be."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
