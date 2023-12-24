@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take care of your cents: dollars will take care of themselves."</i>
+<i>"Facts are the enemy of truth. "</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
