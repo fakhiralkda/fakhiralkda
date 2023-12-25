@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing."</i>
+<i>"I am not proud, but I am happy; and happiness blinds, I think, more than pride."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
