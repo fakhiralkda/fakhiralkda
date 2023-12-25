@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a journey, not a destination."</i>
+<i>"The harder you work, the harder it is to surrender."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
