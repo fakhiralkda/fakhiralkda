@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"That some achieve great success is proof to all that others can achieve it as well."</i>
+<i>"The guest will judge better of a feast than the cook."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
