@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever."</i>
+<i>"There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
