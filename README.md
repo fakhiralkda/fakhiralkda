@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Would you rather learn to deal with the truth now than be forced to do so later on?"</i>
+<i>"If you correct your mind, the rest of your life will fall into place."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
