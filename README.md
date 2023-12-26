@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. "</i>
+<i>"Follow your instincts. That is where true wisdom manifests itself."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
