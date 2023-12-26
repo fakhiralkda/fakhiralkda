@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We forge the chains we wear in life."</i>
+<i>"If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
