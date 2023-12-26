@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you correct your mind, the rest of your life will fall into place."</i>
+<i>"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
