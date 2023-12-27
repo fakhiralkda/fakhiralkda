@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before you can see the Light, you have to deal with the darkness."</i>
+<i>"Always keep your eyes open. Keep watching. Because whatever you see can inspire you."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Grace Coddington</b>
 </blockquote>
 </p>
 
