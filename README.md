@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Embody what you teach, and teach only what you have embodied."</i>
+<i>"The one who praises you is a thief. The one who criticizes you is your true friend."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Seungsahn</b>
 </blockquote>
 </p>
 
