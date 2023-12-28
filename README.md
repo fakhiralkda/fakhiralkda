@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty."</i>
+<i>"When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
