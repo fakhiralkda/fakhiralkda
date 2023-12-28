@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Deliberately seek the company of people who influence you to think and act on building the life you desire."</i>
+<i>"Failure is an option here. If things are not failing, you are not innovating enough."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
