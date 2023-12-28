@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you judge another, you do not define them, you define yourself"</i>
+<i>"Failure is a great teacher. If you're open to it every mistake has a lesson to offer."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
