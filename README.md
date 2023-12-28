@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the fish is caught we pay no more attention to the trap."</i>
+<i>"What is planted in each person's soul will sprout.  "</i>
 <br>
-<b>- Huang Po</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
