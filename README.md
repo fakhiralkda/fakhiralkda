@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Heroes don't need to talk about what they did."</i>
+<i>"One small positive thought can change your whole day."</i>
 <br>
-<b>- W.P. Kinsella</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
