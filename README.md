@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's better to dance than to march through life."</i>
+<i>"To arrive at the simplest truth requires years of contemplation."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
