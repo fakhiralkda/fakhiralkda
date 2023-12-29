@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One small positive thought can change your whole day."</i>
+<i>"Success is about creating value."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Candice Carpenter</b>
 </blockquote>
 </p>
 
