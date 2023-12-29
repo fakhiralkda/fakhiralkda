@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To arrive at the simplest truth requires years of contemplation."</i>
+<i>"An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- John Tukey</b>
 </blockquote>
 </p>
 
