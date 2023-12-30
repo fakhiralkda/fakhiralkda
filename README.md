@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am always doing what I cannot do yet, in order to learn how to do it."</i>
+<i>"You can't climb the ladder of success with your hands in your pockets."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
