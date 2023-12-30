@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't climb the ladder of success with your hands in your pockets."</i>
+<i>"Everything great that has ever happened to humanity has begun as a single thought in someone's mind."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
