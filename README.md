@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is impossible for a man to learn what he thinks he already knows."</i>
+<i>"I am always doing what I cannot do yet, in order to learn how to do it."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
