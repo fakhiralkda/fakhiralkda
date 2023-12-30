@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you do in life, surround yourself with smart people who'll argue with you."</i>
+<i>"A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
