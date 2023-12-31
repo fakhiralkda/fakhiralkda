@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only the educated are free."</i>
+<i>"When angry count to ten before you speak. If very angry, count to one hundred."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
