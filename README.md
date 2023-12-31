@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What people need and what they want may be very different."</i>
+<i>"Thinking is the hardest work there is. That is why so few people engage in it."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
