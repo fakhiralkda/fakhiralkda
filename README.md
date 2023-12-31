@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Alone we can do so little; together we can do so much."</i>
+<i>"Superstars think like superstars long before the fans or the press anoint them."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
