@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today you are you, that is truer than true. There is no one alive who is you-er than you."</i>
+<i>"The more I want to get something done, the less I call it work."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
