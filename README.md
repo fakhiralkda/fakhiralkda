@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no greater agony than bearing an untold story inside you."</i>
+<i>"If you chase two rabbits, you catch none."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
