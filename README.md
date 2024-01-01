@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing more frightful than ignorance in action."</i>
+<i>"A person is only by the thoughts that he chooses."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
