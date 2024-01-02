@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances."</i>
+<i>"What the mind can conceive, it can achieve."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
