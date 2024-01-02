@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit."</i>
+<i>"The more you are grateful for what you have the more you will have to be grateful for.  "</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
