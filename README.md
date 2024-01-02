@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life can only be understood backwards; but it must be lived forwards."</i>
+<i>"Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence."</i>
 <br>
-<b>- Soren Kierkegaard</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
