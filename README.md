@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is the meaning and the purpose of life, the whole aim and end of human existence."</i>
+<i>"Concentrated power has always been the enemy of liberty."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
