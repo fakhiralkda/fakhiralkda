@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is really simple, but men insist on making it complicated. "</i>
+<i>"Silence is a source of great strength."</i>
 <br>
-<b>- Confucius</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
