@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is essentially an endless series of problems. The solution to one problem is merely the creation of another."</i>
+<i>"The older you get, the better you get. Unless you're a banana."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
