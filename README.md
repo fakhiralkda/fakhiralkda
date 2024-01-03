@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us."</i>
+<i>"When something comes from within, when it is a part of you, you have no choice but to live it, to express it."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
