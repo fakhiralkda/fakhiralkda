@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who can make you believe absurdities can make you commit atrocities. "</i>
+<i>"Life is really simple, but men insist on making it complicated. "</i>
 <br>
-<b>- Voltaire</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
