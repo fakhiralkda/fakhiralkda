@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every great change is preceded by chaos."</i>
+<i>"Nothing can bring you peace but yourself."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
