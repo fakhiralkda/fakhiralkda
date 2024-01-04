@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing can bring you peace but yourself."</i>
+<i>"Most great people have achieved their greatest success just one step beyond their greatest failure."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
