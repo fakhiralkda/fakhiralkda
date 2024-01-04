@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no uninteresting things, only uninterested people."</i>
+<i>"In the practice of tolerance, one's enemy is the best teacher."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
