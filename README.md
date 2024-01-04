@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ladder of success is best climbed by stepping on the rungs of opportunity."</i>
+<i>"Every great change is preceded by chaos."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
