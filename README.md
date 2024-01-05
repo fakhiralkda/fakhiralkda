@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All power is from within and therefore under our control."</i>
+<i>"The only limits in your life are those that you set yourself."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
