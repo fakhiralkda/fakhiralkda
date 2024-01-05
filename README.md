@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter how tall the mountain is, it cannot block the sun."</i>
+<i>"All power is from within and therefore under our control."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
