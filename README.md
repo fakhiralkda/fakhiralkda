@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only limits in your life are those that you set yourself."</i>
+<i>"Sometimes you have to travel a long way to find what is near."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
