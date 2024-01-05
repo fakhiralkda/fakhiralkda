@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you have to travel a long way to find what is near."</i>
+<i>"Don't look for meaning in the words. Listen to the silences."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
