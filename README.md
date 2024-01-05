@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving."</i>
+<i>"Because of your smile, you make life more beautiful."</i>
 <br>
-<b>- Yanni</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
