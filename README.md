@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't look for meaning in the words. Listen to the silences."</i>
+<i>"Each of us is a unique strand in the intricate web of life and here to make a contribution."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
