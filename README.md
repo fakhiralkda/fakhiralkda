@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is more creative...nor destructive...than a brilliant mind with a purpose."</i>
+<i>"Charms strike the sight, but merit wins the soul."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
