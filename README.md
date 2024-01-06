@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure will never overtake me if my determination to succeed is strong enough."</i>
+<i>"The whole of life, from the moment you are born to the moment you die, is a process of learning."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
