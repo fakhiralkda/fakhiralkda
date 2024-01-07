@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only I can change my life. No one can do it for me."</i>
+<i>"Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new."</i>
 <br>
-<b>- Carol Burnett</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
