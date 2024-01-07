@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy."</i>
+<i>"Only I can change my life. No one can do it for me."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
