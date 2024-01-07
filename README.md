@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present."</i>
+<i>"Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
