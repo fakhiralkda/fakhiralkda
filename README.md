@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The power to make and break habits and learning how to do that is really important."</i>
+<i>"FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
