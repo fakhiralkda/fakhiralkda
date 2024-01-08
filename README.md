@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you."</i>
+<i>"All I can do is be me, whoever that is."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
