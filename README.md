@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the advantages of being disorganized is that one is always having surprising discoveries."</i>
+<i>"Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again."</i>
 <br>
-<b>- A.A. Milne</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
