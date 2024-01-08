@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is our choices that show what we truly are, far more than our abilities."</i>
+<i>"The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
