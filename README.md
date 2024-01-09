@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have not failed. I've just found 10,000 ways that won't work."</i>
+<i>"Don't let the noise of others' opinions drown out your own inner voice."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
