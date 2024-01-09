@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is in changing that we find purpose."</i>
+<i>"Human happiness and moral duty are inseparably connected. "</i>
 <br>
-<b>- Heraclitus</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
