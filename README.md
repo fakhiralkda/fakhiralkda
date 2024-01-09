@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who looks outside, dreams; who looks inside, awakes."</i>
+<i>"The positive thinker sees the invisible, feels the intangible, and achieves the impossible."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
