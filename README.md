@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never confuse a single defeat with a final defeat."</i>
+<i>"Every day is an opportunity to a make a new happy ending."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
