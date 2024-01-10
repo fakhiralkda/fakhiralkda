@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."</i>
+<i>"As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
