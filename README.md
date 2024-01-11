@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man suffers only because he takes seriously what the gods made for fun."</i>
+<i>"To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
