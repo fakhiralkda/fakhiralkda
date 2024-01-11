@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The hardest arithmetic to master is that which enables us to count our blessings."</i>
+<i>"People who belittle people, will be LITTLE people, and will accomplish very Little"</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
