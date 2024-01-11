@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Argue for your limitations and sure enough, they're yours."</i>
+<i>"True love stories never have endings."</i>
 <br>
 <b>- Richard Bach</b>
 </blockquote>
