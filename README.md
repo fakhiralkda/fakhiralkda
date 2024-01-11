@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Acknowledging the good that you already have in your life is the foundation for all abundance."</i>
+<i>"If what you're doing is not your passion, you have nothing to lose."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
