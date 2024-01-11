@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If what you're doing is not your passion, you have nothing to lose."</i>
+<i>"The roots of education are bitter, but the fruit is sweet."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
