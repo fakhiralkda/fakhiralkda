@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The roots of education are bitter, but the fruit is sweet."</i>
+<i>"The hardest arithmetic to master is that which enables us to count our blessings."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
