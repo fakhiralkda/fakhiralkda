@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People who belittle people, will be LITTLE people, and will accomplish very Little"</i>
+<i>"Man suffers only because he takes seriously what the gods made for fun."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
