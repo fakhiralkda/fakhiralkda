@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like stepping onto a boat which is about to sail out to sea and sink."</i>
+<i>"People rarely succeed unless they have fun in what they are doing."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
