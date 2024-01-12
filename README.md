@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Obstacles are those frightful things you see when you take your eyes off your goals."</i>
+<i>"Knowing yourself is the beginning of all wisdom."</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
