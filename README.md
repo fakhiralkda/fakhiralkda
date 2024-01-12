@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Act the way you want to be and soon you'll be the way you act."</i>
+<i>"Elegance does not consist in putting on a new dress."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
