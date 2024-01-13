@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who cannot be a good follower cannot be a good leader."</i>
+<i>"Do the hard jobs first. The easy jobs will take care of themselves."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
