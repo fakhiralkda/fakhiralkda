@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man who asks a question is a fool for a minute, the man who does not ask is a fool for life."</i>
+<i>"Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. "</i>
 <br>
-<b>- Confucius</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
