@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Coming together is a beginning, staying together is progress, and working together is success. "</i>
+<i>"Do your duty and a little more and the future will take care of itself."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
