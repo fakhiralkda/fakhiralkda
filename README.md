@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Integrity is the ability to stand by an idea."</i>
+<i>"The man who asks a question is a fool for a minute, the man who does not ask is a fool for life."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
