@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never to suffer would never to have been blessed."</i>
+<i>"He who cannot be a good follower cannot be a good leader."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
