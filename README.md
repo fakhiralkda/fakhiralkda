@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is useless to attempt to reason a man out of a thing he was never reasoned into."</i>
+<i>"If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
