@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner."</i>
+<i>"Some men see things as they are and ask why. Others dream things that never were and ask why not."</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
