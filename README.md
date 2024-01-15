@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want things to be different, perhaps the answer is to become different yourself."</i>
+<i>"To improve is to change, so to be perfect is to change often."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
