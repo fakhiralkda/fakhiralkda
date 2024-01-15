@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your greatest asset is your earning ability. Your greatest resource is your time."</i>
+<i>"Abundance of knowledge does not teach men to be wise."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
