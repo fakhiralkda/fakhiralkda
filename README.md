@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hope is a waking dream."</i>
+<i>"Walk slowly but never walk backward."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
