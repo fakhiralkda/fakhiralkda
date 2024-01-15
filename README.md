@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do your duty and a little more and the future will take care of itself."</i>
+<i>"Don't Let Yesterday Take Up Too Much Of Today."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
