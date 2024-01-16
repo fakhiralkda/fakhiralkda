@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence comes from crossing thresholds."</i>
+<i>"Others can stop you temporarily - you are the only one who can do it permanently."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
