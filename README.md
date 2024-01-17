@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Difficult and meaningful will always bring more satisfaction than easy and meaningless."</i>
+<i>"It's not how much money you make, it's how much money you keep."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
