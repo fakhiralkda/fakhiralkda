@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is the key to success; each mistake teaches us something."</i>
+<i>"Happiness is not something ready made. It comes from your own actions."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
