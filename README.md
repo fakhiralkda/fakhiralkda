@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each problem has a positive side."</i>
+<i>"All I can do is be me, whoever that is."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
