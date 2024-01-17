@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A loving heart is the truest wisdom."</i>
+<i>"Misfortune shows those who are not really friends."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
