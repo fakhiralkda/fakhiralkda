@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Admire as much as you can. Most people do not admire enough."</i>
+<i>"A loving heart is the truest wisdom."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
