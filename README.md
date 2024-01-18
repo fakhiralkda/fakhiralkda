@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world only exists in your eyes. You can make it as big or as small as you want."</i>
+<i>"What people need and what they want may be very different."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
