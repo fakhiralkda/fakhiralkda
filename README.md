@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To forget the whole world is easy; to make the whole world forget you is hard."</i>
+<i>"A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
