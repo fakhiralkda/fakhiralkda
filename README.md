@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your heart is the size of an ocean. Go find yourself in its hidden depths."</i>
+<i>"Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life."</i>
 <br>
-<b>- Rumi</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
