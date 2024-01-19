@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose."</i>
+<i>"If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
