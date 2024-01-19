@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who attain the middle Dominate the whole."</i>
+<i>"Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
