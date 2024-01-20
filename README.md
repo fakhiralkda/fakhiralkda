@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We would accomplish many more things if we did not think of them as impossible."</i>
+<i>"You will never do anything in this world without courage. It is the greatest quality of the mind next to honor."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
