@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is resistance to fear, mastery of fear - not absence of fear."</i>
+<i>"No man ever steps in the same river twice, for it's not the same river and he's not the same man."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
