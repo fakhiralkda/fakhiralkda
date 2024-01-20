@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A leader is one who knows the way, goes the way, and shows the way."</i>
+<i>"Character is the result of two things: mental attitude and the way we spend our time."</i>
 <br>
-<b>- Unknown</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
