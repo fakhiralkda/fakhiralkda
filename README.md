@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing has more strength than dire necessity."</i>
+<i>"I learned the value of hard work by working hard. "</i>
 <br>
-<b>- Euripides</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
