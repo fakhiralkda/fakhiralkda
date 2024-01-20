@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perfection is not attainable, but if we chase perfection we can catch excellence."</i>
+<i>"Adventure is not outside man; it is within."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
