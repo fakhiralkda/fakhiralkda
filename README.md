@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are totally at peace with yourself, nothing can shake you."</i>
+<i>"You are now, and you do become, what you think about."</i>
 <br>
-<b>- Deepam Chaterjee</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
