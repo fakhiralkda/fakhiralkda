@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you do in life, surround yourself with smart people who'll argue with you."</i>
+<i>"Rewards and punishment is the lowest form of education."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
