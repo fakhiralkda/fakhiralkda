@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Identification with our mind causes thought to become compulsive."</i>
+<i>"Hope is a waking dream."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
