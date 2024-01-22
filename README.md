@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life doesn't get easier or more forgiving, we get stronger and more resilient."</i>
+<i>"The greatest doer must also be a great dreamer."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
