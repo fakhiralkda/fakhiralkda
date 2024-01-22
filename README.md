@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What gets measured gets improved."</i>
+<i>"Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
