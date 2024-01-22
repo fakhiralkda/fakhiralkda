@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not how much money you make, it's how much money you keep."</i>
+<i>"Life doesn't get easier or more forgiving, we get stronger and more resilient."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
