@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it."</i>
+<i>"Don't waste time on excuses. Just get it done."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
