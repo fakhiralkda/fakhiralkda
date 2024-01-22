@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest doer must also be a great dreamer."</i>
+<i>"A little progress each day adds up to big results."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
