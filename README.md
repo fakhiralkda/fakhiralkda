@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pleasure can be supported by an illusion; but happiness rests upon truth. "</i>
+<i>"There are no secrets to success. It is the result of preparation, hard work, learning from failure."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
