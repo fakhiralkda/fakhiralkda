@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Because a thing seems difficult for you, do not think it impossible."</i>
+<i>"The guest will judge better of a feast than the cook."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
