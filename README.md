@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Try to be a rainbow in someone's cloud."</i>
+<i>"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. "</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
