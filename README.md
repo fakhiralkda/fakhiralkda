@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no secrets to success. It is the result of preparation, hard work, learning from failure."</i>
+<i>"Intelligent men are cruel. Stupid men are monstrously cruel."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
