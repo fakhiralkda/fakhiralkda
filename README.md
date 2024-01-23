@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intelligent men are cruel. Stupid men are monstrously cruel."</i>
+<i>"Because a thing seems difficult for you, do not think it impossible."</i>
 <br>
-<b>- Jack London</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
