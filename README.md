@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man invented language to satisfy his deep need to complain."</i>
+<i>"Small men think they are small; great men never know they are great. "</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
