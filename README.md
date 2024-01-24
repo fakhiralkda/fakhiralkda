@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only the hand that erases can write the true thing."</i>
+<i>"A poet should be so crafty with words that he is envied even for his pains."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
