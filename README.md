@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has."</i>
+<i>"Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
