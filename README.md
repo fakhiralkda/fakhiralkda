@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who know, do. Those that understand, teach."</i>
+<i>"Give me six hours to chop down a tree and I will spend the first four sharpening the axe."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
