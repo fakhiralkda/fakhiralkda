@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Faith means believing the unbelievable."</i>
+<i>"Forever is composed of now's."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
