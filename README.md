@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All men are equal before fish."</i>
+<i>"Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
