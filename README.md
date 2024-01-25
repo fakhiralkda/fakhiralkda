@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Strategy is a commodity, execution is an art."</i>
+<i>"All men are equal before fish."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
