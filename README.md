@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talent is luck. The important thing in life is courage."</i>
+<i>"I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
