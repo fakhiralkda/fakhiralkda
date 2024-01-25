@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be pushed by your problems; be led by your dreams."</i>
+<i>"Talent is luck. The important thing in life is courage."</i>
 <br>
-<b>- Unknown</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
