@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A journey of a thousand miles begins with a single step."</i>
+<i>"Keep smiling, because life is a beautiful thing and there's so much to smile about."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
