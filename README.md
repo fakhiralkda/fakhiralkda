@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Alone we can do so little; together we can do so much."</i>
+<i>"Don't learn to do, but learn in doing."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
