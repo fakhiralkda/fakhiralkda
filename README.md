@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't learn to do, but learn in doing."</i>
+<i>"When you have a dream, you've got to grab it and never let go."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
