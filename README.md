@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wise men speak because they have something to say; Fools because they have to say something."</i>
+<i>"Failure is the key to success; each mistake teaches us something."</i>
 <br>
-<b>- Plato</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
