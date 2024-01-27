@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams provide nourishment for the soul, just as a meal does for the body."</i>
+<i>"Wise men speak because they have something to say; Fools because they have to say something."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
