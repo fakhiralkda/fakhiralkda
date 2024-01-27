@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Would you rather live your life according to the approval of others or aligned with your truth and your dreams?"</i>
+<i>"If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
