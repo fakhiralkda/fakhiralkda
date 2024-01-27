@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intelligent men are cruel. Stupid men are monstrously cruel."</i>
+<i>"You are what you believe in. You become that which you believe you can become."</i>
 <br>
-<b>- Jack London</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
