@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the world pushes you to your knees, you're in the perfect position to pray."</i>
+<i>"It's not the men in your life that matters, it's the life in your men."</i>
 <br>
-<b>- Rumi</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
