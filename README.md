@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace begins with a smile."</i>
+<i>"Walk slowly but never walk backward."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
