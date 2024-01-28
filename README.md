@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. "</i>
+<i>"Peace begins with a smile."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
