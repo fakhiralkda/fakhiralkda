@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not the men in your life that matters, it's the life in your men."</i>
+<i>"You must be willing to do what others won't do, to have what others won't have."</i>
 <br>
-<b>- Mae West</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
