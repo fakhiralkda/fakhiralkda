@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Walk slowly but never walk backward."</i>
+<i>"All know the way; few actually walk it. "</i>
 <br>
-<b>- Unknown</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
