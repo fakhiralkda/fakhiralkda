@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adults are just children who earn money."</i>
+<i>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</i>
 <br>
-<b>- Kenneth Branagh</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
