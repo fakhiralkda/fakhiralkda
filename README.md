@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A mountain never yields to the wind no matter how strong it is."</i>
+<i>"Dreams provide nourishment for the soul, just as a meal does for the body."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
