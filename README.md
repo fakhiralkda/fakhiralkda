@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the energy of life."</i>
+<i>"There's more to life than being a passenger."</i>
 <br>
-<b>- Robert Browning</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
