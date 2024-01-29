@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cherish forever what makes you unique, cuz you're really a yawn if it goes."</i>
+<i>"There can be no deep disappointment where there is not deep love."</i>
 <br>
-<b>- Bette Midler</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
