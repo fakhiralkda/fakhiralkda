@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Less is more."</i>
+<i>"The deeper the truth in a creative work, the longer it will live.  "</i>
 <br>
-<b>- Robert Browning</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
