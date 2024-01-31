@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When things go wrong, don't go with them."</i>
+<i>"A man sees in the world what he carries in his heart."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
