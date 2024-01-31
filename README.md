@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The deeper the truth in a creative work, the longer it will live.  "</i>
+<i>"Either write something worth reading or do something worth writing."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
