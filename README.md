@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't have to be great to start, but you have to start to be great.  "</i>
+<i>"When we think about our strengths, we are strong. When we think about our weaknesses, we are weak."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Peter A. Cohen</b>
 </blockquote>
 </p>
 
