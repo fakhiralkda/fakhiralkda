@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything."</i>
+<i>"An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question."</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- John Tukey</b>
 </blockquote>
 </p>
 
