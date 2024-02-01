@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is easier than fault finding."</i>
+<i>"The most important things are the hardest to say."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
