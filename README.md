@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quality of your commitments will determine the course of your life."</i>
+<i>"Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
