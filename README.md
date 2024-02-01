@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Maybe you are searching among the branches, for what only appears in the roots."</i>
+<i>"The truly rich men are the ones who have health, loved ones and a work they love."</i>
 <br>
-<b>- Rumi</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
