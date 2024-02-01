@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We cannot always do great things in life, but we can do small things with great love."</i>
+<i>"There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- G.I. Gurdjieff</b>
 </blockquote>
 </p>
 
