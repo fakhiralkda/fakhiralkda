@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important things are the hardest to say."</i>
+<i>"Re-examine all that you have been told... dismiss that which insults your soul."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
