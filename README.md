@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given."</i>
+<i>"It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
