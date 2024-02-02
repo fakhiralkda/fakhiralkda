@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your face to the sunshine and you cannot see the shadows."</i>
+<i>"You only live once, but if you do it right, once is enough."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
