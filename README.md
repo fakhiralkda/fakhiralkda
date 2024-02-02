@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Inspiration exists, but it has to find you working."</i>
+<i>"Success and failure come and go, but don't let them define you. It's who you are that matters."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
