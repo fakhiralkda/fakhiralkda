@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep others in suspense, cultivate an air of unpredictability."</i>
+<i>"What lies behind us and what lies before us are tiny matters compared to what lies within us."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
