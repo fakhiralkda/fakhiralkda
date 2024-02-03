@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change yourself and you have done your part in changing the world."</i>
+<i>"My definition of success is control."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Kenneth Branagh</b>
 </blockquote>
 </p>
 
