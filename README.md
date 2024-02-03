@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do what is right, not what is easy, nor what is popular."</i>
+<i>"You are the average of the five people you spend the most time with."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
