@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you love someone, you love the person as they are, and not as you'd like them to be."</i>
+<i>"Do what is right, not what is easy, nor what is popular."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
