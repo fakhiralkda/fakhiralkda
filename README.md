@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My definition of success is control."</i>
+<i>"Life is a journey, not a destination."</i>
 <br>
-<b>- Kenneth Branagh</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
