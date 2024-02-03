@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our truest life is when we are in dreams awake."</i>
+<i>"Know yourself and you will win all battles."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
