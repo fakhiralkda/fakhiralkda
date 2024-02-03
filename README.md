@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know yourself and you will win all battles."</i>
+<i>"The world is changed by your example, not by your opinion."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
