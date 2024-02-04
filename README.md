@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The Only Thing That Is Constant Is Change"</i>
+<i>"Sometimes things become possible if we want them bad enough."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
