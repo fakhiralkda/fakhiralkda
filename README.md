@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The key to success is failure."</i>
+<i>"Happiness is the absence of the striving for happiness."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
