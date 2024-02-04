@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Action is the foundational key to all success."</i>
+<i>"The Only Thing That Is Constant Is Change"</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
