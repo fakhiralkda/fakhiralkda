@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. "</i>
+<i>"You may be one person in this world, but to one person you may mean the world."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
