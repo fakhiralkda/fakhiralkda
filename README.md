@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who know, do. Those that understand, teach."</i>
+<i>"Nothing has any power over me other than that which I give it through my conscious thoughts."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
