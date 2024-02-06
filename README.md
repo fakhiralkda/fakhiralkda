@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to understanding is a few good examples."</i>
+<i>"You get paid in direct proportion to the difficulty of problems you solve."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
