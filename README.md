@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The season of failure is the best time for sowing the seeds of success. "</i>
+<i>"You are free, and that is why you are lost. "</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
