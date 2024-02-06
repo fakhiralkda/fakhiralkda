@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let not your mind run on what you lack as much as on what you have already."</i>
+<i>"Nothing endures but change."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
