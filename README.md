@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated."</i>
+<i>"Just because something isn't a lie does not mean that it isn't deceptive."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
