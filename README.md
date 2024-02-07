@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We're responsible for everything that happens to us."</i>
+<i>"A rational person can find peace by cultivating indifference to things outside of their control."</i>
 <br>
-<b>- Yanni</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
