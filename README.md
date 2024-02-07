@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything is in your own heart."</i>
+<i>"We're responsible for everything that happens to us."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
