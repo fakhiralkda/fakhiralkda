@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An intelligent person hires people who are more intelligent than he is."</i>
+<i>"Don't be afraid to give up the good to go for the great."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- John D. Rockefeller</b>
 </blockquote>
 </p>
 
