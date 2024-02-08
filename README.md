@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The four P's to success are pressure, persistence, perseverance, and prayer."</i>
+<i>"When you want something in life, you just gotta reach out and grab it."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
