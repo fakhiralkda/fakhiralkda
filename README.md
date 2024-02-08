@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A gentleman is one who puts more into the world than he takes out."</i>
+<i>"An intelligent person hires people who are more intelligent than he is."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
