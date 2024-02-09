@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only thing more frustrating than slanderers is those foolish enough to listen to them."</i>
+<i>"It's the little things done consistently over time, straight from your heart, that have the greatest impact."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
