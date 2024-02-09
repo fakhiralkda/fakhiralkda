@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that is done in the world is done by hope."</i>
+<i>"No kind action ever stops with itself. One kind action leads to another. Good example is followed."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
