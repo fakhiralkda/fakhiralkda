@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without the confidence, nothing can be accomplished."</i>
+<i>"Don't bother people for help without first trying to solve the problem yourself."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
