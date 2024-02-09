@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The difference between impossible and possible is a willing heart."</i>
+<i>"Everything that is done in the world is done by hope."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
