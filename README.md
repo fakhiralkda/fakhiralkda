@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tradition is the illusion of permanence. "</i>
+<i>"If you are ever the smartest person in the room, you are in the wrong room."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- C. Sean McGee</b>
 </blockquote>
 </p>
 
