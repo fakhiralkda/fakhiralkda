@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Death is not sad; the sad thing is that most people don't really live at all."</i>
+<i>"It is safer to search in the maze than to remain in a cheeseless situation."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
