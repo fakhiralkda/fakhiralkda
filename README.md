@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do anything, but let it produce joy."</i>
+<i>"The most courageous act is still to think for yourself. Aloud."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
