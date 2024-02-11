@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are tempted to give up, your breakthrough is probably just around the corner."</i>
+<i>"Do something to move yourself toward your major goal every day."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
