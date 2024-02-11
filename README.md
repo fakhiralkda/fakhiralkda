@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most courageous act is still to think for yourself. Aloud."</i>
+<i>"Time is a game played beautifully by children."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
