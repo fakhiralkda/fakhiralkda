@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have the courage to follow your heart and intuition. They somehow know what you truly want to become."</i>
+<i>"If you're waiting until you feel talented enough to make it, you'll never make it."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
