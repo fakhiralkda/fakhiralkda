@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like a wheel. Sooner or later, it always comes around to where you started again."</i>
+<i>"The more something scares you, the more you should do it."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
