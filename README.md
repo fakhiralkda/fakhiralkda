@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life would be tragic if it weren't funny."</i>
+<i>"To plant a garden is to believe in tomorrow.  "</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
