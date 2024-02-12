@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The purpose of life is to contribute in some way to making things better."</i>
+<i>"Life is like a wheel. Sooner or later, it always comes around to where you started again."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
