@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pursuit of mastery bears gifts. "</i>
+<i>"Problems remain as problems because people are busy defending them rather than finding solutions."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
