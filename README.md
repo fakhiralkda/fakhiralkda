@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good judgment comes from experience, and experience comes from bad judgment."</i>
+<i>"The purpose of life is to contribute in some way to making things better."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
