@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Shoot for the moon. Even if you miss, you'll land among the stars."</i>
+<i>"Words are the clothes thoughts wear."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
