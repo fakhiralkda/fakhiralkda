@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always seek out the seed of triumph in every adversity."</i>
+<i>"Never let your memories be greater than your dreams."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Doug Ivester</b>
 </blockquote>
 </p>
 
