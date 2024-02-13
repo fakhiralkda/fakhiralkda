@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why compare yourself with others? No one in the entire world can do a better job of being you than you."</i>
+<i>"Shoot for the moon. Even if you miss, you'll land among the stars."</i>
 <br>
-<b>- Unknown</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
