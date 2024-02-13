@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go and do the things you can't. That is how you get to do them."</i>
+<i>"Why change? Everyone has his own style. When you have found it, you should stick to it."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
