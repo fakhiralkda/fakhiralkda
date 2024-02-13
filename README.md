@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words are the clothes thoughts wear."</i>
+<i>"Whatever your mind can conceive and believe, it can achieve."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
