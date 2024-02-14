@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear is your worst enemy. Risk is your best friend."</i>
+<i>"I didn't get there by wishing for it or hoping for it, but by working for it."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
