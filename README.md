@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be curious, not judgmental."</i>
+<i>"If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
