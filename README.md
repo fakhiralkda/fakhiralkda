@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future belongs to those who believe in the beauty of their dreams."</i>
+<i>"You don't need anybody to tell you who you are or what you are. You are what you are!"</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
