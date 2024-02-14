@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Identification with our mind causes thought to become compulsive."</i>
+<i>"Getting lost along your path is a part of finding the path you are meant to be on."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
