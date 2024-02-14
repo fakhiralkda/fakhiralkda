@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why change? Everyone has his own style. When you have found it, you should stick to it."</i>
+<i>"Life is simply what our feelings do to us."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
