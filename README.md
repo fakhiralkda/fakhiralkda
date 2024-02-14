@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is simply what our feelings do to us."</i>
+<i>"Love is the energy of life."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Robert Browning</b>
 </blockquote>
 </p>
 
