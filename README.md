@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't need anybody to tell you who you are or what you are. You are what you are!"</i>
+<i>"In order to be irreplaceable one must always be different."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
