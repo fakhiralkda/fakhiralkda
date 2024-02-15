@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be totally at leisure for one day is to be immortal for one day. "</i>
+<i>"The destiny of man is in his own soul. "</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
