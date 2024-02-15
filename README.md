@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trying to define yourself is like trying to bite your own teeth."</i>
+<i>"To be totally at leisure for one day is to be immortal for one day. "</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
