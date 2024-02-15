@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. "</i>
+<i>"Trying to define yourself is like trying to bite your own teeth."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
