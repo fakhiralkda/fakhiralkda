@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To escape from the world means that one's mind is not concerned with the opinions of the world."</i>
+<i>"Stop wasting time looking at someone else's reality while doing nothing about yours."</i>
 <br>
-<b>- Dogen</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
