@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Attitude drives actions. Actions drive results. Results drive lifestyles."</i>
+<i>"Knowing your own darkness is the best method for dealing with the darknesses of other people."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
