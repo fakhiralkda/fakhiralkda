@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great loves too must be endured."</i>
+<i>"Sometimes it is more important to discover what one cannot do, than what one can do."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
