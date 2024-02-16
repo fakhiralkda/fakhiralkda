@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes it is more important to discover what one cannot do, than what one can do."</i>
+<i>"Don't be afraid to give up the good to go for the great."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- John D. Rockefeller</b>
 </blockquote>
 </p>
 
