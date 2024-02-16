@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop wasting time looking at someone else's reality while doing nothing about yours."</i>
+<i>"At the end of the day, let there be no excuses, no explanations, no regrets."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
