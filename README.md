@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that irritates us about others."</i>
+<i>"The giving of love is an education in itself."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
