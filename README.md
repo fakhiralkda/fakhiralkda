@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man who cannot tolerate small misfortunes can never accomplish great things."</i>
+<i>"All power is from within and therefore under our control."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
