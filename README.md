@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All power is from within and therefore under our control."</i>
+<i>"If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
