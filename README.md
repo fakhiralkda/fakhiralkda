@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The giving of love is an education in itself."</i>
+<i>"Keep others in suspense, cultivate an air of unpredictability."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
