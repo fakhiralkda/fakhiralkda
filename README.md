@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best teacher is experience and not through someone's distorted point of view."</i>
+<i>"Have a heart that never hardens, and a temper that never tires, and a touch that never hurts."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
