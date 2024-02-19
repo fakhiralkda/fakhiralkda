@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it."</i>
+<i>"Be fascinated instead of frustrated."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
