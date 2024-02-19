@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Common sense is not so common. "</i>
+<i>"Stress happens when the mind resists what is."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
