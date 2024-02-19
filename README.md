@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stress happens when the mind resists what is."</i>
+<i>"You are what you do, not what you say you'll do."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
