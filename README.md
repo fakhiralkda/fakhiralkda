@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may forget with whom you laughed, but you will never forget with whom you wept.  "</i>
+<i>"Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
