@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Circumstances rule men; men do not rule circumstances. "</i>
+<i>"Luck is what happens when preparation meets opportunity.  "</i>
 <br>
-<b>- Herodotus</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
