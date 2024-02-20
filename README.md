@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control."</i>
+<i>"You cannot swim for new horizons until you have courage to lose sight of the shore."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
