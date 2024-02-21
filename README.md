@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives."</i>
+<i>"Dreams have only one owner at a time. That's why dreamers are lonely."</i>
 <br>
-<b>- Betty White</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
