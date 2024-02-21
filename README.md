@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If there were no God, there would be no atheists."</i>
+<i>"Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
