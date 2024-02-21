@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace is not absence of conflict, it is the ability to handle conflict by peaceful means."</i>
+<i>"Nothing can dim the light which shines from within."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
