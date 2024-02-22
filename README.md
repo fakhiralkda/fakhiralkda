@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even in the grave, all is not lost."</i>
+<i>"When you realize you've made a mistake, take immediate steps to correct it."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
