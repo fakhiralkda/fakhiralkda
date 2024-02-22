@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life doesn't get easier or more forgiving, we get stronger and more resilient."</i>
+<i>"Every poem should remind the reader that they are going to die."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
