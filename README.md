@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wisdom of life consists in the elimination of the nonessentials."</i>
+<i>"Quality is not an act, it is a habit."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
