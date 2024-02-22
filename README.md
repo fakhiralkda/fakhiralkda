@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A single act of kindness throws out roots in all directions, and the roots spring up and make new trees."</i>
+<i>"Life doesn't get easier or more forgiving, we get stronger and more resilient."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
