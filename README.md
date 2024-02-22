@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not look upon this world with fear and loathing. Bravely face whatever the gods offer."</i>
+<i>"The wisdom of life consists in the elimination of the nonessentials."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
