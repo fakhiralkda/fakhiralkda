@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go confidently in the direction of your dreams. Live the life you've imagined."</i>
+<i>"Remember that the best relationship is one in which your love for each other exceeds your need for each other."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
