@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who reads a book with a sense of obligation does not understand the art of reading."</i>
+<i>"Don't set your own goals by what other people make important."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
