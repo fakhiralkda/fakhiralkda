@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You already have every characteristic necessary for success if you recognize, claim, develop and use them."</i>
+<i>"You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
