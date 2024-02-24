@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is your attitude, not your aptitude, that determines your altitude."</i>
+<i>"Optimism is the one quality more associated with success and happiness than any other."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
