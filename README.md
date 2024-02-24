@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you see someone without a smile give them one of yours."</i>
+<i>"Dreams have only one owner at a time. That's why dreamers are lonely."</i>
 <br>
-<b>- Unknown</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
