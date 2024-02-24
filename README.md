@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Optimism is the one quality more associated with success and happiness than any other."</i>
+<i>"A strong man overcomes an obstacle, a wise man goes the whole way."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
