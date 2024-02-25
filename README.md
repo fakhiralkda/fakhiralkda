@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The desire for more positive experience is itself a negative experience."</i>
+<i>"Life is about not knowing and then doing something anyway."</i>
 <br>
 <b>- Mark Manson</b>
 </blockquote>
