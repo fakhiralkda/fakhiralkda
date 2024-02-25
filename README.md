@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people want it to happen, some wish it would happen, others make it happen."</i>
+<i>"If we are not able to smile, then the world will not have peace."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
