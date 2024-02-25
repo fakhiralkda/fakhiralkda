@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be brave to stand for what you believe in even if you stand alone."</i>
+<i>"The act of taking the first step is what separates the winners from the losers."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
