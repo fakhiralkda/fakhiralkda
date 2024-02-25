@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less."</i>
+<i>"Some people want it to happen, some wish it would happen, others make it happen."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
