@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learning is a gift, even when pain is your teacher."</i>
+<i>"No man is more cheated than the selfish man."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
