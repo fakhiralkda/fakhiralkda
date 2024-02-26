@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must have strong minds, ready to accept facts as they are."</i>
+<i>"If there's a definition of freedom, I think it's this: living life on your terms."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
