@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We learn to walk by falling down. If we never fell down, we would never walk."</i>
+<i>"The more you like yourself, the less you are like anyone else, which makes you unique."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
