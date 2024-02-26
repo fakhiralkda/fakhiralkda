@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you truly love Nature, you will find beauty everywhere. "</i>
+<i>"Failure is an option, fear is not."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
