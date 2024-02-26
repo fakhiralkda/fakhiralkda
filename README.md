@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. "</i>
+<i>"The weak can never forgive. Forgiveness is the attribute of the strong."</i>
 <br>
-<b>- George Washington</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
