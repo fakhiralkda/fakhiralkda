@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you like yourself, the less you are like anyone else, which makes you unique."</i>
+<i>"We must have strong minds, ready to accept facts as they are."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
