@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all faced with a series of great opportunities brilliantly disguised as impossible situations. "</i>
+<i>"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
