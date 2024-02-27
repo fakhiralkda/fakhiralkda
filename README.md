@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man is guilty of all the good he did not do. "</i>
+<i>"Being a good example is the best form of service."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
