@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beware of false knowledge, it is more dangerous than ignorance."</i>
+<i>"Much learning does not teach understanding."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
