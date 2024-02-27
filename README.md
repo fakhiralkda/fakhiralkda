@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One small positive thought can change your whole day."</i>
+<i>"Look to the beauty of this day, miracles are all around you."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
