@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When one does not have what one wants, one must want what one has."</i>
+<i>"The more acquaintances you have, the less you know them."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
