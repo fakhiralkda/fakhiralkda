@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To a mind that is still, the entire universe surrenders."</i>
+<i>"When one does not have what one wants, one must want what one has."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
