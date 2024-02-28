@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is open for play, everything and everybody is mockable in a wonderful way."</i>
+<i>"Ability is a poor man's wealth."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
