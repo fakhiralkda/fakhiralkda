@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is useless to meet revenge with revenge; it will heal nothing."</i>
+<i>"To a mind that is still, the entire universe surrenders."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
