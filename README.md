@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more acquaintances you have, the less you know them."</i>
+<i>"If you want to see things just as they are, then you yourself must practice just as you are."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
