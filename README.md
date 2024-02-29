@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is an effect of doing what you love, not an end goal to be achieved."</i>
+<i>"Raise your words, not voice. It is rain that grows flowers, not thunder."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
