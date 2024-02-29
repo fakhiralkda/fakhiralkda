@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Inner peace is when you realize that, in the end, nothing matters."</i>
+<i>"I defeat my enemies when I make them my friends."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
