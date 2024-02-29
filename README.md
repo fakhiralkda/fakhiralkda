@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who are easily shocked should be shocked more often."</i>
+<i>"All know that the drop merges into the ocean, but few know that the ocean merges into the drop."</i>
 <br>
-<b>- Mae West</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
