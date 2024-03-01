@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can change our lives. We can do, have, and be exactly what we wish."</i>
+<i>"Life is growth. If we stop growing, technically and spiritually, we are as good as dead."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
