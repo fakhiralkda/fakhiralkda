@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True life is lived when tiny changes occur."</i>
+<i>"Learn to use your emotions to think, not think with your emotions."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
