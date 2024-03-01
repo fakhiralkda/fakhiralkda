@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn to use your emotions to think, not think with your emotions."</i>
+<i>"Our attitude toward life determines life's attitude towards us."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
