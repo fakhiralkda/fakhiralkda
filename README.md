@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good character is the best tombstone. Carve your name on hearts, not on marble."</i>
+<i>"The shoe that fits one person pinches another; there is no recipe for living that suits all cases."</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
