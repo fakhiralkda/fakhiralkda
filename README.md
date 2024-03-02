@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A hero is an ordinary person doing things in an extra ordinary way."</i>
+<i>"Begin now to be what you will be hereafter."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
