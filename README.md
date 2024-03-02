@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Begin now to be what you will be hereafter."</i>
+<i>"Great minds are always feared by lesser minds."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
