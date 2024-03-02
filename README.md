@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Inspire yourself to be great. Being good isn't good enough."</i>
+<i>"Our greatest glory is not in never falling but in rising every time we fall."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
