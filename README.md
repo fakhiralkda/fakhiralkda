@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To earn more you must learn more."</i>
+<i>"A hero is an ordinary person doing things in an extra ordinary way."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
