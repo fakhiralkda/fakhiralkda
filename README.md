@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unless you change how you are, you will always have what you got."</i>
+<i>"To earn more you must learn more."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
