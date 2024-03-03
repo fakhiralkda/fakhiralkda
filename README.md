@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way out is in."</i>
+<i>"Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
