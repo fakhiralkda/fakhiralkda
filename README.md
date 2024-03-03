@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You change the world by being yourself."</i>
+<i>"Do not pray for an easy life, pray for the strength to endure a difficult one.  "</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
