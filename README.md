@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Guilt is perhaps the most painful companion of death."</i>
+<i>"The way out is in."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
