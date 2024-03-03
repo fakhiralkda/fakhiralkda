@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pain of parting is nothing to the joy of meeting again."</i>
+<i>"You change the world by being yourself."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
