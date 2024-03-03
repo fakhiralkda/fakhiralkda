@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reading should be a pleasure, not a chore."</i>
+<i>"The pain of parting is nothing to the joy of meeting again."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
