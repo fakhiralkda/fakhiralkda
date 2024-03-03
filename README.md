@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you realize you've made a mistake, take immediate steps to correct it."</i>
+<i>"Reading should be a pleasure, not a chore."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
