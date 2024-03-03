@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not pray for an easy life, pray for the strength to endure a difficult one.  "</i>
+<i>"Behind every cloud is another cloud."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
