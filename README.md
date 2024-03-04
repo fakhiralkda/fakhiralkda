@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all here for some special reason."</i>
+<i>"The more you lose yourself in something bigger than yourself, the more energy you will have."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
