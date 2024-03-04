@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There will always be suffering. But we must not suffer over the suffering."</i>
+<i>"To be of use to the world is the only way to be happy."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
