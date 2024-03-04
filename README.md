@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you lose yourself in something bigger than yourself, the more energy you will have."</i>
+<i>"There will always be suffering. But we must not suffer over the suffering."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
