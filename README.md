@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more acquaintances you have, the less you know them."</i>
+<i>"Who wishes to fight must first count the cost."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
