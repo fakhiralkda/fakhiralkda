@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The journey is what brings us happiness not the destination."</i>
+<i>"Some people dream of success, while others wake up and work hard at it."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
