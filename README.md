@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am not what happened to me, I am what I choose to become."</i>
+<i>"The journey is what brings us happiness not the destination."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
