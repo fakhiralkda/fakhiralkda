@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can handle rejection, you'll learn to get everything you want."</i>
+<i>"The most courageous act is still to think for yourself. Aloud."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
