@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the expression of one's values."</i>
+<i>"I am not what happened to me, I am what I choose to become."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
