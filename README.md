@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter what happens in life, never lose sight of who you are."</i>
+<i>"People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about."</i>
 <br>
-<b>- Yanni</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
