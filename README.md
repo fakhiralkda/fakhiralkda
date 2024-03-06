@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A flower falls, even though we love it; and a weed grows, even though we do not love it."</i>
+<i>"There can be no deep disappointment where there is not deep love."</i>
 <br>
-<b>- Dogen</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
