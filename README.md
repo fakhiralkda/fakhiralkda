@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give a girl the right shoes, and she can conquer the world."</i>
+<i>"Trying to define yourself is like trying to bite your own teeth."</i>
 <br>
-<b>- Bette Midler</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
