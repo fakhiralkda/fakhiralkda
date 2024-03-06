@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There can be no deep disappointment where there is not deep love."</i>
+<i>"Doubt is an uncomfortable condition, but certainty is a ridiculous one."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
