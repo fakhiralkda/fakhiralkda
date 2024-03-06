@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no greatness where there is not simplicity, goodness, and truth."</i>
+<i>"I know of only one duty, and that is to love."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
