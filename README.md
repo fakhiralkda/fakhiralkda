@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Given the choice between the experience of pain and nothing, I would choose pain."</i>
+<i>"If you chase two rabbits, you catch none."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
