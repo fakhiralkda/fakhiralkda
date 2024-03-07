@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never to suffer would never to have been blessed."</i>
+<i>"Everything that is done in the world is done by hope."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
