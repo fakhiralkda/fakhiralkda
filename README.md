@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I know of only one duty, and that is to love."</i>
+<i>"The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. "</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Charles Swindoll</b>
 </blockquote>
 </p>
 
