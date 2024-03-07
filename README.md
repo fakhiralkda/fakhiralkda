@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. "</i>
+<i>"Given the choice between the experience of pain and nothing, I would choose pain."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
