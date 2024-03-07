@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't like something, change it. If you can't change it, change your attitude."</i>
+<i>"Through discipline comes freedom."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
