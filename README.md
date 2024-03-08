@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we strive to become better than we are, everything around us becomes better, too."</i>
+<i>"Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
