@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No grand idea was ever born in a conference, but a lot of foolish ideas have died there."</i>
+<i>"Life reflects your own thoughts back to you."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
