@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any idea, plan, or purpose may be placed in the mind through repetition of thought."</i>
+<i>"Never confuse a single defeat with a final defeat."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
