@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A person is only by the thoughts that he chooses."</i>
+<i>"You're never too old for anything."</i>
 <br>
-<b>- James Allen</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
