@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The goal of an artist is to create the definitive work that cannot be surpassed."</i>
+<i>"Man suffers only because he takes seriously what the gods made for fun."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
