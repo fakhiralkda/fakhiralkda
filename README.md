@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Victory is always possible for the person who refuses to stop fighting."</i>
+<i>"Hold yourself responsible for a higher standard than anybody else expects of you."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
