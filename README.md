@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A strong man overcomes an obstacle, a wise man goes the whole way."</i>
+<i>"If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
