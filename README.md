@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end."</i>
+<i>"Every experience is a lesson. Every loss is a gain."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
