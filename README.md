@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Till it has loved, no man or woman can become itself."</i>
+<i>"My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
