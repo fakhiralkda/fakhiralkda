@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men are disturbed not by things, but by the view which they take of them."</i>
+<i>"The most important single ingredient in the formula of success is knowing how to get along with people."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
