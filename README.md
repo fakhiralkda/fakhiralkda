@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If what you're doing is not your passion, you have nothing to lose."</i>
+<i>"He that can have patience can have what he will."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
