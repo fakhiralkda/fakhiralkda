@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The foolish reject what they see, not what they think; the wise reject what they think, not what they see."</i>
+<i>"If what you're doing is not your passion, you have nothing to lose."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
