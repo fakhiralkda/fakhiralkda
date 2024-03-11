@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not all those who wander are lost."</i>
+<i>"The search for happiness is one of the chief sources of unhappiness."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
