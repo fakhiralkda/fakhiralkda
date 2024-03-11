@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you want something in life, you just gotta reach out and grab it."</i>
+<i>"Life is trying things to see if they work."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
