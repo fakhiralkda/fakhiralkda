@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always be a first rate version of yourself and not a second rate version of someone else."</i>
+<i>"Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
