@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust is the foundation of great leadership."</i>
+<i>"If I love myself I love you. If I love you I love myself."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
