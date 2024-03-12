@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is an option here. If things are not failing, you are not innovating enough."</i>
+<i>"Always be a first rate version of yourself and not a second rate version of someone else."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
