@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things."</i>
+<i>"All men who have achieved great things have been great dreamers. "</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
