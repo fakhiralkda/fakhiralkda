@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunity often comes disguised in the form of misfortune or temporary defeat."</i>
+<i>"The successful warrior is the average man, with laser-like focus."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
