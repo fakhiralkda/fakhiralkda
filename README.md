@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the first signs of the beginning of understanding is the wish to die. "</i>
+<i>"If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
