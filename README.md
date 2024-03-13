@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice."</i>
+<i>"We shape clay into a pot, but it is the emptiness inside that holds whatever we want."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
