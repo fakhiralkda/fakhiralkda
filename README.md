@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can do nothing to change the past, and the future will never come exactly as you plan or hope for."</i>
+<i>"The greatest mistake you can make in life is to be continually fearing you will make one."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
