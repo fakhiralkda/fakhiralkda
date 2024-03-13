@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Maybe you are searching among the branches, for what only appears in the roots."</i>
+<i>"In order to carry a positive action, we must develop here a positive vision."</i>
 <br>
-<b>- Rumi</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
