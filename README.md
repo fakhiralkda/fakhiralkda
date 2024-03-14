@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every great change is preceded by chaos."</i>
+<i>"The trouble with the rat race is that even if you win, you're still a rat."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
