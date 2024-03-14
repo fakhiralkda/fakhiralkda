@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If there is a book that you want to read, but it hasn't been written yet, then you must write it."</i>
+<i>"You can calculate the worth of a man by the number of his enemies."</i>
 <br>
-<b>- Toni Morrison</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
