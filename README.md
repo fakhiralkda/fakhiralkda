@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the midst of chaos, there is also opportunity."</i>
+<i>"Every great change is preceded by chaos."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
