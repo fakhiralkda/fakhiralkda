@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Instead of being intimidated by the limitations, be inspired to find new ways around them."</i>
+<i>"Every man gotta right to decide his own destiny."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
