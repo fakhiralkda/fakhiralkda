@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who looks outside, dreams; who looks inside, awakes."</i>
+<i>"In the midst of chaos, there is also opportunity."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
