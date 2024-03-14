@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest mistake you can make in life is to be continually fearing you will make one."</i>
+<i>"Animals don't hate, and we're supposed to be better than them."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
