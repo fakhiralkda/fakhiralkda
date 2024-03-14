@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Animals don't hate, and we're supposed to be better than them."</i>
+<i>"Comedy = tragedy + time."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
