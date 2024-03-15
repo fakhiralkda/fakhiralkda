@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may be one person in this world, but to one person you may mean the world."</i>
+<i>"Be not glad at the misfortune of another, though he may be your enemy. "</i>
 <br>
-<b>- Unknown</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
