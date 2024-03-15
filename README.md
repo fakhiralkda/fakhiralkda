@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great loves too must be endured."</i>
+<i>"My powers are ordinary. Only my application brings me success."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
