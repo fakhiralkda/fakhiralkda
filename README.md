@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Is it really possible to tell someone else what one feels?"</i>
+<i>"Never to suffer would never to have been blessed."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
