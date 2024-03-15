@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh."</i>
+<i>"There is no absolute success in the world, only constant progress."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
