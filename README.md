@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never to suffer would never to have been blessed."</i>
+<i>"My powers are ordinary. Only my application brings me success."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
