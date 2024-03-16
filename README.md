@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I defeat my enemies when I make them my friends."</i>
+<i>"There is no truth. There is only perception."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
