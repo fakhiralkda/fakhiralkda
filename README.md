@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"She who loves roses must be patient and not cry out when she is pierced by thorns."</i>
+<i>"Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths."</i>
 <br>
-<b>- Kenji Miyazawa</b>
+<b>- Charles Spurgeon</b>
 </blockquote>
 </p>
 
