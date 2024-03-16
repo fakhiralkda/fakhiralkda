@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing."</i>
+<i>"If it is not right, do not do it, if it is not true, do not say it."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
