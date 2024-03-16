@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no absolute success in the world, only constant progress."</i>
+<i>"Never settle for the crumbs of life."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
