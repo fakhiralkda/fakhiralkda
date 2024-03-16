@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no truth. There is only perception."</i>
+<i>"When you lose your desire for things that do not matter, you will be free."</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
