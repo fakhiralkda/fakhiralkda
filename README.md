@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a constant series of opportunities."</i>
+<i>"Friendship takes time and energy if it's going to work."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
