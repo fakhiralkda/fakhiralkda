@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do one thing every day that scares you."</i>
+<i>"Wherever you are, and whatever you do, be in love."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
