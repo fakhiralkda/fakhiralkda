@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In youth we run into difficulties. In old age difficulties run into us. "</i>
+<i>"Don't let the behavior of others destroy your inner peace."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
