@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You play the hand you're dealt. I think the game's worthwhile.  "</i>
+<i>"The positive thinker sees the invisible, feels the intangible, and achieves the impossible."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
