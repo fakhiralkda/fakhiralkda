@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The hardest arithmetic to master is that which enables us to count our blessings."</i>
+<i>"Happiness is when what you think, what you say, and what you do are in harmony."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
