@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let the behavior of others destroy your inner peace."</i>
+<i>"Integrity is the ability to stand by an idea."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
