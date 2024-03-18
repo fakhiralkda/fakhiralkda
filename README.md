@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tomorrow is only found in the calendar of fools."</i>
+<i>"We meet ourselves time and again in a thousand disguises on the path of life."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
