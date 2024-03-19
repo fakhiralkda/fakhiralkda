@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't feed a hundred people, then feed just one."</i>
+<i>"Absorb what is useful, discard what is useless and add what is specifically your own.  "</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
