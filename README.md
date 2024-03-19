@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all self-made, but only the successful will admit it."</i>
+<i>"If you can't feed a hundred people, then feed just one."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
