@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you repeat a mistake, it is not a mistake anymore: it is a decision."</i>
+<i>"Truth is the offspring of silence and meditation."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
