@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You never know when a moment and a few sincere words can have an impact on a life.  "</i>
+<i>"Ripe fruit falls by itself - but it doesn't fall in your mouth. "</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
