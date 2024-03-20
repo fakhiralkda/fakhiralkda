@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To accomplish big things, I am convinced you must first dream big dreams."</i>
+<i>"We are all here for some special reason."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
