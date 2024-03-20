@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all here for some special reason."</i>
+<i>"Decide upon your major definite purpose in life and then organize all your activities around it."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
