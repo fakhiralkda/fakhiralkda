@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are able to employ your will always for constructive purposes, you become the controller of your destiny."</i>
+<i>"Your goals are the road maps that guide you and show you what is possible for your life."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
