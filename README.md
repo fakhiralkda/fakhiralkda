@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ripe fruit falls by itself - but it doesn't fall in your mouth. "</i>
+<i>"To arrive at the simplest truth requires years of contemplation."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
