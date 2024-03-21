@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is the offspring of silence and meditation."</i>
+<i>"Never lose hope. Storms make people stronger and never last forever."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
