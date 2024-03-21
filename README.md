@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present."</i>
+<i>"You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
