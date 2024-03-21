@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Becoming a great leader doesn't mean being perfect. it means living with your imperfections."</i>
+<i>"Excellence is not a skill. It is an attitude. "</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
