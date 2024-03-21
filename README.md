@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously."</i>
+<i>"Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
