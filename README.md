@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What would you do if you weren't afraid?"</i>
+<i>"I'm not afraid of death, but I'm in no hurry to die."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
