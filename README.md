@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A day without laughter is a day wasted."</i>
+<i>"What would you do if you weren't afraid?"</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
