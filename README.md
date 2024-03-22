@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Eighty percent of success is showing up. "</i>
+<i>"A day without laughter is a day wasted."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
