@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the greatest of all mistakes to do nothing because you can only do little; do something."</i>
+<i>"It ain't where you start in life, it's where you end up, and what you did along the way."</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
