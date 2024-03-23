@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"First learn the meaning of what you say, and then speak."</i>
+<i>"I am thankful to all who said no to me. It is because of them that I'm doing it myself."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
