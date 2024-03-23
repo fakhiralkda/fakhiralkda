@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Supreme excellence consists of breaking the enemy's resistance without fighting."</i>
+<i>"No tree, it is said, can grow to heaven unless its roots reach down to hell."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
