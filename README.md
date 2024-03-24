@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no path to Happiness. Happiness is the path."</i>
+<i>"Always be a first rate version of yourself and not a second rate version of someone else."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
