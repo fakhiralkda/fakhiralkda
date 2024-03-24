@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Selfishness and greed, individual or national, cause most of our troubles."</i>
+<i>"We must cultivate our garden. "</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
