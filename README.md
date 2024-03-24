@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not how high you have climbed, but how you make a positive difference to the world."</i>
+<i>"The future is the worst thing about the present."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
