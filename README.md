@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future is the worst thing about the present."</i>
+<i>"Selfishness and greed, individual or national, cause most of our troubles."</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
