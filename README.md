@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our attitude toward life determines life's attitude towards us."</i>
+<i>"People who bite the hand that feeds them usually lick the boot that kicks them."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
