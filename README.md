@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some of your greatest lessons come from your darkest moments."</i>
+<i>"There is no sadder sight than a young pessimist."</i>
 <br>
-<b>- Roger Lee</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
