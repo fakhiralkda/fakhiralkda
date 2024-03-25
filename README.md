@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you believe in a thing, believe in it all the way, implicitly and unquestionable."</i>
+<i>"I cannot make my days longer so I strive to make them better."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
