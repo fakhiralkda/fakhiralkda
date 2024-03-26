@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience."</i>
+<i>"It's not what we do once in a while that shapes our lives, but what we do consistently."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
