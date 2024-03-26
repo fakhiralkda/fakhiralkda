@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mastering others is strength, mastering yourself is true power."</i>
+<i>"The best way to understanding is a few good examples."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
