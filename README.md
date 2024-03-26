@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rather than love, than money, than fame, give me truth."</i>
+<i>"It is better to change an opinion than to persist in a wrong one."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
