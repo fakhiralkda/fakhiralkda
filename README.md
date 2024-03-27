@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Children are our greatest natural resource."</i>
+<i>"The educated differ from the uneducated as much as the living differ from the dead."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
