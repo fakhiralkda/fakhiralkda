@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The heart wants what it wants. There's no logic. "</i>
+<i>"Children are our greatest natural resource."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
