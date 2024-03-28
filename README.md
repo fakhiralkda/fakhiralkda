@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things."</i>
+<i>"Whenever you find yourself on the side of the majority, it is time to reform."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
