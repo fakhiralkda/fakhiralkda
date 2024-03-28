@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust, like the soul, never returns once it is gone."</i>
+<i>"The educated differ from the uneducated as much as the living differ from the dead."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
