@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your home is where your thoughts find peace."</i>
+<i>"Listen to what you know instead of what you fear."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
