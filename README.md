@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most of the evil in this world is done by people with good intentions."</i>
+<i>"Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
