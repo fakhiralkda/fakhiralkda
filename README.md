@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every traveler has a home of his own, and he learns to appreciate it the more from his wandering."</i>
+<i>"Most of the evil in this world is done by people with good intentions."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
