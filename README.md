@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next."</i>
+<i>"Let the beauty of what you love be what you do."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
