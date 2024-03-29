@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not allow your inner doubts to keep you from achieving what you can do."</i>
+<i>"The most tragic thing in the world is a man of genius who is not a man of honor."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
