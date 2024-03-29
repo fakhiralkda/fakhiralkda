@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today is the oldest you've ever been, and the youngest you'll ever be again."</i>
+<i>"Do not allow your inner doubts to keep you from achieving what you can do."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
