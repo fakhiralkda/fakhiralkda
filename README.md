@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The difference between treason and patriotism is only a matter of dates."</i>
+<i>"The birth of the mind is the death of the senses."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
