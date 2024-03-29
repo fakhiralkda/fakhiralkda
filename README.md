@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Far more crucial than what we know or do not know is what we do not want to know."</i>
+<i>"It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
