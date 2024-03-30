@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who are easily shocked should be shocked more often."</i>
+<i>"Happiness is a quality of the soul...not a function of one's material circumstances."</i>
 <br>
-<b>- Mae West</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
