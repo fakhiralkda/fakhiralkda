@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I persist long enough I will win."</i>
+<i>"Those who are easily shocked should be shocked more often."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
