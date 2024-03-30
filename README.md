@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To forget the whole world is easy; to make the whole world forget you is hard."</i>
+<i>"Be happy now, without reason - or you never will be at all."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
