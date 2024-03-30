@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a quality of the soul...not a function of one's material circumstances."</i>
+<i>"If it's not broken, tinker with it till you find out how it works."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
