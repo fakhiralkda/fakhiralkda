@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If it's not broken, tinker with it till you find out how it works."</i>
+<i>"Before preparing to improve the world, first look around your own home three times. "</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
