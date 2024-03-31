@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Here is the test to find whether your mission on earth is finished. If you're alive, it isn't."</i>
+<i>"You are not only responsible for what you say, but also for what you do not say. "</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
