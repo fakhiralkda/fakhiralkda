@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The harder the conflict, the greater the triumph. "</i>
+<i>"Often in the real world, it's not the smart that get ahead, but the bold."</i>
 <br>
-<b>- George Washington</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
