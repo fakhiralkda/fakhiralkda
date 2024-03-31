@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you love someone, you love the person as they are, and not as you'd like them to be."</i>
+<i>"Stop comparing yourself to others and focus on your own improvement."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
