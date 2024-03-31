@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If the happiness and prosperity of other people depend on you, you have nothing to fear anymore."</i>
+<i>"The harder the conflict, the greater the triumph. "</i>
 <br>
-<b>- Robert Greene</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
