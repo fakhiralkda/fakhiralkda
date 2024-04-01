@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wisest men follow their own direction."</i>
+<i>"Make improvements, not excuses. Seek respect, not attention."</i>
 <br>
-<b>- Euripides</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
