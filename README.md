@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do what you can, with what you have, where you are."</i>
+<i>"The wisest men follow their own direction."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
