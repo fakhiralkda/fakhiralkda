@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Meditate. It won't be fun but it will surface what you need to deal with."</i>
+<i>"The more you take responsibility for your past and present, the more you are able to create the future you seek."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
