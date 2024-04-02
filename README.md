@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries."</i>
+<i>"Successful people appreciate where they have come from, but they don't let their past set the tone for their future."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
