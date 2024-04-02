@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want work well done, select a busy man; the other kind has no time."</i>
+<i>"Happiness is only real, when shared."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
