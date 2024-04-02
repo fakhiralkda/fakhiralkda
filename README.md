@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is only real, when shared."</i>
+<i>"Nothing can bring you peace but yourself."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
