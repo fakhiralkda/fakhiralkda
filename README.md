@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through."</i>
+<i>"If you want work well done, select a busy man; the other kind has no time."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
