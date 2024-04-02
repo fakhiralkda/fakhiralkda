@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people appreciate where they have come from, but they don't let their past set the tone for their future."</i>
+<i>"Meditate. It won't be fun but it will surface what you need to deal with."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
