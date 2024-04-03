@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The sun is new each day."</i>
+<i>"The way out is in."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
