@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The divine is not something high above us. It is in heaven, it is in earth, it is inside us."</i>
+<i>"Success and failure come and go, but don't let them define you. It's who you are that matters."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
