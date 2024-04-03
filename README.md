@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words have no power to impress the mind without the exquisite horror of their reality."</i>
+<i>"You do not read a book for the book's sake, but for your own."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
