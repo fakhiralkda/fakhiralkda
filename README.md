@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who hesitates is a damned fool."</i>
+<i>"Pleasure in the job puts perfection in the work."</i>
 <br>
-<b>- Mae West</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
