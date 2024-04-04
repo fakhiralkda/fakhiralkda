@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is in your moments of decision that your destiny is shaped."</i>
+<i>"We must have strong minds, ready to accept facts as they are."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
