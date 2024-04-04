@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Art is to console those who are broken by life."</i>
+<i>"One of the most difficult things is not to change society - but to change yourself."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
