@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest treasures are those invisible to the eye but found by the heart."</i>
+<i>"Art is to console those who are broken by life."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
