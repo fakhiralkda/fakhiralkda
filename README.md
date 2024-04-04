@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True love stories never have endings."</i>
+<i>"Be happy in the moment, that's enough. Each moment is all we need, not more."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
