@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the most difficult things is not to change society - but to change yourself."</i>
+<i>"It is in your moments of decision that your destiny is shaped."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
