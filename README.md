@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man who cannot tolerate small misfortunes can never accomplish great things."</i>
+<i>"He who hesitates is a damned fool."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
