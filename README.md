@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To handle yourself, use your head; to handle others, use your heart."</i>
+<i>"Knowing yourself is the beginning of all wisdom."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
