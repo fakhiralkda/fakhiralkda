@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go confidently in the direction of your dreams. Live the life you've imagined."</i>
+<i>"A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
