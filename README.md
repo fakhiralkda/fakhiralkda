@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results."</i>
+<i>"It's not what happens to you, but how you react to it that matters."</i>
 <br>
-<b>- James Allen</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
