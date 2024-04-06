@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Focused, hard work is the real key to success."</i>
+<i>"Time goes from present to past."</i>
 <br>
-<b>- John Carmack</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
