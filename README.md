@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you want to be honored by others, you learn to honor them first."</i>
+<i>"You live by what you thrill to, and there's the end of it."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
