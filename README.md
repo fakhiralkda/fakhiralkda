@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give out what you most want to come back."</i>
+<i>"When you want to be honored by others, you learn to honor them first."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
