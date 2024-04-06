@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want something new, you have to stop doing something old."</i>
+<i>"When asked, how do you write? I invariably answer, one word at a time."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
