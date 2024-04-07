@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never give way to laziness."</i>
+<i>"Enjoy life. There's plenty of time to be dead."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
