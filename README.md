@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never fear quarrels, but seek hazardous adventures."</i>
+<i>"The quality of your commitments will determine the course of your life."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
