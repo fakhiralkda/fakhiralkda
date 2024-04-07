@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wishing to be friends is quick work, but friendship is a slow ripening fruit."</i>
+<i>"Never give way to laziness."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
