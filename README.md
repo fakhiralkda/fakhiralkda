@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever is begun in anger, ends in shame."</i>
+<i>"No one has ever become poor by giving."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
