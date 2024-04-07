@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win."</i>
+<i>"Some people don't like change, but you need to embrace change if the alternative is disaster."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
