@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you genuinely want something, don't wait for it - teach yourself."</i>
+<i>"Death is as sure for that which is born, as birth is for that which is dead. Therefore grieve not for what is inevitable."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
