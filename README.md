@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one has ever become poor by giving."</i>
+<i>"There is no significance in life without struggle."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
