@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself."</i>
+<i>"Great things are not done by impulse, but by a series of small things brought together."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
