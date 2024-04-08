@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True love stories never have endings."</i>
+<i>"You'll see it when you believe it. "</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
