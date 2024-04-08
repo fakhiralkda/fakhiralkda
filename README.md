@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only defense against the world is a thorough knowledge of it."</i>
+<i>"Wishing to be friends is quick work, but friendship is a slow ripening fruit."</i>
 <br>
-<b>- John Locke</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
