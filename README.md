@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no significance in life without struggle."</i>
+<i>"True love stories never have endings."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
