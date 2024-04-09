@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise warrior avoids the battle."</i>
+<i>"Blessed is he who expects nothing, for he shall be disappointed."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
