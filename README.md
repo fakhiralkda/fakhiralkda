@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never give way to laziness."</i>
+<i>"Before anything else, preparation is the key to success."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
