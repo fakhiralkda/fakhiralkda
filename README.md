@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's the little things done consistently over time, straight from your heart, that have the greatest impact."</i>
+<i>"Beware of false knowledge, it is more dangerous than ignorance."</i>
 <br>
-<b>- Unknown</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
