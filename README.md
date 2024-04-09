@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beware of false knowledge, it is more dangerous than ignorance."</i>
+<i>"Unhappiness enters through a door that has been left open."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
