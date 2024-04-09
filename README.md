@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can know only that we know nothing. And that is the highest degree of human wisdom."</i>
+<i>"The greatest doer must also be a great dreamer."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
