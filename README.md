@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is a puzzle; no need to make sense out of it."</i>
+<i>"Never give way to laziness."</i>
 <br>
-<b>- Socrates</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
