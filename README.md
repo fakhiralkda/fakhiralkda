@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed is he who expects nothing, for he shall be disappointed."</i>
+<i>"You get paid in direct proportion to the difficulty of problems you solve."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
