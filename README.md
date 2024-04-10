@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way of success is the way of continuous pursuit of knowledge."</i>
+<i>"Being a good example is the best form of service."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
