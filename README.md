@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every hour of every day is an unspeakably perfect miracle."</i>
+<i>"The way of success is the way of continuous pursuit of knowledge."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
