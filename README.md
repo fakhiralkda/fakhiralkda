@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why live an ordinary life, when you can live an extraordinary one."</i>
+<i>"If you can't, you must. If you must, you can."</i>
 <br>
 <b>- Tony Robbins</b>
 </blockquote>
