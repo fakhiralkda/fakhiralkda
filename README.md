@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't walk away from things that I think are unfinished."</i>
+<i>"Why live an ordinary life, when you can live an extraordinary one."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
