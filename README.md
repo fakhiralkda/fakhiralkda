@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You get paid in direct proportion to the difficulty of problems you solve."</i>
+<i>"When you repeat a mistake, it is not a mistake anymore: it is a decision."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
