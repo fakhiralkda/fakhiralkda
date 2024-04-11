@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being a good example is the best form of service."</i>
+<i>"Success is within the reach of just about everyone."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
