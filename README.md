@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is within the reach of just about everyone."</i>
+<i>"No one ever is defeated until defeat has been accepted as a reality."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
