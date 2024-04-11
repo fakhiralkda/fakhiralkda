@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Numbing the pain for a while will only make it worse when you finally feel it."</i>
+<i>"Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
