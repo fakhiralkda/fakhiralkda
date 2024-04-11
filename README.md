@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Behind every cloud is another cloud."</i>
+<i>"Numbing the pain for a while will only make it worse when you finally feel it."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
