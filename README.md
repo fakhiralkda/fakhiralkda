@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is just information and an opportunity to change your course."</i>
+<i>"It is difficult to free fools from the chains they revere. "</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
