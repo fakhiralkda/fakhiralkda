@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The majority of what you want will come from the minority of what you do."</i>
+<i>"It still holds true that man is most uniquely human when he turns obstacles into opportunities."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
