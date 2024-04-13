@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place."</i>
+<i>"Nothing endures but change."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
