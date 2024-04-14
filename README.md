@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If the grass is greener on the other side, maybe that's because you're not taking good care of your grass."</i>
+<i>"Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving."</i>
 <br>
-<b>- Unknown</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
