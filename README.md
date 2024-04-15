@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The salvation of the world lies in the human heart."</i>
+<i>"Misfortune shows those who are not really friends."</i>
 <br>
-<b>- Vaclav Havel</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
