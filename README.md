@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never do to others what you would not like them to do to you. "</i>
+<i>"Believe and you're halfway there."</i>
 <br>
-<b>- Confucius</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
