@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe and you're halfway there."</i>
+<i>"Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
