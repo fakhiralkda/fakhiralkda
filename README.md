@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What do we live for, if it is not to make life less difficult for each other?"</i>
+<i>"Never do to others what you would not like them to do to you. "</i>
 <br>
-<b>- George Eliot</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
