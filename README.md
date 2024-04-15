@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Persistence is very important. You should not give up unless you are forced to give up."</i>
+<i>"The salvation of the world lies in the human heart."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
