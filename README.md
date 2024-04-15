@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Misfortune shows those who are not really friends."</i>
+<i>"Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
