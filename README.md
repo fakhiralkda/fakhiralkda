@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy."</i>
+<i>"Failure is a great teacher. If you're open to it every mistake has a lesson to offer."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
