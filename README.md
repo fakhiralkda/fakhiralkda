@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality means doing it right when no one is looking."</i>
+<i>"Bloom where you are planted!"</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
