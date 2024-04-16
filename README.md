@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Bloom where you are planted!"</i>
+<i>"Be polite to all, but intimate with few."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
