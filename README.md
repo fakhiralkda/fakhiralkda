@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most difficult times for many of us are the ones we give ourselves."</i>
+<i>"You are the average of the five people you spend the most time with."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
