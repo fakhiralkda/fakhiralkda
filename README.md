@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be polite to all, but intimate with few."</i>
+<i>"Fiction is the truth inside the lie."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
