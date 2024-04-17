@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never take your position for granted and never let any favors you receive go to your head."</i>
+<i>"Care about what other people think and you will always be their prisoner."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
