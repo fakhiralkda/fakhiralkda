@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's just a bad day, not a bad life."</i>
+<i>"We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Gabor Mate</b>
 </blockquote>
 </p>
 
