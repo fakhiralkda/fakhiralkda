@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world."</i>
+<i>"I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars."</i>
 <br>
-<b>- Gabor Mate</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
