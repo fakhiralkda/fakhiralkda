@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Care about what other people think and you will always be their prisoner."</i>
+<i>"Be not afraid of growing slowly, be afraid only of standing still. "</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
