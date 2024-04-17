@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're waiting until you feel talented enough to make it, you'll never make it."</i>
+<i>"It's just a bad day, not a bad life."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
