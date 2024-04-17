@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All things come into being by conflict of opposites."</i>
+<i>"Do not think you will necessarily be aware of your own enlightenment."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
