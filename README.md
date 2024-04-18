@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are only encounters in history. There are no accidents."</i>
+<i>"The best fighter is never angry."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
