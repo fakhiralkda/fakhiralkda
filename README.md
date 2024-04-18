@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Looking after my health today gives me a better hope for tomorrow. "</i>
+<i>"If there were no God, there would be no atheists."</i>
 <br>
-<b>- Anne Wilson Schaef</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
