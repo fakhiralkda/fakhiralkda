@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be not afraid of growing slowly, be afraid only of standing still. "</i>
+<i>"Looking after my health today gives me a better hope for tomorrow. "</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Anne Wilson Schaef</b>
 </blockquote>
 </p>
 
