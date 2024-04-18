@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you trust yourself, the less you compare yourself to others."</i>
+<i>"Care about what other people think and you will always be their prisoner."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
