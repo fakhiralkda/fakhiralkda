@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Originality is the fine art of remembering what you hear but forgetting where you heard it. "</i>
+<i>"The more you trust yourself, the less you compare yourself to others."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
