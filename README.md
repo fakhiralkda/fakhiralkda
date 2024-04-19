@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you pray for rain, be prepared to deal with some mud."</i>
+<i>"Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
