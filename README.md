@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way to change others' minds is with affection, and not anger."</i>
+<i>"We're responsible for everything that happens to us."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
