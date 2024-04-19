@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Maybe you are searching among the branches, for what only appears in the roots."</i>
+<i>"Life must be a constant education; one must learn everything, from speaking to dying."</i>
 <br>
-<b>- Rumi</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
