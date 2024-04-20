@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is changed by your example, not by your opinion."</i>
+<i>"Being ignorant is not so much a shame, as being unwilling to learn."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
