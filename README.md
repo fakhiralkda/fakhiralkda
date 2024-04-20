@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life must be a constant education; one must learn everything, from speaking to dying."</i>
+<i>"Freedom from desire leads to inner peace."</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
