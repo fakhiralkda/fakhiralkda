@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being ignorant is not so much a shame, as being unwilling to learn."</i>
+<i>"Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
