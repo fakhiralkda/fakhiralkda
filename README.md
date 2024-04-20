@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do all things with love."</i>
+<i>"Always keep your eyes open. Keep watching. Because whatever you see can inspire you."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Grace Coddington</b>
 </blockquote>
 </p>
 
