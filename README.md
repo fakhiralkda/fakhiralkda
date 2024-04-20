@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When I let go of what I am, I become what I might be."</i>
+<i>"The world is changed by your example, not by your opinion."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
