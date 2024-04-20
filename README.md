@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Night is a more quiet time to work. It aids thought."</i>
+<i>"It is better to offer no excuse than a bad one. "</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
