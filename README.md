@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who realize their folly are not true fools."</i>
+<i>"Our stories may be singular, but our destination is shared."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
