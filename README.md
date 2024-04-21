@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember that sometimes not getting what you want is a wonderful stroke of luck."</i>
+<i>"Real growth comes through intense, difficult, and challenging situations."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
