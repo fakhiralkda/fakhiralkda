@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A different result requires doing something different."</i>
+<i>"Freeing oneself from words is liberation. "</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
