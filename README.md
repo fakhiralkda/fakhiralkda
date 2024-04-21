@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you truly expect something to be difficult, it will be."</i>
+<i>"A good stance and posture reflect a proper state of mind."</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
