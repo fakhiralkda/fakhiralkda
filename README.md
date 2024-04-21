@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good stance and posture reflect a proper state of mind."</i>
+<i>"There is no self-discovery without pain and loss."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
