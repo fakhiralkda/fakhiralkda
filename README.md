@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience is bitter, but its fruit is sweet."</i>
+<i>"One beam, no matter how big, cannot support an entire house on its own."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
