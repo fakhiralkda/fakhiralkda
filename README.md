@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed is he who expects nothing, for he shall never be disappointed."</i>
+<i>"Take care of your cents: dollars will take care of themselves."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
