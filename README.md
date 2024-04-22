@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your work is to discover your work and then, with all your heart, to give yourself to it."</i>
+<i>"In order to carry a positive action, we must develop here a positive vision."</i>
 <br>
-<b>- Buddha</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
