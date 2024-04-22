@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are people who have money and people who are rich."</i>
+<i>"Those who can make you believe absurdities can make you commit atrocities. "</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
