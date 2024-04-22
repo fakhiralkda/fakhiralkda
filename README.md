@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed. "</i>
+<i>"As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
