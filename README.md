@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who can make you believe absurdities can make you commit atrocities. "</i>
+<i>"Take time like the river that never grows stale. Keep going and steady. No hurry, no rush."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
