@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wealth consists not in having great possessions, but in having few wants."</i>
+<i>"Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
