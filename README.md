@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All know the way; few actually walk it. "</i>
+<i>"From the errors of others, a wise man corrects his own."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
