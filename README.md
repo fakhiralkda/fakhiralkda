@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From the errors of others, a wise man corrects his own."</i>
+<i>"Wealth consists not in having great possessions, but in having few wants."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
