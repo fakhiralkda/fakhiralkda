@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Still your waters."</i>
+<i>"All know the way; few actually walk it. "</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
