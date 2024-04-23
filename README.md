@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Catch, then, O catch the transient hour; Improve each moment as it flies! "</i>
+<i>"You can't wait for inspiration. You have to go after it with a club. "</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
