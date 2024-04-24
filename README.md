@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enlightenment is intimacy with all things."</i>
+<i>"Out of your vulnerabilities will come your strength."</i>
 <br>
-<b>- Dogen</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
