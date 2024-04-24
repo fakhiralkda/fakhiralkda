@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Out of your vulnerabilities will come your strength."</i>
+<i>"Growing up is losing some illusions, in order to acquire others."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
