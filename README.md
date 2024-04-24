@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Growing up is losing some illusions, in order to acquire others."</i>
+<i>"Only put off until tomorrow what you are willing to die having left undone."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
