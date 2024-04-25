@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Setting goals is the first step in turning the invisible into the visible."</i>
+<i>"We are all here for some special reason."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
