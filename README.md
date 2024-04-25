@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The Truth is realized in an instant; the Act is practiced step by step."</i>
+<i>"We have to live life with a sense of urgency so not a minute is wasted."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
