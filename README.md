@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer."</i>
+<i>"In nature there is no alienation. Everything belongs."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
