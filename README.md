@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Big people don't make people feel small."</i>
+<i>"The Truth is realized in an instant; the Act is practiced step by step."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Seungsahn</b>
 </blockquote>
 </p>
 
