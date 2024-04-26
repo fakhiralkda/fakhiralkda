@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change happens when the pain of holding on becomes greater than the fear of letting go."</i>
+<i>"We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
