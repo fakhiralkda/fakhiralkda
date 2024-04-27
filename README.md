@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if you persuade me, you won't persuade me."</i>
+<i>"Life is trying things to see if they work."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
