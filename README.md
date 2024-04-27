@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The desire for more positive experience is itself a negative experience."</i>
+<i>"I was angered, for I had no shoes. Then I met a man who had no feet. "</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
