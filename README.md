@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go as far as you can see and you will see further.  "</i>
+<i>"Better late than never."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
