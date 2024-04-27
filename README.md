@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Doing the best at this moment puts you in the best place for the next moment."</i>
+<i>"A rational person can find peace by cultivating indifference to things outside of their control."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
