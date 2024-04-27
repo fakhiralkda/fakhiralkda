@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thoughts become things. If you see it in your mind, you will hold it in your hand."</i>
+<i>"Go as far as you can see and you will see further.  "</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
