@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A rational person can find peace by cultivating indifference to things outside of their control."</i>
+<i>"Charms strike the sight, but merit wins the soul."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
