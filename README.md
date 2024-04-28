@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You purchase pain with all that joy can give and die of nothing but a rage to live."</i>
+<i>"Persistence is very important. You should not give up unless you are forced to give up."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
