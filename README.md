@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To know even one life has breathed easier because you have lived. This is to have succeeded."</i>
+<i>"Every strike brings me closer to the next home run. "</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Babe Ruth</b>
 </blockquote>
 </p>
 
