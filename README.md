@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Surround yourself with only people who are going to lift you higher. "</i>
+<i>"To achieve, you need thought. You have to know what you are doing and that's real power."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
