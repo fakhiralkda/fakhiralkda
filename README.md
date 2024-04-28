@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience is a bitter plant, but its fruit is sweet."</i>
+<i>"Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
