@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is nothing more than a few simple disciplines practiced every day."</i>
+<i>"If fear is too strong, the genius is suppressed."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
