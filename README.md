@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Constantly think about how you could be doing things better."</i>
+<i>"The businessman's tool is value."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
