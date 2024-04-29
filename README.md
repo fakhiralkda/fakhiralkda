@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is hard at first, messy in the middle and gorgeous at the end."</i>
+<i>"The fear of death is more to be feared, than death itself."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
