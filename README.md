@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Because of your smile, you make life more beautiful."</i>
+<i>"Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
