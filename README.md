@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always be a first rate version of yourself and not a second rate version of someone else."</i>
+<i>"What do we live for if not to make life less difficult for each other?"</i>
 <br>
-<b>- Judy Garland</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
