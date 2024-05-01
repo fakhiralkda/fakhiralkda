@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know yourself and you will win all battles."</i>
+<i>"The truth is not for all men, but for those who seek it."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
