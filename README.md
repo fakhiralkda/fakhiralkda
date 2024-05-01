@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He is richest who is content with the least, for content is the wealth of nature."</i>
+<i>"Time stays long enough for anyone who will use it."</i>
 <br>
-<b>- Socrates</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
