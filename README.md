@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists."</i>
+<i>"Be Brave and Take Risks: You need to have faith in yourself. Be brave and take risks. You don't have to have it all figured out to move forward."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
