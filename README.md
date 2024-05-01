@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any game becomes important when you know and love the players."</i>
+<i>"The difference between treason and patriotism is only a matter of dates."</i>
 <br>
-<b>- W.P. Kinsella</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
