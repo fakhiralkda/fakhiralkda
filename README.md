@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The prettiest eyes have cried the most."</i>
+<i>"A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists."</i>
 <br>
-<b>- Unknown</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
