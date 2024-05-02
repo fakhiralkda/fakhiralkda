@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mind is the creator of everything. You should therefore guide it to create only good."</i>
+<i>"To forget the whole world is easy; to make the whole world forget you is hard."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
