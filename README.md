@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What have you done today to make someone else happy?"</i>
+<i>"Life is either a daring adventure, or nothing."</i>
 <br>
-<b>- Deepam Chaterjee</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
