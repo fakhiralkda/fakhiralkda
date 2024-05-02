@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never be bored, and you will never be boring."</i>
+<i>"What have you done today to make someone else happy?"</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Deepam Chaterjee</b>
 </blockquote>
 </p>
 
