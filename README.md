@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."</i>
+<i>"Love doesn't need reason. It speaks from the irrational wisdom of the heart."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
