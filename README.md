@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People seldom do what they believe in. They do what is convenient, then repent."</i>
+<i>"Enlightenment is intimacy with all things."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
