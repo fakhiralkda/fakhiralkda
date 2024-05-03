@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love doesn't need reason. It speaks from the irrational wisdom of the heart."</i>
+<i>"When you are tempted to give up, your breakthrough is probably just around the corner."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
