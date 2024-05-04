@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don´t hesitate or allow yourself to make excuses. Just get out and do it."</i>
+<i>"Your time is limited, so don't waste it living someone elses. life."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
