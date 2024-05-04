@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your time is limited, so don't waste it living someone elses. life."</i>
+<i>"If someone betrays you once, it's their fault; if they betray you twice, it's your fault."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
