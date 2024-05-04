@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If someone betrays you once, it's their fault; if they betray you twice, it's your fault."</i>
+<i>"Maybe you are searching among the branches, for what only appears in the roots."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
