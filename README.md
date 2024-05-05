@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forever is composed of now's."</i>
+<i>"One of the first signs of the beginning of understanding is the wish to die. "</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
