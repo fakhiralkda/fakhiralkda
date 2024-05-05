@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing you do is going to matter that much in the long run. Don't take yourself so seriously."</i>
+<i>"If you're afraid to die, you're afraid to live. You can't have one without the other."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
