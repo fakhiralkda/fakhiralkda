@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the first signs of the beginning of understanding is the wish to die. "</i>
+<i>"Do not follow the ideas of others, but learn to listen to the voice within yourself."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
