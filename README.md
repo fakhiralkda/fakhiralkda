@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who can make you believe absurdities can make you commit atrocities. "</i>
+<i>"We turn not older with years but newer every day."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
