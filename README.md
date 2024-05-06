@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One is never afraid of the unknown; one is afraid of the known coming to an end."</i>
+<i>"Associate with people who are likely to improve you.  "</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
