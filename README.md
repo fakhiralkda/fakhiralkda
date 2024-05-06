@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves."</i>
+<i>"One is never afraid of the unknown; one is afraid of the known coming to an end."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
