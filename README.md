@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more often a stupidity is repeated, the more it gets the appearance of wisdom."</i>
+<i>"Be like a postage stamp. Stick to it until you get there."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
