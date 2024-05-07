@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Associate with people who are likely to improve you.  "</i>
+<i>"He suffers more than necessary, who suffers before it is necessary.  "</i>
 <br>
 <b>- Seneca</b>
 </blockquote>
