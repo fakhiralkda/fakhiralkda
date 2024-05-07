@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing like looking if you want to find something."</i>
+<i>"Problems remain as problems because people are busy defending them rather than finding solutions."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
