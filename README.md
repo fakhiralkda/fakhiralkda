@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conscience is a dog that does not stop us from passing but that we cannot prevent from barking."</i>
+<i>"An ounce of performance is worth pounds of promises."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
