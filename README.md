@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"FOCUS - Follow One Course Until Successful"</i>
+<i>"Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
