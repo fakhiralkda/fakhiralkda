@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every traveler has a home of his own, and he learns to appreciate it the more from his wandering."</i>
+<i>"The road to success and the road to failure are almost exactly the same."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Colin R. Davis</b>
 </blockquote>
 </p>
 
