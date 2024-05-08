@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let anyone define you. You define yourself."</i>
+<i>"There are few reasons for telling the truth, but for lying the number is infinite."</i>
 <br>
-<b>- Billie Jean King</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
