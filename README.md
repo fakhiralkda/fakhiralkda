@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reality is the leading cause of stress among those in touch with it."</i>
+<i>"The reward of suffering is experience."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
