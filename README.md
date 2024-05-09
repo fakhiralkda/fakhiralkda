@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decide upon your major definite purpose in life and then organize all your activities around it."</i>
+<i>"Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Jeffrey Gitomer</b>
 </blockquote>
 </p>
 
