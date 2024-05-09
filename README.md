@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reversing your treatment of the man you have wronged is better than asking his forgiveness."</i>
+<i>"Life is like underwear, should be changed twice a day.  "</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
