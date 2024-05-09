@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time."</i>
+<i>"You're never too old for anything."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
