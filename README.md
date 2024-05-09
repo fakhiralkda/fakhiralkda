@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you spend too much time thinking about a thing, you'll never get it done. "</i>
+<i>"Reversing your treatment of the man you have wronged is better than asking his forgiveness."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
