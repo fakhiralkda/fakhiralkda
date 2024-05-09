@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In youth we run into difficulties. In old age difficulties run into us. "</i>
+<i>"The most wasted day of all is that on which we have not laughed."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
