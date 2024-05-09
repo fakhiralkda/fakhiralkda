@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way."</i>
+<i>"We suffer more often in imagination than in reality.  "</i>
 <br>
-<b>- Osho</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
