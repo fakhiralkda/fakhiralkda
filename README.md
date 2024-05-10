@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are what you believe yourself to be."</i>
+<i>"I cannot make my days longer so I strive to make them better."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
