@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I cannot make my days longer so I strive to make them better."</i>
+<i>"Even the smallest person can change the course of the future."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
