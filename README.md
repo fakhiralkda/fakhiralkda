@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Comedy = tragedy + time."</i>
+<i>"You are what you believe yourself to be."</i>
 <br>
-<b>- Carol Burnett</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
