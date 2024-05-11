@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Few things are more deceptive than memories."</i>
+<i>"There is no significance in life without struggle."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
