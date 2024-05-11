@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To travel is to be alive, but to get somewhere is to be dead."</i>
+<i>"None but ourselves can free our minds."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
