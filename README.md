@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do good by stealth, and blush to find it fame."</i>
+<i>"The question isn't who is going to let me; it's who is going to stop me."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
