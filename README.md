@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed."</i>
+<i>"Do good by stealth, and blush to find it fame."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
