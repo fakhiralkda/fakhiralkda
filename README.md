@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Surround yourself with only people who are going to lift you higher. "</i>
+<i>"The friend is the man who knows all about you, and still likes you."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
