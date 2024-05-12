@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't look for meaning in the words. Listen to the silences."</i>
+<i>"In life you need either inspiration or desperation."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
