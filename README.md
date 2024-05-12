@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rather than love, than money, than fame, give me truth."</i>
+<i>"The more you are motivated by Love, The more Fearless & Free your action will be."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
