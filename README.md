@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Respect is earned by effort not age, all things age without effort."</i>
+<i>"Invisible things are the only realities."</i>
 <br>
-<b>- C. Sean McGee</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
