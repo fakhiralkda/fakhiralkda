@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be happy now, without reason - or you never will be at all."</i>
+<i>"Everything that is made beautiful and fair and lovely is made for the eye of one who sees."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
