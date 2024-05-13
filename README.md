@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is like the sun. You can shut it out for a time, but it ain't going away."</i>
+<i>"You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
