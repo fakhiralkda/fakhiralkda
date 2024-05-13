@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible."</i>
+<i>"Life is a question and how we live it is our answer."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
