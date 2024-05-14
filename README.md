@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who fails to plan, plans to fail."</i>
+<i>"Confuse them with your silence and amaze them with your actions."</i>
 <br>
 <b>- Unknown</b>
 </blockquote>
