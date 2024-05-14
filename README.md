@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confuse them with your silence and amaze them with your actions."</i>
+<i>"It's better to stand by someone's side than by yourself."</i>
 <br>
-<b>- Unknown</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
