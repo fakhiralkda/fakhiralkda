@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We win by helping each other win."</i>
+<i>"Music is like creating an emotional painting. The sounds are the colors."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
