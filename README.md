@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a question and how we live it is our answer."</i>
+<i>"Determine never to be idle. No person will have occasion to complain of the want of time who never loses any."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
