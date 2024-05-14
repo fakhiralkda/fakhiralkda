@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't earn loyalty in a day. You earn loyalty day-by-day."</i>
+<i>"The friendship that can cease has never been real. "</i>
 <br>
-<b>- Jeffrey Gitomer</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
