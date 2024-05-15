@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Understanding that rests in what it does not understand is the finest."</i>
+<i>"If you let your head get too big, it'll break your neck."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
