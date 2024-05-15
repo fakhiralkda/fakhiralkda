@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive."</i>
+<i>"Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
