@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Music is like creating an emotional painting. The sounds are the colors."</i>
+<i>"Reversing your treatment of the man you have wronged is better than asking his forgiveness."</i>
 <br>
-<b>- Yanni</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
