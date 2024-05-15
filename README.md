@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man should fear never beginning to live."</i>
+<i>"Nothing good ever comes of violence."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
