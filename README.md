@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next."</i>
+<i>"To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
