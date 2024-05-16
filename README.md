@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are now, and you do become, what you think about."</i>
+<i>"Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
