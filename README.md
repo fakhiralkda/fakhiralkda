@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adventure is worthwhile in itself."</i>
+<i>"Yesterday is gone. Tomorrow has not yet come. We have only today."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
