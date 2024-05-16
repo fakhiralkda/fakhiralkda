@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Little by little, one travels far."</i>
+<i>"Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- John D. Rockefeller</b>
 </blockquote>
 </p>
 
