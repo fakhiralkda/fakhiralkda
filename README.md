@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Follow your heart, listen to your inner voice, stop caring about what others think."</i>
+<i>"It is during our darkest moments that we must focus to see the light."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
