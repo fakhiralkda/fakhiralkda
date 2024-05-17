@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each problem has a positive side."</i>
+<i>"In life you need either inspiration or desperation."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
