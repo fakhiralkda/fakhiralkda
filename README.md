@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In life you need either inspiration or desperation."</i>
+<i>"We've got to live, no matter how many skies have fallen."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
