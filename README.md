@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't wish it were easier, wish you were better."</i>
+<i>"The best revenge is to be unlike him who performed the injury."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
