@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be alive - is Power."</i>
+<i>"Out of suffering have emerged the strongest souls; the most massive characters are seared with scars."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
