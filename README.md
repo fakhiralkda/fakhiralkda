@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important things are the hardest to say."</i>
+<i>"Do all things with love."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
