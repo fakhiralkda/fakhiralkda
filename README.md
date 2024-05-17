@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yesterday is gone. Tomorrow has not yet come. We have only today."</i>
+<i>"Each problem has a positive side."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
