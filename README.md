@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you."</i>
+<i>"You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win."</i>
 <br>
-<b>- Jeffrey Gitomer</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
