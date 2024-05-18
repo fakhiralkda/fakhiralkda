@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your home is where your thoughts find peace."</i>
+<i>"Discipline yourself, and others won't need to."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
