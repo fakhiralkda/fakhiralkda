@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You know the more one does the more one can do."</i>
+<i>"Life's too mysterious to take too serious."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
