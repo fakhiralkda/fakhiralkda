@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life has more imagination than we carry in our dreams."</i>
+<i>"Your home is where your thoughts find peace."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
