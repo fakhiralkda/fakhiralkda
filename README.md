@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe and you're halfway there."</i>
+<i>"You become stronger with every problem you face and every obstacle you overcome."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
