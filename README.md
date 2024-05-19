@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Write to help yourself, publish to help others."</i>
+<i>"You can't get to a place that you don't believe exists."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
