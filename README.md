@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Death smiles at us all. All we can do is smile back."</i>
+<i>"Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Charles Spurgeon</b>
 </blockquote>
 </p>
 
