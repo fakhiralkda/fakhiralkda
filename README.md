@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Acknowledging the good that you already have in your life is the foundation for all abundance."</i>
+<i>"When it is dark enough, you can see the stars."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
