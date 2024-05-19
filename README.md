@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When it is dark enough, you can see the stars."</i>
+<i>"Death smiles at us all. All we can do is smile back."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
