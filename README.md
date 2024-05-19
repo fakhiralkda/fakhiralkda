@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The art of being happy lies in the power of extracting happiness from common things."</i>
+<i>"The more one judges, the less one loves."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
