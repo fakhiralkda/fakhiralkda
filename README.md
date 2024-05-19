@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Boldness makes even the smallest animal dangerous."</i>
+<i>"You may delay, but time will not."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
