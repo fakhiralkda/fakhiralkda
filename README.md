@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The right thing to do and the hard thing to do are usually the same."</i>
+<i>"Write to help yourself, publish to help others."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
