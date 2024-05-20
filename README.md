@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may delay, but time will not."</i>
+<i>"Sadness is but a wall between two gardens."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
