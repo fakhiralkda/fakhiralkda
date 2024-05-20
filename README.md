@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creative endeavors are by their nature uncertain."</i>
+<i>"There's more to life than being a passenger."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
