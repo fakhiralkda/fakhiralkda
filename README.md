@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were."</i>
+<i>"If you don't like something change it. If you can't change it, change your attitude about it. Don't complain."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
