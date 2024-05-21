@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never be bored, and you will never be boring."</i>
+<i>"Don't be afraid to see what you see."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
