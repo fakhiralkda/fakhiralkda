@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only place where success comes before work is in the dictionary."</i>
+<i>"There are as many opinions as there are experts."</i>
 <br>
-<b>- Vidal Sassoon</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
