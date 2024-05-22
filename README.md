@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are as many opinions as there are experts."</i>
+<i>"Whatever is begun in anger, ends in shame."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
