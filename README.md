@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever."</i>
+<i>"You can't have anything worthwhile without difficulties."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
