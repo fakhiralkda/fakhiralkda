@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a gift and the trick is not to expect it, but to delight in it when it comes."</i>
+<i>"Confuse them with your silence and amaze them with your actions."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
