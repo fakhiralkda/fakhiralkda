@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I can laugh, I can live."</i>
+<i>"If we did all the things we are capable of, we would literally astound ourselves."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
