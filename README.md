@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting."</i>
+<i>"Time goes from present to past."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
