@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way we feel is the direct result of what we think."</i>
+<i>"A path is made by walking on it."</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
