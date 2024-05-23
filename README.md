@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All human wisdom is contained in these two words - Wait and Hope"</i>
+<i>"Generosity is giving more than you can, and pride is taking less than you need."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
