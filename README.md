@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creative people are often found either disagreeable or intimidating by mediocrities."</i>
+<i>"The way we feel is the direct result of what we think."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Peter A. Cohen</b>
 </blockquote>
 </p>
 
