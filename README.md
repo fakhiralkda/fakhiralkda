@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wake up and smile! Wake up and be grateful!"</i>
+<i>"It is better to change an opinion than to persist in a wrong one."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
