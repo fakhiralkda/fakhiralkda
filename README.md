@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let your mind stop you."</i>
+<i>"Be - don't try to become "</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
