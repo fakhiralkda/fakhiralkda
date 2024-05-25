@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give me six hours to chop down a tree and I will spend the first four sharpening the axe."</i>
+<i>"Don't explain your philosophy. Embody it."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
