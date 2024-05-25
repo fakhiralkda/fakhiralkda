@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As soon as you trust yourself, you will know how to live."</i>
+<i>"Yesterday is but today's memory, tomorrow is today's dream."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
