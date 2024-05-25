@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My powers are ordinary. Only my application brings me success."</i>
+<i>"Don't let your mind stop you."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
