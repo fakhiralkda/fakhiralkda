@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change."</i>
+<i>"Never give way to laziness."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
