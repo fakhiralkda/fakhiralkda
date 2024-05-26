@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you consider things like the stars, our affairs don't seem to matter very much, do they?"</i>
+<i>"The secret of life is to fall seven times and to get up eight times."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
