@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have no methods; all I do is accept people as they are."</i>
+<i>"All cruelty springs from weakness.  "</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
