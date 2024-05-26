@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of life is to fall seven times and to get up eight times."</i>
+<i>"Believe in one thing too much and you have no room for new ideas.  "</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
