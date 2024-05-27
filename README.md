@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is like the sun. You can shut it out for a time, but it ain't going away."</i>
+<i>"All that we see or seem is but a dream within a dream."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
