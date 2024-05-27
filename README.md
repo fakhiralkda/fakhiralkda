@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All that we see or seem is but a dream within a dream."</i>
+<i>"Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
