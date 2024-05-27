@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To love means loving the unlovable."</i>
+<i>"Truth is like the sun. You can shut it out for a time, but it ain't going away."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
