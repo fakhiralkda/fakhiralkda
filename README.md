@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you need inspiration, don't do it."</i>
+<i>"Charms strike the sight, but merit wins the soul."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
