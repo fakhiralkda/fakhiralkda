@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Falling down is not failure. Failure comes when you stay where you have fallen."</i>
+<i>"Know the rules well, so you can break them effectively."</i>
 <br>
-<b>- Socrates</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
