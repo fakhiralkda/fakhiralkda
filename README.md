@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing that results in human progress is achieved with unanimous consent."</i>
+<i>"If you need inspiration, don't do it."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
