@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the average of the five people you spend most time with."</i>
+<i>"Who you are is always right."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
