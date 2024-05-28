@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way out is through."</i>
+<i>"You are the average of the five people you spend most time with."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
