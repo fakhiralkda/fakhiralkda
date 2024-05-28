@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lack of emotion causes lack of progress and lack of motivation."</i>
+<i>"The wise speak only of what they know."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
