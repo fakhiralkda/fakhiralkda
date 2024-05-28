@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A creative man is motivated by the desire to achieve, not by the desire to beat others."</i>
+<i>"All animals except man know that the principal business of life is to enjoy it."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
