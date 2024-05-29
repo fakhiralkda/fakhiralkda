@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Create with the heart; build with the mind."</i>
+<i>"Nothing that results in human progress is achieved with unanimous consent."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Christopher Columbus</b>
 </blockquote>
 </p>
 
