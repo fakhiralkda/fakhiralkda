@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To seek is to suffer. To seek nothing is bliss."</i>
+<i>"If you spend too much time thinking about a thing, you'll never get it done. "</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
