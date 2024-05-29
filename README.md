@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is more real than nothing."</i>
+<i>"Create with the heart; build with the mind."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
