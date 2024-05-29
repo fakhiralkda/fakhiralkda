@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Others have seen what is and asked why. I have seen what could be and asked why not"</i>
+<i>"Nothing is more real than nothing."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
