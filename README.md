@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Listening well is as powerful as talking well, and is also as essential to true conversation."</i>
+<i>"First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  "</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
