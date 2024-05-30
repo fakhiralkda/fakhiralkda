@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt."</i>
+<i>"Listening well is as powerful as talking well, and is also as essential to true conversation."</i>
 <br>
-<b>- Jack London</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
