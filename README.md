@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all self-made, but only the successful will admit it."</i>
+<i>"As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
