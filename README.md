@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To judge a man by his weakest link or deed is like judging the power of the ocean by one wave."</i>
+<i>"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. "</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
