@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"At every moment where language can't go, that's your mind."</i>
+<i>"You get in life what you have the courage to ask for."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
