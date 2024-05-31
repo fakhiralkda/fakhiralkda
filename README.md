@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one can hurt you without your consent."</i>
+<i>"Better a diamond with a flaw than a pebble without one."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
