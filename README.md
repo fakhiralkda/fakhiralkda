@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no fear for one whose mind is not filled with desires."</i>
+<i>"The best revenge is to be unlike him who performed the injury."</i>
 <br>
-<b>- Buddha</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
