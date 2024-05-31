@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The journey, not the destination matters."</i>
+<i>"At every moment where language can't go, that's your mind."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
