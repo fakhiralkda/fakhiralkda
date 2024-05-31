@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time."</i>
+<i>"We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
