@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is but one dream flowing into another."</i>
+<i>"The more you give, the more comes back to you."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
