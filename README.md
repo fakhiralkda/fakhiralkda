@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more tranquil a man becomes, the greater is his success, his influence, his power for good. Calmness of mind is one of the beautiful jewels of wisdom."</i>
+<i>"The past has no power over the present moment. "</i>
 <br>
-<b>- James Allen</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
