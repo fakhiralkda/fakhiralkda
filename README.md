@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life has more imagination than we carry in our dreams."</i>
+<i>"It still holds true that man is most uniquely human when he turns obstacles into opportunities."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
