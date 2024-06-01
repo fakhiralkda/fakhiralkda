@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are born from a quiet sleep, and we die to a calm awakening"</i>
+<i>"You don't know who is important to you until you actually lose them."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
