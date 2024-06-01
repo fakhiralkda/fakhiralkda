@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is consistency of thinking about what is possible and how to make it possible."</i>
+<i>"Find the game where you can win, and then commit your life to playing it; and play to win."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
