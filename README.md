@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature is pleased with simplicity. And nature is no dummy."</i>
+<i>"To be prepared is half the victory. "</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
