@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The foolish reject what they see, not what they think; the wise reject what they think, not what they see."</i>
+<i>"The most important things are the hardest to say."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
