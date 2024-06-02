@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. "</i>
+<i>"Perfectionism is simply putting a limit on your future."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
