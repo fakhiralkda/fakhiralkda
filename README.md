@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be not afraid of growing slowly, be afraid only of standing still. "</i>
+<i>"The future doesn't belong to the faint-hearted; it belongs to the brave."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
