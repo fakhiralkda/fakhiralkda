@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Management is doing things right; leadership is doing the right things."</i>
+<i>"If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. "</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Nikola Tesla</b>
 </blockquote>
 </p>
 
