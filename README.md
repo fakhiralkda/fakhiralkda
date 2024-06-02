@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perfectionism is simply putting a limit on your future."</i>
+<i>"Change your thoughts and you change your world."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
