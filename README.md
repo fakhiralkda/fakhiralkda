@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Becoming a great leader doesn't mean being perfect. it means living with your imperfections."</i>
+<i>"Only by acceptance of the past, can you alter it."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
