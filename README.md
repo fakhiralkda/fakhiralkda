@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important things are the hardest to say."</i>
+<i>"Be not afraid of growing slowly, be afraid only of standing still. "</i>
 <br>
-<b>- Stephen King</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
