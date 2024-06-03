@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness depends on your mindset and attitude."</i>
+<i>"The secret of life is to fall seven times and to get up eight times."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
