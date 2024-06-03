@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all."</i>
+<i>"What the mind can conceive, it can achieve."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
