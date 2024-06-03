@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Note that this journey is uniquely yours, no one elses. So the path has to be your own."</i>
+<i>"Things turn out best for the people who make the best of the way things turn out."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
