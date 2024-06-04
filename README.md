@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rewards and punishment is the lowest form of education."</i>
+<i>"It is not as important how we start, but how we finish."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
