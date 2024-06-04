@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like riding a bicycle. To keep your balance you must keep moving."</i>
+<i>"Inspiration exists, but it has to find you working."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
