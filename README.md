@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of life is to fall seven times and to get up eight times."</i>
+<i>"Success does not consist in never making mistakes but in never making the same one a second time."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
