@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot push anyone up a ladder unless he is willing to climb a little himself."</i>
+<i>"There is no way to happiness - happiness is the way."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
