@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ripe fruit falls by itself - but it doesn't fall in your mouth. "</i>
+<i>"Always be a first-rate version of yourself, instead of a second-rate version of someone else."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
