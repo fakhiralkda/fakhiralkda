@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Try to be a rainbow in someone's cloud."</i>
+<i>"Ripe fruit falls by itself - but it doesn't fall in your mouth. "</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
