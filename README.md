@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friends ask you questions; enemies question you."</i>
+<i>"Try to be a rainbow in someone's cloud."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
