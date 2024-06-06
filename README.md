@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Difficulties strengthen the mind, as labor does the body.  "</i>
+<i>"Many people spend more time looking at their failures than focusing on their successes."</i>
 <br>
-<b>- Seneca</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
