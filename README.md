@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Open your mind before your mouth."</i>
+<i>"If we know how to adapt, we end up being superior."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
