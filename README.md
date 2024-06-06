@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truly rich men are the ones who have health, loved ones and a work they love."</i>
+<i>"Heart is what separates the good from the great."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
