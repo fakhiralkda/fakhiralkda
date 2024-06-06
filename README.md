@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunity comes when you continually push forward."</i>
+<i>"Open your mind before your mouth."</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
