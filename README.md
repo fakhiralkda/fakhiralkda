@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we know how to adapt, we end up being superior."</i>
+<i>"Investing in yourself is the best investment you will ever make."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
