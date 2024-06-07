@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The degree of responsibility you take for your life determines how much change you can create in it."</i>
+<i>"Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
