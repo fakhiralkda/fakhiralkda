@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't tell big dreams to small minded people."</i>
+<i>"Saying nothing sometimes says the most."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
