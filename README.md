@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations."</i>
+<i>"Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
