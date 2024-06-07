@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Investing in yourself is the best investment you will ever make."</i>
+<i>"By failing to prepare, you are preparing to fail."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
