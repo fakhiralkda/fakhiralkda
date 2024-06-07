@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By failing to prepare, you are preparing to fail."</i>
+<i>"It is well known that those who do not trust themselves never trust others."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
