@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is well known that those who do not trust themselves never trust others."</i>
+<i>"The enemy is a very good teacher."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
