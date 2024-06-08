@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By words the mind is winged."</i>
+<i>"You are never too old to set another goal or to dream a new dream."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
