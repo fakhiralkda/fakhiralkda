@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's possible in ways both large or small to make a difference in someone's life."</i>
+<i>"I have not failed. I've just found 10,000 ways that won't work."</i>
 <br>
-<b>- Yanni</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
