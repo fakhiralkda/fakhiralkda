@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enjoy when you can, and endure when you must."</i>
+<i>"The more tranquil a man becomes, the greater is his success, his influence, his power for good. Calmness of mind is one of the beautiful jewels of wisdom."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
