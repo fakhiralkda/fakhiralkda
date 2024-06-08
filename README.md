@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way of success is the way of continuous pursuit of knowledge."</i>
+<i>"It's possible in ways both large or small to make a difference in someone's life."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
