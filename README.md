@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything is in your own heart."</i>
+<i>"There is no value in anything until it is finished. "</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
