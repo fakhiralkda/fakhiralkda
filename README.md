@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is little success where there is little laughter."</i>
+<i>"If you don't know where you're going, you will probably end up somewhere else."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
