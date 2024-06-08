@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more tranquil a man becomes, the greater is his success, his influence, his power for good. Calmness of mind is one of the beautiful jewels of wisdom."</i>
+<i>"There is little success where there is little laughter."</i>
 <br>
-<b>- James Allen</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
