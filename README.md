@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."</i>
+<i>"It's wise to tell the truth. It's even wiser to tell it kindly."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
