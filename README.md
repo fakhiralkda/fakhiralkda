@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you chase two rabbits, you catch none."</i>
+<i>"Live, travel, adventure, bless, and don't be sorry.  "</i>
 <br>
-<b>- Confucius</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
