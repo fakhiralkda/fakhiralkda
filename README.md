@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing quite so tragic as a young cynic."</i>
+<i>"Exceptional thinkers ignore their critics and go about their business making history."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
