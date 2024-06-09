@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have not failed. I've just found 10,000 ways that won't work."</i>
+<i>"Only those who do nothing at all make no mistakes."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
