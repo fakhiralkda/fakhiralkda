@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live, travel, adventure, bless, and don't be sorry.  "</i>
+<i>"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
