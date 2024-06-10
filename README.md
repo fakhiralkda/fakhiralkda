@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our truest life is when we are in dreams awake."</i>
+<i>"I never dwell on what happened. You can't change it. Move forward."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
