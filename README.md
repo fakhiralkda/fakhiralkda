@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself."</i>
+<i>"Our truest life is when we are in dreams awake."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
