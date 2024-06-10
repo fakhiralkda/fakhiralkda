@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is a wisdom of the head, and there is a wisdom of the heart."</i>
+<i>"My instinct is always to seek out challenges as opposed to avoiding them."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
