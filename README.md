@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My instinct is always to seek out challenges as opposed to avoiding them."</i>
+<i>"Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. "</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
