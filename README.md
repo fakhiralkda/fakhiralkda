@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No great mind has ever existed without a touch of madness."</i>
+<i>"Keep smiling, because life is a beautiful thing and there's so much to smile about."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
