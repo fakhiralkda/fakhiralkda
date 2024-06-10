@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If it entertains you now but will bore you someday, it's a distraction. Keep looking."</i>
+<i>"There is a wisdom of the head, and there is a wisdom of the heart."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
