@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only limits in your life are those that you set yourself."</i>
+<i>"Confidence comes from crossing thresholds."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
