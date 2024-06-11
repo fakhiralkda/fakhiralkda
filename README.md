@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's the unknown we fear when we look upon death and darkness, nothing more."</i>
+<i>"Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
