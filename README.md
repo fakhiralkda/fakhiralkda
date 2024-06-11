@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is an option here. If things are not failing, you are not innovating enough."</i>
+<i>"Rest in reason; move in passion."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
