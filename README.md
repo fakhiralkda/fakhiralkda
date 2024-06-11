@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control."</i>
+<i>"The only limits in your life are those that you set yourself."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
