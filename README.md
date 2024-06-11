@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beware of false knowledge, it is more dangerous than ignorance."</i>
+<i>"I have lived with several Zen masters -- all of them cats."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
