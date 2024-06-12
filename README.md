@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Associate with people who are likely to improve you.  "</i>
+<i>"What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people."</i>
 <br>
-<b>- Seneca</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
