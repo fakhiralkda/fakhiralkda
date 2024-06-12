@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is changed by your example, not by your opinion."</i>
+<i>"Associate with people who are likely to improve you.  "</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
