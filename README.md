@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you put water into a cup, it becomes the cup."</i>
+<i>"In order to carry a positive action, we must develop here a positive vision."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
