@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A hut full of laughter is richer than a palace full of sadness."</i>
+<i>"The only thing worse than being blind is having sight but no vision."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
