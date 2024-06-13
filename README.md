@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always turn a negative situation into a positive situation."</i>
+<i>"Never let the things you can't do stop you from doing what you can."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
