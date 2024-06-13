@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Luck is a matter of preparation meeting opportunity."</i>
+<i>"I am who I am today because of the choices I made yesterday."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
