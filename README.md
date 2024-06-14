@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature does not hurry, yet everything is accomplished."</i>
+<i>"Amateurs sit and wait for inspiration, the rest of us just get up and got to work."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
