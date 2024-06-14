@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you get by achieving your goals is not as important as what you become by achieving your goals."</i>
+<i>"Any game becomes important when you know and love the players."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
