@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day may not be good, but there's something good in every day."</i>
+<i>"Among the things you can give and still keep are your word, a smile, and a grateful heart."</i>
 <br>
-<b>- Unknown</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
