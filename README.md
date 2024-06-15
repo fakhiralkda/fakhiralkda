@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wishing to be friends is quick work, but friendship is a slow ripening fruit."</i>
+<i>"Embody what you teach, and teach only what you have embodied."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
