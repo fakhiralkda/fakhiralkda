@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will not do incredible things without an incredible dream."</i>
+<i>"However difficult life may seem, there is always something you can do and succeed at."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
