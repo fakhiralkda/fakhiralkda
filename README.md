@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hope is not a strategy. Luck is not a factor. Fear is not an option."</i>
+<i>"Do the hard jobs first. The easy jobs will take care of themselves."</i>
 <br>
-<b>- James Cameron</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
