@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Embody what you teach, and teach only what you have embodied."</i>
+<i>"Every day may not be good, but there's something good in every day."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
