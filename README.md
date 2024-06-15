@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why compare yourself with others? No one in the entire world can do a better job of being you than you."</i>
+<i>"Don't seek, don't avoid, don't expect. Take what comes and be happy."</i>
 <br>
-<b>- Unknown</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
