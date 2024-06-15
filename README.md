@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do the hard jobs first. The easy jobs will take care of themselves."</i>
+<i>"You can only be afraid of what you think you know."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
