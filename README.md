@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The power of human thought grows exponentially with the number of minds that share that thought."</i>
+<i>"An un-examined life is not worth living."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
