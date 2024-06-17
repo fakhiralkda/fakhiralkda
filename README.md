@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Passion creates, addiction consumes."</i>
+<i>"In the practice of tolerance, one's enemy is the best teacher."</i>
 <br>
-<b>- Gabor Mate</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
