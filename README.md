@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the practice of tolerance, one's enemy is the best teacher."</i>
+<i>"Just do what must be done. This may not be happiness but it is greatness."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
