@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The trouble with most of us is that we'd rather be ruined by praise than saved by criticism."</i>
+<i>"The time is always right to do what is right."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
