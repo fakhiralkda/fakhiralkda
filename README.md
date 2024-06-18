@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth is simple. If it was complicated, everyone would understand it."</i>
+<i>"Don't hate the player. Change the game."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
