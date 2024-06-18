@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society."</i>
+<i>"The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
