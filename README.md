@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence."</i>
+<i>"Don't shortchange yourself when it comes to investing in your own better future."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
