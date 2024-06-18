@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is amazing what you can accomplish if you do not care who gets the credit."</i>
+<i>"The truth is simple. If it was complicated, everyone would understand it."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
