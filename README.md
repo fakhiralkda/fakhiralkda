@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Faith is taking the first step even when you don't see the whole staircase."</i>
+<i>"Success is going from failure to failure without losing your enthusiasm"</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
