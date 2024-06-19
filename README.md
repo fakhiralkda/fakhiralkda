@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"FOCUS - Follow One Course Until Successful"</i>
+<i>"Sometimes it is harder to deprive oneself of a pain than of a pleasure."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
