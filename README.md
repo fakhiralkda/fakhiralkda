@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am thankful to all who said no to me. It is because of them that I'm doing it myself."</i>
+<i>"Peace is not absence of conflict, it is the ability to handle conflict by peaceful means."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
