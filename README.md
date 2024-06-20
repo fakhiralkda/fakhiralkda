@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't wait for extraordinary opportunities. Seize common occasions and make them great."</i>
+<i>"Without education, we are in a horrible and deadly danger of taking educated people seriously."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
