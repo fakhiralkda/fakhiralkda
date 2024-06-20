@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Acknowledging the good that you already have in your life is the foundation for all abundance."</i>
+<i>"The best revenge is to be unlike him who performed the injury."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
