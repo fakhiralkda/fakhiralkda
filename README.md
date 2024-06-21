@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If the grass is greener on the other side, maybe that's because you're not taking good care of your grass."</i>
+<i>"Follow the man who seeks the truth; run from the man who has found it."</i>
 <br>
-<b>- Unknown</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
