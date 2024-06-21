@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person who is his own master cannot tolerate another boss. "</i>
+<i>"The source of a true smile is an awakened mind."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
