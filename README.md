@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing has any power over me other than that which I give it through my conscious thoughts."</i>
+<i>"You'll get more from being a peacemaker than a warrior."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
