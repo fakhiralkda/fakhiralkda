@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You'll get more from being a peacemaker than a warrior."</i>
+<i>"The person who is his own master cannot tolerate another boss. "</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
