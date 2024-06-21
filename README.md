@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The harder you work, the harder it is to surrender."</i>
+<i>"If the grass is greener on the other side, maybe that's because you're not taking good care of your grass."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
