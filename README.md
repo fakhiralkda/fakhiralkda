@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You get paid in direct proportion to the difficulty of problems you solve."</i>
+<i>"The goal of an artist is to create the definitive work that cannot be surpassed."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
