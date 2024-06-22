@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice."</i>
+<i>"Wheresoever you go, go with all your heart."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
