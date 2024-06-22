@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit."</i>
+<i>"He who can, does."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
