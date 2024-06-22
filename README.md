@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We live only now. Everything else is either passed or is unknown."</i>
+<i>"Do good by stealth, and blush to find it fame."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
