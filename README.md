@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A journey of a thousand miles must begin with a single step."</i>
+<i>"Every failure brings with it the seed of an equivalent success."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
