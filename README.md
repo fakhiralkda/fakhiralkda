@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Embrace the life you have and stop wishing that you could be someone else."</i>
+<i>"Happiness is pretty simple: someone to love, something to do, something to look forward to."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
