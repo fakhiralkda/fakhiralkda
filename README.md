@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intense love does not measure, it just gives."</i>
+<i>"Embrace the life you have and stop wishing that you could be someone else."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
