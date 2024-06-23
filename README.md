@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more I want to get something done, the less I call it work."</i>
+<i>"What loneliness is more lonely than distrust?"</i>
 <br>
-<b>- Richard Bach</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
