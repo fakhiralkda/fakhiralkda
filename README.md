@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's the possibility of having a dream come true that makes life interesting."</i>
+<i>"If I love myself I love you. If I love you I love myself."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
