@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always do your best. What you plant now, you will harvest later."</i>
+<i>"It's the possibility of having a dream come true that makes life interesting."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
