@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If fear is too strong, the genius is suppressed."</i>
+<i>"Blessed is he who expects nothing, for he shall never be disappointed."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
