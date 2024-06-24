@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Simplicity is a difficult thing to achieve.  "</i>
+<i>"When angry count to ten before you speak. If very angry, count to one hundred."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
