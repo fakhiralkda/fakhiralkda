@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What loneliness is more lonely than distrust?"</i>
+<i>"It is passion that makes man live; wisdom makes one only last."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
