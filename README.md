@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must embrace pain and burn it as fuel for our journey."</i>
+<i>"It is never too late to be what you might have been."</i>
 <br>
-<b>- Kenji Miyazawa</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
