@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid to stand for what you believe in, even if that means standing alone."</i>
+<i>"Where words fail, music speaks."</i>
 <br>
-<b>- Unknown</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
