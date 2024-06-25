@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want something then you lose everything. If you don't want anything then you already have everything."</i>
+<i>"Let not your mind run on what you lack as much as on what you have already."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
