@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Victims recite problems, leaders provide solutions."</i>
+<i>"Don't be afraid to stand for what you believe in, even if that means standing alone."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
