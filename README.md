@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never buy a thing you do not want, because it is cheap, it will be dear to you."</i>
+<i>"Victims recite problems, leaders provide solutions."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
