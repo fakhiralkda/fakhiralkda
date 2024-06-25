@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you trust yourself, the less you compare yourself to others."</i>
+<i>"A man who dares to waste one hour of time has not discovered the value of life."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
