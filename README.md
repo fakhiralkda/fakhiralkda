@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Debt is the slavery of the free."</i>
+<i>"Life and the simple beauty of it is too good to pass up."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
