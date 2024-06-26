@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A very little key will open a very heavy door."</i>
+<i>"The ego wants comfort and certainty. The soul wants to live fully."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
