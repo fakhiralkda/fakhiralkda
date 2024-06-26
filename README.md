@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ego wants comfort and certainty. The soul wants to live fully."</i>
+<i>"There is nothing more truly artistic than to love people."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
