@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By seeking and blundering we learn."</i>
+<i>"A very little key will open a very heavy door."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
