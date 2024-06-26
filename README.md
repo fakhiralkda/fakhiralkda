@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life and the simple beauty of it is too good to pass up."</i>
+<i>"Normality is a paved road: It's comfortable to walk, but no flowers grow on it."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
