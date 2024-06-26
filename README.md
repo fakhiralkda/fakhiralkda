@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Normality is a paved road: It's comfortable to walk, but no flowers grow on it."</i>
+<i>"I would rather die on my feet than live on my knees."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
