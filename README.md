@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers."</i>
+<i>"A good teacher opens the door for you, but you must enter the room by yourself."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
