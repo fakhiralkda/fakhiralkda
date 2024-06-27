@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is often safer to be in chains than to be free. "</i>
+<i>"If you pray for rain, be prepared to deal with some mud."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
