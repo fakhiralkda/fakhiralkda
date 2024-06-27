@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good teacher opens the door for you, but you must enter the room by yourself."</i>
+<i>"It is often safer to be in chains than to be free. "</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
