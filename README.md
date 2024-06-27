@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your dreams, you never know when you might need them."</i>
+<i>"The least deviation from truth will be multiplied later."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
