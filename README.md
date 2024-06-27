@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must learn to let go. Release the stress. You were never in control anyway."</i>
+<i>"He who knows how to wait need make no concessions."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
