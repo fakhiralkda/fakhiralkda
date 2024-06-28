@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Self-knowledge is the beginning of self-correction."</i>
+<i>"The fewer the words, the better the prayer."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
