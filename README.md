@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you pray for rain, be prepared to deal with some mud."</i>
+<i>"When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. "</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Charles Swindoll</b>
 </blockquote>
 </p>
 
