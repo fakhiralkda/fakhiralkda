@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself."</i>
+<i>"A good system shortens the road to the goal. "</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
