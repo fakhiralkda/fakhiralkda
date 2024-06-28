@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fewer the words, the better the prayer."</i>
+<i>"Imagination is the true magic carpet."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
