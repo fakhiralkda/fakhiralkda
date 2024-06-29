@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quality of your commitments will determine the course of your life."</i>
+<i>"The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
