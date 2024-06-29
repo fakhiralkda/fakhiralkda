@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pleasure is always derived from something outside you, whereas joy arises from within. "</i>
+<i>"If I love myself I love you. If I love you I love myself."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
