@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view."</i>
+<i>"Death walks faster than the wind and never returns what he has taken."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
