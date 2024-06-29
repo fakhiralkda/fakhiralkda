@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be a good animal, true to your instincts."</i>
+<i>"Progress is impossible without change, and those who cannot change their minds cannot change anything."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
