@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is the true magic carpet."</i>
+<i>"Pleasure is always derived from something outside you, whereas joy arises from within. "</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
