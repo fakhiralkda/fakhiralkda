@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Death walks faster than the wind and never returns what he has taken."</i>
+<i>"You're on earth. There's no cure for that."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
