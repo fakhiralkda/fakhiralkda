@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop wasting time defending your problems and work on addressing them instead."</i>
+<i>"Rudeness is the weak man's imitation of strength."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
