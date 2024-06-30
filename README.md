@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you have to lose all you have to find out who you truly are."</i>
+<i>"Wherever you are, it's the place you need to be."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
