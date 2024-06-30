@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul."</i>
+<i>"The nearer a man comes to a calm mind, the closer he is to strength."</i>
 <br>
 <b>- Marcus Aurelius</b>
 </blockquote>
