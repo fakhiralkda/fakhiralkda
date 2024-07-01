@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you've got nothing, you've got nothing to lose."</i>
+<i>"Obstacles don't block the path, they are the path."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
