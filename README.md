@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day may not be good, but there's something good in every day."</i>
+<i>"Motivation gets you going and habit gets you there.  "</i>
 <br>
-<b>- Unknown</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
