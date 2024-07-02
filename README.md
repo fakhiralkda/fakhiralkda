@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People will forget what you said, people will forget what you did, but people will never forget how you made them feel."</i>
+<i>"Life is and will ever remain an equation incapable of solution, but it contains certain known factors. "</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Nikola Tesla</b>
 </blockquote>
 </p>
 
