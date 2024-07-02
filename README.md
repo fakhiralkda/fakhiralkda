@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is the dancer and you are the dance."</i>
+<i>"It's OK to have your eggs in one basket as long as you control what happens to that basket."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
