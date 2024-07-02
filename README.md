@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes."</i>
+<i>"You live by what you thrill to, and there's the end of it."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
