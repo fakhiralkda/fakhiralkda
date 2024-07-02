@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you believe in a thing, believe in it all the way, implicitly and unquestionable."</i>
+<i>"Some people find fault like there is a reward for it.  "</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
