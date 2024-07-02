@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people find fault like there is a reward for it.  "</i>
+<i>"Keep your friends close, and your enemies closer."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
