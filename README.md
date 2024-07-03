@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A real friend is one who walks in when the rest of the world walks out."</i>
+<i>"Be yourself; everyone else is already taken "</i>
 <br>
-<b>- Unknown</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
