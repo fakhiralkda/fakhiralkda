@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important things are the hardest to say."</i>
+<i>"A real friend is one who walks in when the rest of the world walks out."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
