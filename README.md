@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort."</i>
+<i>"Learning is a weightless treasure you can always carry easily."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
