@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If fear is too strong, the genius is suppressed."</i>
+<i>"He who leaves the game wins it."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
