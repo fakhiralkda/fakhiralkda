@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learning is a weightless treasure you can always carry easily."</i>
+<i>"I hear and I forget. I see and I remember. I do and I understand. "</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
