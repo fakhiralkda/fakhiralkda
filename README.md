@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be yourself; everyone else is already taken "</i>
+<i>"Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
