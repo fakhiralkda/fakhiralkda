@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Someone who points out your flaws to you is not necessarily your enemy. Someone who speaks of your virtues is not necessarily your friend."</i>
+<i>"A person hears only what they understand."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
