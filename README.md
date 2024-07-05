@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True it is, we only hate those whom we do not know."</i>
+<i>"Changing minds is harder than finding people who already agree."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
