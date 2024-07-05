@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one can compete with you on being you. Most of life is a search for who and what needs you the most."</i>
+<i>"It is far easier to start something than it is to finish it."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
