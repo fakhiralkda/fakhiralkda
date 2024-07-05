@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is far easier to start something than it is to finish it."</i>
+<i>"If you are going to achieve excellence in big things, you develop the habit in little matters."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
