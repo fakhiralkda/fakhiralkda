@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Avoiding danger is no safer in the long run than exposure."</i>
+<i>"An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
