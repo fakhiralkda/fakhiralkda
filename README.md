@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We should not look back unless it is to derive useful lessons from past errors."</i>
+<i>"an action committed in anger is an action doomed to failure. "</i>
 <br>
-<b>- George Washington</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
