@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creative people are often found either disagreeable or intimidating by mediocrities."</i>
+<i>"We should not look back unless it is to derive useful lessons from past errors."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
