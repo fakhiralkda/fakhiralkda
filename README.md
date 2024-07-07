@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Attitude, not aptitude, determines altitude.  "</i>
+<i>"Man invented language to satisfy his deep need to complain."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
