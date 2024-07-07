@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no secrets to success. It is the result of preparation, hard work, and learning from failure."</i>
+<i>"Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
