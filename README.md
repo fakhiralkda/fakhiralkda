@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability."</i>
+<i>"Only when I fall do I get up again."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
