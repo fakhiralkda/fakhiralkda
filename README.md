@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Repetition does not transform a lie into a truth."</i>
+<i>"Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?"</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
