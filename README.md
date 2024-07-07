@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness cannot be traveled to, owned, earned, worn or consumed."</i>
+<i>"What we know is a drop, what we don't know is an ocean. "</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
