@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just do what must be done. This may not be happiness but it is greatness."</i>
+<i>"When you have a dream, you've got to grab it and never let go."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
