@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I succeeded by saying what everyone else is thinking."</i>
+<i>"Do what you can, with what you have, where you are."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
