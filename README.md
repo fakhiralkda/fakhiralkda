@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your work is to discover your work and then, with all your heart, to give yourself to it."</i>
+<i>"Every hour of every day is an unspeakably perfect miracle."</i>
 <br>
-<b>- Buddha</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
