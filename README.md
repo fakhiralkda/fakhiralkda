@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do what you can, with what you have, where you are."</i>
+<i>"I do not exist to impress the world. I exist to live my life in a way that will make me happy."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
