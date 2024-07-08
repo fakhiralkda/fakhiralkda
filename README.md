@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Strive for excellence, not perfection, because we don't live in a perfect world."</i>
+<i>"I succeeded by saying what everyone else is thinking."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
