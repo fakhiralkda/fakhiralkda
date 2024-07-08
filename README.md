@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every hour of every day is an unspeakably perfect miracle."</i>
+<i>"Work out your own salvation. Do not depend on others."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
