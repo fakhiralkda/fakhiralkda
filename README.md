@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People spend too much time doing and not enough time thinking about what they should be doing."</i>
+<i>"Strive for excellence, not perfection, because we don't live in a perfect world."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
