@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. "</i>
+<i>"Thought is so cunning, so clever, that it distorts everything for its own convenience."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
