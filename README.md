@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want something then you lose everything. If you don't want anything then you already have everything."</i>
+<i>"Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
