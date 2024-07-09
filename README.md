@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genius, in truth, means little more than the faculty of perceiving in an unhabitual way."</i>
+<i>"Rest in reason; move in passion."</i>
 <br>
-<b>- William James</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
