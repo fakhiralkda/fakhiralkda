@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die."</i>
+<i>"Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
