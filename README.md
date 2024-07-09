@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people."</i>
+<i>"Failure is a prerequisite for great success. If you want success faster, double your rate of failure."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
