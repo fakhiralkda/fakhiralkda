@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rest in reason; move in passion."</i>
+<i>"Attitude is a little thing that makes a big difference."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
