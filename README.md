@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone must choose one of two pains: The pain of discipline or the pain of regret."</i>
+<i>"One mistake does not have to rule a person's entire life."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
