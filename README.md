@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Care about what other people think and you will always be their prisoner."</i>
+<i>"It's not what you pay a man, but what he costs you that counts."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
