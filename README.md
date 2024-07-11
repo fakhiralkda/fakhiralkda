@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can put lipstick on a pig. It's still a pig."</i>
+<i>"It doesn't matter what you do, only how well you do it."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
