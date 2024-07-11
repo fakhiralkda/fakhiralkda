@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The hard path is often the right one. The river teaches more than the shore."</i>
+<i>"You can put lipstick on a pig. It's still a pig."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
