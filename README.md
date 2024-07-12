@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take time like the river that never grows stale. Keep going and steady. No hurry, no rush."</i>
+<i>"We never know the love of a parent till we become parents ourselves."</i>
 <br>
-<b>- Rumi</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
