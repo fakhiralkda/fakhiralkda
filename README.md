@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Honesty is the first chapter in the book of wisdom."</i>
+<i>"Each day provides it's own gifts."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
