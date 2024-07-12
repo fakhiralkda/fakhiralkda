@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is hardest at the beginning, messiest in the middle and best at the end."</i>
+<i>"You can only lose something that you have, but you cannot lose something that you are."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
