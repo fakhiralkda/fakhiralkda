@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is really work unless you would rather be doing something else. "</i>
+<i>"Change is hardest at the beginning, messiest in the middle and best at the end."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
