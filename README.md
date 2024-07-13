@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men are equal; it is not birth but virtue that makes the difference."</i>
+<i>"It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
