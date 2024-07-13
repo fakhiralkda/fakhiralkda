@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can."</i>
+<i>"When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
