@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day passes whether you participate or not."</i>
+<i>"Get mad, then get over it."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
