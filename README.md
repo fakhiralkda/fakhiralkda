@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am thankful to all those who said no. It's because of them, I did it myself.  "</i>
+<i>"Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
