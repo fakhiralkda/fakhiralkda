@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only by attracting the best people will you accomplish great deeds."</i>
+<i>"Every day passes whether you participate or not."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
