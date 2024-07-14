@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a gift and the trick is not to expect it, but to delight in it when it comes."</i>
+<i>"Your chances of success in any undertaking can always be measured by your belief in yourself."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
