@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What the eye doesn't see and the mind doesn't know, doesn't exist."</i>
+<i>"He who is untrue to his own cause cannot command the respect of others."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
