@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure will never overtake me if my determination to succeed is strong enough."</i>
+<i>"If you have to be in a soap opera try not to be cast in the worst role."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
