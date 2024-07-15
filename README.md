@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Associate with people who are likely to improve you.  "</i>
+<i>"Do it with passion, or not at all."</i>
 <br>
-<b>- Seneca</b>
+<b>- Rosa Nouchette Carey</b>
 </blockquote>
 </p>
 
