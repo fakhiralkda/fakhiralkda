@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is like money, easier made than kept."</i>
+<i>"Kindness is a language which the deaf can hear and the blind can see."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
