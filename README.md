@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All cruelty springs from weakness.  "</i>
+<i>"If no one ever broke the rules, then we'd never advance."</i>
 <br>
-<b>- Seneca</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
