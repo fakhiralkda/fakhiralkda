@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If no one ever broke the rules, then we'd never advance."</i>
+<i>"Associate with people who are likely to improve you.  "</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
