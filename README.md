@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is easier to fight for one's principles than to live up to them. "</i>
+<i>"As soon as you trust yourself, you will know how to live."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
