@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is good at any age, but the sooner you find it, the longer you will enjoy it."</i>
+<i>"People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
