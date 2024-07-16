@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change your thoughts and you change your world."</i>
+<i>"Where there is no struggle, there is no strength. "</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
