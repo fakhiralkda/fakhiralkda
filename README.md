@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience is bitter, but its fruit is sweet."</i>
+<i>"Anything becomes interesting if you look at it long enough.."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
