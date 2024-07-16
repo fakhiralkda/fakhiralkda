@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Circumstances do not make the man, they reveal him."</i>
+<i>"Patience is bitter, but its fruit is sweet."</i>
 <br>
-<b>- James Allen</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
