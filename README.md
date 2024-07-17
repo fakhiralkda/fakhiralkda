@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Little by little, one travels far."</i>
+<i>"Give more than you think you can, trusting that you are richer than you think."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
