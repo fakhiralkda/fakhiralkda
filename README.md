@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The chief danger in life is that you may take too many precautions."</i>
+<i>"The greatest treasures are those invisible to the eye but found by the heart."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
