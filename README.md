@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What is a friend? A single soul dwelling in two bodies."</i>
+<i>"Friendship is one of the most tangible things in a world which offers fewer and fewer supports."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Kenneth Branagh</b>
 </blockquote>
 </p>
 
