@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is one of the most tangible things in a world which offers fewer and fewer supports."</i>
+<i>"The meaning of life is just to be alive. It is so plain and so obvious and so simple."</i>
 <br>
-<b>- Kenneth Branagh</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
