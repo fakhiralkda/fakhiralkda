@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever happens always happens on time."</i>
+<i>"If you can't imagine it, you can't have it."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Toni Morrison</b>
 </blockquote>
 </p>
 
