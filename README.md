@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Loving thoughts and actions are clearly beneficial for our physical and mental health."</i>
+<i>"You'll get more from being a peacemaker than a warrior."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
