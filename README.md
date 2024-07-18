@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The clock indicates the moment...but what does eternity indicate?"</i>
+<i>"A journey of a thousand miles must begin with a single step."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
