@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give more than you think you can, trusting that you are richer than you think."</i>
+<i>"Whatever happens always happens on time."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
