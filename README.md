@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way to change others' minds is with affection, and not anger."</i>
+<i>"The trouble with most of us is that we'd rather be ruined by praise than saved by criticism."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
