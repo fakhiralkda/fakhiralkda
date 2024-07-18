@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The worst part of success is trying to find someone who is happy for you."</i>
+<i>"The final mystery is oneself."</i>
 <br>
-<b>- Bette Midler</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
