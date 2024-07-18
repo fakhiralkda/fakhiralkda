@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You'll get more from being a peacemaker than a warrior."</i>
+<i>"The worst part of success is trying to find someone who is happy for you."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Bette Midler</b>
 </blockquote>
 </p>
 
