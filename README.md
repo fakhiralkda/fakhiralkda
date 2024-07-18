@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A journey of a thousand miles must begin with a single step."</i>
+<i>"The way to change others' minds is with affection, and not anger."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
