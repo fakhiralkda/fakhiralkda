@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Numbing the pain for a while will only make it worse when you finally feel it."</i>
+<i>"If we are not able to smile, then the world will not have peace."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
