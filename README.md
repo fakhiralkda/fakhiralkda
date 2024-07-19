@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined."</i>
+<i>"The quality, not the longevity, of one's life is what is important."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
