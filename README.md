@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we are not able to smile, then the world will not have peace."</i>
+<i>"Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
