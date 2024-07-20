@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make your mind your own business."</i>
+<i>"Imagination means nothing without doing.  "</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
