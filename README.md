@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never let the things you can't do stop you from doing what you can."</i>
+<i>"Working hard for something we don't care about is called stress: Working hard for something we love is called passion."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
