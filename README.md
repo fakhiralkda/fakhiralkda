@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our attitude toward life determines life's attitude towards us."</i>
+<i>"Definitions belong to the definers, not the defined."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Toni Morrison</b>
 </blockquote>
 </p>
 
