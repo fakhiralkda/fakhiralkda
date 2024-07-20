@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Working hard for something we don't care about is called stress: Working hard for something we love is called passion."</i>
+<i>"No man becomes rich unless he enriches others."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
