@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The important thing is not to stop questioning. Curiosity has its own reason for existing."</i>
+<i>"Never let the things you can't do stop you from doing what you can."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
