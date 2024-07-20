@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only in the agony of parting do we look into the depths of love."</i>
+<i>"If the grass is greener on the other side, maybe that's because you're not taking good care of your grass."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
