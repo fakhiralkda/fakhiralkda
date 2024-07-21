@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience expands your options. If you insist on immediate gratification, your choices are severely limited."</i>
+<i>"If the plan doesn't work, change the plan, but never the goal."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
