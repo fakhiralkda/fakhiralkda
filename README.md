@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It does not do to dwell on dreams and forget to live, remember that."</i>
+<i>"He who leaves the game wins it."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
