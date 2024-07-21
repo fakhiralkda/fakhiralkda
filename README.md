@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life comes at us in waves. We can't predict or control those waves, but we can learn to surf."</i>
+<i>"Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  "</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
