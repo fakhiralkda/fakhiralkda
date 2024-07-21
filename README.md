@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn only how to avoid seeking for and attaching yourselves to anything."</i>
+<i>"Argue for your limitations and sure enough, they're yours."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
