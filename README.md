@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn from the mistakes of others. You can't live long enough to make them all yourself."</i>
+<i>"Those who attain the middle Dominate the whole."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
