@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who attain the middle Dominate the whole."</i>
+<i>"You will have bad times, but they will always wake you up to the stuff you weren't paying attention to."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
