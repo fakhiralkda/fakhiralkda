@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The mind is the limit."</i>
+<i>"Wheels of justice grind slow but grind fine."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
