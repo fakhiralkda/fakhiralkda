@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Real growth comes through intense, difficult, and challenging situations."</i>
+<i>"The only difference between success and failure is the ability to take action."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
