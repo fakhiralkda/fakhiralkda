@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man will make a great leader who wants to do it all himself or to get all the credit for doing it."</i>
+<i>"You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
