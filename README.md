@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Growing up is losing some illusions, in order to acquire others."</i>
+<i>"Real growth comes through intense, difficult, and challenging situations."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
