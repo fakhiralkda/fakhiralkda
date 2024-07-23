@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way."</i>
+<i>"The mind is the limit."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
