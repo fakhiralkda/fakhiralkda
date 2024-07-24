@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people ask better questions, and as a result, they get better answers."</i>
+<i>"It's always to soon to quit!"</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
