@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life's too mysterious to take too serious."</i>
+<i>"When you rise in the morning, form a resolution to make the day a happy one for a fellow creature."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
