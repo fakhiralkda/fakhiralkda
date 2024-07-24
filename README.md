@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be not glad at the misfortune of another, though he may be your enemy. "</i>
+<i>"The roots of education are bitter, but the fruit is sweet."</i>
 <br>
-<b>- George Washington</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
