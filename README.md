@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good entrepreneurs don't fail because they stay at it."</i>
+<i>"Successful people ask better questions, and as a result, they get better answers."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
