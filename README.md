@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you rise in the morning, form a resolution to make the day a happy one for a fellow creature."</i>
+<i>"Success is not how high you have climbed, but how you make a positive difference to the world."</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
