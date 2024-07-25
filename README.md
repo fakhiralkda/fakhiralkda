@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The chief danger in life is that you may take too many precautions."</i>
+<i>"It's not how much money you make, it's how much money you keep."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
