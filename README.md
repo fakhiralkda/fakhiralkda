@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When it is dark enough, you can see the stars."</i>
+<i>"Persistence is very important. You should not give up unless you are forced to give up."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
