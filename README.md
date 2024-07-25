@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Kind words can be short and easy to speak, but their echoes are truly endless."</i>
+<i>"The chief danger in life is that you may take too many precautions."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
