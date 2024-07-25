@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You drown not by falling into a river, but by staying submerged in it."</i>
+<i>"Coming together is a beginning, staying together is progress, and working together is success. "</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
