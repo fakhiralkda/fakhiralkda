@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Coming together is a beginning, staying together is progress, and working together is success. "</i>
+<i>"You make your own luck if you stay at it long enough."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
