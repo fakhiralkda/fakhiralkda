@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear."</i>
+<i>"Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
