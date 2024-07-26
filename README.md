@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enjoy every minute of life. Never second-guess life."</i>
+<i>"When the root is strong, the fruit is sweet."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
