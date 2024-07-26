@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich."</i>
+<i>"It is truth that liberates, not your effort to be free."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
