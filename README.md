@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the root is strong, the fruit is sweet."</i>
+<i>"Don't criticize what you can't understand. "</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
