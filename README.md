@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't criticize what you can't understand. "</i>
+<i>"With the new day comes new strength and new thoughts."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
