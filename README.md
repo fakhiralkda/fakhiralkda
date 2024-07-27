@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perfection is not attainable, but if we chase perfection we can catch excellence."</i>
+<i>"The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
