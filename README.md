@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A crisis is an opportunity riding the dangerous wind."</i>
+<i>"If we will be quiet and ready enough, we shall find compensation in every disappointment."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
