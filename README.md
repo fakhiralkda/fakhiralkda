@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Problems remain as problems because people are busy defending them rather than finding solutions."</i>
+<i>"The older you get, the more you understand how your conscience works."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
