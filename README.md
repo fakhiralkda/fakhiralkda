@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never allow someone to be your priority while allowing yourself to be their option."</i>
+<i>"The fastest way to change is to laugh at your own folly."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
