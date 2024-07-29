@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Here and now...breathe and relax...in battle and in life."</i>
+<i>"Don't worry about being successful, but work toward being significant and the success will naturally follow."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
