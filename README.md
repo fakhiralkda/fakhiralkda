@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is an essence of when you are fearless, you become more creative."</i>
+<i>"It's not how much we give but how much love we put into giving."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
