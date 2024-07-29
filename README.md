@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not how much we give but how much love we put into giving."</i>
+<i>"The secret of getting ahead is getting started."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
