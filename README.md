@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A mountain never yields to the wind no matter how strong it is."</i>
+<i>"When I let go of what I am, I become what I might be."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
