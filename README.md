@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words without actions are the assassins of idealism."</i>
+<i>"Winners are not people who never fail, but people who never quit."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
