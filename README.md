@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When I let go of what I am, I become what I might be."</i>
+<i>"Luck is a matter of preparation meeting opportunity."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
