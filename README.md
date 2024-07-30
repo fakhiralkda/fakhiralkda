@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When one does not have what one wants, one must want what one has."</i>
+<i>"Words without actions are the assassins of idealism."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
