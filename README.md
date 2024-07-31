@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life's too mysterious to take too serious."</i>
+<i>"Lust, anger and greed are the three gates to self-destructive hell."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
