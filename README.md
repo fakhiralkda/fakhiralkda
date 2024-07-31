@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one has ever become poor by giving."</i>
+<i>"People inspire you, or they drain you. Pick them wisely."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
