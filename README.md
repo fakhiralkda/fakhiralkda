@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People inspire you, or they drain you. Pick them wisely."</i>
+<i>"I don't walk away from things that I think are unfinished."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
