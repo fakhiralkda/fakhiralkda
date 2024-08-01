@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I can live without money, but I cannot live without love."</i>
+<i>"There is an essence of when you are fearless, you become more creative."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
