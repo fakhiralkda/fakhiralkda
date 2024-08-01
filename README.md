@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is an essence of when you are fearless, you become more creative."</i>
+<i>"The more often a stupidity is repeated, the more it gets the appearance of wisdom."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
