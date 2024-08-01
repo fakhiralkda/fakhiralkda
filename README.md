@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The two most powerful warriors are patience and time."</i>
+<i>"I can live without money, but I cannot live without love."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
