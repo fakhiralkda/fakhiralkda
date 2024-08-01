@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Listen to the secret sound, the real sound, which is inside you."</i>
+<i>"Nature is pleased with simplicity. And nature is no dummy."</i>
 <br>
-<b>- Kabir</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
