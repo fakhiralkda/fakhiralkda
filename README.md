@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where you are right now doesn't have to determine where you'll end up."</i>
+<i>"Decide upon your major definite purpose in life and then organize all your activities around it."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
