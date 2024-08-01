@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If they wrote it to make money, don't read it."</i>
+<i>"Believe you can and you will be halfway there."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
