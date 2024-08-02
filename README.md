@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Realistic people do not accomplish extraordinary things."</i>
+<i>"Silence is sometimes the best answer."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
