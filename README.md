@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe you can and you will be halfway there."</i>
+<i>"Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
