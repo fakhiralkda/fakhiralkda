@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot."</i>
+<i>"The more we value things, the less we value ourselves.  "</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
