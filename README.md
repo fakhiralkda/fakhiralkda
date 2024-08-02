@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is sometimes the best answer."</i>
+<i>"Where there is anger, there is always pain underneath."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
