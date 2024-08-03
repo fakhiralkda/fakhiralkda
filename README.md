@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe in one thing too much and you have no room for new ideas.  "</i>
+<i>"Always remember that you are absolutely unique. Just like everyone else. "</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
