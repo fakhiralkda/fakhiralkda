@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The journey, not the destination matters."</i>
+<i>"Never spend your money before you have earned it."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
