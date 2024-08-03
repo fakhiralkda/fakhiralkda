@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not bite at the bait of pleasure, till you know there is no hook beneath it."</i>
+<i>"In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
