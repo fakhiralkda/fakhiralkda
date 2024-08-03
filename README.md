@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of happiness is not in doing what you like but in liking what you have to do."</i>
+<i>"Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
