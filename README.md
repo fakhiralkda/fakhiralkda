@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always remember that you are absolutely unique. Just like everyone else. "</i>
+<i>"Outstanding people have one thing in common: an absolute sense of mission.  "</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
