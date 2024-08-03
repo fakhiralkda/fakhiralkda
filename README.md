@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better."</i>
+<i>"The ones who are crazy enough to think they can change the world, are the ones that do."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
