@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People should pursue what they're passionate about. That will make them happier than pretty much anything else."</i>
+<i>"Life can be wonderful if you're not afraid of it."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
