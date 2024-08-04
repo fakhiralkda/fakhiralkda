@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are unable to find the truth right where you are, where else do you expect to find it?"</i>
+<i>"Never give way to laziness."</i>
 <br>
-<b>- Dogen</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
