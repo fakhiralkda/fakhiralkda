@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunities don't often come along. So, when they do, you have to grab them."</i>
+<i>"The secret of life isn't what happens to you, but what you do with what happens to you."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
