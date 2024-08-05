@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first principle of success is desire."</i>
+<i>"When you've got nothing, you've got nothing to lose."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
