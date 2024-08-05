@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The giving of love is an education in itself."</i>
+<i>"Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!"</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
