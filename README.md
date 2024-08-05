@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Simplicity is a difficult thing to achieve.  "</i>
+<i>"Wit is educated insolence."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
