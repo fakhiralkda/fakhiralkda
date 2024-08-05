@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If there's a definition of freedom, I think it's this: living life on your terms."</i>
+<i>"Simplicity is a difficult thing to achieve.  "</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
