@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!"</i>
+<i>"If there's a definition of freedom, I think it's this: living life on your terms."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
