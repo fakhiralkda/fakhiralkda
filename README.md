@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace."</i>
+<i>"It is better to fail in originality than to succeed in imitation."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Herman Melville</b>
 </blockquote>
 </p>
 
