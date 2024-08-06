@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"New opinions are always suspected, and usually opposed, without any other reason but because they are not common."</i>
+<i>"There are few reasons for telling the truth, but for lying the number is infinite."</i>
 <br>
-<b>- John Locke</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
