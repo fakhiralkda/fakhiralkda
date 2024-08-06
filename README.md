@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's the possibility of having a dream come true that makes life interesting."</i>
+<i>"An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- John Tukey</b>
 </blockquote>
 </p>
 
