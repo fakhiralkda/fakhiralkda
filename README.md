@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams are the royal road to the unconscious. "</i>
+<i>"There is no absolute success in the world, only constant progress."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
