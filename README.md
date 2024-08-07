@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed."</i>
+<i>"Dreams are the royal road to the unconscious. "</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
