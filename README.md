@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Surrender to what is. Let go of what was. Have faith in what will be."</i>
+<i>"The more something scares you, the more you should do it."</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
