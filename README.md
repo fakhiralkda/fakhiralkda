@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no absolute success in the world, only constant progress."</i>
+<i>"Surrender to what is. Let go of what was. Have faith in what will be."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
