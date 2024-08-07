@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge."</i>
+<i>"If you don't make things happen then things will happen to you."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
