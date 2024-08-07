@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're never too old for anything."</i>
+<i>"Success is good at any age, but the sooner you find it, the longer you will enjoy it."</i>
 <br>
-<b>- Betty White</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
