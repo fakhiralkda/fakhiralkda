@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The whole is greater than the sum of its parts."</i>
+<i>"A clear conscience is the sure sign of a bad memory."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
