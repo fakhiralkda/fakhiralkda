@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness must be grown in one's own garden."</i>
+<i>"The score never interested me, only the game."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
