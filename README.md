@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Write to help yourself, publish to help others."</i>
+<i>"Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. "</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
