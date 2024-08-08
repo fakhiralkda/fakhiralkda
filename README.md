@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is the dancer and you are the dance."</i>
+<i>"Write to help yourself, publish to help others."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
