@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything begins with an idea."</i>
+<i>"If you believe you can, you can. If you believe you can't, then, well you can't."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
