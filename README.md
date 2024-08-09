@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where we fall are the stepping-stones for our journey."</i>
+<i>"Not all of us can do great things. But we can do small things with great love."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
