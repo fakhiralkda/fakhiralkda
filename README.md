@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Circumstances do not make the man, they reveal him."</i>
+<i>"If you truly expect something to be difficult, it will be."</i>
 <br>
-<b>- James Allen</b>
+<b>- Peter A. Cohen</b>
 </blockquote>
 </p>
 
