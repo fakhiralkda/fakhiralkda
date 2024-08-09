@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of life isn't what happens to you, but what you do with what happens to you."</i>
+<i>"Your business is not to 'get somewhere' - it is to be here."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
