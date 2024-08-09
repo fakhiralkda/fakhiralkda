@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give out what you most want to come back."</i>
+<i>"Where we fall are the stepping-stones for our journey."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
