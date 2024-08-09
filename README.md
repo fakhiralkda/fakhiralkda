@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not all of us can do great things. But we can do small things with great love."</i>
+<i>"Do not follow the ideas of others, but learn to listen to the voice within yourself."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
