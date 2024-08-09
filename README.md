@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your business is not to 'get somewhere' - it is to be here."</i>
+<i>"A man should do his job so well that the living, the dead, and the unborn could do it no better."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
