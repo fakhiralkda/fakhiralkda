@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest adventure is what lies ahead."</i>
+<i>"Only those who will risk going too far can possibly find out how far one can go."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
