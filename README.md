@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who violates another's honor loses his own."</i>
+<i>"The biggest room in the world is the room for improvement."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
