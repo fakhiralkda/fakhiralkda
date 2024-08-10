@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were."</i>
+<i>"Freedom itself demands discomfort."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
