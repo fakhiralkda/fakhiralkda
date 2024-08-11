@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage Is a Love Affair with the Unknown"</i>
+<i>"Paths are made by walking."</i>
 <br>
-<b>- Osho</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
