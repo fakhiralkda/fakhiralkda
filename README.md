@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be prepared is half the victory. "</i>
+<i>"When you are totally at peace with yourself, nothing can shake you."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Deepam Chaterjee</b>
 </blockquote>
 </p>
 
