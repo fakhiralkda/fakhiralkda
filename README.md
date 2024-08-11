@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. "</i>
+<i>"To be prepared is half the victory. "</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
