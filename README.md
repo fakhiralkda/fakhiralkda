@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward."</i>
+<i>"The goal of an artist is to create the definitive work that cannot be surpassed."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
