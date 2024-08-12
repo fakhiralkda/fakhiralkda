@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We will outstretch the hand if you unclench your fist."</i>
+<i>"The golden opportunity you are seeking is within yourself."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
