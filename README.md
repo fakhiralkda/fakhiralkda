@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more acquaintances you have, the less you know them."</i>
+<i>"We will outstretch the hand if you unclench your fist."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
