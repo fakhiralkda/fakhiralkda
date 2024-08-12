@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"New opinions are always suspected, and usually opposed, without any other reason but because they are not common."</i>
+<i>"Elegance does not consist in putting on a new dress."</i>
 <br>
-<b>- John Locke</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
