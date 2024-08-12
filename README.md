@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience is a bitter plant, but its fruit is sweet."</i>
+<i>"Wheresoever you go, go with all your heart."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
