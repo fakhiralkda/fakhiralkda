@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The golden opportunity you are seeking is within yourself."</i>
+<i>"Patience is a bitter plant, but its fruit is sweet."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
