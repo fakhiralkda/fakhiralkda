@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is ignorance that causes most mistakes."</i>
+<i>"To be happy we need something to solve. Happiness is therefore a form of action."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
