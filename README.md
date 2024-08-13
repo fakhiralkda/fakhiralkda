@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be happy we need something to solve. Happiness is therefore a form of action."</i>
+<i>"A heart is not judged by how much you love, but by how much you are loved by others."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
