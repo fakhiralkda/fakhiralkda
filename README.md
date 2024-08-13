@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I put my heart and soul into my work, and I have lost my mind in the process."</i>
+<i>"It is ignorance that causes most mistakes."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
