@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way to love anything is to realize that it may be lost."</i>
+<i>"Don't let anyone define you. You define yourself."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Billie Jean King</b>
 </blockquote>
 </p>
 
