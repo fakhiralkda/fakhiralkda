@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let anyone define you. You define yourself."</i>
+<i>"Distant water does not put out a nearby fire."</i>
 <br>
-<b>- Billie Jean King</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
