@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom lies in being bold."</i>
+<i>"Don't let making a living prevent you from making a life."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
