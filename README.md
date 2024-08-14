@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work is always an antidote to depression."</i>
+<i>"Freedom lies in being bold."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
