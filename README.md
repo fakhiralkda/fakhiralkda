@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is hard to fail, but it is worse never to have tried to succeed."</i>
+<i>"Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  "</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
