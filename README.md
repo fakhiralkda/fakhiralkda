@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man who dares to waste one hour of time has not discovered the value of life."</i>
+<i>"Not all of us can do great things. But we can do small things with great love."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
