@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When reading, only read. When eating, only eat. When thinking, only think."</i>
+<i>"People think about what they don't want and attract more of the same."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
