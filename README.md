@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Generosity is giving more than you can, and pride is taking less than you need."</i>
+<i>"People should pursue what they're passionate about. That will make them happier than pretty much anything else."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
