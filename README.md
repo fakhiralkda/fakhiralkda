@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose."</i>
+<i>"Those who attain the middle Dominate the whole."</i>
 <br>
 <b>- Ming-Dao Deng</b>
 </blockquote>
