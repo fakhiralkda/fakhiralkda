@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  "</i>
+<i>"FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
