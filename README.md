@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every second you have on this planet is very precious and it's your responsibility that you're happy."</i>
+<i>"You must find the place inside yourself where nothing is impossible."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
