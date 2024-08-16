@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't have anything worthwhile without difficulties."</i>
+<i>"We are all in the gutter, but some of us are looking at the stars. "</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
