@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must find the place inside yourself where nothing is impossible."</i>
+<i>"It is better to learn late than never."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
