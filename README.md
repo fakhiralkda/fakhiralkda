@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday."</i>
+<i>"The more one judges, the less one loves."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
