@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience."</i>
+<i>"A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
