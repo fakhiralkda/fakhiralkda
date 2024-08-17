@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be who you are and say what you feel because those who mind don't matter and those who matter don't mind."</i>
+<i>"Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
