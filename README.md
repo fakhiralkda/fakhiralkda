@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intelligence is the ability to adapt to change."</i>
+<i>"Be who you are and say what you feel because those who mind don't matter and those who matter don't mind."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
