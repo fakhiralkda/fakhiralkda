@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  "</i>
+<i>"There are two things a person should never be angry at, what they can help, and what they cannot."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
