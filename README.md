@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Till it has loved, no man or woman can become itself."</i>
+<i>"True knowledge exists in knowing that you know nothing."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
