@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible."</i>
+<i>"Just try to be the best you can be; never cease trying to be the best you can be. That's in your power."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
