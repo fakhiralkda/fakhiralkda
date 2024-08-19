@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time doesn't heal emotional pain, you need to learn how to let go."</i>
+<i>"There is no truth. There is only perception."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
