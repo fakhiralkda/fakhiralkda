@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am not absentminded. It is the presence of mind that makes me unaware of everything else."</i>
+<i>"Time doesn't heal emotional pain, you need to learn how to let go."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
