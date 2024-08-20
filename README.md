@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are what you believe yourself to be."</i>
+<i>"The older you get, the better you get. Unless you're a banana."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
