@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The older you get, the better you get. Unless you're a banana."</i>
+<i>"In youth we run into difficulties. In old age difficulties run into us. "</i>
 <br>
-<b>- Betty White</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
