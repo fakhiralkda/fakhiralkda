@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As long as a human being worries about when he will die, and what he has that is his, all of his works are zero."</i>
+<i>"Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work."</i>
 <br>
-<b>- Kabir</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
