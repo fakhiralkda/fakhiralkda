@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone you meet is fighting a battle you know nothing about. Be kind. Always."</i>
+<i>"The busy man is never wise and the wise man is never busy."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
