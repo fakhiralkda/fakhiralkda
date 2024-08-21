@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many people will walk in and out of your life, but only true friends will leave footprints in your heart."</i>
+<i>"There are more people who wish to be loved than there are who are willing to love. "</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
