@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who wants to achieve a dream must stay strong, focused and steady."</i>
+<i>"I learned the value of hard work by working hard. "</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
