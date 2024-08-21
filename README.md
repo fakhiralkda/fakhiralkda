@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're never too old for anything."</i>
+<i>"Don't live the same year 75 times and call it a life."</i>
 <br>
-<b>- Betty White</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
