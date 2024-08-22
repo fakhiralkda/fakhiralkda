@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence."</i>
+<i>"The only lost cause is one we give up on before we enter the struggle."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
