@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only lost cause is one we give up on before we enter the struggle."</i>
+<i>"Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. "</i>
 <br>
-<b>- Vaclav Havel</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
