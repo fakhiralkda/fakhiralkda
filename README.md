@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I can think of nothing less pleasurable than a life devoted to pleasure."</i>
+<i>"When you repeat a mistake, it is not a mistake anymore: it is a decision."</i>
 <br>
-<b>- John D. Rockefeller</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
