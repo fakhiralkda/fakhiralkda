@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The mind can calculate, but the spirit yearns, and the heart wants what the heart wants."</i>
+<i>"All great truths begin as blasphemies."</i>
 <br>
-<b>- Stephen King</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
