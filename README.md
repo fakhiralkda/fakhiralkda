@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It still holds true that man is most uniquely human when he turns obstacles into opportunities."</i>
+<i>"That some achieve great success is proof to all that others can achieve it as well."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
