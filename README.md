@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words are the clothes thoughts wear."</i>
+<i>"Happiness is not something ready made. It comes from your own actions."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
