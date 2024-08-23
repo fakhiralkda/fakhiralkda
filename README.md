@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Inspire yourself to be great. Being good isn't good enough."</i>
+<i>"Everything that is made beautiful and fair and lovely is made for the eye of one who sees."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
