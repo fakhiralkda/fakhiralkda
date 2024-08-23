@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"That some achieve great success is proof to all that others can achieve it as well."</i>
+<i>"Definiteness of purpose is the starting point of all achievement. "</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
