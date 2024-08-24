@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creative endeavors are by their nature uncertain."</i>
+<i>"You are not only responsible for what you say, but also for what you do not say. "</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
