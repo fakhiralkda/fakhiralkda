@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rest in reason; move in passion."</i>
+<i>"Creative endeavors are by their nature uncertain."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
