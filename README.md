@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What are we doing here, that is the question."</i>
+<i>"A day without laughter is a day wasted."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
