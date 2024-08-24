@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cherish forever what makes you unique, cuz you're really a yawn if it goes."</i>
+<i>"Rest in reason; move in passion."</i>
 <br>
-<b>- Bette Midler</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
