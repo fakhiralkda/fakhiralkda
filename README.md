@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to offer no excuse than a bad one. "</i>
+<i>"A golden cage is still just a cage."</i>
 <br>
-<b>- George Washington</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
