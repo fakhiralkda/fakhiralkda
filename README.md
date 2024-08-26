@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one can hurt you without your consent."</i>
+<i>"All you need is passion. If you have a passion for something, you'll create the talent."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
