@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's the unknown we fear when we look upon death and darkness, nothing more."</i>
+<i>"If you do not conquer self, you will be conquered by self."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
