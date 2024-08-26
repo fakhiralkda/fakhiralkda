@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A golden cage is still just a cage."</i>
+<i>"The more you like yourself, the less you are like anyone else, which makes you unique."</i>
 <br>
-<b>- Anita Krizzan</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
