@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All you need is passion. If you have a passion for something, you'll create the talent."</i>
+<i>"Only by attracting the best people will you accomplish great deeds."</i>
 <br>
-<b>- Yanni</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
