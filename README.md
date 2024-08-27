@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win."</i>
+<i>"When the world pushes you to your knees, you're in the perfect position to pray."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
