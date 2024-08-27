@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot."</i>
+<i>"You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
