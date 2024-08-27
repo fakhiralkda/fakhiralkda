@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The key to success is action."</i>
+<i>"Don't let your mind stop you."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
