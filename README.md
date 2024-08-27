@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"However difficult life may seem, there is always something you can do and succeed at."</i>
+<i>"The key to success is action."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
