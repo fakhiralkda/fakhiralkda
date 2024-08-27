@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talent is luck. The important thing in life is courage."</i>
+<i>"Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
