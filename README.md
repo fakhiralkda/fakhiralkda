@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your eyes on the stars, but remember to keep your feet on the ground."</i>
+<i>"Death walks faster than the wind and never returns what he has taken."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
