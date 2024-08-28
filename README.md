@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is often achieved by those who don't know that failure is inevitable."</i>
+<i>"Keep your eyes on the stars, but remember to keep your feet on the ground."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
