@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever."</i>
+<i>"A little progress each day adds up to big results."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
