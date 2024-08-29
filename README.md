@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I have seen further than others, it is by standing upon the shoulders of giants."</i>
+<i>"Health is the greatest of all possessions."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
