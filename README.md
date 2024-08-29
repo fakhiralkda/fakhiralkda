@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must create our own world or we will die from inaction."</i>
+<i>"It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
