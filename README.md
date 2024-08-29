@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As a man thinketh in his heart, so shall he be."</i>
+<i>"Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for."</i>
 <br>
-<b>- James Allen</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
