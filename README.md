@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The source of a true smile is an awakened mind."</i>
+<i>"The difference between impossible and possible is a willing heart."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
