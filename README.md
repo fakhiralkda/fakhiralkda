@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rest in reason; move in passion."</i>
+<i>"Your setback is just a setup for a comeback."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
