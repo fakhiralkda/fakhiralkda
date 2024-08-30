@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have power over your mind - not outside events. Realize this, and you will find strength."</i>
+<i>"Becoming a great leader doesn't mean being perfect. it means living with your imperfections."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
