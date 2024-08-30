@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My mind seems to have become a kind of machine for grinding general laws out of large collections of facts."</i>
+<i>"Extraordinary results happen only when you give the best you have to become the best you can be at your most important work."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
