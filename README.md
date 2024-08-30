@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Poverty and hardship are created by false thinking."</i>
+<i>"It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
