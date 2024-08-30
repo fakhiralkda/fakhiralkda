@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you decide to do, make sure it makes you happy."</i>
+<i>"Experience is a comb which nature gives us when we are bald. "</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
