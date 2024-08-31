@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Through discipline comes freedom."</i>
+<i>"A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing."</i>
 <br>
-<b>- Aristotle</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
