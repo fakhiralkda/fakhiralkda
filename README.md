@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing."</i>
+<i>"When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
