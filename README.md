@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A life without a cause is a life without effect."</i>
+<i>"Do not bite at the bait of pleasure, till you know there is no hook beneath it."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
