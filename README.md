@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy."</i>
+<i>"It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  "</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
