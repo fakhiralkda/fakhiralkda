@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to offer no excuse than a bad one. "</i>
+<i>"The opposite of courage in our society is not cowardice... it is conformity."</i>
 <br>
-<b>- George Washington</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
