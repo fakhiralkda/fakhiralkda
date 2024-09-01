@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let the fear of losing be greater than the excitement of winning."</i>
+<i>"It is not titles that honour men, but men that honour titles."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
