@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time is more valuable than money. You can get more money, but you cannot get more time."</i>
+<i>"It is better to offer no excuse than a bad one. "</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
