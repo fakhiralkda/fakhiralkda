@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind."</i>
+<i>"Don't learn to do, but learn in doing."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
