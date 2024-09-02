@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't learn to do, but learn in doing."</i>
+<i>"Lust, anger and greed are the three gates to self-destructive hell."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
