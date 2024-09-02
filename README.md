@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where there is anger, there is always pain underneath."</i>
+<i>"The first man gets the oyster, the second man gets the shell."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
