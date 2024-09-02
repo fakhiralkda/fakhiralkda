@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never stand begging for that which you have the power to earn."</i>
+<i>"Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  "</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
