@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself."</i>
+<i>"Never stand begging for that which you have the power to earn."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
