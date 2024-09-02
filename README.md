@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lust, anger and greed are the three gates to self-destructive hell."</i>
+<i>"Where there is anger, there is always pain underneath."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
