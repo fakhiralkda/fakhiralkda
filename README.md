@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The significance of life is living."</i>
+<i>"Truth is not something outside to be discovered, it is something inside to be realized."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
