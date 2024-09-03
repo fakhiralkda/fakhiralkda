@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you."</i>
+<i>"Most people fail in life not because they aim too high and miss, but because they aim too low and hit."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
