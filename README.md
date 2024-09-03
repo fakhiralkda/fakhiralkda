@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people fail in life not because they aim too high and miss, but because they aim too low and hit."</i>
+<i>"Do not be so open-minded that your brains fall out."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
