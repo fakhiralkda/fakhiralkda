@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear can hold you prisoner. Hope can set you free."</i>
+<i>"Maybe you are searching among the branches, for what only appears in the roots."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
