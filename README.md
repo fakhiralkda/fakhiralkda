@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Penny Saved is a Penny Earned"</i>
+<i>"If you tell the truth, you don't have to remember anything."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
