@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Very little is needed to make a happy life; it is all within yourself, in your way of thinking."</i>
+<i>"Sometimes out of your biggest misery, comes your greatest gain."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
