@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is not something outside to be discovered, it is something inside to be realized."</i>
+<i>"I defeat my enemies when I make them my friends."</i>
 <br>
-<b>- Osho</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
