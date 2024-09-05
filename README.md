@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Walk slowly but never walk backward."</i>
+<i>"Instead of thinking outside the box, get rid of the box."</i>
 <br>
-<b>- Unknown</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
