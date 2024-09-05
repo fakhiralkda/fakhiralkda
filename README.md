@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm not afraid of death, but I'm in no hurry to die."</i>
+<i>"Better to have, and not need, than to need, and not have."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
