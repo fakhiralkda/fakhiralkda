@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You just can't beat the person who never gives up. "</i>
+<i>"Only I can change my life. No one can do it for me."</i>
 <br>
-<b>- Babe Ruth</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
