@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are totally at peace with yourself, nothing can shake you."</i>
+<i>"Troubles are often the tools by which God fashions us for better things."</i>
 <br>
-<b>- Deepam Chaterjee</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
