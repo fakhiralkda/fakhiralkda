@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems."</i>
+<i>"Take responsibility of your own happiness, never put it in other people's hands."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
