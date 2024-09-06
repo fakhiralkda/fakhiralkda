@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Troubles are often the tools by which God fashions us for better things."</i>
+<i>"You can't climb the ladder of success with your hands in your pockets."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
