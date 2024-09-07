@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today I begin a new life. I will greet this day with love in my heart."</i>
+<i>"Success is going from failure to failure without losing your enthusiasm"</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
