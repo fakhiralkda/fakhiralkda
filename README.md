@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We run to win, not just to be in the race.  "</i>
+<i>"There are no secrets to success. It is the result of preparation, hard work, learning from failure."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
