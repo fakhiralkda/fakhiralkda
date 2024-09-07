@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not about what it is, it's about what it can become."</i>
+<i>"Winners don't Quit. That's why they Win."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
