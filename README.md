@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result."</i>
+<i>"Obstacles don't block the path, they are the path."</i>
 <br>
-<b>- James Allen</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
