@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Loving thoughts and actions are clearly beneficial for our physical and mental health."</i>
+<i>"There is no sadder sight than a young pessimist."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
