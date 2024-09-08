@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people appreciate where they have come from, but they don't let their past set the tone for their future."</i>
+<i>"It is the power of thought that gives man power over nature."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
