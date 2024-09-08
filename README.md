@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As soon as you trust yourself, you will know how to live."</i>
+<i>"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
