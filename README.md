@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who has overcome his fears will truly be free."</i>
+<i>"The truly rich men are the ones who have health, loved ones and a work they love."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
