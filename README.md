@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truly rich men are the ones who have health, loved ones and a work they love."</i>
+<i>"Successful people appreciate where they have come from, but they don't let their past set the tone for their future."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
