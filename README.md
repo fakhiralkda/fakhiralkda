@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are not stuck where you are unless you decide to be.  "</i>
+<i>"They say love is the best investment; the more you give, the more you get in return."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
