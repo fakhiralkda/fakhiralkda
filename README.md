@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Judgments prevent us from seeing the good that lies beyond appearances.  "</i>
+<i>"You are not stuck where you are unless you decide to be.  "</i>
 <br>
 <b>- Wayne Dyer</b>
 </blockquote>
