@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"They say love is the best investment; the more you give, the more you get in return."</i>
+<i>"Not all of us can do great things. But we can do small things with great love."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
