@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who laughs at himself never runs out of things to laugh at."</i>
+<i>"Chase your passion, not your pension. "</i>
 <br>
-<b>- Epictetus</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
