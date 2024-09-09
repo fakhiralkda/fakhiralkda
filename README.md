@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conscience is a man's compass. "</i>
+<i>"I learned the value of hard work by working hard. "</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
