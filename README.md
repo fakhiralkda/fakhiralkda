@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You give but little when you give of your possessions. It is when you give of yourself that you truly give."</i>
+<i>"Plants grow weak without wind."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
