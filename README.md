@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams have only one owner at a time. That's why dreamers are lonely."</i>
+<i>"Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
