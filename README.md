@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind."</i>
+<i>"You give but little when you give of your possessions. It is when you give of yourself that you truly give."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
