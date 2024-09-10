@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths."</i>
+<i>"A leader leads by example, not by force."</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
