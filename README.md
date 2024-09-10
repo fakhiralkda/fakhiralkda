@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Plants grow weak without wind."</i>
+<i>"Never let the fear of striking out keep you from playing the game."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Babe Ruth</b>
 </blockquote>
 </p>
 
