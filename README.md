@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Strive for excellence, not perfection, because we don't live in a perfect world."</i>
+<i>"It's what you do in the present that will redeem the past and thereby change the future."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
