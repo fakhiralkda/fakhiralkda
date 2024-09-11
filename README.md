@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good stance and posture reflect a proper state of mind."</i>
+<i>"What you seek is seeking you."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
