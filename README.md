@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours."</i>
+<i>"The only person you should try to be better than is the person you were yesterday."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
