@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive."</i>
+<i>"Strive for excellence, not perfection, because we don't live in a perfect world."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
