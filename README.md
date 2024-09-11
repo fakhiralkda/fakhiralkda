@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's the little things done consistently over time, straight from your heart, that have the greatest impact."</i>
+<i>"A good stance and posture reflect a proper state of mind."</i>
 <br>
-<b>- Unknown</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
