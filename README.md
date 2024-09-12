@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The dreamers are the saviors of the worlds."</i>
+<i>"Those who are easily shocked should be shocked more often."</i>
 <br>
-<b>- James Allen</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
