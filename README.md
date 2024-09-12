@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The traveler sees what he sees. The tourist sees what he has come to see."</i>
+<i>"Definitions belong to the definers, not the defined."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Toni Morrison</b>
 </blockquote>
 </p>
 
