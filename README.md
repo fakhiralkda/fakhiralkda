@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome."</i>
+<i>"There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
