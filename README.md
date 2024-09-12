@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing."</i>
+<i>"None but ourselves can free our minds."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
