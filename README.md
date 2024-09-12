@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A diamond is a piece of charcoal that handled stress exceptionally well."</i>
+<i>"The primary point of this existence is to live, and all living things move and grow."</i>
 <br>
-<b>- Unknown</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
