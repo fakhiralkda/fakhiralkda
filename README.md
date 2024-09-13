@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life and the simple beauty of it is too good to pass up."</i>
+<i>"Whoever is happy will make others happy too."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
