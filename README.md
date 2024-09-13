@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You already have every characteristic necessary for success if you recognize, claim, develop and use them."</i>
+<i>"From morning till night, we should never rely on a single thing."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
