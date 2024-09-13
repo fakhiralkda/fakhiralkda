@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is easier to fight for one's principles than to live up to them. "</i>
+<i>"Ponder and deliberate before you make a move."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
