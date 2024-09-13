@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man can get rich himself unless he enriches others."</i>
+<i>"I have not failed. I've just found 10,000 ways that won't work."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
