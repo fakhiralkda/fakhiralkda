@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From morning till night, we should never rely on a single thing."</i>
+<i>"It is impossible for a man to learn what he thinks he already knows."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
