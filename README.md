@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wisest men follow their own direction."</i>
+<i>"Everything is possible. The impossible just takes longer."</i>
 <br>
-<b>- Euripides</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
