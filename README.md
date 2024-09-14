@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I have seen further than others, it is by standing upon the shoulders of giants."</i>
+<i>"Every drop in the ocean counts. "</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
