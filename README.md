@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom from desire leads to inner peace."</i>
+<i>"No one is useless in this world who lightens the burdens of another."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
