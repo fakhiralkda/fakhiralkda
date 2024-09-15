@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The big thing is to make a winning effort. I'm not obsessed with wins."</i>
+<i>"Write to help yourself, publish to help others."</i>
 <br>
-<b>- Morgan Wootten</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
