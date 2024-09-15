@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no shortcuts to any place worth going."</i>
+<i>"Life is a question and how we live it is our answer."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
