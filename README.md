@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throw me to the wolves and I will return leading the pack.  "</i>
+<i>"Use your smile to change the world but don't let the world change your smile."</i>
 <br>
-<b>- Seneca</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
