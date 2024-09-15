@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a question and how we live it is our answer."</i>
+<i>"Throw me to the wolves and I will return leading the pack.  "</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
