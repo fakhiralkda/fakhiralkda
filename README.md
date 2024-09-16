@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Passion creates, addiction consumes."</i>
+<i>"As a matter of fact is an expression that precedes many an expression that isn't."</i>
 <br>
-<b>- Gabor Mate</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
