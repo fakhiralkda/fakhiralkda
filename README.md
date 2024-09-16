@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail."</i>
+<i>"Passion creates, addiction consumes."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Gabor Mate</b>
 </blockquote>
 </p>
 
