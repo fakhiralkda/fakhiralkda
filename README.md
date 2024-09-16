@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't stop when you're tired. Stop when you're done."</i>
+<i>"The chief danger in life is that you may take too many precautions."</i>
 <br>
-<b>- Marilyn Monroe</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
