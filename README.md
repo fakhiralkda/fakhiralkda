@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn to value yourself, which means: fight for your happiness."</i>
+<i>"Those who cannot change their minds cannot change anything."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
