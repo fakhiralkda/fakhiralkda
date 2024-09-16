@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Abundance of knowledge does not teach men to be wise."</i>
+<i>"In order for you to be the BEST you can be for others, first you must be BEST for yourself."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Jeffrey Gitomer</b>
 </blockquote>
 </p>
 
