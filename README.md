@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The chief danger in life is that you may take too many precautions."</i>
+<i>"Abundance of knowledge does not teach men to be wise."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
