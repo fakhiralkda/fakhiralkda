@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not ignore the passion that burns in you. Spend time to discover your gift."</i>
+<i>"To be of use to the world is the only way to be happy."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
