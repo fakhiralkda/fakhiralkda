@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no second chances in life, except to feel remorse."</i>
+<i>"Absurdity is the ecstasy of intellectualism."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
