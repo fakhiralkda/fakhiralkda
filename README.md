@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To the world you may be one person; but to one person you may be the world."</i>
+<i>"You can't go forward and backwards at the same time."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
