@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be of use to the world is the only way to be happy."</i>
+<i>"The wise accomplish all that they want without arousing the envy or scorn of others."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
