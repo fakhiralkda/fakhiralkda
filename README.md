@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise accomplish all that they want without arousing the envy or scorn of others."</i>
+<i>"I alone cannot change the world, but I can cast a stone across the waters to create many ripples."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
