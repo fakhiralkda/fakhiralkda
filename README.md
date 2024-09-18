@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No need to hurry. No need to sparkle. No need to be anybody but oneself."</i>
+<i>"Whether you think you can or think you can't – you are right."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
