@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whether you think you can or think you can't – you are right."</i>
+<i>"For all evils there are two remedies - time and silence."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
