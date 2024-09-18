@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature is pleased with simplicity. And nature is no dummy."</i>
+<i>"Don't hate the player. Change the game."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
