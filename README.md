@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future."</i>
+<i>"No need to hurry. No need to sparkle. No need to be anybody but oneself."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
