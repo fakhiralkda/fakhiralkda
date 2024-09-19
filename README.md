@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't imagine it, you can't have it."</i>
+<i>"We're responsible for everything that happens to us."</i>
 <br>
-<b>- Toni Morrison</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
