@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way round is through."</i>
+<i>"Take care of your cents: dollars will take care of themselves."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
