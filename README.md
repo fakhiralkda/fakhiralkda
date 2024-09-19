@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I believe that one of life's greatest risks is never daring to risk."</i>
+<i>"If you can't imagine it, you can't have it."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Toni Morrison</b>
 </blockquote>
 </p>
 
