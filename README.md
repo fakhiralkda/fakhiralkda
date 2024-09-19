@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We're responsible for everything that happens to us."</i>
+<i>"When you make a choice, you change the future."</i>
 <br>
-<b>- Yanni</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
