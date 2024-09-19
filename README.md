@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every moment of happiness requires a great amount of Ignorance"</i>
+<i>"Trust in dreams, for in them is the hidden gate to eternity.  "</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
