@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust in dreams, for in them is the hidden gate to eternity.  "</i>
+<i>"I believe that one of life's greatest risks is never daring to risk."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
