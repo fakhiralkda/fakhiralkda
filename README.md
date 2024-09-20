@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Turn your face to the sun, as flowers know how to do."</i>
+<i>"It's not the size of the dog in the fight, it's the size of the fight in the dog."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
