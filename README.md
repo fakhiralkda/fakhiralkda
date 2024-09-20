@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We win by helping each other win."</i>
+<i>"Turn your face to the sun, as flowers know how to do."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
