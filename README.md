@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If no one ever broke the rules, then we'd never advance."</i>
+<i>"Nothing ever goes away until it has taught us what we need to know."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
