@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing ever goes away until it has taught us what we need to know."</i>
+<i>"Be a good animal, true to your instincts."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
