@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anything worth doing is worth doing slowly."</i>
+<i>"Take into account that great love and great achievements involve great risk."</i>
 <br>
-<b>- Mae West</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
