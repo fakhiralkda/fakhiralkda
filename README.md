@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is either a daring adventure, or it is nothing."</i>
+<i>"It's always to soon to quit!"</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
