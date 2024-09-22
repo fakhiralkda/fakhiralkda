@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view."</i>
+<i>"The more acquaintances you have, the less you know them."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
