@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's always to soon to quit!"</i>
+<i>"Don't be afraid to stand for what you believe in, even if that means standing alone."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
