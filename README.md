@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sorrow is how we learn to love."</i>
+<i>"The question is not what you look at, but what you see."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
