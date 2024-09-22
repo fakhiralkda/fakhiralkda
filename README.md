@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What people need and what they want may be very different."</i>
+<i>"The more we value things, the less we value ourselves.  "</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
