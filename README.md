@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Making your mark on the world is hard. If it were easy, everybody would do it."</i>
+<i>"The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
