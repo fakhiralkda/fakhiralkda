@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing."</i>
+<i>"The difference between winning and losing is most often not quitting."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
