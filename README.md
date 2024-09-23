@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality."</i>
+<i>"When we strive to become better than we are, everything around us becomes better, too."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
