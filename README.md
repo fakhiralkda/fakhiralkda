@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is."</i>
+<i>"Don't concern yourself with the money. Be of service. Build. Work. Dream. Create."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
