@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men do not attract which they want but that which they are."</i>
+<i>"No great discovery was ever made without a bold guess. "</i>
 <br>
-<b>- James Allen</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
