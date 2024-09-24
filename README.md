@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We've got to live, no matter how many skies have fallen."</i>
+<i>"To a mind that is still, the entire universe surrenders."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
