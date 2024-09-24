@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fears are nothing more than a state of mind."</i>
+<i>"Today will never happen again. Don't waste it with a false start or no start at all."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
