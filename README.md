@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stay away from people who makes you feel like you are wasting their time."</i>
+<i>"It's OK to have your eggs in one basket as long as you control what happens to that basket."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
