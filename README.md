@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you trust yourself, the less you compare yourself to others."</i>
+<i>"Honor is the foundation of courage."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
