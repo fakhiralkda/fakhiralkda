@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To every action there is always opposed an equal reaction."</i>
+<i>"Life is one long process of getting tired."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
