@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are not the drop in the ocean, but the ocean in the drop."</i>
+<i>"To every action there is always opposed an equal reaction."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
