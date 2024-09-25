@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is one long process of getting tired."</i>
+<i>"Being entirely honest with oneself is a good exercise."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
