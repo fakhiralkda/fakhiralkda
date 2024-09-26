@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A gentleman accepts the responsibility of his actions and bears the burden of their consequences."</i>
+<i>"When you have to make a choice and don't make it, that is in itself a choice."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
