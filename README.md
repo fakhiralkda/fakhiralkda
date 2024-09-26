@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a gift. Never forget to enjoy and bask in every moment you are in."</i>
+<i>"A gentleman accepts the responsibility of his actions and bears the burden of their consequences."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
