@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become."</i>
+<i>"Friendship is one of the most tangible things in a world which offers fewer and fewer supports."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Kenneth Branagh</b>
 </blockquote>
 </p>
 
