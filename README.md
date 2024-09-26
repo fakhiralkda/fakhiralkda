@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you have to make a choice and don't make it, that is in itself a choice."</i>
+<i>"When you are able to employ your will always for constructive purposes, you become the controller of your destiny."</i>
 <br>
-<b>- William James</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
