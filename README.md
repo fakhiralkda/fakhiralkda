@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throughout this life, you can never be certain of living long enough to take another breath."</i>
+<i>"Nothing is easier than fault finding."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
