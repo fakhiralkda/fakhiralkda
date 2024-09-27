@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We've got to live, no matter how many skies have fallen."</i>
+<i>"Nothing can bring you peace but yourself."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
