@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone has the right to make his own decisions, but none has the right to force his decision on others."</i>
+<i>"We've got to live, no matter how many skies have fallen."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
