@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the oldest human needs is having someone to wonder where you are when you don't come home at night. "</i>
+<i>"The older you get the stronger the wind gets - and it's always in your face."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
