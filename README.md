@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Aim for the moon. If you miss, you may hit a star."</i>
+<i>"In order to attain the impossible, one must attempt the absurd."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
