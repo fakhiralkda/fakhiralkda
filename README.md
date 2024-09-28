@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How people treat you is their karma; how you react is yours. "</i>
+<i>"Words without actions are the assassins of idealism."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
