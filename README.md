@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"At the end of the day, let there be no excuses, no explanations, no regrets."</i>
+<i>"Life is a gift. Never forget to enjoy and bask in every moment you are in."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
