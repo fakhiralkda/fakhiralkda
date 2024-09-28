@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear, uncertainty, and discomfort are your compasses toward growth."</i>
+<i>"Make failure your teacher, not your undertaker.  "</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
