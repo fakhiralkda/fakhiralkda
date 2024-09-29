@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry."</i>
+<i>"Out of your vulnerabilities will come your strength."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
