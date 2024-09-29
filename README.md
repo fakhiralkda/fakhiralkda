@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To forget the whole world is easy; to make the whole world forget you is hard."</i>
+<i>"Everything has its beauty, but not everyone sees it. "</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
