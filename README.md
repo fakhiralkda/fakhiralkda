@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence comes not from always being right but not fearing to be wrong."</i>
+<i>"New opinions are always suspected, and usually opposed, without any other reason but because they are not common."</i>
 <br>
-<b>- Unknown</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
