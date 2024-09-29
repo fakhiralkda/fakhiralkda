@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is the key to success; each mistake teaches us something."</i>
+<i>"When you make a choice, you change the future."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
