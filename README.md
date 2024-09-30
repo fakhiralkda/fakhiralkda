@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you."</i>
+<i>"Do not look for a sanctuary in anyone except your self."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
