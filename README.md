@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to predict the future is to create it."</i>
+<i>"Peace of mind is that mental condition in which you have accepted the worst."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
