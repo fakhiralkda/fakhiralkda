@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not look for a sanctuary in anyone except your self."</i>
+<i>"If I can pay the bills, I'm happy."</i>
 <br>
-<b>- Buddha</b>
+<b>- Morgan Wootten</b>
 </blockquote>
 </p>
 
