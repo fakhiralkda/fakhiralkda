@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Gratitude is the fairest blossom which springs from the soul."</i>
+<i>"Art is the signature of civilizations. "</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
