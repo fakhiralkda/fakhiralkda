@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The grass is greener where you water it."</i>
+<i>"Gratitude is the fairest blossom which springs from the soul."</i>
 <br>
-<b>- Neil Barringham</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
