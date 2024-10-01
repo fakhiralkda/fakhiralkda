@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If life were predictable it would cease to be life, and be without flavor."</i>
+<i>"The grass is greener where you water it."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Neil Barringham</b>
 </blockquote>
 </p>
 
