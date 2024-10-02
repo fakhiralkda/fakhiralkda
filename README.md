@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no limit to the amount of good you can do if you don't care who gets the credit."</i>
+<i>"Nothing brings down walls as surely as acceptance."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
