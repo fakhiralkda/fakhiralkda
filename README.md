@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throughout this life, you can never be certain of living long enough to take another breath."</i>
+<i>"Those who are easily shocked should be shocked more often."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
