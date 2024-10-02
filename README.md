@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wealth consists not in having great possessions, but in having few wants."</i>
+<i>"The goal of an artist is to create the definitive work that cannot be surpassed."</i>
 <br>
-<b>- Epictetus</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
