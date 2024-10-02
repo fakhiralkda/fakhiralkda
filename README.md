@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing brings down walls as surely as acceptance."</i>
+<i>"Some people find fault like there is a reward for it.  "</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
