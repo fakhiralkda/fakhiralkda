@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is the offspring of silence and meditation."</i>
+<i>"Everything that irritates us about others."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
