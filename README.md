@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one."</i>
+<i>"Always be a first rate version of yourself and not a second rate version of someone else."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
