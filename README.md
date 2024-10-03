@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter what happens, always be yourself."</i>
+<i>"Whenever you do a thing, act as if all the world were watching."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
