@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time."</i>
+<i>"I am who I am today because of the choices I made yesterday."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
