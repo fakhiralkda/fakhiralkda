@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am who I am today because of the choices I made yesterday."</i>
+<i>"The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. "</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Charles Swindoll</b>
 </blockquote>
 </p>
 
