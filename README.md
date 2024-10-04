@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to find yourself is to lose yourself in the service of others."</i>
+<i>"He who possesses most must be most afraid of loss."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
