@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never confuse a single defeat with a final defeat."</i>
+<i>"I alone cannot change the world, but I can cast a stone across the waters to create many ripples."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
