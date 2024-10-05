@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It always seems impossible until it's done."</i>
+<i>"Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
