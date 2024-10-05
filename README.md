@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can know only that we know nothing. And that is the highest degree of human wisdom."</i>
+<i>"To raise your consciousness, surround yourself with people of higher consciousness."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
