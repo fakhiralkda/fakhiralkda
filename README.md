@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hope is not a strategy. Luck is not a factor. Fear is not an option."</i>
+<i>"Empty your mind, be formless, shapeless, like water."</i>
 <br>
-<b>- James Cameron</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
