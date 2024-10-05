@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go confidently in the direction of your dreams. Live the life you've imagined."</i>
+<i>"As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
