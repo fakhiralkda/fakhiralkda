@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hardly anybody recognizes the most significant moments of their life at the time they happen."</i>
+<i>"Change will not come if we wait for some other person, or if we wait for some other time."</i>
 <br>
-<b>- W.P. Kinsella</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
