@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just get out and do it. You will be very, very glad that you did."</i>
+<i>"Today will never happen again. Don't waste it with a false start or no start at all."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
