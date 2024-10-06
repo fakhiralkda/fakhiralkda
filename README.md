@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will have bad times, but they will always wake you up to the stuff you weren't paying attention to."</i>
+<i>"Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
