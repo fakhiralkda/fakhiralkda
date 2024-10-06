@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today will never happen again. Don't waste it with a false start or no start at all."</i>
+<i>"You live by what you thrill to, and there's the end of it."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
