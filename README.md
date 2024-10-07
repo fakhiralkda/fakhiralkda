@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To perceive is to suffer."</i>
+<i>"Nature is pleased with simplicity. And nature is no dummy."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
