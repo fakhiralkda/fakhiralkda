@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not enough to win a war; it is more important to organize the peace."</i>
+<i>"Things do not have meaning. We assign meaning to everything."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
