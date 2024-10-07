@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be grateful for what you have now, and nothing should be taken for granted."</i>
+<i>"The world is changed by your example, not by your opinion."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
