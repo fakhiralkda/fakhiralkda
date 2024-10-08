@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creativity is the greatest rebellion in existence."</i>
+<i>"He who fails to plan, plans to fail."</i>
 <br>
-<b>- Osho</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
