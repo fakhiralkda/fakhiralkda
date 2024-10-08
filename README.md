@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not tell the truth about yourself you cannot tell it about other people."</i>
+<i>"Art is to console those who are broken by life."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
