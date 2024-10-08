@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't break your ropes while you're alive, do you think ghosts will do it after?"</i>
+<i>"No matter how qualified or deserving we are, we will never reach a better life until we can imagine it for ourselves and allow ourselves to have it."</i>
 <br>
-<b>- Kabir</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
