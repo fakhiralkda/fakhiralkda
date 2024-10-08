@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who fails to plan, plans to fail."</i>
+<i>"Life without love is like a tree without blossoms or fruit."</i>
 <br>
-<b>- Unknown</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
