@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Management is doing things right; leadership is doing the right things."</i>
+<i>"Only in the agony of parting do we look into the depths of love."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
