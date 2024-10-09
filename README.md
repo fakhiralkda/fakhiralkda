@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die."</i>
+<i>"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
