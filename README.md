@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man's character is his fate."</i>
+<i>"Life is what you make it. Always has been, always will be."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
