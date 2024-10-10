@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only in the agony of parting do we look into the depths of love."</i>
+<i>"What people need and what they want may be very different."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
