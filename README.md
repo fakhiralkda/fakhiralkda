@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Choose a job you love, and you will never have to work a day in your life. "</i>
+<i>"Here and now...breathe and relax...in battle and in life."</i>
 <br>
-<b>- Confucius</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
