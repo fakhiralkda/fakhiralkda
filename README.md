@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What people need and what they want may be very different."</i>
+<i>"Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
