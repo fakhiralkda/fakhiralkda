@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always forgive your enemies - nothing annoys them so much. "</i>
+<i>"Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
