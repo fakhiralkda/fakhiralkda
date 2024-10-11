@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Here and now...breathe and relax...in battle and in life."</i>
+<i>"Love is not about possession. Love is about appreciation."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
