@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's necessary to get the losers out of your life if you want to live your dream."</i>
+<i>"Never to suffer would never to have been blessed."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
