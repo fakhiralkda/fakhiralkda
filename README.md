@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conflict cannot survive without your participation. "</i>
+<i>"It's necessary to get the losers out of your life if you want to live your dream."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
