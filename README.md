@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is not about possession. Love is about appreciation."</i>
+<i>"What do we live for if not to make life less difficult for each other?"</i>
 <br>
-<b>- Osho</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
