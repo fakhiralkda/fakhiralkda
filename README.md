@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things."</i>
+<i>"Don't live the same year 75 times and call it a life."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
