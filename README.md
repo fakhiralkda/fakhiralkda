@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will have bad times, but they will always wake you up to the stuff you weren't paying attention to."</i>
+<i>"People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
