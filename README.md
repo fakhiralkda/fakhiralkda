@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question."</i>
+<i>"You will have bad times, but they will always wake you up to the stuff you weren't paying attention to."</i>
 <br>
-<b>- John Tukey</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
