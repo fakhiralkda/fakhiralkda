@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people are not without problems. They're simply people who've learned to solve their problems."</i>
+<i>"Never argue with stupid people, they will drag you down to their level and then beat you with experience."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
