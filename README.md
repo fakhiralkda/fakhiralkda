@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never argue with stupid people, they will drag you down to their level and then beat you with experience."</i>
+<i>"Paths are made by walking."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
