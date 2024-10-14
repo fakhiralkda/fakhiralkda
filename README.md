@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Humans and prosperity never endure side by side for long."</i>
+<i>"One small positive thought can change your whole day."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
