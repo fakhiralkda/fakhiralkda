@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rather than love, than money, than fame, give me truth."</i>
+<i>"Your time is limited, so don't waste it living someone elses. life."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
