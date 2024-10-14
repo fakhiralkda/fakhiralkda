@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success in any endeavor depends on the degree to which it is an expression of your true self. "</i>
+<i>"The key to success is to focus our conscious mind on things we desire not things we fear. "</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
