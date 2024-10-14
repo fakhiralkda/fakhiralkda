@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whether you think you can or think you can't – you are right."</i>
+<i>"Listen to what you know instead of what you fear."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
