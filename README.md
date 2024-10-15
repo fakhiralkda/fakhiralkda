@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not why the addiction but why the pain."</i>
+<i>"You make your own luck if you stay at it long enough."</i>
 <br>
-<b>- Gabor Mate</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
