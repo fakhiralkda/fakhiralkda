@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy."</i>
+<i>"Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
