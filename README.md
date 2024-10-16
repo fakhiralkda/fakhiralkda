@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things do not have meaning. We assign meaning to everything."</i>
+<i>"Greatness lies not in being strong, but in the right use of strength."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
