@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The highest form of ignorance is when you reject something you don't know anything about. "</i>
+<i>"The only way it gets better for you is when you get better. Better is not something you wish, it's something you become."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
