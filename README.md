@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"But better die than live mechanically a life that is a repetition of repetitions."</i>
+<i>"Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
