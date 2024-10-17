@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People become attached to their burdens sometimes more than the burdens are attached to them."</i>
+<i>"A poet should be so crafty with words that he is envied even for his pains."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
