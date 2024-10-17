@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is during our darkest moments that we must focus to see the light."</i>
+<i>"If everyone is moving forward together, then success takes care of itself."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
