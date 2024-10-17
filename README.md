@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If everyone is moving forward together, then success takes care of itself."</i>
+<i>"Those who bring sunshine into the lives of others cannot keep it from themselves."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
