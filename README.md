@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live."</i>
+<i>"Zen insists that the whole trouble is just our failure to realize that there is no problem."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
