@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success and failure come and go, but don't let them define you. It's who you are that matters."</i>
+<i>"Trust your instincts: my first reaction is almost invariably the right one.  "</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
