@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Zen insists that the whole trouble is just our failure to realize that there is no problem."</i>
+<i>"It's your road, and yours alone, others may walk it with you, but no one can walk it for you."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
