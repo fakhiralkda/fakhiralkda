@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our greatest glory is not in never falling but in rising every time we fall."</i>
+<i>"The prettiest eyes have cried the most."</i>
 <br>
-<b>- Confucius</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
