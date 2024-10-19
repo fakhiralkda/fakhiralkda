@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust your instincts: my first reaction is almost invariably the right one.  "</i>
+<i>"Our greatest glory is not in never falling but in rising every time we fall."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
