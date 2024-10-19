@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The prettiest eyes have cried the most."</i>
+<i>"Waste not fresh tears over old griefs."</i>
 <br>
-<b>- Unknown</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
