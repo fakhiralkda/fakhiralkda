@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the long run, the sharpest weapon of all is a kind and gentle spirit."</i>
+<i>"There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
