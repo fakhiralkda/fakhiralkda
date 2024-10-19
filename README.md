@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people tend to become more successful because they are always thinking about their successes."</i>
+<i>"An investment in knowledge pays the best interest."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
