@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's wise to tell the truth. It's even wiser to tell it kindly."</i>
+<i>"No grand idea was ever born in a conference, but a lot of foolish ideas have died there."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
