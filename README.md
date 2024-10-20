@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let the beauty of what you love be what you do."</i>
+<i>"Every man desires to live long, but no man wishes to be old."</i>
 <br>
-<b>- Rumi</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
