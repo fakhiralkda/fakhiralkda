@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I will not walk backward in life."</i>
+<i>"We may not be able to stop evil in the world, but how we treat one another is entirely up to us."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
