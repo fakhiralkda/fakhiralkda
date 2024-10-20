@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're really truthful with yourself, it's a wonderful guidance.  "</i>
+<i>"There are few reasons for telling the truth, but for lying the number is infinite."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
