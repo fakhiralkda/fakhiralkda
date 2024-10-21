@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is in your moments of decision that your destiny is shaped."</i>
+<i>"The outer conditions of a person's life will always be found to reflect their inner beliefs."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
