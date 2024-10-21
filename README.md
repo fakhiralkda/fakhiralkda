@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The road to success is always under construction."</i>
+<i>"It is in your moments of decision that your destiny is shaped."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
