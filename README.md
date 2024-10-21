@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is and will ever remain an equation incapable of solution, but it contains certain known factors. "</i>
+<i>"I wasn't brave, I just didn't have time to be scared."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
