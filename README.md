@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is the meaning and the purpose of life, the whole aim and end of human existence."</i>
+<i>"He who knows best knows how little he knows."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
