@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great things are not accomplished by those who yield to trends and fads and popular opinion."</i>
+<i>"The thing about smart people is that they seem like crazy people to dumb people."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
