@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can avoid reality, but you cannot avoid the consequences of avoiding reality."</i>
+<i>"Give a girl the right shoes, and she can conquer the world."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Bette Midler</b>
 </blockquote>
 </p>
 
