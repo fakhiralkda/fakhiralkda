@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is during our darkest moments that we must focus to see the light."</i>
+<i>"Throw your heart over the bar and your body will follow."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
