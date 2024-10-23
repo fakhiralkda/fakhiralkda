@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even the smallest person can change the course of the future."</i>
+<i>"Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
