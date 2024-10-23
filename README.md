@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be willing to be a beginner every single morning."</i>
+<i>"It is during our darkest moments that we must focus to see the light."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
