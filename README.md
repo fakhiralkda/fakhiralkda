@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What loneliness is more lonely than distrust?"</i>
+<i>"Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
