@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing."</i>
+<i>"To seek greatness is the only righteous vengeance."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
