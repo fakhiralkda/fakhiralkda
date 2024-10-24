@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To seek greatness is the only righteous vengeance."</i>
+<i>"There is nothing like looking if you want to find something."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
