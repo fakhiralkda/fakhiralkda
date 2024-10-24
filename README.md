@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing like looking if you want to find something."</i>
+<i>"Opportunity often comes disguised in the form of misfortune or temporary defeat."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
