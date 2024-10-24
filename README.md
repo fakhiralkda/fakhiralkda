@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of change is to focus all your energy not on fighting the old, but on building the new."</i>
+<i>"Truth is exact correspondence with reality. "</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
