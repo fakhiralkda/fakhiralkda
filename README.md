@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The scariest moment is always just before you start. After that, things can only get better."</i>
+<i>"Success is going from failure to failure without losing your enthusiasm"</i>
 <br>
-<b>- Stephen King</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
