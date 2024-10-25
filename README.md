@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The measure of who we are is what we do with what we have."</i>
+<i>"Normality is a paved road: It's comfortable to walk, but no flowers grow on it."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
