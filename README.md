@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no such thing as a great talent without great willpower."</i>
+<i>"Surrender to what is. Let go of what was. Have faith in what will be."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
