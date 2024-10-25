@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives."</i>
+<i>"We forge the chains we wear in life."</i>
 <br>
-<b>- Betty White</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
