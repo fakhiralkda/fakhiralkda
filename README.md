@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Challenge yourself to find the good and beautiful thing inside of everyone."</i>
+<i>"The scariest moment is always just before you start. After that, things can only get better."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
