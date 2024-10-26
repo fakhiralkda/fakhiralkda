@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who permits himself to tell a lie once, finds it much easier to do it the second time."</i>
+<i>"We lie the loudest when we lie to ourselves."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
