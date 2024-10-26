@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where the willingness is great, the difficulties cannot be great."</i>
+<i>"Freeing oneself from words is liberation. "</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
