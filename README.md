@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich."</i>
+<i>"Failure is the key to success; each mistake teaches us something."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
