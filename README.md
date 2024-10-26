@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some."</i>
+<i>"The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
