@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don´t hesitate or allow yourself to make excuses. Just get out and do it."</i>
+<i>"Greatness lies not in being strong, but in the right use of strength."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
