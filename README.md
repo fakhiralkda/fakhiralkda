@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Greatness lies not in being strong, but in the right use of strength."</i>
+<i>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
