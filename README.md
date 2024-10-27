@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul."</i>
+<i>"Any fool can paint a picture, but it takes a wise man to be able to sell it."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
