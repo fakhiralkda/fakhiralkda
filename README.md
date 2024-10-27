@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to."</i>
+<i>"Don´t hesitate or allow yourself to make excuses. Just get out and do it."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
