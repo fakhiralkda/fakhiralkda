@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Art is the signature of civilizations. "</i>
+<i>"It takes a minute to have a crush on someone, an hour to like someone, and a day to love someone... but it takes a lifetime to forget someone."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
