@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great ones are willing to get burned time and again as they sharpen their swords in the fire."</i>
+<i>"Each day provides it's own gifts."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
