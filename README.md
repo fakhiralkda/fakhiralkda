@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Generosity is giving more than you can, and pride is taking less than you need."</i>
+<i>"It is in your moments of decision that your destiny is shaped."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
