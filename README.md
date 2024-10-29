@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make no small plans for they have no power to stir the soul."</i>
+<i>"Imagination is the beginning of creation."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
