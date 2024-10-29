@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know your gifts and share them."</i>
+<i>"Disobedience is the true foundation of liberty. The obedient must be slaves."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
