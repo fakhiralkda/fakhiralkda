@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is the beginning of creation."</i>
+<i>"Not until we are lost do we begin to understand ourselves."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
