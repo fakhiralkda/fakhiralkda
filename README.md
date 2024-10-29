@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"High thoughts must have high language."</i>
+<i>"Know your gifts and share them."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
