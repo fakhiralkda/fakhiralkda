@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your dream has to be bigger than your fear."</i>
+<i>"If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
