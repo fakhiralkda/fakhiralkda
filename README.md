@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return."</i>
+<i>"He who possesses most must be most afraid of loss."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
