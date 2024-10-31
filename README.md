@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The essence of the Way is detachment."</i>
+<i>"High thoughts must have high language."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
