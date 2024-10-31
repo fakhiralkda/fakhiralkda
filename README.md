@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is in changing that we find purpose."</i>
+<i>"Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
