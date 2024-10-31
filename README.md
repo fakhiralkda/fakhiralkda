@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to find yourself is to lose yourself in the service of others."</i>
+<i>"Life is what happens to you while you're busy making other plans."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
