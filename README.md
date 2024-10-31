@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"High thoughts must have high language."</i>
+<i>"Light a candle instead of cursing the darkness."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
