@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is what happens to you while you're busy making other plans."</i>
+<i>"Plants grow weak without wind."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
