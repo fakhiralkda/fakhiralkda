@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be as fluid as water, do not give your enemies anything solid to attack."</i>
+<i>"Those who know, do. Those that understand, teach."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
