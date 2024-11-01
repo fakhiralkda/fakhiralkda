@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done."</i>
+<i>"Wheels of justice grind slow but grind fine."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
