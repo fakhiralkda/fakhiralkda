@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The heart wants what it wants - or else it does not care."</i>
+<i>"You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
