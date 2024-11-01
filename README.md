@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genius is patience."</i>
+<i>"Attitude, not aptitude, determines altitude.  "</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
