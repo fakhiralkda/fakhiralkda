@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People inspire you, or they drain you. Pick them wisely."</i>
+<i>"A single act of kindness throws out roots in all directions, and the roots spring up and make new trees."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
