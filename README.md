@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can see through others only when we can see through ourselves."</i>
+<i>"The most important things are the hardest to say."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
