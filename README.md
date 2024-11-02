@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important things are the hardest to say."</i>
+<i>"Life is a long lesson in humility. "</i>
 <br>
-<b>- Stephen King</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
