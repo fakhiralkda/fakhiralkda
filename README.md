@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams are the touchstones of our characters."</i>
+<i>"We can see through others only when we can see through ourselves."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
