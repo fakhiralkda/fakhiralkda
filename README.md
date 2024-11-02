@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have a brain and mind of your own. Use it, and reach your own decisions."</i>
+<i>"Dreams are the touchstones of our characters."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
