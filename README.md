@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may delay, but time will not."</i>
+<i>"I have lost friends, some by death...others by sheer inability to cross the street."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
