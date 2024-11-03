@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless."</i>
+<i>"You may delay, but time will not."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
