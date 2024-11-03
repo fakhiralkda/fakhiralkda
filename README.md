@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not tell the truth about yourself you cannot tell it about other people."</i>
+<i>"The only man who never makes mistakes is the man who never does anything."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
