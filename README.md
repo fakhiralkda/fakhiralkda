@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have lost friends, some by death...others by sheer inability to cross the street."</i>
+<i>"Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
