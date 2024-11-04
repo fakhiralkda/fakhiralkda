@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  "</i>
+<i>"Take away love and our earth is a tomb."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Robert Browning</b>
 </blockquote>
 </p>
 
