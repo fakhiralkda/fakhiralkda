@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If anything is worth doing, do it with all your heart."</i>
+<i>"Fear is what stops you. Courage is what keeps you going."</i>
 <br>
-<b>- Buddha</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
