@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way to 'find out if it will work out' is to do it."</i>
+<i>"Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
