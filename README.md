@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are not one person, but three: The one you think you are; The one others think you are; The one you really are."</i>
+<i>"The only way out is through."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
