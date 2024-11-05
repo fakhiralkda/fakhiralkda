@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge is learning something everyday. Wisdom is letting go of something everyday."</i>
+<i>"Smile, breathe and go slowly."</i>
 <br>
-<b>- Unknown</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
