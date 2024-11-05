@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that is made beautiful and fair and lovely is made for the eye of one who sees."</i>
+<i>"You are not one person, but three: The one you think you are; The one others think you are; The one you really are."</i>
 <br>
-<b>- Rumi</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
