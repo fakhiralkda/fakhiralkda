@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The goal is not to show how great you are to others, but how vulnerable you are to yourself."</i>
+<i>"Boldness makes even the smallest animal dangerous."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
