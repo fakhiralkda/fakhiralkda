@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Boldness makes even the smallest animal dangerous."</i>
+<i>"Knowledge is learning something everyday. Wisdom is letting go of something everyday."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
