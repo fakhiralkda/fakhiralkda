@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's easier to go down a hill than up it but the view is much better at the top."</i>
+<i>"Life and death are of supreme importance. Time swiftly passes by and opportunity is lost."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
