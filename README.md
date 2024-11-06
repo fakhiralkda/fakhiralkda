@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life and death are of supreme importance. Time swiftly passes by and opportunity is lost."</i>
+<i>"Just living is not enough... one must have sunshine, freedom, and a little flower. "</i>
 <br>
-<b>- Dogen</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
