@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated."</i>
+<i>"How many times do you have to get hit over the head until you figure out who's hitting you?"</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
