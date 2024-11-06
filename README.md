@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just living is not enough... one must have sunshine, freedom, and a little flower. "</i>
+<i>"When angry count to ten before you speak. If very angry, count to one hundred."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
