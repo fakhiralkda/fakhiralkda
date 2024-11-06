@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference."</i>
+<i>"We must not sit down and wait for miracles. Up and be going!"</i>
 <br>
-<b>- Robert Frost</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
