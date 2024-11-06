@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you let your head get too big, it'll break your neck."</i>
+<i>"Learn the rules like a pro, so you can break them like an artist."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
