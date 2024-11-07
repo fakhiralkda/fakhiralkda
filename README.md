@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Maybe you are searching among the branches, for what only appears in the roots."</i>
+<i>"I know of only one duty, and that is to love."</i>
 <br>
-<b>- Rumi</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
