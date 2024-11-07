@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is liking yourself, liking what you do, and liking how you do it."</i>
+<i>"We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Gabor Mate</b>
 </blockquote>
 </p>
 
