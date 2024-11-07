@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's no coming to consciousness without pain"</i>
+<i>"We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
