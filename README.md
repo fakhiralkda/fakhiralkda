@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn the rules like a pro, so you can break them like an artist."</i>
+<i>"Life is a long lesson in humility. "</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
