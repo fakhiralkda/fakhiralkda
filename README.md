@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean."</i>
+<i>"There's no coming to consciousness without pain"</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
