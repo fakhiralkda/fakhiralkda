@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything great that has ever happened to humanity has begun as a single thought in someone's mind."</i>
+<i>"Let the beauty of what you love be what you do."</i>
 <br>
-<b>- Yanni</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
