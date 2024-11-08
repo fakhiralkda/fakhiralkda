@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot push anyone up a ladder unless he is willing to climb a little himself."</i>
+<i>"Men are equal; it is not birth but virtue that makes the difference."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
