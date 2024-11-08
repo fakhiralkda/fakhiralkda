@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Judge your success by what you had to give up in order to get it."</i>
+<i>"A poet should be so crafty with words that he is envied even for his pains."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
