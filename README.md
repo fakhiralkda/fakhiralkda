@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the root is strong, the fruit is sweet."</i>
+<i>"Judge your success by what you had to give up in order to get it."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
