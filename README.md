@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't program yourself, life will program you."</i>
+<i>"I'd rather welcome change than cling to the past."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
