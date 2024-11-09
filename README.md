@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If fear is too strong, the genius is suppressed."</i>
+<i>"No problem can be solved from the same level of consciousness that created it."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
