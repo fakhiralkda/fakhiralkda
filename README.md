@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Turn your wounds into wisdom. "</i>
+<i>"A golden cage is still just a cage."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
