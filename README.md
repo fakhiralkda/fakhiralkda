@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Embody what you teach, and teach only what you have embodied."</i>
+<i>"The best mind-altering drug is the truth."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
