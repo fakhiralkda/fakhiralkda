@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A poet should be so crafty with words that he is envied even for his pains."</i>
+<i>"Embody what you teach, and teach only what you have embodied."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
