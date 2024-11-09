@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A golden cage is still just a cage."</i>
+<i>"Successful people are not without problems. They're simply people who've learned to solve their problems."</i>
 <br>
-<b>- Anita Krizzan</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
