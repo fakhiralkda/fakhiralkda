@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We create the world and ourselves;"</i>
+<i>"Every day may not be good, but there's something good in every day."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
