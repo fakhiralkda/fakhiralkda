@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first step is to establish that something is possible; then probability will occur."</i>
+<i>"Great things are not done by impulse, but by a series of small things brought together."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
