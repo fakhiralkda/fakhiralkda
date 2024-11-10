@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is those who concentrate on but one thing at a time who advance in this world."</i>
+<i>"If you're afraid - don't do it, - if you're doing it - don't be afraid! "</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
