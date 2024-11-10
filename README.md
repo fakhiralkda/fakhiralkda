@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage."</i>
+<i>"Respect other people's feelings. It might mean nothing to you, but it could mean everything to them."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
