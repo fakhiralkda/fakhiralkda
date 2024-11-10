@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience is not the ability to wait but the ability to keep a good attitude while waiting."</i>
+<i>"The future belongs to those who believe in the beauty of their dreams."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
