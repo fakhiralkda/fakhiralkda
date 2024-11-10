@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great things are not done by impulse, but by a series of small things brought together."</i>
+<i>"Stop being a prisoner of your past. Become the architect of your future."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
