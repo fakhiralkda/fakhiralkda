@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good entrepreneurs don't fail because they stay at it."</i>
+<i>"Do not look for approval except for the consciousness of doing your best."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
