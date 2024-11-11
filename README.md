@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes adversity is what you need to face in order to become successful."</i>
+<i>"Happiness is a quality of the soul...not a function of one's material circumstances."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
