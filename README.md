@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not look for approval except for the consciousness of doing your best."</i>
+<i>"While some of us act without thinking, too many of us think without acting."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
