@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wealth consists not in having great possessions, but in having few wants."</i>
+<i>"You have a brain and mind of your own. Use it, and reach your own decisions."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
