@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We know nothing of tomorrow, our business is to be good and happy today."</i>
+<i>"What you do today can improve all your tomorrows."</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
