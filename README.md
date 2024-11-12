@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you do today can improve all your tomorrows."</i>
+<i>"Fear is what stops you. Courage is what keeps you going."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
