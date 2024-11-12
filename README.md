@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have a brain and mind of your own. Use it, and reach your own decisions."</i>
+<i>"Never let the things you can't do stop you from doing what you can."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
