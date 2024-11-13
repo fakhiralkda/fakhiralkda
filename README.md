@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When one does not have what one wants, one must want what one has."</i>
+<i>"Most people fail in life because they major in minor things."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
