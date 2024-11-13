@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is really simple, but men insist on making it complicated. "</i>
+<i>"The way out is in."</i>
 <br>
-<b>- Confucius</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
