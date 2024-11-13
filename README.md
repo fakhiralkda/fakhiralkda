@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To bear trials with a calm mind robs misfortune of its strength and burden."</i>
+<i>"When one does not have what one wants, one must want what one has."</i>
 <br>
-<b>- Seneca</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
