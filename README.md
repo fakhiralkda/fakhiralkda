@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From morning till night, we should never rely on a single thing."</i>
+<i>"Goals are the fuel in the furnace of achievement."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
