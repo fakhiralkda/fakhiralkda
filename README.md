@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good judgment comes from experience, and experience comes from bad judgment."</i>
+<i>"The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
