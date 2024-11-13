@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can only be afraid of what you think you know."</i>
+<i>"To bear trials with a calm mind robs misfortune of its strength and burden."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
