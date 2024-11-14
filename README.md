@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything has its beauty, but not everyone sees it. "</i>
+<i>"Everything has beauty but not everyone sees it."</i>
 <br>
 <b>- Confucius</b>
 </blockquote>
