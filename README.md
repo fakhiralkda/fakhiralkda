@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done."</i>
+<i>"The greatest of empires, is the empire over one's self."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
