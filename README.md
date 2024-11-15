@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The traveler sees what he sees. The tourist sees what he has come to see."</i>
+<i>"Pleasure is always derived from something outside you, whereas joy arises from within. "</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
