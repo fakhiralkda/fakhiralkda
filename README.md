@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best fighter is never angry."</i>
+<i>"The traveler sees what he sees. The tourist sees what he has come to see."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
