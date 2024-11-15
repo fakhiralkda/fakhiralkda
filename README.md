@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be as fluid as water, do not give your enemies anything solid to attack."</i>
+<i>"Know yourself and you will win all battles."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
