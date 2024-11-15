@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Arise, slay thy enemies, enjoy a prosperous kingdom."</i>
+<i>"Everything has its beauty, but not everyone sees it. "</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
