@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. "</i>
+<i>"This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
