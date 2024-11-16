@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"While we may not be able to control all that happens to us, we can control what happens inside us."</i>
+<i>"Today will never happen again. Don't waste it with a false start or no start at all."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
