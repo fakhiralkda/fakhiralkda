@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Progress is impossible without change, and those who cannot change their minds cannot change anything."</i>
+<i>"As you think, so shall you become. "</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
