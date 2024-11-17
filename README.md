@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all faced with a series of great opportunities brilliantly disguised as impossible situations. "</i>
+<i>"Talent is luck. The important thing in life is courage."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
