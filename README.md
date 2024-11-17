@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wealth consists not in having great possessions, but in having few wants."</i>
+<i>"Whatever satisfies the soul is truth."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
