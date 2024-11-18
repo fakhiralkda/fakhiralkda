@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if you're sure you can win, be careful that you can live with what you lose."</i>
+<i>"How you think is as important as as what you think."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
