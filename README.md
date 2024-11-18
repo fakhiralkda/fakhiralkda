@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the mark of an educated mind to be able to entertain a thought without accepting it."</i>
+<i>"The first rule of business; treat others like they want to treat you."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
