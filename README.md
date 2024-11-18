@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How you think is as important as as what you think."</i>
+<i>"Charms strike the sight, but merit wins the soul."</i>
 <br>
-<b>- Unknown</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
