@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is a puzzle; no need to make sense out of it."</i>
+<i>"Reality is nothing but a collective hunch."</i>
 <br>
-<b>- Socrates</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
