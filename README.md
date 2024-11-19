@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reality is nothing but a collective hunch."</i>
+<i>"A leader leads by example, not by force."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
