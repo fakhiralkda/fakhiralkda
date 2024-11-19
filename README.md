@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We should not look back unless it is to derive useful lessons from past errors."</i>
+<i>"The greatest doer must also be a great dreamer."</i>
 <br>
-<b>- George Washington</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
