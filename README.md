@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A leader leads by example, not by force."</i>
+<i>"You can often change your circumstances by changing your attitude."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
