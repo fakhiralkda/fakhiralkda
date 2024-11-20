@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In nature there is no alienation. Everything belongs."</i>
+<i>"One of the most difficult things is not to change society - but to change yourself."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
