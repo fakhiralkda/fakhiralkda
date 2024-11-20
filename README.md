@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunities multiply as they are seized."</i>
+<i>"A day without laughter is a day wasted."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
