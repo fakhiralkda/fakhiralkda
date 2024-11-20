@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I alone cannot change the world, but I can cast a stone across the waters to create many ripples."</i>
+<i>"The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
