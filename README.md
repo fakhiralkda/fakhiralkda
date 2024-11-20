@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who hesitates is a damned fool."</i>
+<i>"In nature there is no alienation. Everything belongs."</i>
 <br>
-<b>- Mae West</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
