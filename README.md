@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the fish is caught we pay no more attention to the trap."</i>
+<i>"He who hesitates is a damned fool."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
