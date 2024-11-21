@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't get to a place that you don't believe exists."</i>
+<i>"The heart that gives, gathers."</i>
 <br>
-<b>- Unknown</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
