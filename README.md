@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Relax. Nothing is under control."</i>
+<i>"Make your stand today. On this spot. On this day."</i>
 <br>
-<b>- Adi Da Samraj</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
