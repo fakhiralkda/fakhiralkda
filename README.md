@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is a consequence and must not be a goal."</i>
+<i>"If you quit once it becomes a habit."</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
