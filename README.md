@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make your stand today. On this spot. On this day."</i>
+<i>"Success is a consequence and must not be a goal."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
