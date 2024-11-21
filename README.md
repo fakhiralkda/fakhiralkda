@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you quit once it becomes a habit."</i>
+<i>"Loyalty and devotion lead to bravery. Bravery leads to the spirit of self-sacrifice. The spirit of self-sacrifice creates trust in the power of love."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
