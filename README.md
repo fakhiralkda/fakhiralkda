@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our greatest fears lie in anticipation."</i>
+<i>"You can't get to a place that you don't believe exists."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
