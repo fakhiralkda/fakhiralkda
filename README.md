@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The heart that gives, gathers."</i>
+<i>"Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. "</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
