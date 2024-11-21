@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. "</i>
+<i>"We know nothing of tomorrow, our business is to be good and happy today."</i>
 <br>
-<b>- George Washington</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
