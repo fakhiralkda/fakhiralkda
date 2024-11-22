@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From the errors of others, a wise man corrects his own."</i>
+<i>"Life doesn't get easier or more forgiving, we get stronger and more resilient."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
