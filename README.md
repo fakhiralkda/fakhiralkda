@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything."</i>
+<i>"The people who succeed are irrationally passionate about something."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
