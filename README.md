@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life doesn't get easier or more forgiving, we get stronger and more resilient."</i>
+<i>"When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
