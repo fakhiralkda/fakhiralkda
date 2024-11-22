@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be fully alive is to feel that everything is possible."</i>
+<i>"When it comes to mastering a skill, time is the magic ingredient."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
