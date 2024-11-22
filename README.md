@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Convinced myself, I seek not to convince."</i>
+<i>"Never give up work. Work gives you meaning and purpose and life is empty without it."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
