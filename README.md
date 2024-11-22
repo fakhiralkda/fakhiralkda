@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It always seems impossible until it's done."</i>
+<i>"From the errors of others, a wise man corrects his own."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
