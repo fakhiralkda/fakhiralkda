@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. "</i>
+<i>"You have to make time, even for something as universal as staring at the stars."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
