@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust, like the soul, never returns once it is gone."</i>
+<i>"Time flies whether you are having fun or not."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
