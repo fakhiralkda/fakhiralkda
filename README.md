@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more."</i>
+<i>"Your greatest asset is your earning ability. Your greatest resource is your time."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
