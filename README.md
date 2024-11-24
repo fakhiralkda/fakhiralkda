@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your greatest asset is your earning ability. Your greatest resource is your time."</i>
+<i>"Do what you feel in your heart to be right - for you'll be criticized anyway."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
