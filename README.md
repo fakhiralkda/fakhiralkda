@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All our knowledge has its origins in our perceptions."</i>
+<i>"We run to win, not just to be in the race.  "</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
