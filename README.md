@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear is what stops you. Courage is what keeps you going."</i>
+<i>"If you can handle rejection, you'll learn to get everything you want."</i>
 <br>
-<b>- Unknown</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
