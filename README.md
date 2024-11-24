@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do it with passion, or not at all."</i>
+<i>"Fear is what stops you. Courage is what keeps you going."</i>
 <br>
-<b>- Rosa Nouchette Carey</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
