@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. "</i>
+<i>"Life is a process. We are a process. The universe is a process."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Anne Wilson Schaef</b>
 </blockquote>
 </p>
 
