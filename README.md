@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Care about what other people think and you will always be their prisoner."</i>
+<i>"It is far easier to start something than it is to finish it."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
