@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can handle rejection, you'll learn to get everything you want."</i>
+<i>"Sometimes things become possible if we want them bad enough."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
