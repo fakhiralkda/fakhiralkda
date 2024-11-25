@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who is untrue to his own cause cannot command the respect of others."</i>
+<i>"The man who does not value himself, cannot value anything or anyone."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
