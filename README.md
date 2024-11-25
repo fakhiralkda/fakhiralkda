@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes things become possible if we want them bad enough."</i>
+<i>"There is an essence of when you are fearless, you become more creative."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
