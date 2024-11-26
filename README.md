@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you look for perfection, you'll never be content."</i>
+<i>"If you want others to be happy, practice compassion. If you want to be happy, practice compassion."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
