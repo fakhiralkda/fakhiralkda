@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear of death is fear of the Unknown."</i>
+<i>"If you done it, it ain't bragging."</i>
 <br>
-<b>- Adi Da Samraj</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
