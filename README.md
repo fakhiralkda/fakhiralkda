@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not as important how we start, but how we finish."</i>
+<i>"It is in the darkness that one finds the light."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
