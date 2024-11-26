@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you done it, it ain't bragging."</i>
+<i>"If you look for perfection, you'll never be content."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
