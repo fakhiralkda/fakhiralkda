@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Character is doing what you don't want to do but know you should do."</i>
+<i>"Loving thoughts and actions are clearly beneficial for our physical and mental health."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
