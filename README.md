@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind."</i>
+<i>"The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
