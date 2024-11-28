@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be brave. Take risks. Nothing can substitute experience."</i>
+<i>"You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?"</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
