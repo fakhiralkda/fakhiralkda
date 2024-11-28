@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing like a health problem to turn up the contrast dial for the rest of life."</i>
+<i>"Progress comes to those who train and train; reliance on secret techniques will get you nowhere."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
