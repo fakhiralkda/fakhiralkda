@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Progress comes to those who train and train; reliance on secret techniques will get you nowhere."</i>
+<i>"If you can't feed a hundred people, then feed just one."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
