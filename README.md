@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Watch what you say, and whatever you say, practice it."</i>
+<i>"Nothing like a health problem to turn up the contrast dial for the rest of life."</i>
 <br>
-<b>- Soyen Shaku</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
