@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd."</i>
+<i>"Do what is right, not what is easy, nor what is popular."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
