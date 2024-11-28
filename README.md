@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You only live once, but if you do it right, once is enough."</i>
+<i>"A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd."</i>
 <br>
-<b>- Mae West</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
