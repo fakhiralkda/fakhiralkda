@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great things happen to those who don't stop believing, trying, learning, and being grateful."</i>
+<i>"If you chase two rabbits, you catch none."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
