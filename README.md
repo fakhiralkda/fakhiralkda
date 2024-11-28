@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you chase two rabbits, you catch none."</i>
+<i>"Watch what you say, and whatever you say, practice it."</i>
 <br>
-<b>- Confucius</b>
+<b>- Soyen Shaku</b>
 </blockquote>
 </p>
 
