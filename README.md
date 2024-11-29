@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What we dwell on is who we become."</i>
+<i>"Know your gifts and share them."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
