@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know your gifts and share them."</i>
+<i>"Desire for the fruits of work must never be your motive in working."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
