@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Desire for the fruits of work must never be your motive in working."</i>
+<i>"If you do not conquer self, you will be conquered by self."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
