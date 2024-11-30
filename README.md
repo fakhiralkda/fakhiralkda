@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone sees what you appear to be, few experience what you really are."</i>
+<i>"Any fool can turn a blind eye but who knows what the ostrich sees in the sand."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
