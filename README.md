@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every blessing ignored becomes a curse."</i>
+<i>"You cannot find peace avoiding life."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
