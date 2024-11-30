@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any fool can turn a blind eye but who knows what the ostrich sees in the sand."</i>
+<i>"A lot of people have gone further than they thought they could because someone else thought they could."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
