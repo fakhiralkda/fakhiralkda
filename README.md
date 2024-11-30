@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only difference between success and failure is the ability to take action."</i>
+<i>"Everyone sees what you appear to be, few experience what you really are."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
