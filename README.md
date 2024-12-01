@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you lose your desire for things that do not matter, you will be free."</i>
+<i>"True life is lived when tiny changes occur."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
