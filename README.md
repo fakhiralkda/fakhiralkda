@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the only real obstacle in your path to a fulfilling life."</i>
+<i>"Every day do something that will inch you closer to a better tomorrow."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
