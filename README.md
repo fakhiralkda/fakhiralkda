@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?"</i>
+<i>"When you lose your desire for things that do not matter, you will be free."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
