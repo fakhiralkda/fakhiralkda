@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the expression of one's values."</i>
+<i>"Magic is believing in yourself, if you can do that, you can make anything happen."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
