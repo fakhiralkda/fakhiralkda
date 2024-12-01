@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day do something that will inch you closer to a better tomorrow."</i>
+<i>"Love is the expression of one's values."</i>
 <br>
-<b>- Unknown</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
