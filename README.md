@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Show me a hero, and I'll write you a tragedy."</i>
+<i>"Time doesn't heal emotional pain, you need to learn how to let go."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
