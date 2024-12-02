@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The important thing is not what one is born with but what use one makes of that equipment."</i>
+<i>"We are all like the bright moon, we still have our darker side.  "</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
