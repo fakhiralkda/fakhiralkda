@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We suffer more often in imagination than in reality.  "</i>
+<i>"All problems are illusions of the mind."</i>
 <br>
-<b>- Seneca</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
