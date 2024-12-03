@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents."</i>
+<i>"Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Charles Spurgeon</b>
 </blockquote>
 </p>
 
