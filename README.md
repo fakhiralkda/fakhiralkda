@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we think about our strengths, we are strong. When we think about our weaknesses, we are weak."</i>
+<i>"True knowledge exists in knowing that you know nothing."</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
