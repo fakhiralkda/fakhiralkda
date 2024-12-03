@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Teachers open the door. You enter by yourself. "</i>
+<i>"The successful warrior is the average man, with laser-like focus."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
