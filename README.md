@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The successful warrior is the average man, with laser-like focus."</i>
+<i>"The man who asks a question is a fool for a minute, the man who does not ask is a fool for life."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
