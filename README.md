@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"None but ourselves can free our minds."</i>
+<i>"Do you have the patience to wait until your mud settles and the water is clear?"</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
