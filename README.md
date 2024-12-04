@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do you have the patience to wait until your mud settles and the water is clear?"</i>
+<i>"Intense love does not measure, it just gives."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
