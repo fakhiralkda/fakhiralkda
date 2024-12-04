@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed."</i>
+<i>"A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
