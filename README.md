@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When one does not have what one wants, one must want what one has."</i>
+<i>"Sometimes you have to lose all you have to find out who you truly are."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
