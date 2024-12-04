@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge."</i>
+<i>"When one does not have what one wants, one must want what one has."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
