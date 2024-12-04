@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd."</i>
+<i>"The destiny of man is in his own soul. "</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
