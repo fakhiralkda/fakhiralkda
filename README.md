@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people dabble their way through life, never deciding to master anything in particular."</i>
+<i>"Children are our greatest natural resource."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
