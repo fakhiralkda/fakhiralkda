@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunity is missed by most people because it is dressed in overalls and looks like work."</i>
+<i>"Without education, we are in a horrible and deadly danger of taking educated people seriously."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
