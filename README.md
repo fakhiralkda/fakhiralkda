@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Children are our greatest natural resource."</i>
+<i>"Opportunity is missed by most people because it is dressed in overalls and looks like work."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
