@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The price of inaction is far greater than the cost of making a mistake."</i>
+<i>"Passion is energy. Feel the power that comes from focusing on what excites you. "</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
