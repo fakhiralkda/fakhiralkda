@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Write to help yourself, publish to help others."</i>
+<i>"Most people dabble their way through life, never deciding to master anything in particular."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
