@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anything becomes interesting if you look at it long enough.."</i>
+<i>"At the center of your being you have the answer; you know who you are and you know what you want."</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
