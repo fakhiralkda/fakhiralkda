@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way out is in."</i>
+<i>"If you do what you've always done, you'll get what you've always gotten."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
