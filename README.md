@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any idea, plan, or purpose may be placed in the mind through repetition of thought."</i>
+<i>"You already have every characteristic necessary for success if you recognize, claim, develop and use them."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
