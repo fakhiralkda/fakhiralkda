@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future will be shaped by those willing to commit their minds and their bodies to the task."</i>
+<i>"Any idea, plan, or purpose may be placed in the mind through repetition of thought."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
