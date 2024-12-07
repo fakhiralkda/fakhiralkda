@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is filled with secrets. You can't learn them all at once."</i>
+<i>"From the errors of others, a wise man corrects his own."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
