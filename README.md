@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How many times do you have to get hit over the head until you figure out who's hitting you?"</i>
+<i>"The happiest people in the world are those who feel absolutely terrific about themselves."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
