@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life would be tragic if it weren't funny."</i>
+<i>"Human beings believe just as they breathe - in order to survive."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
