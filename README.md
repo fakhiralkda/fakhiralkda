@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The happiest people in the world are those who feel absolutely terrific about themselves."</i>
+<i>"Giving is living. If you stop wanting to give, there's nothing more to live for."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
