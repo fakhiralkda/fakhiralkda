@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From the errors of others, a wise man corrects his own."</i>
+<i>"Failure is a prerequisite for great success. If you want success faster, double your rate of failure."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
