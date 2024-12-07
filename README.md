@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is a prerequisite for great success. If you want success faster, double your rate of failure."</i>
+<i>"Our joy does not have to be based on our circumstances."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
