@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We need never be ashamed of our tears."</i>
+<i>"Walk slowly but never walk backward."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
