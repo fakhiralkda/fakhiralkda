@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way out is in."</i>
+<i>"We need never be ashamed of our tears."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
