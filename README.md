@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What we know is a drop, what we don't know is an ocean. "</i>
+<i>"The quality of your commitments will determine the course of your life."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
