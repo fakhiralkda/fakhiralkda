@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not use life to give life to death. Do not use death to bring death to life."</i>
+<i>"It is hard to fail, but it is worse never to have tried to succeed."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
