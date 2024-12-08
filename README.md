@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The Truth is realized in an instant; the Act is practiced step by step."</i>
+<i>"Night is a more quiet time to work. It aids thought."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
