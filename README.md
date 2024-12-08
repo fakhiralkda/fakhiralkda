@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you reach the top of the mountain, keep climbing. "</i>
+<i>"Fools resist. The wise embrace."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
