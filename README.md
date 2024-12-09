@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is simply what our feelings do to us."</i>
+<i>"All you need is the plan, the road map, and the courage to press on to your destination."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
