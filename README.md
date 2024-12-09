@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People who avoid failure also avoid success."</i>
+<i>"Life is 10% what happens to you and 90% how you react to it. "</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Charles Swindoll</b>
 </blockquote>
 </p>
 
