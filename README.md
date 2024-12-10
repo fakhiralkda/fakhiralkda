@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only thing we have to fear is fear itself."</i>
+<i>"Don't be afraid to stand for what you believe in, even if that means standing alone."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
