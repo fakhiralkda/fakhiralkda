@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your home is where your thoughts find peace."</i>
+<i>"The hardest arithmetic to master is that which enables us to count our blessings."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
