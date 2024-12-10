@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Invisible things are the only realities."</i>
+<i>"You are never too old to set another goal or to dream a new dream."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
