@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest weariness comes from work not done."</i>
+<i>"The important thing is not to stop questioning. Curiosity has its own reason for existing."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
