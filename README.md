@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Children are our greatest natural resource."</i>
+<i>"Best be yourself, imperial, plain, and true."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Robert Browning</b>
 </blockquote>
 </p>
 
