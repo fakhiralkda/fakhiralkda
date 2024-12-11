@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The important thing is not to stop questioning. Curiosity has its own reason for existing."</i>
+<i>"Experience is a comb which nature gives us when we are bald. "</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
