@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Experience is a comb which nature gives us when we are bald. "</i>
+<i>"You must welcome change as the rule but not as your ruler. "</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
