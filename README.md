@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What would you do if you weren't afraid?"</i>
+<i>"A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
