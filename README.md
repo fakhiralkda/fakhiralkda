@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. "</i>
+<i>"It is only depth of character that determines the profundity with which we face life."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
