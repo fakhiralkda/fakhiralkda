@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be confident, not certain."</i>
+<i>"Rather than love, than money, than fame, give me truth."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
