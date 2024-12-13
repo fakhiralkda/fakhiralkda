@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot have a positive life and a negative mind."</i>
+<i>"Be confident, not certain."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
