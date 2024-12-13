@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing more truly artistic than to love people."</i>
+<i>"Not doing it is certainly the best way to not getting it.  "</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
