@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not doing it is certainly the best way to not getting it.  "</i>
+<i>"Identify your problems, but give your power and energy to solutions."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
