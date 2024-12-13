@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Quitter never wins - and - a Winner never quits."</i>
+<i>"It isn't what you do, but how you do it."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
