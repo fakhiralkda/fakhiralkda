@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Identify your problems, but give your power and energy to solutions."</i>
+<i>"A zen master's life is one continuous mistake."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
