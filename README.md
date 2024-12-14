@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control."</i>
+<i>"There is a difference between giving directions and giving direction."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
