@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't settle, and don't struggle."</i>
+<i>"Knowing is not enough, we must apply. Willing is not enough, we must do.  "</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
