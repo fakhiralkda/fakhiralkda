@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creativity is the greatest rebellion in existence."</i>
+<i>"Walking with a friend in the dark is better than walking alone in the light."</i>
 <br>
-<b>- Osho</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
