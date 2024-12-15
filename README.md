@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Walking with a friend in the dark is better than walking alone in the light."</i>
+<i>"I will not walk backward in life."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
