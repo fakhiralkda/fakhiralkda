@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day do something that will inch you closer to a better tomorrow."</i>
+<i>"It takes a very long time to become young."</i>
 <br>
-<b>- Unknown</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
