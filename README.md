@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It takes a very long time to become young."</i>
+<i>"Don't settle, and don't struggle."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
