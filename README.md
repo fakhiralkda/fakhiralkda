@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Inner peace is when you realize that, in the end, nothing matters."</i>
+<i>"Do you want to know who you are? Don't ask. Act! Action will delineate and define you."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
