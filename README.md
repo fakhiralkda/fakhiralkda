@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your face always toward the sunshine -  shadows will fall behind you."</i>
+<i>"The opportunity of defeating the enemy is provided by the enemy himself."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
