@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way to love anything is to realize that it may be lost."</i>
+<i>"Freedom is the open window through which pours the sunlight of the human spirit and human dignity."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
