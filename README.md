@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without the rain there would be no rainbow."</i>
+<i>"The most virtuous are those who content themselves with being virtuous without seeking to appear so."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
