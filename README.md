@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you pray for rain, be prepared to deal with some mud."</i>
+<i>"Without the rain there would be no rainbow."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
