@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People who say it cannot be done should not interrupt those who are doing it."</i>
+<i>"A tiger doesn't lose sleep over the opinion of sheep."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Shahir Zag</b>
 </blockquote>
 </p>
 
