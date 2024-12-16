@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A change is brought about because ordinary people do extraordinary things."</i>
+<i>"If you pray for rain, be prepared to deal with some mud."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
