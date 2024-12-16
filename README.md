@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom is the open window through which pours the sunlight of the human spirit and human dignity."</i>
+<i>"Walk slowly but never walk backward."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
