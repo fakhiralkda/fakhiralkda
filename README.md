@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reading should be a pleasure, not a chore."</i>
+<i>"If you're afraid to die, you're afraid to live. You can't have one without the other."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
