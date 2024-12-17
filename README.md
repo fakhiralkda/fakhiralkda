@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The question isn't who is going to let me; it's who is going to stop me."</i>
+<i>"When you have to make a choice and don't make it, that is in itself a choice."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
