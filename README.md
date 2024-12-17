@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you have to make a choice and don't make it, that is in itself a choice."</i>
+<i>"Reading should be a pleasure, not a chore."</i>
 <br>
-<b>- William James</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
