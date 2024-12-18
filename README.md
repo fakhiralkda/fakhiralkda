@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our view of the world is truly shaped by what we decide to hear."</i>
+<i>"Nothing that results in human progress is achieved with unanimous consent."</i>
 <br>
-<b>- William James</b>
+<b>- Christopher Columbus</b>
 </blockquote>
 </p>
 
