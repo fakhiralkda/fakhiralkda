@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throw your heart over the fence and the rest will follow"</i>
+<i>"Quality is more important than quantity. One home run is much better than two doubles."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
