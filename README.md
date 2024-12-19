@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest value of a picture is when it forces us to notice what we never expected to see."</i>
+<i>"Insanity: doing the same thing over and over again and expecting different results."</i>
 <br>
-<b>- John Tukey</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
