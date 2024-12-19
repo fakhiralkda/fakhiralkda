@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination means nothing without doing.  "</i>
+<i>"Fear not the path of Truth for the lack of People walking on it."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
