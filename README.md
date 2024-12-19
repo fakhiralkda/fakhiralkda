@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only he who has no use for the empire is fit to be entrusted with it."</i>
+<i>"A man sooner or later discovers that he is the master-gardener of his soul, the director of his life."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
