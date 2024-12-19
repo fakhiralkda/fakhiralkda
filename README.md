@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your world is a living expression of how you are using and have used your mind."</i>
+<i>"Become the kind of leader that people would follow voluntarily, even if you had no title or position."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
