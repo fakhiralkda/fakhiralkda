@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who is untrue to his own cause cannot command the respect of others."</i>
+<i>"Your world is a living expression of how you are using and have used your mind."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
