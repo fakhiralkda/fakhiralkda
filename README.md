@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Presents are made for the pleasure of who gives them, not the merits of who receives them."</i>
+<i>"Trust is built and maintained by many small actions over time."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
