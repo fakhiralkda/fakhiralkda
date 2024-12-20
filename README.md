@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learning is a gift, even when pain is your teacher."</i>
+<i>"I believe that potential is unlimited - success depends on daring to act on dreams.   "</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
