@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is our experiences that mold us into who we are...during times of adversity our true character will show."</i>
+<i>"The hardest arithmetic to master is that which enables us to count our blessings."</i>
 <br>
-<b>- Unknown</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
