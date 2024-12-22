@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talent is luck. The important thing in life is courage."</i>
+<i>"Care about what other people think and you will always be their prisoner."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
