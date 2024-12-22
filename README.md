@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Science can flourish only in an atmosphere of free speech. "</i>
+<i>"I know of only one duty, and that is to love."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
