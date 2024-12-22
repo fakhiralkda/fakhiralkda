@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness depends on your mindset and attitude."</i>
+<i>"Take into account that great love and great achievements involve great risk."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
