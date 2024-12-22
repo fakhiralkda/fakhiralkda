@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be strong. Be confident. Be the star of your own life."</i>
+<i>"To do two things at once is to do neither."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
