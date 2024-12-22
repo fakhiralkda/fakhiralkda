@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new."</i>
+<i>"Be strong. Be confident. Be the star of your own life."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
