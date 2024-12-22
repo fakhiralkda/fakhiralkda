@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To do two things at once is to do neither."</i>
+<i>"Lost Time is never found again."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
