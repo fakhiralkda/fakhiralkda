@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always do your best. What you plant now, you will harvest later."</i>
+<i>"It's easy to be a critic, but being a doer requires effort, risk, and change.  "</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
