@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Abundance of knowledge does not teach men to be wise."</i>
+<i>"Always do your best. What you plant now, you will harvest later."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
