@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Waste no more time arguing about what a good man should be. Be one."</i>
+<i>"Of all men's miseries the bitterest is this: to know so much and to have control over nothing. "</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
