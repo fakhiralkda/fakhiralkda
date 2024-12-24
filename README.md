@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd."</i>
+<i>"The heart that gives, gathers."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
