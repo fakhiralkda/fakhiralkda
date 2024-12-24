@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is always room in your life for thinking bigger, pushing limits and imagining the impossible."</i>
+<i>"Human happiness and moral duty are inseparably connected. "</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
