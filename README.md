@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop wasting time looking at someone else's reality while doing nothing about yours."</i>
+<i>"Be curious, not judgmental."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
