@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life and death are of supreme importance. Time swiftly passes by and opportunity is lost."</i>
+<i>"Knowing yourself is the beginning of all wisdom."</i>
 <br>
-<b>- Dogen</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
