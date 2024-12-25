@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just throw away all thoughts of imaginary things, and stand firm in that which you are."</i>
+<i>"True wealth is of the heart, not of the purse."</i>
 <br>
-<b>- Kabir</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
