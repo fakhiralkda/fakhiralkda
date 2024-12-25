@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Open your mind before your mouth."</i>
+<i>"Mastering others is strength, mastering yourself is true power."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
