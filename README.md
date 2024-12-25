@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True wealth is of the heart, not of the purse."</i>
+<i>"The quicker you let go of old cheese, the sooner you find new cheese."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
