@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no secrets to success. It is the result of preparation, hard work, learning from failure."</i>
+<i>"Heal the past, live the present, dream the future."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
