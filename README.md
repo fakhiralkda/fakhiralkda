@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Shoot for the moon, because even if you miss, you'll land among the stars."</i>
+<i>"There are no secrets to success. It is the result of preparation, hard work, learning from failure."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
