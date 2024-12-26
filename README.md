@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're never too old for anything."</i>
+<i>"Keep your friends close, and your enemies closer."</i>
 <br>
-<b>- Betty White</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
