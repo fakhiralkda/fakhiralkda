@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Humans and prosperity never endure side by side for long."</i>
+<i>"Of all men's miseries the bitterest is this: to know so much and to have control over nothing. "</i>
 <br>
 <b>- Herodotus</b>
 </blockquote>
