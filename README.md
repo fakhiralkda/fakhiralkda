@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may delay, but time will not."</i>
+<i>"Failure is just information and an opportunity to change your course."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
