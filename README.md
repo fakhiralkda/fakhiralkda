@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Of all men's miseries the bitterest is this: to know so much and to have control over nothing. "</i>
+<i>"You may delay, but time will not."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
