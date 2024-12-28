@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Meditate. It won't be fun but it will surface what you need to deal with."</i>
+<i>"The man who does not value himself, cannot value anything or anyone."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
