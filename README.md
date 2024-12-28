@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A zen master's life is one continuous mistake."</i>
+<i>"Meditate. It won't be fun but it will surface what you need to deal with."</i>
 <br>
-<b>- Dogen</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
