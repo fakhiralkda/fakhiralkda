@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If it is not right, do not do it, if it is not true, do not say it."</i>
+<i>"If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
