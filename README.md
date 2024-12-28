@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the midst of movement and chaos, keep stillness inside of you."</i>
+<i>"Genius is one percent inspiration and ninety-nine percent perspiration."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
