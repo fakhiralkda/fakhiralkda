@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only place where success comes before work is in the dictionary."</i>
+<i>"I'm an optimist by choice not by stupidity."</i>
 <br>
-<b>- Vidal Sassoon</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
