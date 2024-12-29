@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no shortcuts to any place worth going."</i>
+<i>"Never trust he who trusts everyone."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
