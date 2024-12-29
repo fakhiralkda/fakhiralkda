@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never trust he who trusts everyone."</i>
+<i>"Creativity is the greatest rebellion in existence."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
