@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't wait for extraordinary opportunities. Seize common occasions and make them great."</i>
+<i>"The wise speak only of what they know."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
