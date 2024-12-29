@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is about not knowing and then doing something anyway."</i>
+<i>"There are no shortcuts to any place worth going."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
