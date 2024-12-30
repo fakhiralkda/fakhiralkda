@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's no coming to consciousness without pain"</i>
+<i>"An ounce of performance is worth pounds of promises."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
