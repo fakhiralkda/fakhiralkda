@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perpetual optimism is a force multiplier."</i>
+<i>"The first step toward getting somewhere is to decide that you are not going to stay where you are."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
