@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't climb the ladder of success with your hands in your pockets."</i>
+<i>"There's no coming to consciousness without pain"</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
