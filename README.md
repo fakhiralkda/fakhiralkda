@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never let the fear of striking out keep you from playing the game."</i>
+<i>"To seek greatness is the only righteous vengeance."</i>
 <br>
-<b>- Babe Ruth</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
