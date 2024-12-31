@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Definitions belong to the definers, not the defined."</i>
+<i>"Nothing good ever comes of violence."</i>
 <br>
-<b>- Toni Morrison</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
