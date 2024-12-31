@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature is pleased with simplicity. And nature is no dummy."</i>
+<i>"If you don't make things happen then things will happen to you."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
