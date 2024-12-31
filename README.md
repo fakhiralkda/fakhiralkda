@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best teacher is experience and not through someone's distorted point of view."</i>
+<i>"Who you are is defined by what you're willing to struggle for."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
