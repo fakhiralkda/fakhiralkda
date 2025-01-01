@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place."</i>
+<i>"What you become is far more important than what you get."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
