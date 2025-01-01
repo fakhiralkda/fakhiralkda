@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The scariest monsters are the ones that lurk within our souls."</i>
+<i>"When you repeat a mistake, it is not a mistake anymore: it is a decision."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
