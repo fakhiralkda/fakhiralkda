@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control."</i>
+<i>"The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
