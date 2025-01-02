@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not fight with pigs - you will be smeared in mud but the pig will like it."</i>
+<i>"No matter what happens in life, never lose sight of who you are."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
