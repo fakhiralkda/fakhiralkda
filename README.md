@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated."</i>
+<i>"Even the smallest person can change the course of the future."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
