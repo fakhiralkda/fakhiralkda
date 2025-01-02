@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even the smallest person can change the course of the future."</i>
+<i>"All problems are illusions of the mind."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
