@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you resist, persists."</i>
+<i>"You become stronger with every problem you face and every obstacle you overcome."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
