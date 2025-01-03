@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All you need is passion. If you have a passion for something, you'll create the talent."</i>
+<i>"We will now discuss in a little more detail the Struggle for Existence."</i>
 <br>
-<b>- Yanni</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
