@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All great truths begin as blasphemies."</i>
+<i>"Don't want anything. Then you get everything."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Seungsahn</b>
 </blockquote>
 </p>
 
