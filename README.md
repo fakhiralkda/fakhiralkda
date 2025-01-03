@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We will now discuss in a little more detail the Struggle for Existence."</i>
+<i>"In the middle of chaos lies opportunity.  "</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
