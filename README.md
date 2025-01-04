@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone you admire was once a beginner."</i>
+<i>"It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
