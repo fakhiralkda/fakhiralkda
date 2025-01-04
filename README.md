@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Till it has loved, no man or woman can become itself."</i>
+<i>"It's not what happens to you, but how you react to it that matters."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
