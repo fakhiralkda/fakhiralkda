@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never waste a minute of your precious life thinking about people you don't like."</i>
+<i>"Ability is a poor man's wealth."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
