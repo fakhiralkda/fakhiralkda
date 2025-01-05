@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less you talk about your shame, the more of it you have."</i>
+<i>"If you don't break your ropes while you're alive, do you think ghosts will do it after?"</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
