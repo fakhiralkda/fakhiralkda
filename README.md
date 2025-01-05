@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Receive without complaint, Work with fate."</i>
+<i>"Don't let the noise of others opinions drown out your inner voice."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
