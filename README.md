@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For things to change, you have to change."</i>
+<i>"Success is liking yourself, liking what you do, and liking how you do it."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
