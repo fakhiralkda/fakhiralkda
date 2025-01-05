@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is liking yourself, liking what you do, and liking how you do it."</i>
+<i>"The single biggest problem in communication is the illusion that it has taken place."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
