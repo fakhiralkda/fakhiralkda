@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make each day a new horizon."</i>
+<i>"Enthusiasm is a vital element toward the individual success of every man or woman."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
