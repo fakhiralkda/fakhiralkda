@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be the change that you want to see in the world."</i>
+<i>"Night is a more quiet time to work. It aids thought."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
