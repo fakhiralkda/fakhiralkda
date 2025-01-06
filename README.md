@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many a man has failed because he had his wishbone where his backbone should have been."</i>
+<i>"Do not use life to give life to death. Do not use death to bring death to life."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
