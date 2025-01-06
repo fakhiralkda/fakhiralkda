@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enthusiasm is a vital element toward the individual success of every man or woman."</i>
+<i>"Be the change that you want to see in the world."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
