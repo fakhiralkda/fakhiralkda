@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most wasted day of all is that on which we have not laughed."</i>
+<i>"It is not titles that honour men, but men that honour titles."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
