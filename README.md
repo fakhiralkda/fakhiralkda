@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Night is a more quiet time to work. It aids thought."</i>
+<i>"Happiness cannot be traveled to, owned, earned, worn or consumed."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
