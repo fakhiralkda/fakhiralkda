@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can not live your life just based on what everyone else thinks."</i>
+<i>"The most wasted day of all is that on which we have not laughed."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
