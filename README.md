@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Behind every beautiful thing, there's some kind of pain."</i>
+<i>"Give so much away people insist on paying you."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
