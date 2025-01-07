@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give so much away people insist on paying you."</i>
+<i>"Very little is needed to make a happy life; it is all within yourself, in your way of thinking."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
