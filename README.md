@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Very little is needed to make a happy life; it is all within yourself, in your way of thinking."</i>
+<i>"Your gift is something that you can do innately better than anything else."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
