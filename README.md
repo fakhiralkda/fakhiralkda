@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts."</i>
+<i>"The impossible can always be broken down into possibilities."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
