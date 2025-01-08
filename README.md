@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not ignore the passion that burns in you. Spend time to discover your gift."</i>
+<i>"The biggest room in the world is the room for improvement."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
