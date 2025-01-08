@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is such a rare thing, it is delighted to tell it."</i>
+<i>"Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
