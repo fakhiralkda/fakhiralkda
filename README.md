@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Much learning does not teach understanding."</i>
+<i>"How people treat you is their karma; how you react is yours. "</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
