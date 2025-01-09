@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't know, the thing to do is not to get scared, but to learn."</i>
+<i>"People who bite the hand that feeds them usually lick the boot that kicks them."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
