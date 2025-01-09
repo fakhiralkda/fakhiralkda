@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We meet ourselves time and again in a thousand disguises on the path of life."</i>
+<i>"If you love life, don't waste time, for time is what life is made up of. "</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
