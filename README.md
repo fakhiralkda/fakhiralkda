@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How people treat you is their karma; how you react is yours. "</i>
+<i>"We meet ourselves time and again in a thousand disguises on the path of life."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
