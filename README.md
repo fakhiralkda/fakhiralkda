@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Start the day with love, spend the day with love, fill the day with love and end the day with love."</i>
+<i>"Whether you think you can or think you can't – you are right."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
