@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A leader is one who knows the way, goes the way, and shows the way."</i>
+<i>"Exceptional thinkers ignore their critics and go about their business making history."</i>
 <br>
-<b>- Unknown</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
