@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you love life, don't waste time, for time is what life is made up of. "</i>
+<i>"If you don't know, the thing to do is not to get scared, but to learn."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
