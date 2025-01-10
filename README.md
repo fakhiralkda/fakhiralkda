@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things."</i>
+<i>"We can spend our whole lives escaping from the monsters of our minds."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
