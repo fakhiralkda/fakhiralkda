@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe you can and you're halfway there."</i>
+<i>"Extraordinary results happen only when you give the best you have to become the best you can be at your most important work."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
