@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Darkness is the absence of light."</i>
+<i>"You can calculate the worth of a man by the number of his enemies."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
