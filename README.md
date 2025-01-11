@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A mountain never yields to the wind no matter how strong it is."</i>
+<i>"You can only be afraid of what you think you know."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
