@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have not failed. I've just found 10,000 ways that won't work."</i>
+<i>"It is better to fail in originality than to succeed in imitation."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Herman Melville</b>
 </blockquote>
 </p>
 
