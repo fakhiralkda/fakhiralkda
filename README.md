@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality is more important than quantity. One home run is much better than two doubles."</i>
+<i>"Trying to define yourself is like trying to bite your own teeth."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
