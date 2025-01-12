@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Projecting your mind into a successful situation is the most powerful means to achieve goals.  "</i>
+<i>"Better to live until you die."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
