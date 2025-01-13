@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man's worth is no greater than his ambitions."</i>
+<i>"Older men declare war. But it is youth that must fight and die."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
