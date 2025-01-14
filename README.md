@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand."</i>
+<i>"A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
