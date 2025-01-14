@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Excellence is not a skill. It is an attitude. "</i>
+<i>"The key to immortality is first living a life worth remembering. "</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
