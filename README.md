@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise accomplish all that they want without arousing the envy or scorn of others."</i>
+<i>"The more you trust yourself, the less you compare yourself to others."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
