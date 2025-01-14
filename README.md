@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is but a product of his thoughts. What he thinks he becomes."</i>
+<i>"Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
