@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The salvation of the world lies in the human heart."</i>
+<i>"I do not seek. I find."</i>
 <br>
-<b>- Vaclav Havel</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
