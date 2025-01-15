@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I was angered, for I had no shoes. Then I met a man who had no feet. "</i>
+<i>"It doesn't matter how slow you go, as long as you don't stop."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
