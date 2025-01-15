@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Misfortune shows those who are not really friends."</i>
+<i>"Keep away from people who try to belittle your ambitions."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
