@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I do not seek. I find."</i>
+<i>"Misfortune shows those who are not really friends."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
