@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The one who boasts does so only out of a feeling of inferiority."</i>
+<i>"The salvation of the world lies in the human heart."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
