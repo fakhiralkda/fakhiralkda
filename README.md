@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have power over your mind - not outside events. Realize this, and you will find strength."</i>
+<i>"Courage is resistance to fear, mastery of fear - not absence of fear."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
