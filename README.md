@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can put lipstick on a pig. It's still a pig."</i>
+<i>"Even if you're sure you can win, be careful that you can live with what you lose."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
