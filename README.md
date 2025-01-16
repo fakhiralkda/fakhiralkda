@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life has no limitations except the ones you make."</i>
+<i>"It doesn't matter what you do, only how well you do it."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
