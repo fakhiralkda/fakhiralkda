@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever."</i>
+<i>"We are willing to believe anything other than the truth."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
