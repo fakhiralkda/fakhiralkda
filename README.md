@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life reflects your own thoughts back to you."</i>
+<i>"If you want more luck, take more chances."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
