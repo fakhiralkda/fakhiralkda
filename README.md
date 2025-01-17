@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's easier to lose than to win.  "</i>
+<i>"Words used to attract the dull of wit are not to be relied on."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
