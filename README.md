@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is resistance to fear, mastery of fear - not absence of fear."</i>
+<i>"Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
