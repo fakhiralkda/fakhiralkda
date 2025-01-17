@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words used to attract the dull of wit are not to be relied on."</i>
+<i>"Do not regret the past. Look to the future."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Soyen Shaku</b>
 </blockquote>
 </p>
 
