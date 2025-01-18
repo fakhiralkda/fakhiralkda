@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only thing we have to fear is fear itself."</i>
+<i>"You can avoid reality, but you cannot avoid the consequences of avoiding reality."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
