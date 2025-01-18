@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A friend to all is a friend to none."</i>
+<i>"The only thing we have to fear is fear itself."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
