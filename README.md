@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot teach a crab to walk straight."</i>
+<i>"Nothing has more strength than dire necessity."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
