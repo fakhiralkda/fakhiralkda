@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have a duty to maintain the light of consciousness to make sure it continues into the future."</i>
+<i>"Don't try to steer the river."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
