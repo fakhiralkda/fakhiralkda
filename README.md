@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing has more strength than dire necessity."</i>
+<i>"Not all those who wander are lost."</i>
 <br>
-<b>- Euripides</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
