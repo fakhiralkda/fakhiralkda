@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Optimism, when applied to your life, develops strength and peace within you."</i>
+<i>"We have a duty to maintain the light of consciousness to make sure it continues into the future."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
