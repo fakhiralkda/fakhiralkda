@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not all those who wander are lost."</i>
+<i>"He is not a lover who does not love forever."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
