@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never let the fear of striking out keep you from playing the game."</i>
+<i>"Life is like playing the violin in public and learning the instrument as one goes on."</i>
 <br>
-<b>- Babe Ruth</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
