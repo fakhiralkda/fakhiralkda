@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like playing the violin in public and learning the instrument as one goes on."</i>
+<i>"Your work is to discover your work and then, with all your heart, to give yourself to it."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
