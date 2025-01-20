@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know the rules well, so you can break them effectively."</i>
+<i>"It is during our darkest moments that we must focus to see the light."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
