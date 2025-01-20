@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do Something. If it works, do more of it. If it doesn't, do something else."</i>
+<i>"To improve is to change, so to be perfect is to change often."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
