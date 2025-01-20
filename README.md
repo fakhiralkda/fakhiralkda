@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good system shortens the road to the goal. "</i>
+<i>"No matter what happens, always be yourself."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
