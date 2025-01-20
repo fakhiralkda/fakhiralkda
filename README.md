@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Still your waters."</i>
+<i>"Do Something. If it works, do more of it. If it doesn't, do something else."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
