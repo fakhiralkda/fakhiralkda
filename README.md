@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Absorb what is useful, discard what is not, add what is uniquely your own."</i>
+<i>"No one can confidently say that he will still be living tomorrow."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
