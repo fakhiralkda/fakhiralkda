@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't find the time, if you don't do the work, you don't get the results."</i>
+<i>"You can easily judge the character of a man by how he treats those who can do nothing for him."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
