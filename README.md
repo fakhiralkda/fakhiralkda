@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is during our darkest moments that we must focus to see the light."</i>
+<i>"Never spend your money before you have earned it."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
