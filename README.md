@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to learn late than never."</i>
+<i>"Do all things with love."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
