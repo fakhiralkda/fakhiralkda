@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition."</i>
+<i>"It is not as important how we start, but how we finish."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
