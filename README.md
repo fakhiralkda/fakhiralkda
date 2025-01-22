@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not as important how we start, but how we finish."</i>
+<i>"Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
