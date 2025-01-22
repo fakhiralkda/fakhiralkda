@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is the art of drawing sufficient conclusions from insufficient premises."</i>
+<i>"The truth is not for all men, but for those who seek it."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
