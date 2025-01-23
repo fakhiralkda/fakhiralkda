@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Till it has loved, no man or woman can become itself."</i>
+<i>"Give out what you most want to come back."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
