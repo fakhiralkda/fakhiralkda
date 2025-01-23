@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never let the things you can't do stop you from doing what you can."</i>
+<i>"The secret of getting ahead is getting started."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
