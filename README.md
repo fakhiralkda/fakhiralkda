@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man is made by his belief. As he believes, so he is."</i>
+<i>"Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
