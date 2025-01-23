@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of getting ahead is getting started."</i>
+<i>"Till it has loved, no man or woman can become itself."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
