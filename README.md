@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give out what you most want to come back."</i>
+<i>"Don't waste time on excuses. Just get it done."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
