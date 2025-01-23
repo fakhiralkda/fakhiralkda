@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is hard to fail, but it is worse never to have tried to succeed."</i>
+<i>"Never let the things you can't do stop you from doing what you can."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
