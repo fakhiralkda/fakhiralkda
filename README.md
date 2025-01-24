@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if you persuade me, you won't persuade me."</i>
+<i>"Goodness is the only investment that never fails."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
