@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If someone betrays you once, it's their fault; if they betray you twice, it's your fault."</i>
+<i>"You can't go forward and backwards at the same time."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
