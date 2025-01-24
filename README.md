@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  "</i>
+<i>"If someone betrays you once, it's their fault; if they betray you twice, it's your fault."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
