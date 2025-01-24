@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't go forward and backwards at the same time."</i>
+<i>"Fear is your worst enemy. Risk is your best friend."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
