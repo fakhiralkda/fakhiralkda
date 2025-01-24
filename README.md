@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Goodness is the only investment that never fails."</i>
+<i>"You can avoid reality, but you cannot avoid the consequences of avoiding reality."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
