@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The trouble with the rat race is that even if you win, you're still a rat."</i>
+<i>"Every second you have on this planet is very precious and it's your responsibility that you're happy."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
