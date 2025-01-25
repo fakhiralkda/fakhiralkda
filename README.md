@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The power to make and break habits and learning how to do that is really important."</i>
+<i>"Keep away from people who try to belittle your ambitions."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
