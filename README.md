@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't explain it simply, you don't understand it well enough."</i>
+<i>"The truth is not for all men, but for those who seek it."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
