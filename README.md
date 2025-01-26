@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not everything that weighs you down is yours to carry."</i>
+<i>"You're never too old for anything."</i>
 <br>
-<b>- Unknown</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
