@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man who removes a mountain begins by carrying away small stones."</i>
+<i>"Happiness is not the absence of problems, it's the ability to deal with them."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
