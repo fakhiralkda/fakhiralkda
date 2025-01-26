@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to be irreplaceable one must always be different."</i>
+<i>"The man who removes a mountain begins by carrying away small stones."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
