@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Belief creates the actual fact."</i>
+<i>"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."</i>
 <br>
-<b>- William James</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
