@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One day, in retrospect, the years of struggle will strike you as the most beautiful."</i>
+<i>"The golden opportunity you are seeking is within yourself."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
