@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let the behavior of others destroy your inner peace."</i>
+<i>"Great things are not done by impulse, but by a series of small things brought together."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
