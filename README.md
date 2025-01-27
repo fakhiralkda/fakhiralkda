@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</i>
+<i>"A journey of a thousand miles begins with a single step."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
