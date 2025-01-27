@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The golden opportunity you are seeking is within yourself."</i>
+<i>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
