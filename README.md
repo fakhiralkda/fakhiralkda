@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I never said it would be easy, I only said it would be worth it."</i>
+<i>"You are not the drop in the ocean, but the ocean in the drop."</i>
 <br>
-<b>- Mae West</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
