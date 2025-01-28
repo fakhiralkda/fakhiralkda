@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Here is the test to find whether your mission on earth is finished. If you're alive, it isn't."</i>
+<i>"You know you are on the road to success if you would do your job and not be paid for it."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
