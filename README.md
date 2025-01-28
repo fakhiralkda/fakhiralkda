@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You know you are on the road to success if you would do your job and not be paid for it."</i>
+<i>"Success and failure come and go, but don't let them define you. It's who you are that matters."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
