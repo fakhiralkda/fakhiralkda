@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A journey of a thousand miles begins with a single step."</i>
+<i>"Sorrow is how we learn to love."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
