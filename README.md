@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  "</i>
+<i>"The wise accomplish all that they want without arousing the envy or scorn of others."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
