@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes success isn't about making the right decision, it's more about making some decision."</i>
+<i>"Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
