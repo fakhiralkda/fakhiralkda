@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is not a four letter word...but often your reaction to it is!"</i>
+<i>"If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving."</i>
 <br>
-<b>- Jeffrey Gitomer</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
