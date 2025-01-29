@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must either modify your dreams or magnify your skills."</i>
+<i>"To lose your temper is only useful once a year."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Colin R. Davis</b>
 </blockquote>
 </p>
 
