@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fastest way to change is to laugh at your own folly."</i>
+<i>"Best be yourself, imperial, plain, and true."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Robert Browning</b>
 </blockquote>
 </p>
 
