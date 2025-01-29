@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sadness is but a wall between two gardens."</i>
+<i>"You must either modify your dreams or magnify your skills."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
