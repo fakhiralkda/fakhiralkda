@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anything worth doing is worth doing slowly."</i>
+<i>"A mountain never yields to the wind no matter how strong it is."</i>
 <br>
-<b>- Mae West</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
