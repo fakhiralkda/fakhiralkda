@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peaceful is the one who expects nothing."</i>
+<i>"Anything worth doing is worth doing slowly."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
