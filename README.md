@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For fast-acting relief try slowing down."</i>
+<i>"Your mind will make you rich or poor, depending on the use you put to it."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
