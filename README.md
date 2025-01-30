@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is not having the strength to go on; it is going on when you don't have the strength."</i>
+<i>"Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
