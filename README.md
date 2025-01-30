@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving."</i>
+<i>"The only real mistake is the one from which we learn nothing. "</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
