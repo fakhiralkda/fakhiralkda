@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great loves too must be endured."</i>
+<i>"I want the fishing rod, not the fish."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
