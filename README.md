@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have the courage to follow your heart and intuition. They somehow know what you truly want to become."</i>
+<i>"Words can only have a positive effect on others if and when they are ready to listen."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
