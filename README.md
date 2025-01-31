@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you put walls up not to keep people out, but to see who cares enough to break them down."</i>
+<i>"It isn't that they can't see the solution. It is that they can't see the problem."</i>
 <br>
-<b>- Socrates</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
