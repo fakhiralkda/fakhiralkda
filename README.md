@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All you need is the plan, the road map, and the courage to press on to your destination."</i>
+<i>"The most creative act you will ever undertake is the act of creating yourself."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
