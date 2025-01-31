@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You become stronger with every problem you face and every obstacle you overcome."</i>
+<i>"The dreamers are the saviors of the worlds."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
