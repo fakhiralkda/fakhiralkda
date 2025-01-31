@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who knows best knows how little he knows."</i>
+<i>"The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
