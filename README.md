@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The dreamers are the saviors of the worlds."</i>
+<i>"Excellence is not a skill. It is an attitude. "</i>
 <br>
-<b>- James Allen</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
