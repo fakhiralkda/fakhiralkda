@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts."</i>
+<i>"Life does not get better by chance, it gets better by change."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
