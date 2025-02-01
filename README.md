@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being in a good frame of mind helps keep one in the picture of health."</i>
+<i>"Once a decision was made, I didn't worry about it afterward."</i>
 <br>
-<b>- Unknown</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
