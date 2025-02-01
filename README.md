@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with."</i>
+<i>"If you think adventure is dangerous, try routine; it is lethal."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
