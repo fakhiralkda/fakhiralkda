@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you build the guts to do something, anything, then you better save enough to face the consequences."</i>
+<i>"You purchase pain with all that joy can give and die of nothing but a rage to live."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
