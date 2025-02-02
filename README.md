@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome."</i>
+<i>"The Only Thing That Is Constant Is Change"</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
