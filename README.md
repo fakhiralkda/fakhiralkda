@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man ever steps in the same river twice, for it's not the same river and he's not the same man."</i>
+<i>"When it comes to mastering a skill, time is the magic ingredient."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
