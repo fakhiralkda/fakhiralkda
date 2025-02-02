@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wherever you are is the entry point."</i>
+<i>"The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome."</i>
 <br>
-<b>- Kabir</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
