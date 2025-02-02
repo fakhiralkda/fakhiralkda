@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Until you change how you get things done, you'll never know what works best."</i>
+<i>"If you build the guts to do something, anything, then you better save enough to face the consequences."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
