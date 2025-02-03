@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All happiness depends on courage and work."</i>
+<i>"Art is to console those who are broken by life."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
