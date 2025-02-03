@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is a puzzle; no need to make sense out of it."</i>
+<i>"Don't let the noise of others' opinions drown out your own inner voice."</i>
 <br>
-<b>- Socrates</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
