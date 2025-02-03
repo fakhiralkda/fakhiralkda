@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday."</i>
+<i>"The world is a puzzle; no need to make sense out of it."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
