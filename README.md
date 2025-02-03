@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life has more imagination than we carry in our dreams."</i>
+<i>"One must be deeply aware of the impermanence of the world."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
