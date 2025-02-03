@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Art is to console those who are broken by life."</i>
+<i>"Trust your instincts: my first reaction is almost invariably the right one.  "</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
