@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One loses many laughs by not laughing at oneself."</i>
+<i>"The people who succeed are irrationally passionate about something."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
