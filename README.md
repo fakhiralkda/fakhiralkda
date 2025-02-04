@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes adversity is what you need to face in order to become successful."</i>
+<i>"When you reach the end of your rope, tie a knot in it and hang on."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
