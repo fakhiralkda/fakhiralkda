@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your life does not get better by chance, it gets better by change."</i>
+<i>"One loses many laughs by not laughing at oneself."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
