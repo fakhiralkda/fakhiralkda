@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We live only now. Everything else is either passed or is unknown."</i>
+<i>"Don't wait for the right opportunity: create it."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
