@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we allow negative messages to fester in our head, they take on a life of their own."</i>
+<i>"Your life does not get better by chance, it gets better by change."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
