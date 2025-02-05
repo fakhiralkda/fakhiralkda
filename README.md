@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The single biggest problem in communication is the illusion that it has taken place."</i>
+<i>"We tend to live up to our expectations."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
