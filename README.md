@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Observe things as they are and don't pay attention to other people."</i>
+<i>"To handle yourself, use your head; to handle others, use your heart."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
