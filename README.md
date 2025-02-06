@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature loves to hide."</i>
+<i>"Luck is a matter of preparation meeting opportunity."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
