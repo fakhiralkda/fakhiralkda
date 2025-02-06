@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have never in my life learned anything from any man who agreed with me."</i>
+<i>"Love never keeps a man from pursuing his destiny."</i>
 <br>
-<b>- Dudley Field Malone</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
