@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we all did the things we are capable of doing, we would literally astound ourselves."</i>
+<i>"A very little key will open a very heavy door."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
