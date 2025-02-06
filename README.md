@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Luck is a matter of preparation meeting opportunity."</i>
+<i>"Love is the absence of judgment."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
