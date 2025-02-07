@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True life is lived when tiny changes occur."</i>
+<i>"The more something threatens your identity, the more you will avoid it."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
