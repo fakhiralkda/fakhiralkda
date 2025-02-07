@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you."</i>
+<i>"I skate to where the puck is going to be, not where it has been."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
