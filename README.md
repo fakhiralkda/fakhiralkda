@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more something threatens your identity, the more you will avoid it."</i>
+<i>"To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
