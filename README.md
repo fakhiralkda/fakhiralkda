@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What loneliness is more lonely than distrust?"</i>
+<i>"Although the world is full of suffering, it is also full of the overcoming of it."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
