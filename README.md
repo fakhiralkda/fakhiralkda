@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of life isn't what happens to you, but what you do with what happens to you."</i>
+<i>"Any fool can paint a picture, but it takes a wise man to be able to sell it."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
