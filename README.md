@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm an optimist by choice not by stupidity."</i>
+<i>"My sun sets to rise again."</i>
 <br>
-<b>- Yanni</b>
+<b>- Robert Browning</b>
 </blockquote>
 </p>
 
