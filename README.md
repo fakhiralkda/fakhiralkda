@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Although the world is full of suffering, it is also full of the overcoming of it."</i>
+<i>"The best teacher is experience and not through someone's distorted point of view."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
