@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My sun sets to rise again."</i>
+<i>"Peaceful is the one who expects nothing."</i>
 <br>
-<b>- Robert Browning</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
