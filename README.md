@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peaceful is the one who expects nothing."</i>
+<i>"We run to win, not just to be in the race.  "</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
