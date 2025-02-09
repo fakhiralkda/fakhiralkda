@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more we have the less we own."</i>
+<i>"Enjoy when you can, and endure when you must."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
