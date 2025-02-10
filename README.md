@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hope and fear come from feeling that we lack something; they come from a sense of poverty."</i>
+<i>"When it hurts - observe. Life is trying to teach you something."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
