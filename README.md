@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect."</i>
+<i>"A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
