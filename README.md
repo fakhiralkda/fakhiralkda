@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday."</i>
+<i>"The quality, not the longevity, of one's life is what is important."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
