@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace."</i>
+<i>"If we will be quiet and ready enough, we shall find compensation in every disappointment."</i>
 <br>
-<b>- Dogen</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
