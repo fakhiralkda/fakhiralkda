@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When it hurts - observe. Life is trying to teach you something."</i>
+<i>"Only by acceptance of the past, can you alter it."</i>
 <br>
-<b>- Anita Krizzan</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
