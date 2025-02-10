@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt."</i>
+<i>"Death is not sad; the sad thing is that most people don't really live at all."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
