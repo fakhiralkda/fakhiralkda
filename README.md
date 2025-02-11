@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In three words I can sum up everything I've learned about life: it goes on."</i>
+<i>"I can live without money, but I cannot live without love."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
