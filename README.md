@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A crisis is an opportunity riding the dangerous wind."</i>
+<i>"Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have?"</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
