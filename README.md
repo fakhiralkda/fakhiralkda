@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes."</i>
+<i>"Learn to value yourself, which means: fight for your happiness."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
