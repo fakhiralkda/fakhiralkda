@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People tend to complicate their own lives, as if living weren't already complicated enough."</i>
+<i>"It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
