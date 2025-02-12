@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest."</i>
+<i>"The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
