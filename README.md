@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great acts are made up of small deeds."</i>
+<i>"The way out is in."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
