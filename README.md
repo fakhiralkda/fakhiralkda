@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge."</i>
+<i>"Invisible things are the only realities."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
