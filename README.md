@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The joy of life comes from our encounters with new experiences."</i>
+<i>"Just throw away all thoughts of imaginary things, and stand firm in that which you are."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
