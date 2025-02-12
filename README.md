@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let your mind stop you."</i>
+<i>"Stop being tormented by everyone else's reaction to you."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
