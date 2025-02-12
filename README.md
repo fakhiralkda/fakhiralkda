@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way out is in."</i>
+<i>"The joy of life comes from our encounters with new experiences."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
