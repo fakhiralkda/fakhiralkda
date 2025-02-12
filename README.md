@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just throw away all thoughts of imaginary things, and stand firm in that which you are."</i>
+<i>"Whatever you think the world is withholding from you, you are withholding from the world."</i>
 <br>
-<b>- Kabir</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
