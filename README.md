@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it."</i>
+<i>"People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
