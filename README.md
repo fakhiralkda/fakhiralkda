@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you truly love Nature, you will find beauty everywhere. "</i>
+<i>"Most of us will do anything to avoid facing ourselves."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
