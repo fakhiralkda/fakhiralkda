@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creativity is the greatest rebellion in existence."</i>
+<i>"Invisible things are the only realities."</i>
 <br>
-<b>- Osho</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
