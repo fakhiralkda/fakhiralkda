@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Invisible things are the only realities."</i>
+<i>"Awaken. Take heed, do not squander your life."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
