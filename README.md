@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most of us will do anything to avoid facing ourselves."</i>
+<i>"Some people feel the rain. Others just get wet. "</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
