@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It matters not what someone is born, but what they grow to be."</i>
+<i>"Weeds are flowers too, once you get to know them."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
