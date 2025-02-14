@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pleasure in the job puts perfection in the work."</i>
+<i>"If you don't like something change it. If you can't change it, change your attitude about it. Don't complain."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
