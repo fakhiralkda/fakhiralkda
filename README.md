@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're really truthful with yourself, it's a wonderful guidance.  "</i>
+<i>"Every one of us is the sum total of his own thoughts."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
