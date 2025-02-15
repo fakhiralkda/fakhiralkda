@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners."</i>
+<i>"Your next step is simple. You are the first domino."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
