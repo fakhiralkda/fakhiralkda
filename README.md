@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your next step is simple. You are the first domino."</i>
+<i>"Men trust their ears less than their eyes."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
