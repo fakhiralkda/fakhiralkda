@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want peace, you won't get it with violence."</i>
+<i>"The decisions of our past are the architects of our present."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
