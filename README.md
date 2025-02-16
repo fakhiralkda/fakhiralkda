@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you need inspiration, don't do it."</i>
+<i>"Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
