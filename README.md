@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can suffer the pain of change or suffer remaining the way you are."</i>
+<i>"Confidence comes not from always being right but not fearing to be wrong."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
