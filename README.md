@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you."</i>
+<i>"All human wisdom is contained in these two words - Wait and Hope"</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
