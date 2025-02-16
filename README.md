@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence comes not from always being right but not fearing to be wrong."</i>
+<i>"When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place."</i>
 <br>
-<b>- Unknown</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
