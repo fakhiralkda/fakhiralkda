@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place."</i>
+<i>"It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
