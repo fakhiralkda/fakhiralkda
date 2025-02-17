@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One always begins to forgive a place as soon as it's left behind."</i>
+<i>"Anyone who wants to achieve a dream must stay strong, focused and steady."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
