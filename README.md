@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's more to life than being a passenger."</i>
+<i>"Not everything that weighs you down is yours to carry."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
