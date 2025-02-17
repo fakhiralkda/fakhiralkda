@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not everything that weighs you down is yours to carry."</i>
+<i>"Always focus on the front windshield and not the rear view mirror."</i>
 <br>
-<b>- Unknown</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
