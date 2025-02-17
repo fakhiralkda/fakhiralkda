@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is built sequentially. It's one thing at a time."</i>
+<i>"With the new day comes new strength and new thoughts."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
