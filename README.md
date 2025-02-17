@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed."</i>
+<i>"The greatest weariness comes from work not done."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
