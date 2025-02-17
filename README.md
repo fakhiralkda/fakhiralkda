@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always focus on the front windshield and not the rear view mirror."</i>
+<i>"An un-examined life is not worth living."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
