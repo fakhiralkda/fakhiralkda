@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone you meet is fighting a battle you know nothing about. Be kind. Always."</i>
+<i>"My instinct is always to seek out challenges as opposed to avoiding them."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
