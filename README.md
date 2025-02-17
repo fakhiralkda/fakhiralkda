@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My instinct is always to seek out challenges as opposed to avoiding them."</i>
+<i>"If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
