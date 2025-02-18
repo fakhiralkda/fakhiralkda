@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is safer to search in the maze than to remain in a cheeseless situation."</i>
+<i>"Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
