@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The river that flows in you also flows in me."</i>
+<i>"It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have."</i>
 <br>
-<b>- Kabir</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
