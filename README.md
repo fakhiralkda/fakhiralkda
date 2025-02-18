@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest weariness comes from work not done."</i>
+<i>"The most wasted day of all is that on which we have not laughed."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
