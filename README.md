@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have."</i>
+<i>"Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
