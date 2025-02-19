@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Appear weak when you are strong, and strong when you are weak."</i>
+<i>"Do you have the patience to wait until your mud settles and the water is clear?"</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
