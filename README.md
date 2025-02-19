@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving."</i>
+<i>"It is far easier to start something than it is to finish it."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
