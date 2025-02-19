@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quiet people have the loudest minds."</i>
+<i>"Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. "</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
