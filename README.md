@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An investment in knowledge pays the best interest."</i>
+<i>"I alone cannot change the world, but I can cast a stone across the waters to create many ripples."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
