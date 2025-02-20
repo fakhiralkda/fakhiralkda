@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rich people have small TVs and big libraries, and poor people have small libraries and big TVs."</i>
+<i>"Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
