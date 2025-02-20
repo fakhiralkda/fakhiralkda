@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong."</i>
+<i>"An investment in knowledge pays the best interest."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
