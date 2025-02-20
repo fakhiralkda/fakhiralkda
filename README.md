@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd."</i>
+<i>"Don't be afraid that you do not know something. Be afraid of not learning about it."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
