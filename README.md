@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience is a bitter plant, but its fruit is sweet."</i>
+<i>"A very little key will open a very heavy door."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
