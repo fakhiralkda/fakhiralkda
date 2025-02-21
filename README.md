@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future is no more uncertain than the present."</i>
+<i>"Men are disturbed not by things, but by the view which they take of them."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
