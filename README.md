@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It all depends on what you choose to believe."</i>
+<i>"Fools read fast. Geniuses reread."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
