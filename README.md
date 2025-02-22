@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Respect other people's feelings. It might mean nothing to you, but it could mean everything to them."</i>
+<i>"The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
