@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you've made a mistake, it's better just to laugh at it."</i>
+<i>"We must embrace pain and burn it as fuel for our journey."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Kenji Miyazawa</b>
 </blockquote>
 </p>
 
