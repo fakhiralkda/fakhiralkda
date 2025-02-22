@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A very little key will open a very heavy door."</i>
+<i>"Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
