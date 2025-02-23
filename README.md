@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No duty is more urgent than that of returning thanks."</i>
+<i>"Try not to become a man of success, but rather try to become a man of value."</i>
 <br>
-<b>- James Allen</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
