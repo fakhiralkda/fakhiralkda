@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't."</i>
+<i>"The older you get, the more you understand how your conscience works."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
