@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is a wisdom of the head, and there is a wisdom of the heart."</i>
+<i>"Live your life as an exclamation rather than an explanation."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
