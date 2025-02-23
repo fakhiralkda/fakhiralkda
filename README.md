@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All happiness depends on courage and work."</i>
+<i>"No duty is more urgent than that of returning thanks."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
