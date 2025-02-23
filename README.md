@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The older you get, the more you understand how your conscience works."</i>
+<i>"Passion is energy. Feel the power that comes from focusing on what excites you. "</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
