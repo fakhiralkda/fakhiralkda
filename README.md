@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each day provides it's own gifts."</i>
+<i>"All happiness depends on courage and work."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
