@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Poetry is written with tears, fiction with blood, and history with invisible ink."</i>
+<i>"We can see through others only when we can see through ourselves."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
