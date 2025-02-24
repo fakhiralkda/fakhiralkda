@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have?"</i>
+<i>"Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge."</i>
 <br>
 <b>- Eckhart Tolle</b>
 </blockquote>
