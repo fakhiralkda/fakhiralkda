@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Because a thing seems difficult for you, do not think it impossible."</i>
+<i>"Poetry is written with tears, fiction with blood, and history with invisible ink."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
