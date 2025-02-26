@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is little success where there is little laughter."</i>
+<i>"In nature there is no alienation. Everything belongs."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
