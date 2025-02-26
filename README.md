@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Aim for the moon. If you miss, you may hit a star."</i>
+<i>"The biggest room in the world is the room for improvement."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
