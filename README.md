@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you judge others, you do not define them, you define yourself."</i>
+<i>"Wisdom is the oneness of mind that guides and permeates all things."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
