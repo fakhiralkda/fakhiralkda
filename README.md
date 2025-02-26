@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't get in life what you want; you get in life what you are."</i>
+<i>"Take interest and even delight in doing the small things well."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
