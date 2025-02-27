@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only those who will risk going too far can possibly find out how far one can go."</i>
+<i>"Learn to value yourself, which means: fight for your happiness."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
