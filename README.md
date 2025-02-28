@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone must choose one of two pains: The pain of discipline or the pain of regret."</i>
+<i>"When you have a dream, you've got to grab it and never let go."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
