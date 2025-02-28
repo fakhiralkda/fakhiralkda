@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way out is through."</i>
+<i>"Make each day your masterpiece."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
