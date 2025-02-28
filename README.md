@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Showing off is the fool's idea of glory. "</i>
+<i>"Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
