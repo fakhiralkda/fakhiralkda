@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Real learning comes about when the competitive spirit has ceased."</i>
+<i>"The less you respond to negative people, the more positive your life will become."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
