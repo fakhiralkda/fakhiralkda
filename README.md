@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you have a dream, you've got to grab it and never let go."</i>
+<i>"No snowflake ever falls in the wrong place."</i>
 <br>
-<b>- Carol Burnett</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
