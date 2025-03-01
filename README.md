@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No snowflake ever falls in the wrong place."</i>
+<i>"I try more and more to be myself, caring relatively little whether people approve or disapprove."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
