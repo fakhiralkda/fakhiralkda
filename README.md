@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I try more and more to be myself, caring relatively little whether people approve or disapprove."</i>
+<i>"Death is not an ending. It is a transformation."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
