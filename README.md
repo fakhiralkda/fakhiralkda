@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less you respond to negative people, the more positive your life will become."</i>
+<i>"The road to success and the road to failure are almost exactly the same."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Colin R. Davis</b>
 </blockquote>
 </p>
 
