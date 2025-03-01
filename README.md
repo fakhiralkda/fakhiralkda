@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One loyal friend is worth ten thousand relatives."</i>
+<i>"If you change the way you look at things, the things you look at change. "</i>
 <br>
-<b>- Euripides</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
