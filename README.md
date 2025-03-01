@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who violates another's honor loses his own."</i>
+<i>"Real learning comes about when the competitive spirit has ceased."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
