@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The two most important days in your life are the day you are born and the day you find out why."</i>
+<i>"You are the only problem you will ever have and you are the only solution."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
