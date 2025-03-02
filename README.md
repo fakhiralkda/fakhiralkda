@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truly rich men are the ones who have health, loved ones and a work they love."</i>
+<i>"The spirit is beyond destruction. No one can bring an end to spirit which is everlasting."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
