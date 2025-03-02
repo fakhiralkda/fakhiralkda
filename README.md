@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every blessing ignored becomes a curse."</i>
+<i>"Presents are made for the pleasure of who gives them, not the merits of who receives them."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
