@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The spirit is beyond destruction. No one can bring an end to spirit which is everlasting."</i>
+<i>"Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
