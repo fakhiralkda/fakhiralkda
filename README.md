@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who hesitates is a damned fool."</i>
+<i>"A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided."</i>
 <br>
-<b>- Mae West</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
