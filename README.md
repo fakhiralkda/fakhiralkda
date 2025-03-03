@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness."</i>
+<i>"Not engaging in ignorance is wisdom. "</i>
 <br>
-<b>- Unknown</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
