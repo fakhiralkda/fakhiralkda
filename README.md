@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The spirit is beyond destruction. No one can bring an end to spirit which is everlasting."</i>
+<i>"He who hesitates is a damned fool."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
