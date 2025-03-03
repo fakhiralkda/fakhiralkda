@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every experience is a lesson. Every loss is a gain."</i>
+<i>"No man becomes rich unless he enriches others."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
