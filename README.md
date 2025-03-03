@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man becomes rich unless he enriches others."</i>
+<i>"Life moves on and so should we."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
