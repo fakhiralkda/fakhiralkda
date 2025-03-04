@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Death and life have their determined appointments; riches and honors depend upon heaven. "</i>
+<i>"A little impatience will spoil great plans."</i>
 <br>
-<b>- Confucius</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
