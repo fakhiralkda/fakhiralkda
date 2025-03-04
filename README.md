@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Discipline is the bridge between goals and accomplishment."</i>
+<i>"Even when a friend does something you do not like, he continues to be your friend. "</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
