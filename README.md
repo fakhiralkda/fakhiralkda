@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How much pain they have cost us, the evils which have never happened."</i>
+<i>"Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
