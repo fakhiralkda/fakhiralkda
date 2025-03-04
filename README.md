@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live in the sunshine, swim the sea, drink the wild air."</i>
+<i>"Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
