@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now."</i>
+<i>"Live in the sunshine, swim the sea, drink the wild air."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
