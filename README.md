@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is."</i>
+<i>"Discipline is the bridge between goals and accomplishment."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
