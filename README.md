@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The Truth is realized in an instant; the Act is practiced step by step."</i>
+<i>"Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
