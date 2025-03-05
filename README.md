@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do something worth remembering."</i>
+<i>"I succeeded by saying what everyone else is thinking."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
