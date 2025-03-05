@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us."</i>
+<i>"How you think is as important as as what you think."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
