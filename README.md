@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference."</i>
+<i>"The most wasted day of all is that on which we have not laughed."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
