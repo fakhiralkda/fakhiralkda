@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The purpose of life is the life of purpose."</i>
+<i>"Try all things, hold fast that which is good."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
