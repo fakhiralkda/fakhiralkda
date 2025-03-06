@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a gift. Never forget to enjoy and bask in every moment you are in."</i>
+<i>"You can often change your circumstances by changing your attitude."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
