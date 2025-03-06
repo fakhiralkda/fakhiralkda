@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your eyes on the stars, but remember to keep your feet on the ground."</i>
+<i>"Believe in your infinite potential. Your only limitations are those you set upon yourself."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
