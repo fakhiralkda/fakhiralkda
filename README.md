@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man who removes a mountain begins by carrying away small stones."</i>
+<i>"A Penny Saved is a Penny Earned"</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
