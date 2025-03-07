@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Penny Saved is a Penny Earned"</i>
+<i>"The measure of wisdom is how calm you are when facing any given situation."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
