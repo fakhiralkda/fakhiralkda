@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your spirit is the true shield."</i>
+<i>"Don't gain the world and lose your soul. Wisdom is better than silver and gold."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
