@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're never given a dream without also being given the power to make it true."</i>
+<i>"One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
