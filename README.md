@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most courageous act is still to think for yourself. Aloud."</i>
+<i>"The man who removes a mountain begins by carrying away small stones."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
