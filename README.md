@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men are disturbed not by things, but by the view which they take of them."</i>
+<i>"When asked, how do you write? I invariably answer, one word at a time."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
