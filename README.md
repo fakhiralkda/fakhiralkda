@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I was wise enough to never grow up while fooling most people into believing I had. "</i>
+<i>"There is a big difference between being centered and being self-centered."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
