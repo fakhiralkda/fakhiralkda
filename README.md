@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't go forward and backwards at the same time."</i>
+<i>"There is no path to Happiness. Happiness is the path."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
