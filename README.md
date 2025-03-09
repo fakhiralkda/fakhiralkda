@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can see it in your mind, you can hold it in your mind."</i>
+<i>"I skate to where the puck is going to be, not where it has been."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
