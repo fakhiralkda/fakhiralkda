@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing like looking if you want to find something."</i>
+<i>"A man that flies from his fear may find that he has only taken a short cut to meet it."</i>
 <br>
 <b>- J.R.R. Tolkien</b>
 </blockquote>
