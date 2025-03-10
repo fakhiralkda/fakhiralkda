@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If there were no God, there would be no atheists."</i>
+<i>"To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
