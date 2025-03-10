@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be not glad at the misfortune of another, though he may be your enemy. "</i>
+<i>"There is nothing like looking if you want to find something."</i>
 <br>
-<b>- George Washington</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
