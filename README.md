@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not go where the path may lead, go instead where there is no path and leave a trail."</i>
+<i>"Stop wasting time looking at someone else's reality while doing nothing about yours."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
