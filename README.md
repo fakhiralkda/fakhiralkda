@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human behavior flows from three main sources: desire, emotion, and knowledge."</i>
+<i>"I like the dreams of the future better than the history of the past."</i>
 <br>
-<b>- Plato</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
