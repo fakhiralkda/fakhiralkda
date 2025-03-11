@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way we feel is the direct result of what we think."</i>
+<i>"Coming together is a beginning, staying together is progress, and working together is success. "</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
