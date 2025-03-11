@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's easier to go down a hill than up it but the view is much better at the top."</i>
+<i>"You may be disappointed if you fail, but you are doomed if you don't try."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
