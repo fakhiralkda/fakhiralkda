@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not allow your inner doubts to keep you from achieving what you can do."</i>
+<i>"There can be no deep disappointment where there is not deep love."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
