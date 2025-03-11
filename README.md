@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Coming together is a beginning, staying together is progress, and working together is success. "</i>
+<i>"It's easier to go down a hill than up it but the view is much better at the top."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
