@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be royal in your own fashion: act like a king to be treated like one."</i>
+<i>"The truth is simple. If it was complicated, everyone would understand it."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
