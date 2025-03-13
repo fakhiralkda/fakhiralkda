@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enjoy every minute of life. Never second-guess life."</i>
+<i>"Wishing to be friends is quick work, but friendship is a slow ripening fruit."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
