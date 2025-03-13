@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The highest form of ignorance is when you reject something you don't know anything about. "</i>
+<i>"I like the dreams of the future better than the history of the past."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
