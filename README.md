@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When something is important enough, you do it even if the odds are not in your favor."</i>
+<i>"One of the advantages of being disorganized is that one is always having surprising discoveries."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
