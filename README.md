@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Giving back involves a certain amount of giving up."</i>
+<i>"We cannot always do great things in life, but we can do small things with great love."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
