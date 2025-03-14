@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results."</i>
+<i>"I can think of nothing less pleasurable than a life devoted to pleasure."</i>
 <br>
-<b>- James Allen</b>
+<b>- John D. Rockefeller</b>
 </blockquote>
 </p>
 
