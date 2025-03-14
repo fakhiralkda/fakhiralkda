@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are not stuck where you are unless you decide to be.  "</i>
+<i>"Giving back involves a certain amount of giving up."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
