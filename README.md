@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unless you change how you are, you will always have what you got."</i>
+<i>"The most wasted day of all is that on which we have not laughed."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
