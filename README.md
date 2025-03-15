@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is achieved and maintained by those who try and keep trying. "</i>
+<i>"If you are unable to find the truth right where you are, where else do you expect to find it?"</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
