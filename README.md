@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We cannot always do great things in life, but we can do small things with great love."</i>
+<i>"Success is achieved and maintained by those who try and keep trying. "</i>
 <br>
-<b>- Dan Millman</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
