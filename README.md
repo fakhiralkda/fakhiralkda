@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most wasted day of all is that on which we have not laughed."</i>
+<i>"Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
