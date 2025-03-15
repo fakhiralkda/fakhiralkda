@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The strength of a wall is neither greater nor less than the courage of the men who defend it. "</i>
+<i>"Unless you change how you are, you will always have what you got."</i>
 <br>
-<b>- Genghis Khan</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
