@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people are old at 18 and some are young at 90. Time is a concept that humans created."</i>
+<i>"He is richest who is content with the least, for content is the wealth of nature."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
