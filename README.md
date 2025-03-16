@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is open for play, everything and everybody is mockable in a wonderful way."</i>
+<i>"Life is and will ever remain an equation incapable of solution, but it contains certain known factors. "</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Nikola Tesla</b>
 </blockquote>
 </p>
 
