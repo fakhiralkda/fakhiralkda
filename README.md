@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only he who has no use for the empire is fit to be entrusted with it."</i>
+<i>"The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
