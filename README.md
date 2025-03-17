@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life moves on and so should we."</i>
+<i>"Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
