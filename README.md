@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind."</i>
+<i>"Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Charles Spurgeon</b>
 </blockquote>
 </p>
 
