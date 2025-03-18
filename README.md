@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Numbing the pain for a while will only make it worse when you finally feel it."</i>
+<i>"The way of success is the way of continuous pursuit of knowledge."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
