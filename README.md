@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Troubles are often the tools by which God fashions us for better things."</i>
+<i>"It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
