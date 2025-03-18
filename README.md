@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every poem should remind the reader that they are going to die."</i>
+<i>"Knowledge has to be improved, challenged, and increased constantly, or it vanishes."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
