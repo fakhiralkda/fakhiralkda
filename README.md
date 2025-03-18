@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge has to be improved, challenged, and increased constantly, or it vanishes."</i>
+<i>"Selfishness and greed, individual or national, cause most of our troubles."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
