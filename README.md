@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is indeed a radical act of love just to sit down and be quiet for a time by yourself."</i>
+<i>"Troubles are often the tools by which God fashions us for better things."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
