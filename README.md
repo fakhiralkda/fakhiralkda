@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is the meaning and the purpose of life, the whole aim and end of human existence."</i>
+<i>"A crisis is an opportunity riding the dangerous wind."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
