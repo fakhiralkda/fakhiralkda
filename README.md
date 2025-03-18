@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A crisis is an opportunity riding the dangerous wind."</i>
+<i>"Numbing the pain for a while will only make it worse when you finally feel it."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
