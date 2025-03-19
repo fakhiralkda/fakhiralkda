@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perseverance and spirit have done wonders in all ages. "</i>
+<i>"Be approximately right rather than exactly wrong."</i>
 <br>
-<b>- George Washington</b>
+<b>- John Tukey</b>
 </blockquote>
 </p>
 
