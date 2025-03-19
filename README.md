@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is."</i>
+<i>"Our deeds determine us, as much as we determine our deeds."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
