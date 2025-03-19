@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who you are is defined by what you're willing to struggle for."</i>
+<i>"Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
