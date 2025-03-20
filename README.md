@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creativity is intelligence having fun."</i>
+<i>"Life is 10% what happens to you and 90% how you react to it. "</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Charles Swindoll</b>
 </blockquote>
 </p>
 
