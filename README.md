@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is an essence of when you are fearless, you become more creative."</i>
+<i>"You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
