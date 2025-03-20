@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The key to success is to focus our conscious mind on things we desire not things we fear. "</i>
+<i>"Creativity is intelligence having fun."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
