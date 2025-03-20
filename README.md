@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments."</i>
+<i>"The key to success is to focus our conscious mind on things we desire not things we fear. "</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
