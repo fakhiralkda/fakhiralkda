@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time."</i>
+<i>"You can do two things at once, but you can't focus effectively on two things at once."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
