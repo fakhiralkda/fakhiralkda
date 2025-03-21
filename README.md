@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you look for perfection, you'll never be content."</i>
+<i>"Action is the foundational key to all success."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
