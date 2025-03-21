@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes things become possible if we want them bad enough."</i>
+<i>"If you look for perfection, you'll never be content."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
