@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is hopeless; we must hope for everything."</i>
+<i>"Always seek out the seed of triumph in every adversity."</i>
 <br>
-<b>- Euripides</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
