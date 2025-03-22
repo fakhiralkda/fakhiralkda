@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every moment of happiness requires a great amount of Ignorance"</i>
+<i>"Life has the name of life, but in reality it is death."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
