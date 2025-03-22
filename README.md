@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always seek out the seed of triumph in every adversity."</i>
+<i>"Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
