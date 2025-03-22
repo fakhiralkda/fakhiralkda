@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it."</i>
+<i>"In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
