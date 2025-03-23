@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live your life as an exclamation rather than an explanation."</i>
+<i>"If I love myself I love you. If I love you I love myself."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
