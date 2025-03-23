@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enjoy every minute of life. Never second-guess life."</i>
+<i>"Instead of worrying about what you cannot control, shift your energy to what you can create."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
