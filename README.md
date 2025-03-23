@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's possible in ways both large or small to make a difference in someone's life."</i>
+<i>"Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. "</i>
 <br>
-<b>- Yanni</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
