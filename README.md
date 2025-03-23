@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I love myself I love you. If I love you I love myself."</i>
+<i>"If you believe you can, you can. If you believe you can't, then, well you can't."</i>
 <br>
-<b>- Rumi</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
