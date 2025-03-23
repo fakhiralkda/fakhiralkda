@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life has the name of life, but in reality it is death."</i>
+<i>"Enjoy every minute of life. Never second-guess life."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
