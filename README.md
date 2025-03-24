@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to make God laugh, tell him about your plans. "</i>
+<i>"High thoughts must have high language."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
