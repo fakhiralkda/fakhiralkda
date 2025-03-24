@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Goodness is the only investment that never fails."</i>
+<i>"Some people dream of success, while others wake up and work hard at it."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
