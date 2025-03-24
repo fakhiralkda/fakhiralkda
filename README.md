@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"High thoughts must have high language."</i>
+<i>"Cleverness is not wisdom."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
