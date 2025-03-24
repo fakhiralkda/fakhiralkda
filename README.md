@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I live by letting things happen."</i>
+<i>"Only by attracting the best people will you accomplish great deeds."</i>
 <br>
-<b>- Dogen</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
