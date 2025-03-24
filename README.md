@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make your mind your own business."</i>
+<i>"Don't let someone elses. opinion become your reality."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
