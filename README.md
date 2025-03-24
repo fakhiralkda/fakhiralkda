@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Common sense is not so common. "</i>
+<i>"People become attached to their burdens sometimes more than the burdens are attached to them."</i>
 <br>
-<b>- Voltaire</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
