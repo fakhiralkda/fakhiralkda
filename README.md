@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you have a dream, you've got to grab it and never let go."</i>
+<i>"Either get busy living or get busy dying."</i>
 <br>
-<b>- Carol Burnett</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
