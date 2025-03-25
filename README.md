@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I never said it would be easy, I only said it would be worth it."</i>
+<i>"If you can handle rejection, you'll learn to get everything you want."</i>
 <br>
-<b>- Mae West</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
