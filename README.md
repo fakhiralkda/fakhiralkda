@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have no more right to consume happiness without producing it than to consume wealth without producing it."</i>
+<i>"The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
