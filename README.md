@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whenever people agree with me I always feel I must be wrong."</i>
+<i>"You have power over your mind - not outside events. Realize this, and you will find strength."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
