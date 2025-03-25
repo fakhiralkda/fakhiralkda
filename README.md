@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He is richest who is content with the least, for content is the wealth of nature."</i>
+<i>"I hear and I forget. I see and I remember. I do and I understand. "</i>
 <br>
-<b>- Socrates</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
