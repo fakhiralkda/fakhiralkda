@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To judge a man by his weakest link or deed is like judging the power of the ocean by one wave."</i>
+<i>"Focus is a matter of deciding what things you're not going to do."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- John Carmack</b>
 </blockquote>
 </p>
 
