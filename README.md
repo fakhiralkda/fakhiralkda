@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people."</i>
+<i>"It is hard to fail, but it is worse never to have tried to succeed."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
