@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your dreams, you never know when you might need them."</i>
+<i>"What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
