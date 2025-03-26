@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted."</i>
+<i>"The chief cause of failure and unhappiness is trading what you want most for what you want right now."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
