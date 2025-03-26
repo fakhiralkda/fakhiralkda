@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Focus is a matter of deciding what things you're not going to do."</i>
+<i>"Keep your dreams, you never know when you might need them."</i>
 <br>
-<b>- John Carmack</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
