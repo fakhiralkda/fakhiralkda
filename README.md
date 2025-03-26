@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The chief cause of failure and unhappiness is trading what you want most for what you want right now."</i>
+<i>"What you become is far more important than what you get."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
