@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be truly ignorant, be content with your own knowledge."</i>
+<i>"Many of life's failures are people who did not realize how close they were to success when they gave up."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
