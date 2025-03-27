@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you become is far more important than what you get."</i>
+<i>"Happiness is the spiritual experience of living every minute with love, grace and gratitude."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
