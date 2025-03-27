@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is the spiritual experience of living every minute with love, grace and gratitude."</i>
+<i>"Every artist dips his brush in his own soul, and paints his own nature into his pictures."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
