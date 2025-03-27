@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every artist dips his brush in his own soul, and paints his own nature into his pictures."</i>
+<i>"You must find the place inside yourself where nothing is impossible."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
