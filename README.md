@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Kind words can be short and easy to speak, but their echoes are truly endless."</i>
+<i>"Any fool can turn a blind eye but who knows what the ostrich sees in the sand."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
