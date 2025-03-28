@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One small positive thought can change your whole day."</i>
+<i>"Human happiness and moral duty are inseparably connected. "</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
