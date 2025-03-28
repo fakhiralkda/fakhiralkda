@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Receive without complaint, Work with fate."</i>
+<i>"Don't gain the world and lose your soul. Wisdom is better than silver and gold."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
