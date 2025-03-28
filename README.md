@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The search for happiness is one of the chief sources of unhappiness."</i>
+<i>"Better the cottage where one is merry than the palace where one weeps."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
