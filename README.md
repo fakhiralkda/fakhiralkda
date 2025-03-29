@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only real security that a man can have in this world is a reserve of knowledge, experience and ability. "</i>
+<i>"Don't allow your mind to tell your heart what to do. The mind gives up easily."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
