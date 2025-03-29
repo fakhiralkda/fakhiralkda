@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the long run, the sharpest weapon of all is a kind and gentle spirit."</i>
+<i>"In order for you to be the BEST you can be for others, first you must be BEST for yourself."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Jeffrey Gitomer</b>
 </blockquote>
 </p>
 
