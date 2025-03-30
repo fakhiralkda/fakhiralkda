@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thinking will not overcome fear but action will. "</i>
+<i>"I can live without money, but I cannot live without love."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
