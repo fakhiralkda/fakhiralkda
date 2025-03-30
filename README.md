@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give more than you think you can, trusting that you are richer than you think."</i>
+<i>"Thinking will not overcome fear but action will. "</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
