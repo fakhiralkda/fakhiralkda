@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tis not too late to seek a newer world."</i>
+<i>"The world would go on even without you. Don't take yourself so seriously."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
