@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always turn a negative situation into a positive situation."</i>
+<i>"Success is often achieved by those who don't know that failure is inevitable."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
