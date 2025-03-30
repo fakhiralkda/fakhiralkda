@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may be one person in this world, but to one person you may mean the world."</i>
+<i>"Happiness is an effect of doing what you love, not an end goal to be achieved."</i>
 <br>
-<b>- Unknown</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
