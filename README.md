@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. "</i>
+<i>"Give more than you think you can, trusting that you are richer than you think."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
