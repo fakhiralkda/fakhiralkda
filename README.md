@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wheels of justice grind slow but grind fine."</i>
+<i>"Anything worth doing is worth doing slowly."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
