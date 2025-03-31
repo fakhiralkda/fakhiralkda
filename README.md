@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is more real than nothing."</i>
+<i>"Rest and be kind, you don't have to prove anything."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
