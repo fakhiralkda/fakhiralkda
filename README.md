@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learning is a gift, even when pain is your teacher."</i>
+<i>"Inspire yourself to be great. Being good isn't good enough."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
