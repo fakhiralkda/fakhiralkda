@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you have to travel a long way to find what is near."</i>
+<i>"In the End, we will remember not the words of our enemies, but the silence of our friends."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
