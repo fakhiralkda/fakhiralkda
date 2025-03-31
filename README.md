@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man should fear never beginning to live."</i>
+<i>"Sometimes you have to travel a long way to find what is near."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
