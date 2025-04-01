@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right."</i>
+<i>"Fallacies do not cease to be fallacies because they become fashions."</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
