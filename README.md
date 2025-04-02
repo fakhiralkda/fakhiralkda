@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are unable to find the truth right where you are, where else do you expect to find it?"</i>
+<i>"Things turn out best for the people who make the best of the way things turn out."</i>
 <br>
-<b>- Dogen</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
