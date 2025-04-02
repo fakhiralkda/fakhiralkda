@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change will not come if we wait for some other person, or if we wait for some other time."</i>
+<i>"The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone. "</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
