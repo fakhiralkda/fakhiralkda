@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone. "</i>
+<i>"The worst part of success is trying to find someone who is happy for you."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Bette Midler</b>
 </blockquote>
 </p>
 
