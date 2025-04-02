@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the advantages of being disorganized is that one is always having surprising discoveries."</i>
+<i>"The hardest arithmetic to master is that which enables us to count our blessings."</i>
 <br>
-<b>- A.A. Milne</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
