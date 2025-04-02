@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things turn out best for the people who make the best of the way things turn out."</i>
+<i>"An ounce of performance is worth pounds of promises."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
