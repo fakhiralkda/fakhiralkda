@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ego wants comfort and certainty. The soul wants to live fully."</i>
+<i>"Every hour of every day is an unspeakably perfect miracle."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
