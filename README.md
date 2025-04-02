@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An ounce of performance is worth pounds of promises."</i>
+<i>"The only way to 'find out if it will work out' is to do it."</i>
 <br>
-<b>- Mae West</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
