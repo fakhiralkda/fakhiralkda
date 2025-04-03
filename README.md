@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intelligence is the ability to adapt to change."</i>
+<i>"Walk slowly but never walk backward."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
