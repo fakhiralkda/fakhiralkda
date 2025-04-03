@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Old age is like everything else. To make a success of it, you've got to start young."</i>
+<i>"Decide whether or not the goal is worth the risks involved. If it is, stop worrying."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
