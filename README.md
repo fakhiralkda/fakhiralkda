@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When something comes from within, when it is a part of you, you have no choice but to live it, to express it."</i>
+<i>"Do not try to be on the side of the majority, but live according to your inner laws."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
