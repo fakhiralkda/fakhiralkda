@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decide whether or not the goal is worth the risks involved. If it is, stop worrying."</i>
+<i>"If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
