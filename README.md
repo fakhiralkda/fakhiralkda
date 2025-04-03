@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give so much away people insist on paying you."</i>
+<i>"When something comes from within, when it is a part of you, you have no choice but to live it, to express it."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
