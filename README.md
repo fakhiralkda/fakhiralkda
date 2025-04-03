@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not try to be on the side of the majority, but live according to your inner laws."</i>
+<i>"The only man who never makes mistakes is the man who never does anything."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
