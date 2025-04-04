@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The people who succeed are irrationally passionate about something."</i>
+<i>"Man invented language to satisfy his deep need to complain."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
