@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tradition is the illusion of permanence. "</i>
+<i>"If we did all the things we are capable of, we would literally astound ourselves."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
