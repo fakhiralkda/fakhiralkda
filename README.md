@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The older you get, the better you get. Unless you're a banana."</i>
+<i>"Admire as much as you can. Most people do not admire enough."</i>
 <br>
-<b>- Betty White</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
