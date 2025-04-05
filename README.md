@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Respect other people's feelings. It might mean nothing to you, but it could mean everything to them."</i>
+<i>"Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
