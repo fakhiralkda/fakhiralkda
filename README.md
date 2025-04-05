@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream."</i>
+<i>"It is safer to search in the maze than to remain in a cheeseless situation."</i>
 <br>
-<b>- Unknown</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
