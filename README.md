@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunities multiply as they are seized."</i>
+<i>"We are all in the gutter, but some of us are looking at the stars. "</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
