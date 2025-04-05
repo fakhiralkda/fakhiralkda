@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who wants to achieve a dream must stay strong, focused and steady."</i>
+<i>"The older you get, the better you get. Unless you're a banana."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
