@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tomorrow is only found in the calendar of fools."</i>
+<i>"Confidence is the greatest friend."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
