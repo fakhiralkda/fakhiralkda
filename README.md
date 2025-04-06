@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every second you have on this planet is very precious and it's your responsibility that you're happy."</i>
+<i>"Life is about not knowing and then doing something anyway."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
