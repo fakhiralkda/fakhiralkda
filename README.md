@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is best to begin at the beginning."</i>
+<i>"Admire as much as you can. Most people do not admire enough."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
