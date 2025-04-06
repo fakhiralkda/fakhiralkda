@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We cannot always do great things in life, but we can do small things with great love."</i>
+<i>"Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
