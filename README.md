@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is what you make it. Always has been, always will be."</i>
+<i>"Don't let your mind stop you."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
