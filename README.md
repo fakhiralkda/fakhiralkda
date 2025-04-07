@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A scientific man ought to have no wishes, no affections, - a mere heart of stone."</i>
+<i>"You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
