@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's the little things done consistently over time, straight from your heart, that have the greatest impact."</i>
+<i>"A rational person can find peace by cultivating indifference to things outside of their control."</i>
 <br>
-<b>- Unknown</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
