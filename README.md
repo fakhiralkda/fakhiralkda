@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Admire as much as you can. Most people do not admire enough."</i>
+<i>"It's the little things done consistently over time, straight from your heart, that have the greatest impact."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
