@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From the errors of others, a wise man corrects his own."</i>
+<i>"Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'"</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
