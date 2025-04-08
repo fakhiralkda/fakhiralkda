@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is best to begin at the beginning."</i>
+<i>"There is only one thing that makes a dream impossible to achieve: the fear of failure."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
