@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The great use of life is to spend it for something that will outlast it."</i>
+<i>"Don't let them drag you down by rumors. Just go with what you believe in."</i>
 <br>
-<b>- William James</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
