@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one thing that makes a dream impossible to achieve: the fear of failure."</i>
+<i>"The great use of life is to spend it for something that will outlast it."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
