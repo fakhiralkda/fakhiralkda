@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let them drag you down by rumors. Just go with what you believe in."</i>
+<i>"You can't have anything worthwhile without difficulties."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
