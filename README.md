@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance."</i>
+<i>"I am not absentminded. It is the presence of mind that makes me unaware of everything else."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
