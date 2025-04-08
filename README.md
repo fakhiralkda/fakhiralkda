@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Integrity is the ability to stand by an idea."</i>
+<i>"The glow of one warm thought is to me worth more than money."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
