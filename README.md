@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't have anything worthwhile without difficulties."</i>
+<i>"Better to have, and not need, than to need, and not have."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
