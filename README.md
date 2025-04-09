@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let not your mind run on what you lack as much as on what you have already."</i>
+<i>"When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
