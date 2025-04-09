@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Disobedience is the true foundation of liberty. The obedient must be slaves."</i>
+<i>"Let not your mind run on what you lack as much as on what you have already."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
