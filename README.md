@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not uncommon for people to spend their whole life waiting to start living."</i>
+<i>"It is our experiences that mold us into who we are...during times of adversity our true character will show."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
