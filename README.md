@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is our experiences that mold us into who we are...during times of adversity our true character will show."</i>
+<i>"I can live without money, but I cannot live without love."</i>
 <br>
-<b>- Unknown</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
