@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reality is the leading cause of stress among those in touch with it."</i>
+<i>"The quality, not the longevity, of one's life is what is important."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
