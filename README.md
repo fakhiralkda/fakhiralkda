@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success comes from knowing that you did your best to become the best that you are capable of becoming."</i>
+<i>"For all evils there are two remedies - time and silence."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
