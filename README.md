@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Follow the man who seeks the truth; run from the man who has found it."</i>
+<i>"True friendship ought never to conceal what it thinks. "</i>
 <br>
-<b>- Vaclav Havel</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
