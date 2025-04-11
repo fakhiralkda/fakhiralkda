@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The busy man is never wise and the wise man is never busy."</i>
+<i>"Nature loves to hide."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
