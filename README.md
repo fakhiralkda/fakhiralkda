@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quality, not the longevity, of one's life is what is important."</i>
+<i>"Hold yourself responsible for a higher standard than anybody else expects of you."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
