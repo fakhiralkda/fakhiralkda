@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True friendship ought never to conceal what it thinks. "</i>
+<i>"Judge a man by his questions rather than his answers."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
