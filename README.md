@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good judgment comes from experience, and experience comes from bad judgment."</i>
+<i>"A loving heart is the truest wisdom."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
