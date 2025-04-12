@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You Create Your Own Present By What You Give Your Attention To Today."</i>
+<i>"Good judgment comes from experience, and experience comes from bad judgment."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
