@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We tend to live up to our expectations."</i>
+<i>"Never confuse a single defeat with a final defeat."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
