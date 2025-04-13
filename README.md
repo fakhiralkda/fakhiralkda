@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Here and now...breathe and relax...in battle and in life."</i>
+<i>"Be the silent watcher of your thoughts and behavior. You are beneath the thinker."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
