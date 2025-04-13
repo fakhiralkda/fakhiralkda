@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence."</i>
+<i>"You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously."</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
