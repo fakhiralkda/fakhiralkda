@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The worst part of success is trying to find someone who is happy for you."</i>
+<i>"What keeps life fascinating is the constant creativity of the soul."</i>
 <br>
-<b>- Bette Midler</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
