@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles."</i>
+<i>"The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
