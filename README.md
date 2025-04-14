@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you have a dream, you've got to grab it and never let go."</i>
+<i>"Do all things with love."</i>
 <br>
-<b>- Carol Burnett</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
