@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What keeps life fascinating is the constant creativity of the soul."</i>
+<i>"Be royal in your own fashion: act like a king to be treated like one."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
