@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid to give up the good to go for the great."</i>
+<i>"Avoiding failure is to avoid progress."</i>
 <br>
-<b>- John D. Rockefeller</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
