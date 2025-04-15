@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trying to define yourself is like trying to bite your own teeth."</i>
+<i>"Don't be afraid to give up the good to go for the great."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- John D. Rockefeller</b>
 </blockquote>
 </p>
 
