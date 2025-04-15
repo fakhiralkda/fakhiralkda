@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is not something outside to be discovered, it is something inside to be realized."</i>
+<i>"Unless you're ashamed of yourself now and then, you're not honest."</i>
 <br>
-<b>- Osho</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
