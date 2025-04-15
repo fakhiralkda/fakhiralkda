@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For your life to be great, your faith must be bigger than your fear."</i>
+<i>"Truth is not something outside to be discovered, it is something inside to be realized."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
