@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are unable to find the truth right where you are, where else do you expect to find it?"</i>
+<i>"The smallest of actions is always better than the noblest of intentions."</i>
 <br>
-<b>- Dogen</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
