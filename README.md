@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The smallest of actions is always better than the noblest of intentions."</i>
+<i>"If we are not able to smile, then the world will not have peace."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
