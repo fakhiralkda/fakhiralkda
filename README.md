@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace."</i>
+<i>"The secret of life is to fall seven times and to get up eight times."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
