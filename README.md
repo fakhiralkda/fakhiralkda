@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we are not able to smile, then the world will not have peace."</i>
+<i>"To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
