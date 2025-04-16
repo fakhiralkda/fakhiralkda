@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I cannot do great things. I can do small things in a great way."</i>
+<i>"Those who are easily shocked should be shocked more often."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
