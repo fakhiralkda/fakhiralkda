@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing can survive without food. Everything we consume acts either to heal us or to poison us."</i>
+<i>"He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed. "</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
