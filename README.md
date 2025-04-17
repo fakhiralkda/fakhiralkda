@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not why the addiction but why the pain."</i>
+<i>"Within every desire is the mechanics of its fulfillment."</i>
 <br>
-<b>- Gabor Mate</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
