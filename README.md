@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Within every desire is the mechanics of its fulfillment."</i>
+<i>"Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
