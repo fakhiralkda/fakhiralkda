@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be kind, for everyone you meet is fighting a harder battle."</i>
+<i>"Not why the addiction but why the pain."</i>
 <br>
-<b>- Plato</b>
+<b>- Gabor Mate</b>
 </blockquote>
 </p>
 
