@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed."</i>
+<i>"Every experience is a lesson. Every loss is a gain."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
