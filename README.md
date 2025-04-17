@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are able to employ your will always for constructive purposes, you become the controller of your destiny."</i>
+<i>"Listen to the secret sound, the real sound, which is inside you."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
