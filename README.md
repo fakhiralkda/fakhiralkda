@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Listen to the secret sound, the real sound, which is inside you."</i>
+<i>"Those who are enlightened never stop forging themselves."</i>
 <br>
-<b>- Kabir</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
