@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When at last you are come to the ocean of happiness, do not go back thirsty."</i>
+<i>"We become brave by doing brave acts."</i>
 <br>
-<b>- Kabir</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
