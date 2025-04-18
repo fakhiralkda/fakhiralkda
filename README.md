@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The salvation of the world lies in the human heart."</i>
+<i>"Rich people have small TVs and big libraries, and poor people have small libraries and big TVs."</i>
 <br>
-<b>- Vaclav Havel</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
