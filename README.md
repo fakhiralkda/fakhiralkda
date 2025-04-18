@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Because a thing seems difficult for you, do not think it impossible."</i>
+<i>"The key to success is to focus our conscious mind on things we desire not things we fear. "</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
