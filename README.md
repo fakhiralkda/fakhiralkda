@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The key to success is to focus our conscious mind on things we desire not things we fear. "</i>
+<i>"It still holds true that man is most uniquely human when he turns obstacles into opportunities."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
