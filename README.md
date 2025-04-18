@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't learn to do, but learn in doing."</i>
+<i>"To travel is to be alive, but to get somewhere is to be dead."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
