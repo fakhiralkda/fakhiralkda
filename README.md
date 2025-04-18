@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rich people have small TVs and big libraries, and poor people have small libraries and big TVs."</i>
+<i>"The only thing more frustrating than slanderers is those foolish enough to listen to them."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
