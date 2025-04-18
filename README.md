@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be polite to all, but intimate with few."</i>
+<i>"The salvation of the world lies in the human heart."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
