@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I love myself I love you. If I love you I love myself."</i>
+<i>"Give so much away people insist on paying you."</i>
 <br>
-<b>- Rumi</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
