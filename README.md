@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give so much away people insist on paying you."</i>
+<i>"Faults are yours to fix, not to curse."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
