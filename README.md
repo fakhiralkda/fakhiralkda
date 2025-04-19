@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The desire for more positive experience is itself a negative experience."</i>
+<i>"Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
