@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An intelligent person hires people who are more intelligent than he is."</i>
+<i>"The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
