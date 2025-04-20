@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your eyes on the stars, but remember to keep your feet on the ground."</i>
+<i>"Victims recite problems, leaders provide solutions."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
