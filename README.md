@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are what you believe yourself to be."</i>
+<i>"Growing up is losing some illusions, in order to acquire others."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
