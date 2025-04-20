@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is inevitable but personal growth is a choice."</i>
+<i>"Keep your eyes on the stars, but remember to keep your feet on the ground."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
