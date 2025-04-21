@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The heart wants what it wants. There's no logic. "</i>
+<i>"Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
