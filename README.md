@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enjoy life. There's plenty of time to be dead."</i>
+<i>"He who leaves the game wins it."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
