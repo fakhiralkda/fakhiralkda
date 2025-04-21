@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Inspiration exists, but it has to find you working."</i>
+<i>"Worry is a waste of emotional reserve."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
