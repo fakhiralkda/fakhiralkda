@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I do not seek. I find."</i>
+<i>"Inspiration exists, but it has to find you working."</i>
 <br>
 <b>- Pablo Picasso</b>
 </blockquote>
