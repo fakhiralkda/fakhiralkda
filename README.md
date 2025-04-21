@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't seek, don't avoid, don't expect. Take what comes and be happy."</i>
+<i>"The heart wants what it wants. There's no logic. "</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
