@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have as much laughter as you have faith."</i>
+<i>"Enjoy life. There's plenty of time to be dead."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
