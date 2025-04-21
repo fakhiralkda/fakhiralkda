@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit."</i>
+<i>"I do not seek. I find."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
