@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can do two things at once, but you can't focus effectively on two things at once."</i>
+<i>"The less you talk about your shame, the more of it you have."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
