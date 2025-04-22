@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone telling you it's pointless to share your perspective is sharing their perspective."</i>
+<i>"Treat everyone with politeness and kindness, not because they are nice, but because you are."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
