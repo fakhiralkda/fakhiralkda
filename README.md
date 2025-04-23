@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn to sit back and observe, not everything needs a reaction."</i>
+<i>"Your heart is the size of an ocean. Go find yourself in its hidden depths."</i>
 <br>
-<b>- Unknown</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
