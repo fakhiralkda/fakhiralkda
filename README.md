@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is hardest at the beginning, messiest in the middle and best at the end."</i>
+<i>"The more you know, the more you know you don't know."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
