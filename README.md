@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No duty is more urgent than that of returning thanks."</i>
+<i>"Learn to sit back and observe, not everything needs a reaction."</i>
 <br>
-<b>- James Allen</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
