@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The happiest people in the world are those who feel absolutely terrific about themselves."</i>
+<i>"Honesty is the first chapter in the book of wisdom."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
