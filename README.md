@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Honesty is the first chapter in the book of wisdom."</i>
+<i>"Stop wasting time defending your problems and work on addressing them instead."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
