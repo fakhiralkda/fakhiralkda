@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present."</i>
+<i>"The man who removes a mountain begins by carrying away small stones."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
