@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop wasting time defending your problems and work on addressing them instead."</i>
+<i>"Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
