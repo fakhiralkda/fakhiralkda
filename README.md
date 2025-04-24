@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view."</i>
+<i>"Sometimes you will never know the value of something, until it becomes a memory."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
