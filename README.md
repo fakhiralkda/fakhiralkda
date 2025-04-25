@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to disappoint people with the truth than to appease them with a lie."</i>
+<i>"The single most powerful asset we all have is our mind."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
