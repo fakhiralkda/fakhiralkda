@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness can be found, even in the darkest of times, if one only remembers to turn on the light."</i>
+<i>"The most creative act you will ever undertake is the act of creating yourself."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
