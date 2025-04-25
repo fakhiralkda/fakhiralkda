@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If ever you feel like an animal among men, be a lion."</i>
+<i>"If you change the way you look at things, the things you look at change. "</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
