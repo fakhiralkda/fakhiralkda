@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People inspire you, or they drain you. Pick them wisely."</i>
+<i>"We suffer more often in imagination than in reality."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
