@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  "</i>
+<i>"We would accomplish many more things if we did not think of them as impossible."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
