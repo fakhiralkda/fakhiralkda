@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The opportunity of defeating the enemy is provided by the enemy himself."</i>
+<i>"You will face many defeats in life, but never let yourself be defeated."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
