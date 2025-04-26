@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing your own darkness is the best method for dealing with the darknesses of other people."</i>
+<i>"Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  "</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
