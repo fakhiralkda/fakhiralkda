@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will face many defeats in life, but never let yourself be defeated."</i>
+<i>"Knowing your own darkness is the best method for dealing with the darknesses of other people."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
