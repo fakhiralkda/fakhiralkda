@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment."</i>
+<i>"An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head."</i>
 <br>
-<b>- Buddha</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
