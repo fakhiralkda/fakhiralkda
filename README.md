@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each day your life grows a day shorter. Make every move count."</i>
+<i>"Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
