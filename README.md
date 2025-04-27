@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not fear failure but rather fear not trying."</i>
+<i>"Each day your life grows a day shorter. Make every move count."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
