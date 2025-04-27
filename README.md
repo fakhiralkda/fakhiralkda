@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted."</i>
+<i>"Do not fear failure but rather fear not trying."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
