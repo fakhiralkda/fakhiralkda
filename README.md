@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The spirit is beyond destruction. No one can bring an end to spirit which is everlasting."</i>
+<i>"The quality of your commitments will determine the course of your life."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
