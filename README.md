@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pleasure is always derived from something outside you, whereas joy arises from within. "</i>
+<i>"Logic is like the sword - those who appeal to it shall perish by it."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
