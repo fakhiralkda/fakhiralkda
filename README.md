@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We would accomplish many more things if we did not think of them as impossible."</i>
+<i>"The more people you help become successful the more successful you become."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
