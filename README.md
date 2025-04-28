@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If light is in your heart, you will find your way home.  "</i>
+<i>"Things do not have meaning. We assign meaning to everything."</i>
 <br>
-<b>- Rumi</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
