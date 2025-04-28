@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who dream by day are cognizant of many things which escape those who dream only by night."</i>
+<i>"Falling down is not failure. Failure comes when you stay where you have fallen."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
