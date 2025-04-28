@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person who cannot control his words shows that he cannot control himself."</i>
+<i>"The difference between winning and losing is most often not quitting."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
