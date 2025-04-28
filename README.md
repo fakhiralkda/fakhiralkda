@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to be sad, no one in the world can make you happy. But if you make up your mind to be happy, no one and nothing on earth can take that happiness from you."</i>
+<i>"If light is in your heart, you will find your way home.  "</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
