@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Falling down is not failure. Failure comes when you stay where you have fallen."</i>
+<i>"Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity."</i>
 <br>
-<b>- Socrates</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
