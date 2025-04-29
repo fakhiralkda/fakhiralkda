@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't explain it simply, you don't understand it well enough."</i>
+<i>"When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
