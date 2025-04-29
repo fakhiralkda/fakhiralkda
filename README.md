@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things do not have meaning. We assign meaning to everything."</i>
+<i>"Life is either a daring adventure, or it is nothing."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
