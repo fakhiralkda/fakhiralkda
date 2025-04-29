@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember the entrance to the sanctuary is inside you."</i>
+<i>"Success is about creating value."</i>
 <br>
-<b>- Rumi</b>
+<b>- Candice Carpenter</b>
 </blockquote>
 </p>
 
