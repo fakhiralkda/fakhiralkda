@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reality is the leading cause of stress among those in touch with it."</i>
+<i>"The smallest of actions is always better than the noblest of intentions."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
