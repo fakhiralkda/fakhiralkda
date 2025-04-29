@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy."</i>
+<i>"Reality is the leading cause of stress among those in touch with it."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
