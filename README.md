@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Either write something worth reading or do something worth writing."</i>
+<i>"Happiness is only real, when shared."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
