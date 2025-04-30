@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who dream by day are cognizant of many things which escape those who dream only by night."</i>
+<i>"There are no uninteresting things, only uninterested people."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
