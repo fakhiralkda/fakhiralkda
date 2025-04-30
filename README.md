@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no uninteresting things, only uninterested people."</i>
+<i>"Quiet people have the loudest minds."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
