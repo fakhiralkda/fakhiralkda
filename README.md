@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You give but little when you give of your possessions. It is when you give of yourself that you truly give."</i>
+<i>"The only reason to be alive is to enjoy it."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
