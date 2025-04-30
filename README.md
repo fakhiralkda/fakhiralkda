@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only reason to be alive is to enjoy it."</i>
+<i>"Confidence breeds beauty.  "</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
