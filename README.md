@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If what you're doing is not your passion, you have nothing to lose."</i>
+<i>"If you aren't sure which way to do something, do it both ways and see which works better."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- John Carmack</b>
 </blockquote>
 </p>
 
