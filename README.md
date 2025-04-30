@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you aren't sure which way to do something, do it both ways and see which works better."</i>
+<i>"Mastering others is strength, mastering yourself is true power."</i>
 <br>
-<b>- John Carmack</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
