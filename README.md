@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're brave enough to say goodbye, life will reward you with a new hello."</i>
+<i>"The secret of success lies not in doing your own work, but in recognizing the right man to do it."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
