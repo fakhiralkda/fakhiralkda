@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be mindful. Be grateful. Be positive. Be true. Be kind."</i>
+<i>"Anything becomes interesting if you look at it long enough.."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
