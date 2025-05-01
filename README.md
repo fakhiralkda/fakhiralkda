@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It will never rain roses: when we want to have more roses, we must plant more roses."</i>
+<i>"If you're brave enough to say goodbye, life will reward you with a new hello."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
