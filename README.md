@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anything becomes interesting if you look at it long enough.."</i>
+<i>"Smell the cheese often so you know when it is getting old."</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
