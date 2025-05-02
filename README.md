@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Normality is a paved road: It's comfortable to walk, but no flowers grow on it."</i>
+<i>"Live as if you were to die tomorrow. Learn as if you were to live forever."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
