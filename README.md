@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It all depends on what you choose to believe."</i>
+<i>"Any game becomes important when you know and love the players."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
