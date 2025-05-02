@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live as if you were to die tomorrow. Learn as if you were to live forever."</i>
+<i>"If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Seungsahn</b>
 </blockquote>
 </p>
 
