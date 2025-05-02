@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words are clothes that thoughts wear"</i>
+<i>"You make your own luck if you stay at it long enough."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
