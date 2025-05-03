@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!"</i>
+<i>"Don't be afraid to stand for what you believe in, even if that means standing alone."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
