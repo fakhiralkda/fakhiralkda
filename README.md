@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest."</i>
+<i>"The only thing new in the world is the history you do not know."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
