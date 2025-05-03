@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will never do anything in this world without courage. It is the greatest quality of the mind next to honor."</i>
+<i>"The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!"</i>
 <br>
-<b>- James Allen</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
