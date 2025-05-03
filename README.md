@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything has its beauty, but not everyone sees it. "</i>
+<i>"An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind."</i>
 <br>
-<b>- Confucius</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
