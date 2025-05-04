@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want others to be happy, practice compassion. If you want to be happy, practice compassion."</i>
+<i>"It is useless to meet revenge with revenge; it will heal nothing."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
