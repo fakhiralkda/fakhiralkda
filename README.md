@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Here and now...breathe and relax...in battle and in life."</i>
+<i>"A goal is a dream with a deadline."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
