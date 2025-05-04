@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. "</i>
+<i>"Duty makes us do things well, but love makes us do them beautifully.  "</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
