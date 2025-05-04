@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Duty makes us do things well, but love makes us do them beautifully.  "</i>
+<i>"Here and now...breathe and relax...in battle and in life."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
