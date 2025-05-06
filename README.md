@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can live a whole life time never being awake."</i>
+<i>"What we dwell on is who we become."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
