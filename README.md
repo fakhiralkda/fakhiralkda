@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Productize your perspective."</i>
+<i>"Take into account that great love and great achievements involve great risk."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
