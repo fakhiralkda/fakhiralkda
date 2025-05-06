@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tragedy is a tool for the living to gain wisdom, not a guide by which to live."</i>
+<i>"Treat every moment as your last. It is not preparation for something else."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
