@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Much learning does not teach understanding."</i>
+<i>"You can live a whole life time never being awake."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
