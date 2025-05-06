@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored."</i>
+<i>"Insanity: doing the same thing over and over again and expecting different results."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
