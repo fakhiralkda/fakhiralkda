@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Insanity: doing the same thing over and over again and expecting different results."</i>
+<i>"Peaceful is the one who expects nothing."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
