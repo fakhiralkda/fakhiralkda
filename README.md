@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take into account that great love and great achievements involve great risk."</i>
+<i>"When you realize you've made a mistake, take immediate steps to correct it."</i>
 <br>
 <b>- Dalai Lama</b>
 </blockquote>
