@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men are equal; it is not birth but virtue that makes the difference."</i>
+<i>"Nothing is too high for a man to reach, but he must climb with care and confidence"</i>
 <br>
-<b>- Voltaire</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
