@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is acceptable. Not trying is a whole different ball park."</i>
+<i>"A wise man will be master of his mind, a fool will be its slave."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
