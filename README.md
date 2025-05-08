@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions."</i>
+<i>"Success is stumbling from failure to failure with no loss of enthusiasm."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
