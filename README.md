@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!"</i>
+<i>"Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
