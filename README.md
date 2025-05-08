@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you cannot understand something, then you have understood it incorrectly."</i>
+<i>"Friends ask you questions; enemies question you."</i>
 <br>
-<b>- Kabir</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
