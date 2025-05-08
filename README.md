@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams provide nourishment for the soul, just as a meal does for the body."</i>
+<i>"If you cannot understand something, then you have understood it incorrectly."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
