@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make your mind your own business."</i>
+<i>"You don't earn loyalty in a day. You earn loyalty day-by-day."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Jeffrey Gitomer</b>
 </blockquote>
 </p>
 
