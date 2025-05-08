@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine."</i>
+<i>"The only limits in our life are those we impose on ourselves."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
