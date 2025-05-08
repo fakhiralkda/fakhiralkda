@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your work is to discover your work and then, with all your heart, to give yourself to it."</i>
+<i>"It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!"</i>
 <br>
-<b>- Buddha</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
