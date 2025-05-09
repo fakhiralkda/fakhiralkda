@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friends ask you questions; enemies question you."</i>
+<i>"Only the hand that erases can write the true thing."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
