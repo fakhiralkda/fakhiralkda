@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you have to be in a soap opera try not to be cast in the worst role."</i>
+<i>"Heaven is right where you are standing."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
