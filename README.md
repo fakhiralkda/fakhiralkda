@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become."</i>
+<i>"Cleverness is not wisdom."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
