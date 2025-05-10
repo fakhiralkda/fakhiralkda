@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a gift and the trick is not to expect it, but to delight in it when it comes."</i>
+<i>"Sometimes it is more important to discover what one cannot do, than what one can do."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
