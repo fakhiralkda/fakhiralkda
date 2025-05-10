@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To avoid criticism, do nothing, say nothing, and be nothing."</i>
+<i>"Our attitude toward life determines life's attitude towards us."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
