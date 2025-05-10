@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never be bored, and you will never be boring."</i>
+<i>"Winners don't Quit. That's why they Win."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
