@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Play your part in life, but never forget that it is only a role."</i>
+<i>"Never be bored, and you will never be boring."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
