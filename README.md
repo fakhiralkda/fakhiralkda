@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winners don't Quit. That's why they Win."</i>
+<i>"To avoid criticism, do nothing, say nothing, and be nothing."</i>
 <br>
-<b>- Unknown</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
