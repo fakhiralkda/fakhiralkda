@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying."</i>
+<i>"Play your part in life, but never forget that it is only a role."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
