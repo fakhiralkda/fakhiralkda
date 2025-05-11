@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not take life too seriously. You will never get out of it alive."</i>
+<i>"We shape clay into a pot, but it is the emptiness inside that holds whatever we want."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
