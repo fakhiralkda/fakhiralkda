@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world doesn't owe you anything. It was here first."</i>
+<i>"Listen to the secret sound, the real sound, which is inside you."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
