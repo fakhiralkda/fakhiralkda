@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination means nothing without doing.  "</i>
+<i>"Do not take life too seriously. You will never get out of it alive."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
