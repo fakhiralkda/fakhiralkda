@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Working hard for something we don't care about is called stress: Working hard for something we love is called passion."</i>
+<i>"There are more people who wish to be loved than there are who are willing to love. "</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
