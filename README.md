@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is a great teacher. If you're open to it every mistake has a lesson to offer."</i>
+<i>"The river that flows in you also flows in me."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
