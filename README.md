@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do what you can, with what you have, where you are."</i>
+<i>"The key to immortality is first living a life worth remembering. "</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
