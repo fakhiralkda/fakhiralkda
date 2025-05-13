@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ones who are crazy enough to think they can change the world, are the ones that do."</i>
+<i>"If I have seen further than others, it is by standing upon the shoulders of giants."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
