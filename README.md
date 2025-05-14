@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't gain the world and lose your soul. Wisdom is better than silver and gold."</i>
+<i>"Don't be afraid to see what you see."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
