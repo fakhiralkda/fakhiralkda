@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whoever is happy will make others happy too."</i>
+<i>"Conscience is a dog that does not stop us from passing but that we cannot prevent from barking."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
