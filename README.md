@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're afraid to die, you're afraid to live. You can't have one without the other."</i>
+<i>"Experience is simply the name we give our mistakes. "</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
