@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose."</i>
+<i>"The secret of getting ahead is getting started."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
