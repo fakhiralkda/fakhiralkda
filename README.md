@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Obstacles are those frightful things you see when you take your eyes off your goals."</i>
+<i>"If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose."</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
