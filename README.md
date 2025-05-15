@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great things are not done by impulse, but by a series of small things brought together."</i>
+<i>"Happiness depends on your mindset and attitude."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
