@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good, better, best. Never let it rest. 'Til your good is better and your better is best. "</i>
+<i>"Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
