@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let the fear of losing be greater than the excitement of winning."</i>
+<i>"Good luck is opportunity meeting preparedness."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
