@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not stop thinking of life as an adventure."</i>
+<i>"You have power over your mind - not outside events. Realize this, and you will find strength."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
