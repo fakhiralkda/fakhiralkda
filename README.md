@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that is done in the world is done by hope."</i>
+<i>"What have you done today to make someone else happy?"</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Deepam Chaterjee</b>
 </blockquote>
 </p>
 
