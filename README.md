@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Selfishness and greed, individual or national, cause most of our troubles."</i>
+<i>"Every day may not be good, but there's something good in every day."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
