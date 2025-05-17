@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences "</i>
+<i>"The power of human thought grows exponentially with the number of minds that share that thought."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
