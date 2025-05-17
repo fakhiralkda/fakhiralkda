@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A little progress each day adds up to big results."</i>
+<i>"Happiness is the spiritual experience of living every minute with love, grace and gratitude."</i>
 <br>
-<b>- Unknown</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
