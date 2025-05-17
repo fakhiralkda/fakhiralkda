@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The key to success is action."</i>
+<i>"If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
