@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For fast-acting relief try slowing down."</i>
+<i>"Never close your lips to those whom you have already opened your heart."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
