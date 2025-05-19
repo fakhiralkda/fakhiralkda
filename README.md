@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Circumstances do not make the man, they reveal him."</i>
+<i>"Always do your best. What you plant now, you will harvest later."</i>
 <br>
-<b>- James Allen</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
