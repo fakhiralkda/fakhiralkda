@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're never too old for anything."</i>
+<i>"Facts are the enemy of truth. "</i>
 <br>
-<b>- Betty White</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
