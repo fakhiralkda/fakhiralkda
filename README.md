@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become."</i>
+<i>"As soon as you truly commit to making something happen, the 'how' will reveal itself."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
