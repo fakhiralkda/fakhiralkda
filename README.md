@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge is learning something everyday. Wisdom is letting go of something everyday."</i>
+<i>"Circumstances do not make the man, they reveal him."</i>
 <br>
-<b>- Unknown</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
