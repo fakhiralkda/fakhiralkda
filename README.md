@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who knows how to wait need make no concessions."</i>
+<i>"You cannot find peace by avoiding life."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
