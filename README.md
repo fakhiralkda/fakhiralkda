@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are never too old to set another goal or to dream a new dream."</i>
+<i>"Obstacles are those frightful things you see when you take your eyes off your goal."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
