@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A warrior does not give up what he loves, he finds the love in what he does."</i>
+<i>"You are never too old to set another goal or to dream a new dream."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
