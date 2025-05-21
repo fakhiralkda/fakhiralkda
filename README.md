@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the advantages of being disorganized is that one is always having surprising discoveries."</i>
+<i>"Muddy water is best cleared by leaving it alone."</i>
 <br>
-<b>- A.A. Milne</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
