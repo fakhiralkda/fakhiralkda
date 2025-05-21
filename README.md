@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes things become possible if we want them bad enough."</i>
+<i>"Fears are nothing more than a state of mind."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
