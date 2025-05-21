@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To do two things at once is to do neither."</i>
+<i>"The best answer to anger is silence."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
