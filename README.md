@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fears are nothing more than a state of mind."</i>
+<i>"You are free, and that is why you are lost."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
