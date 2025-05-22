@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Acknowledging the good that you already have in your life is the foundation for all abundance."</i>
+<i>"Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
