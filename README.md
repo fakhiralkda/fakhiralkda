@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The opportunity of defeating the enemy is provided by the enemy himself."</i>
+<i>"Change your thoughts and you change your world."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
