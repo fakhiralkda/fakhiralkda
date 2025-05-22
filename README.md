@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are free, and that is why you are lost."</i>
+<i>"Luck is what happens when preparation meets opportunity.  "</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
