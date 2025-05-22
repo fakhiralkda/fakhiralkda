@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Luck is what happens when preparation meets opportunity.  "</i>
+<i>"All wealth is the product of labor."</i>
 <br>
-<b>- Seneca</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
