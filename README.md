@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change your thoughts and you change your world."</i>
+<i>"Sometimes out of your biggest misery, comes your greatest gain."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
