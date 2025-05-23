@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As soon as you truly commit to making something happen, the 'how' will reveal itself."</i>
+<i>"You are now, and you do become, what you think about."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
