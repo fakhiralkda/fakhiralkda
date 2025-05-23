@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"High thoughts must have high language."</i>
+<i>"Life is the art of drawing sufficient conclusions from insufficient premises."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
