@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends."</i>
+<i>"There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience."</i>
 <br>
 <b>- Deepak Chopra</b>
 </blockquote>
