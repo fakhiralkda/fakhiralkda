@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are now, and you do become, what you think about."</i>
+<i>"Older men declare war. But it is youth that must fight and die."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
