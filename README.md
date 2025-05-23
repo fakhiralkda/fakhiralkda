@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dream big and dare to fail."</i>
+<i>"Everything will be ok in the end. If it's not ok, it's not the end."</i>
 <br>
-<b>- Norman Vaughan</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
