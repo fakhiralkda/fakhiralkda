@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want."</i>
+<i>"It is only depth of character that determines the profundity with which we face life."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
