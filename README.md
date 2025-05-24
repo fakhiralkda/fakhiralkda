@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Older men declare war. But it is youth that must fight and die."</i>
+<i>"Muddy water is best cleared by leaving it alone."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
