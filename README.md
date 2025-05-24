@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our greatest glory is not in never falling, but in rising every time we fall. "</i>
+<i>"Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want."</i>
 <br>
-<b>- Confucius</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
