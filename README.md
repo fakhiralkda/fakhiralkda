@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throw your heart over the bar and your body will follow."</i>
+<i>"Those who cannot change their minds cannot change anything."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
