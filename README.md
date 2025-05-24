@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you have to shut your eyes, so you can see the real beauty."</i>
+<i>"We cannot expect to be happy always... by experiencing evil as well as good we become wise."</i>
 <br>
-<b>- Kilian Jornet</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
