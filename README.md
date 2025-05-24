@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is only depth of character that determines the profundity with which we face life."</i>
+<i>"Patience is not the ability to wait but the ability to keep a good attitude while waiting."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
