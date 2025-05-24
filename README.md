@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom."</i>
+<i>"Throw your heart over the bar and your body will follow."</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
