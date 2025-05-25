@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Behind every cloud is another cloud."</i>
+<i>"Find something you love and do it better than everyone else."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
