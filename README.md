@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Find something you love and do it better than everyone else."</i>
+<i>"Just because something isn't a lie does not mean that it isn't deceptive."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
