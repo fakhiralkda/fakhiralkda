@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop acting so small. You are the universe in ecstatic motion."</i>
+<i>"Do not ignore the passion that burns in you. Spend time to discover your gift."</i>
 <br>
-<b>- Rumi</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
