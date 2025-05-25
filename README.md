@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just because something isn't a lie does not mean that it isn't deceptive."</i>
+<i>"It is up to each of us to sing as we feel moved by the overall song of life."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
