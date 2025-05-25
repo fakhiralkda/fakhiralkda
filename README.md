@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who cannot change their minds cannot change anything."</i>
+<i>"Nothing good ever comes of violence."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
