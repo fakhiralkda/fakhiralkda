@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing good ever comes of violence."</i>
+<i>"Behind every cloud is another cloud."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
