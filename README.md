@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is easier than fault finding."</i>
+<i>"Death and life have their determined appointments; riches and honors depend upon heaven. "</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
