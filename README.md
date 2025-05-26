@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think and wonder, wonder and think."</i>
+<i>"Some of us learn from other people's mistakes and the rest of us have to be other people.  "</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
