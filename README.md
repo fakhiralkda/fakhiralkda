@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is merely the name for the desire and pursuit of the whole."</i>
+<i>"Think and wonder, wonder and think."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
