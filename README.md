@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without the rain there would be no rainbow."</i>
+<i>"The first man gets the oyster, the second man gets the shell."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
