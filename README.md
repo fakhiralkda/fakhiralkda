@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome."</i>
+<i>"Without the rain there would be no rainbow."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
