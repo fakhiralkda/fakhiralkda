@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more."</i>
+<i>"True wealth is of the heart, not of the purse."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
