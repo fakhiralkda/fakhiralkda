@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest doer must also be a great dreamer."</i>
+<i>"A mistake is only an error, it becomes a mistake when you fail to correct it."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
