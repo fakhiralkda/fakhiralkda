@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience expands your options. If you insist on immediate gratification, your choices are severely limited."</i>
+<i>"Obstacles are those frightful things you see when you take your eyes off your goals."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
