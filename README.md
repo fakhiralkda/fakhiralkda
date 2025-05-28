@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the practice of tolerance, one's enemy is the best teacher."</i>
+<i>"Winning isn't everything, but wanting to win is."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
