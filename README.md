@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not tell the truth about yourself you cannot tell it about other people."</i>
+<i>"Patience expands your options. If you insist on immediate gratification, your choices are severely limited."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
