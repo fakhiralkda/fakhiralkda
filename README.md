@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One must be deeply aware of the impermanence of the world."</i>
+<i>"The greatest doer must also be a great dreamer."</i>
 <br>
-<b>- Dogen</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
