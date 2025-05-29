@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I cannot make my days longer so I strive to make them better."</i>
+<i>"Only those who do nothing at all make no mistakes."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
