@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no limitations except those we create for ourselves."</i>
+<i>"Trust is the foundation of great leadership."</i>
 <br>
 <b>- Lolly Daskal</b>
 </blockquote>
