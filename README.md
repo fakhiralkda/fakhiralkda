@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place."</i>
+<i>"Would you rather live your life according to the approval of others or aligned with your truth and your dreams?"</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
