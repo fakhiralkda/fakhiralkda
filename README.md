@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only those who do nothing at all make no mistakes."</i>
+<i>"When you believe in a thing, believe in it all the way, implicitly and unquestionable."</i>
 <br>
-<b>- Unknown</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
