@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You'll never find rainbows if you're looking down.  "</i>
+<i>"Your success and happiness lie in you."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
