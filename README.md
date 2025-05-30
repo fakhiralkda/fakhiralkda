@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death."</i>
+<i>"No one is useless in this world who lightens the burdens of another."</i>
 <br>
-<b>- Socrates</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
