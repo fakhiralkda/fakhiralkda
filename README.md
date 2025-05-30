@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do."</i>
+<i>"The greatest value of a picture is when it forces us to notice what we never expected to see."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- John Tukey</b>
 </blockquote>
 </p>
 
