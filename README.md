@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your success and happiness lie in you."</i>
+<i>"It doesn't matter how slow you go, as long as you don't stop."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
