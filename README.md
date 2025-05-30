@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one is useless in this world who lightens the burdens of another."</i>
+<i>"Don't let what you cannot do interfere with what you can do."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
