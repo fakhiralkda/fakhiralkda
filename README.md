@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest."</i>
+<i>"You'll never find rainbows if you're looking down.  "</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
