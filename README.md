@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty."</i>
+<i>"The time is now, the place is here. Stay in the present."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
