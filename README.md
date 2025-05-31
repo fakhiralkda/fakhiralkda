@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you feed your mind with positive thoughts, the more you can attract great things into your life."</i>
+<i>"If you want things to be different, perhaps the answer is to become different yourself."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
