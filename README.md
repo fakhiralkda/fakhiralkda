@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The difference between impossible and possible is a willing heart."</i>
+<i>"How much pain they have cost us, the evils which have never happened."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
