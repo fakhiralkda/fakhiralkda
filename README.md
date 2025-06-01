@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As a man thinketh in his heart, so shall he be."</i>
+<i>"Don't stumble over something that's behind you."</i>
 <br>
-<b>- James Allen</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
