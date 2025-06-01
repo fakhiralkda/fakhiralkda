@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only he who has no use for the empire is fit to be entrusted with it."</i>
+<i>"Play your part in life, but never forget that it is only a role."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
