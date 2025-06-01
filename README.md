@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Play your part in life, but never forget that it is only a role."</i>
+<i>"As a man thinketh in his heart, so shall he be."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
