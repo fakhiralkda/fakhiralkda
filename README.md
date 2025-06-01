@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not fight with pigs - you will be smeared in mud but the pig will like it."</i>
+<i>"Thinking is difficult, that's why most people judge."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
