@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the power of the mind to be unconquerable."</i>
+<i>"For fast-acting relief try slowing down."</i>
 <br>
-<b>- Seneca</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
