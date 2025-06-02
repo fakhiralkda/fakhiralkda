@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The dreamers are the saviors of the worlds."</i>
+<i>"To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to."</i>
 <br>
-<b>- James Allen</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
