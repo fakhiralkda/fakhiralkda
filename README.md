@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A memory is a beautiful thing, it's almost a desire that you miss."</i>
+<i>"The dreamers are the saviors of the worlds."</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
