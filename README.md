@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing brings down walls as surely as acceptance."</i>
+<i>"To be fully alive is to feel that everything is possible."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
