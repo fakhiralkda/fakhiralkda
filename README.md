@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our view of the world is truly shaped by what we decide to hear."</i>
+<i>"The smallest of actions is always better than the noblest of intentions."</i>
 <br>
-<b>- William James</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
