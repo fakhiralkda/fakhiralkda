@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Shoot for the moon. Even if you miss, you'll land among the stars."</i>
+<i>"Throughout this life, you can never be certain of living long enough to take another breath."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
