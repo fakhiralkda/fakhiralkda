@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is ten percent what you experience and ninety percent how you respond to it."</i>
+<i>"It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!"</i>
 <br>
-<b>- Unknown</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
