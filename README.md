@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to understanding is a few good examples."</i>
+<i>"An intelligent person hires people who are more intelligent than he is."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
