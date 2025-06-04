@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves."</i>
+<i>"Never do things others can do and will do if there are things others cannot do or will not do."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
