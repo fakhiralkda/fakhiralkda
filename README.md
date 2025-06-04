@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!"</i>
+<i>"I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
