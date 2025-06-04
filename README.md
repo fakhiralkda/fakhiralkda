@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust your instincts: my first reaction is almost invariably the right one.  "</i>
+<i>"There are only encounters in history. There are no accidents."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
