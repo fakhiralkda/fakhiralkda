@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let the noise of others opinions drown out your inner voice."</i>
+<i>"Life begins where fear ends."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
