@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Presents are made for the pleasure of who gives them, not the merits of who receives them."</i>
+<i>"There are as many opinions as there are experts."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
