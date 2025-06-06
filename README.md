@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Growth comes at the point of resistance."</i>
+<i>"Invisible things are the only realities."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
