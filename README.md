@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forgive yourself for your faults and your mistakes and move on."</i>
+<i>"The greatest doer must also be a great dreamer."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
