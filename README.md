@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest doer must also be a great dreamer."</i>
+<i>"If you see a get rich quick scheme, that's someone else trying to get rich off of you."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
