@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not all of us can do great things. But we can do small things with great love."</i>
+<i>"It's easy to be a critic, but being a doer requires effort, risk, and change.  "</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
