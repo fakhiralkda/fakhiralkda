@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's easy to be a critic, but being a doer requires effort, risk, and change.  "</i>
+<i>"He suffers more than necessary, who suffers before it is necessary.  "</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
