@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"New opinions are always suspected, and usually opposed, without any other reason but because they are not common."</i>
+<i>"There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction."</i>
 <br>
-<b>- John Locke</b>
+<b>- G.I. Gurdjieff</b>
 </blockquote>
 </p>
 
