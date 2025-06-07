@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence comes not from always being right but not fearing to be wrong."</i>
+<i>"Wherever you are, it's the place you need to be."</i>
 <br>
-<b>- Unknown</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
