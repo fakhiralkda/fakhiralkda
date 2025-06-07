@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wherever you are, it's the place you need to be."</i>
+<i>"Life reflects your own thoughts back to you."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
