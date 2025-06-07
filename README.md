@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No problem can be solved from the same level of consciousness that created it."</i>
+<i>"Confidence comes not from always being right but not fearing to be wrong."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
