@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How much pain they have cost us, the evils which have never happened."</i>
+<i>"It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
