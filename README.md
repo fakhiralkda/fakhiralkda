@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we have no peace, it is because we have forgotten that we belong to each other."</i>
+<i>"Become the kind of leader that people would follow voluntarily, even if you had no title or position."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
