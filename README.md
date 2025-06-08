@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Become the kind of leader that people would follow voluntarily, even if you had no title or position."</i>
+<i>"How much pain they have cost us, the evils which have never happened."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
