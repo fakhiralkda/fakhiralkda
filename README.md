@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is an option, fear is not."</i>
+<i>"It's very strange that the people you love are often the people you're most cruel to."</i>
 <br>
-<b>- James Cameron</b>
+<b>- Kenneth Branagh</b>
 </blockquote>
 </p>
 
