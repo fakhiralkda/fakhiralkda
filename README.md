@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength."</i>
+<i>"Working hard for something we don't care about is called stress: Working hard for something we love is called passion."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
