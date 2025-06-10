@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where words fail, music speaks."</i>
+<i>"We must have strong minds, ready to accept facts as they are."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
