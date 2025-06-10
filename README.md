@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Identification with our mind causes thought to become compulsive."</i>
+<i>"The smallest of actions is always better than the noblest of intentions."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
