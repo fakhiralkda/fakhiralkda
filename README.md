@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talk sense to a fool and he calls you foolish."</i>
+<i>"My sun sets to rise again."</i>
 <br>
-<b>- Euripides</b>
+<b>- Robert Browning</b>
 </blockquote>
 </p>
 
