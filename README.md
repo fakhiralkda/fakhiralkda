@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The soul is neither born, and nor does it die."</i>
+<i>"Opportunity comes when you continually push forward."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
