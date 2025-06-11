@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is ten percent what you experience and ninety percent how you respond to it."</i>
+<i>"If you don't break your ropes while you're alive, do you think ghosts will do it after?"</i>
 <br>
-<b>- Unknown</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
