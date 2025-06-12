@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness cannot be traveled to, owned, earned, worn or consumed."</i>
+<i>"When things go wrong, don't go with them."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
