@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunity comes when you continually push forward."</i>
+<i>"The friend is the man who knows all about you, and still likes you."</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
