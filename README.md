@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When things go wrong, don't go with them."</i>
+<i>"Everyday is a second chance."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
