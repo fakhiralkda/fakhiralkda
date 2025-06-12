@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The friend is the man who knows all about you, and still likes you."</i>
+<i>"Learn only how to avoid seeking for and attaching yourselves to anything."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
