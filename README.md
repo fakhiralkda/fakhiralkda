@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin."</i>
+<i>"Your chances of success in any undertaking can always be measured by your belief in yourself."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
