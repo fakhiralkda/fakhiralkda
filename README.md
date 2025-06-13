@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise man can learn more from a foolish question than a fool can learn from a wise answer.  "</i>
+<i>"Judgments prevent us from seeing the good that lies beyond appearances.  "</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
