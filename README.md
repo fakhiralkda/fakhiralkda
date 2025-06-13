@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your chances of success in any undertaking can always be measured by your belief in yourself."</i>
+<i>"Problems remain as problems because people are busy defending them rather than finding solutions."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
