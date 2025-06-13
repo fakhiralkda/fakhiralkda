@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The essence of the Way is detachment."</i>
+<i>"Our truest life is when we are in dreams awake."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
