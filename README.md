@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The final mystery is oneself."</i>
+<i>"Happiness is pretty simple: someone to love, something to do, something to look forward to."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
