@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be - don't try to become "</i>
+<i>"If you truly love Nature, you will find beauty everywhere. "</i>
 <br>
-<b>- Osho</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
