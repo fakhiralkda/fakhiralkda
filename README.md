@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perplexity is the beginning of knowledge."</i>
+<i>"The best teacher is experience and not through someone's distorted point of view."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
