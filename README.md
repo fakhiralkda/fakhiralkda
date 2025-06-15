@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can do two things at once, but you can't focus effectively on two things at once."</i>
+<i>"Don't settle, and don't struggle."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
