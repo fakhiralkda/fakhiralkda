@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is pretty simple: someone to love, something to do, something to look forward to."</i>
+<i>"Happiness can be found, even in the darkest of times, if one only remembers to turn on the light."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
