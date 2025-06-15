@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you lose your desire for things that do not matter, you will be free."</i>
+<i>"Trust is built and maintained by many small actions over time."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
