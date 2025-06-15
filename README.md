@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't settle, and don't struggle."</i>
+<i>"Creative people are often found either disagreeable or intimidating by mediocrities."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
