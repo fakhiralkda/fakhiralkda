@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness can be found, even in the darkest of times, if one only remembers to turn on the light."</i>
+<i>"You can do two things at once, but you can't focus effectively on two things at once."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
