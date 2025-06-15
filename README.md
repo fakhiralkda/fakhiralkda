@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust is built and maintained by many small actions over time."</i>
+<i>"Be - don't try to become "</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
