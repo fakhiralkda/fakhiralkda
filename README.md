@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pursuit of mastery bears gifts. "</i>
+<i>"When you lose your desire for things that do not matter, you will be free."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
