@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creative people are often found either disagreeable or intimidating by mediocrities."</i>
+<i>"You are your best thing."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Toni Morrison</b>
 </blockquote>
 </p>
 
