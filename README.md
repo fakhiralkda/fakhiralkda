@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best teacher is experience and not through someone's distorted point of view."</i>
+<i>"There is always risk, so learn to manage risk instead of avoiding it."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
