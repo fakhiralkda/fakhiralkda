@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Care about what other people think and you will always be their prisoner."</i>
+<i>"Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
