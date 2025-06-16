@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Discipline yourself, and others won't need to."</i>
+<i>"I can live without money, but I cannot live without love."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
