@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I can live without money, but I cannot live without love."</i>
+<i>"Care about what other people think and you will always be their prisoner."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
