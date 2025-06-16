@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best revenge is to be unlike him who performed the injury."</i>
+<i>"It is better to offer no excuse than a bad one. "</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
