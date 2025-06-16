@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is always risk, so learn to manage risk instead of avoiding it."</i>
+<i>"Discipline yourself, and others won't need to."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
