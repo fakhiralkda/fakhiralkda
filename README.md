@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have as much laughter as you have faith."</i>
+<i>"Friendship takes time and energy if it's going to work."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
