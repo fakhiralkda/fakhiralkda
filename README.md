@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no second chances in life, except to feel remorse."</i>
+<i>"Hold yourself responsible for a higher standard than anybody else expects of you."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
