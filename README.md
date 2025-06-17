@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hold yourself responsible for a higher standard than anybody else expects of you."</i>
+<i>"You have as much laughter as you have faith."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
