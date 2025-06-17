@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Maybe you are searching among the branches, for what only appears in the roots."</i>
+<i>"On the other side of the clouds is a bright blue sky."</i>
 <br>
-<b>- Rumi</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
