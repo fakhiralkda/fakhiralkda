@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else."</i>
+<i>"No one is useless in this world who lightens the burdens of another."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
