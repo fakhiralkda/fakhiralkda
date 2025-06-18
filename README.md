@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one is useless in this world who lightens the burdens of another."</i>
+<i>"The friendship that can cease has never been real. "</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
