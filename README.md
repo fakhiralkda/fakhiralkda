@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your success and happiness lie in you."</i>
+<i>"Where words fail, music speaks."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
