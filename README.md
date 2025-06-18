@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest step towards a life of simplicity is to learn to let go."</i>
+<i>"It is up to each of us to sing as we feel moved by the overall song of life."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
