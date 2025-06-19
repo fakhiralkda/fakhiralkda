@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The happiest people in the world are those who feel absolutely terrific about themselves."</i>
+<i>"Forever is composed of now's."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
