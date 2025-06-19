@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop being tormented by everyone else's reaction to you."</i>
+<i>"You know you are on the road to success if you would do your job and not be paid for it."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
