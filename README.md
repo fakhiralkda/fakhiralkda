@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forever is composed of now's."</i>
+<i>"Time is a game played beautifully by children."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
