@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. "</i>
+<i>"Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
