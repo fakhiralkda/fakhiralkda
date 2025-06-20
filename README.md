@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't spend major time on minor things."</i>
+<i>"Man should fear never beginning to live."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
