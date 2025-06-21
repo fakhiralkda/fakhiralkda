@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we will be quiet and ready enough, we shall find compensation in every disappointment."</i>
+<i>"Don't let what you cannot do interfere with what you can do."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
