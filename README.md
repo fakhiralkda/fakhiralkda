@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time."</i>
+<i>"If you care about someone enough, you'll always be there for them no matter what."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
