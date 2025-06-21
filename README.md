@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there."</i>
+<i>"The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
