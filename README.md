@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thinking is difficult, that's why most people judge."</i>
+<i>"Tall oaks grow from little acorns."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
