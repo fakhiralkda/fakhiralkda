@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways."</i>
+<i>"Here and now...breathe and relax...in battle and in life."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
