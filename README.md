@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your greatest asset is your earning ability. Your greatest resource is your time."</i>
+<i>"Don't hate the player. Change the game."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
