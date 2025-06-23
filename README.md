@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no accidents... there is only some purpose that we haven't yet understood."</i>
+<i>"Dreams are the royal road to the unconscious. "</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
