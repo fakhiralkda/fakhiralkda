@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's the job that's never started that takes the longest to finish."</i>
+<i>"It is literally true that you can succeed best and quickest by helping others succeed."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
