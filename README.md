@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like underwear, should be changed twice a day.  "</i>
+<i>"You cannot teach a crab to walk straight."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
