@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one can hurt you without your consent."</i>
+<i>"You're always free to change your mind and choose a different future, or a different past."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
