@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even the finest sword plunged into salt water will eventually rust."</i>
+<i>"There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
