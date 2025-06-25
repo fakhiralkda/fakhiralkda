@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your eyes on the stars, but remember to keep your feet on the ground."</i>
+<i>"Even the finest sword plunged into salt water will eventually rust."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
