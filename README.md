@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why live an ordinary life, when you can live an extraordinary one."</i>
+<i>"Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
