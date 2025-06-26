@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes out of your biggest misery, comes your greatest gain."</i>
+<i>"Supreme excellence consists of breaking the enemy's resistance without fighting."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
