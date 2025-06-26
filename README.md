@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you correct your mind, the rest of your life will fall into place."</i>
+<i>"There are as many opinions as there are experts."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
