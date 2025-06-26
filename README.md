@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head."</i>
+<i>"If you have only one smile in you give it to the people you love."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
