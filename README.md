@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you have only one smile in you give it to the people you love."</i>
+<i>"It's always to soon to quit!"</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
