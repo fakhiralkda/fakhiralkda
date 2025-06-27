@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy."</i>
+<i>"People who have goals succeed because they know where they're going. It's that simple."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
