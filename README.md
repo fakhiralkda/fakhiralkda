@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is love and love is life."</i>
+<i>"Out of suffering have emerged the strongest souls; the most massive characters are seared with scars."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
