@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The art of being happy lies in the power of extracting happiness from common things."</i>
+<i>"The fear of death is more to be feared, than death itself."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
