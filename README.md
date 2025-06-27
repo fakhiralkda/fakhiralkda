@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fear of death is more to be feared, than death itself."</i>
+<i>"The friend is the man who knows all about you, and still likes you."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
