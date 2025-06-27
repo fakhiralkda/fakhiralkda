@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who cheats the earth will be cheated by the earth."</i>
+<i>"Never close your lips to those whom you have already opened your heart."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
