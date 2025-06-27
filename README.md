@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"First say to yourself what you would be; and then do what you have to do."</i>
+<i>"Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
