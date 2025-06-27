@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never close your lips to those whom you have already opened your heart."</i>
+<i>"It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
