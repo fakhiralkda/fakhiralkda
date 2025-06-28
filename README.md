@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every moment is a fresh beginning."</i>
+<i>"Where there is anger, there is always pain underneath."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
