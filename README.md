@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is the greatest friend."</i>
+<i>"Only those who do nothing at all make no mistakes."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
