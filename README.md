@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even the finest sword plunged into salt water will eventually rust."</i>
+<i>"Pursue what catches your heart, not what catches your eyes."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
