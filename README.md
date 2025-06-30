@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone you meet is fighting a battle you know nothing about. Be kind. Always."</i>
+<i>"The only defense against the world is a thorough knowledge of it."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
