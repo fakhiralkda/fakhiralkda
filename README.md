@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you're the only sane person, you look like the only insane person."</i>
+<i>"A little progress each day adds up to big results."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
