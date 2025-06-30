@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is not something outside to be discovered, it is something inside to be realized."</i>
+<i>"When you're the only sane person, you look like the only insane person."</i>
 <br>
-<b>- Osho</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
