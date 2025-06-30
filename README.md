@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who is not contented with what he has, would not be contented with what he would like to have."</i>
+<i>"Fallacies do not cease to be fallacies because they become fashions."</i>
 <br>
-<b>- Socrates</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
