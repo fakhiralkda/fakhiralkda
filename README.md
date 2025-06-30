@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let the behavior of others destroy your inner peace."</i>
+<i>"Be kind whenever possible. It is always possible."</i>
 <br>
 <b>- Dalai Lama</b>
 </blockquote>
