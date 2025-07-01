@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whenever you find yourself on the side of the majority, it is time to reform."</i>
+<i>"Never waste a minute of your precious life thinking about people you don't like."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
