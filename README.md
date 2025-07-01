@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We need a backbone, not a wishbone."</i>
+<i>"To earn more you must learn more."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
