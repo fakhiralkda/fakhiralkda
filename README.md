@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never waste a minute of your precious life thinking about people you don't like."</i>
+<i>"Life is a question and how we live it is our answer."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
