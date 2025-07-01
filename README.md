@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a question and how we live it is our answer."</i>
+<i>"Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
