@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound."</i>
+<i>"Wisdom is doing now what you are going to be happy with later on."</i>
 <br>
-<b>- James Allen</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
