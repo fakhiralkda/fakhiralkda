@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners."</i>
+<i>"Throw your heart over the fence and the rest will follow"</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
