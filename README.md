@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A golden cage is still just a cage."</i>
+<i>"You miss 100% of the shots you don't take."</i>
 <br>
-<b>- Anita Krizzan</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
