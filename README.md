@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. "</i>
+<i>"When you judge another, you do not define them, you define yourself"</i>
 <br>
-<b>- Jack London</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
