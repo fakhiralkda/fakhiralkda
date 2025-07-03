@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We will outstretch the hand if you unclench your fist."</i>
+<i>"It is hard to fail, but it is worse never to have tried to succeed."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
