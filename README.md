@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can handle rejection, you'll learn to get everything you want."</i>
+<i>"Everything is in your own heart."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
