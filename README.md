@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you judge another, you do not define them, you define yourself"</i>
+<i>"Life is what happens to you while you're busy making other plans."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
