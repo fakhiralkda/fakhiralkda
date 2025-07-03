@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything is in your own heart."</i>
+<i>"Knowledge isn't power until it is applied."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
