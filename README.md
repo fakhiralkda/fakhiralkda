@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not meant to be easy my child, but take courage: it can be delightful."</i>
+<i>"There are people who have money and people who are rich."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
