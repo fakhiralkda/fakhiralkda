@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Either you run the day or the day runs you."</i>
+<i>"Silence is the great teacher and to learn its lessons you must pay attention to it."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
