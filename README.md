@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A change is brought about because ordinary people do extraordinary things."</i>
+<i>"Deeds will not be less valiant because they are upraised."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
