@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is always risk, so learn to manage risk instead of avoiding it."</i>
+<i>"All cruelty springs from weakness.  "</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
