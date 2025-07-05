@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing ever goes away until it has taught us what we need to know."</i>
+<i>"Would you rather live your life according to the approval of others or aligned with your truth and your dreams?"</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
