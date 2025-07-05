@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust is the foundation of great leadership."</i>
+<i>"Unless a man is master of his soul, all other kinds of mastery amount to little."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
