@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is a great teacher. If you're open to it every mistake has a lesson to offer."</i>
+<i>"Never let your memories be greater than your dreams."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Doug Ivester</b>
 </blockquote>
 </p>
 
