@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is never final; failure is never fatal."</i>
+<i>"Trust is the foundation of great leadership."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
