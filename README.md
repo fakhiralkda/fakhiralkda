@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Would you rather live your life according to the approval of others or aligned with your truth and your dreams?"</i>
+<i>"Forget safety. Live where you fear to live."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
