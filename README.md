@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where there is anger, there is always pain underneath."</i>
+<i>"When you have a dream, you've got to grab it and never let go."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
