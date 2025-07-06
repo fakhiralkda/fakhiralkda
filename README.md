@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not change direction, you may end up where you are heading."</i>
+<i>"Even in the grave, all is not lost."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
