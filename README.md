@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are what you believe yourself to be."</i>
+<i>"Make yourself so useful to other people, that they think you are irreplaceable."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
