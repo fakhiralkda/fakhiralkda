@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the middle of chaos lies opportunity.  "</i>
+<i>"Learn the rules like a pro, so you can break them like an artist."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
