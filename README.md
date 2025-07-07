@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genius is patience."</i>
+<i>"You get in life what you have the courage to ask for."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
