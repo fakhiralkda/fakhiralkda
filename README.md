@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You do not read a book for the book's sake, but for your own."</i>
+<i>"Lust, anger and greed are the three gates to self-destructive hell."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
