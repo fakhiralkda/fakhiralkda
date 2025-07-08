@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you're at the end of your rope, tie a knot and hold on."</i>
+<i>"Deliberately seek the company of people who influence you to think and act on building the life you desire."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
