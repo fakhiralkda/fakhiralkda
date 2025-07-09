@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better the cottage where one is merry than the palace where one weeps."</i>
+<i>"He who has overcome his fears will truly be free."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
