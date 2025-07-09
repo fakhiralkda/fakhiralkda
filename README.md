@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Focus is a matter of deciding what things you're not going to do."</i>
+<i>"To become what you are not, behave as you do not."</i>
 <br>
-<b>- John Carmack</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
