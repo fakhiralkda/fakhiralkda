@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lust, anger and greed are the three gates to self-destructive hell."</i>
+<i>"To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
