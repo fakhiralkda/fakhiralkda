@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Walking with a friend in the dark is better than walking alone in the light."</i>
+<i>"There is no path to Happiness. Happiness is the path."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
