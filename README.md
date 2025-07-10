@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Emancipate yourself from mental slavery, none but ourselves can free our mind."</i>
+<i>"All power is from within and therefore under our control."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
