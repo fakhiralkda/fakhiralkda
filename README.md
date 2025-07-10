@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What loneliness is more lonely than distrust?"</i>
+<i>"A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
