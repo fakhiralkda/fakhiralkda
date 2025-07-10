@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Engage in those actions and thoughts that nurture the good qualities you want to have."</i>
+<i>"We take care of the future best by taking care of the present now."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
