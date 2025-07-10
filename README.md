@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All power is from within and therefore under our control."</i>
+<i>"Numbing the pain for a while will make it worse when you finally feel it."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
