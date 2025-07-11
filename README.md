@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Out of your vulnerabilities will come your strength."</i>
+<i>"Relax. Nothing is under control."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Adi Da Samraj</b>
 </blockquote>
 </p>
 
