@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A self that goes on changing is a self that goes on living."</i>
+<i>"Would you rather live your life according to the approval of others or aligned with your truth and your dreams?"</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
