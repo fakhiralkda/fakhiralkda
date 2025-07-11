@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd."</i>
+<i>"The greatest work that kindness does to others is that it makes them kind themselves."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
