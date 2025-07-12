@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success does not consist in never making mistakes but in never making the same one a second time."</i>
+<i>"We learn to walk by falling down. If we never fell down, we would never walk."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
