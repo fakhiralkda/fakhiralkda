@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The people who succeed are irrationally passionate about something."</i>
+<i>"Start the day with love, spend the day with love, fill the day with love and end the day with love."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
