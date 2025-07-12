@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember we're all in this alone."</i>
+<i>"The four P's to success are pressure, persistence, perseverance, and prayer."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
