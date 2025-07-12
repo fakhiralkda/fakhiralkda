@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The enemy is a very good teacher."</i>
+<i>"Remember we're all in this alone."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
