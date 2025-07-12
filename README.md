@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The four P's to success are pressure, persistence, perseverance, and prayer."</i>
+<i>"When your intuition is strong, follow it."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
