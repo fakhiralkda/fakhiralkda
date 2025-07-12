@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  "</i>
+<i>"Success does not consist in never making mistakes but in never making the same one a second time."</i>
 <br>
-<b>- David Brinkley</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
