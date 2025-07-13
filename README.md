@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We learn to walk by falling down. If we never fell down, we would never walk."</i>
+<i>"Often in the real world, it's not the smart that get ahead, but the bold."</i>
 <br>
 <b>- Robert Kiyosaki</b>
 </blockquote>
