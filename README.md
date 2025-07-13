@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"But better die than live mechanically a life that is a repetition of repetitions."</i>
+<i>"What are we doing here, that is the question."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
