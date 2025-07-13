@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Often in the real world, it's not the smart that get ahead, but the bold."</i>
+<i>"There can be no deep disappointment where there is not deep love."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
