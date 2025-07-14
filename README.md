@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions."</i>
+<i>"Difficult roads often lead to beautiful destinations."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
