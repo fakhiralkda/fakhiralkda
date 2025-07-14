@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Difficult roads often lead to beautiful destinations."</i>
+<i>"Experience is simply the name we give our mistakes. "</i>
 <br>
-<b>- Unknown</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
