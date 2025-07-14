@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return."</i>
+<i>"Good judgment comes from experience, and experience comes from bad judgment."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
