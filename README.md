@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good judgment comes from experience, and experience comes from bad judgment."</i>
+<i>"Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
