@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience is a bitter plant, but its fruit is sweet."</i>
+<i>"The wisest men follow their own direction."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
