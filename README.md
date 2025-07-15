@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience expands your options. If you insist on immediate gratification, your choices are severely limited."</i>
+<i>"Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
