@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's better to have a short life that is full of what you like doing, than a long life spent in a miserable way."</i>
+<i>"Remain calm. Be kind."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
