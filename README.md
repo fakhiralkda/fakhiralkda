@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest doer must also be a great dreamer."</i>
+<i>"Patience is a bitter plant, but its fruit is sweet."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
