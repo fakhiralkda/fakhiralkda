@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A person hears only what they understand."</i>
+<i>"Where focus goes, energy flows."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
