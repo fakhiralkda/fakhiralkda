@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't change your mind just because people are offended; change your mind if you're wrong."</i>
+<i>"When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
