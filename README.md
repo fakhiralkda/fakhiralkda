@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality is more important than quantity. One home run is much better than two doubles."</i>
+<i>"In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
