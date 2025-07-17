@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of life is to fall seven times and to get up eight times."</i>
+<i>"Passion is energy. Feel the power that comes from focusing on what excites you. "</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
