@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ones who are crazy enough to think they can change the world, are the ones that do."</i>
+<i>"We have a choice everyday regarding the attitude we will embrace for that day."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Charles Swindoll</b>
 </blockquote>
 </p>
 
