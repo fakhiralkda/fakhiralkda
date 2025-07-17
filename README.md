@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Passion is energy. Feel the power that comes from focusing on what excites you. "</i>
+<i>"There is a big difference between being centered and being self-centered."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
