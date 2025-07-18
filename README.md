@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Start the day with love, spend the day with love, fill the day with love and end the day with love."</i>
+<i>"No one returns from a long journey the same person they were before."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
