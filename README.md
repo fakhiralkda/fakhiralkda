@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A change is brought about because ordinary people do extraordinary things."</i>
+<i>"Confidence is the greatest friend."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
