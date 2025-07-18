@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"At every moment where language can't go, that's your mind."</i>
+<i>"Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. "</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
