@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations."</i>
+<i>"You are not the drop in the ocean, but the ocean in the drop."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
