@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The true soldier fights not because he hates what is in front of him, but because he loves what is behind him."</i>
+<i>"Never to suffer would never to have been blessed."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
