@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are more people who wish to be loved than there are who are willing to love. "</i>
+<i>"Where there is no struggle, there is no strength. "</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
