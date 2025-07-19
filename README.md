@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence."</i>
+<i>"What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
