@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the power of the mind to be unconquerable."</i>
+<i>"The desire for more positive experience is itself a negative experience."</i>
 <br>
-<b>- Seneca</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
