@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is not fatal, but failure to change might be."</i>
+<i>"Each day your life grows a day shorter. Make every move count."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
