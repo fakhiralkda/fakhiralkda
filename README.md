@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know."</i>
+<i>"Failure is not fatal, but failure to change might be."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
