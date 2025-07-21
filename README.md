@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A person who does not read is no better than one cannot read."</i>
+<i>"The more I want to get something done, the less I call it work."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
