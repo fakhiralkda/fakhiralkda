@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your heart is full of fertile seeds, waiting to sprout."</i>
+<i>"It's not about what it is, it's about what it can become."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
