@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Smell the cheese often so you know when it is getting old."</i>
+<i>"You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
