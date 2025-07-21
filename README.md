@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Exceptional thinkers ignore their critics and go about their business making history."</i>
+<i>"It is better to offer no excuse than a bad one. "</i>
 <br>
-<b>- John Eliot</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
