@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die."</i>
+<i>"Creativity is the greatest rebellion in existence."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
