@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction."</i>
+<i>"If you want more luck, take more chances."</i>
 <br>
-<b>- G.I. Gurdjieff</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
