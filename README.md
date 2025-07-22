@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed is he who expects nothing, for he shall never be disappointed."</i>
+<i>"If you don't find the time, if you don't do the work, you don't get the results."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
