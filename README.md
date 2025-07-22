@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wit is educated insolence."</i>
+<i>"The source of a true smile is an awakened mind."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
