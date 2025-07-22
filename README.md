@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't find the time, if you don't do the work, you don't get the results."</i>
+<i>"It doesn't matter where you are, you are nowhere compared to where you can go."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
