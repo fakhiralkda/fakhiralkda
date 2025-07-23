@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do."</i>
+<i>"No one returns from a long journey the same person they were before."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
