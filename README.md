@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Evil is whatever distracts. "</i>
+<i>"Change begets change. Nothing propagates so fast."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
