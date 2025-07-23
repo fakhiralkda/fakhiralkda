@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone telling you it's pointless to share your perspective is sharing their perspective."</i>
+<i>"Everything will be ok in the end. If it's not ok, it's not the end."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
