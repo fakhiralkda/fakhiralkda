@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your heart is full of fertile seeds, waiting to sprout."</i>
+<i>"He who can, does."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
