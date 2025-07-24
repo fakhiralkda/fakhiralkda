@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Numbing the pain for a while will make it worse when you finally feel it."</i>
+<i>"Your heart is full of fertile seeds, waiting to sprout."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
