@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."</i>
+<i>"Everything begins with an idea."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
