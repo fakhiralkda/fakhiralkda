@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Attitude drives actions. Actions drive results. Results drive lifestyles."</i>
+<i>"Great minds discuss ideas. Average minds discuss events. Small minds discuss people."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
