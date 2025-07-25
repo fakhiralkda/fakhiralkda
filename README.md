@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being wrong brings the opportunity for growth."</i>
+<i>"If we will be quiet and ready enough, we shall find compensation in every disappointment."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
