@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The meaning of life is just to be alive. It is so plain and so obvious and so simple."</i>
+<i>"If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Seungsahn</b>
 </blockquote>
 </p>
 
