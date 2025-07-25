@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cleverness is not wisdom."</i>
+<i>"If you chase two rabbits, you catch none."</i>
 <br>
-<b>- Euripides</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
