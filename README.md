@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything begins with an idea."</i>
+<i>"Being wrong brings the opportunity for growth."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
