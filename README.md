@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest value of a picture is when it forces us to notice what we never expected to see."</i>
+<i>"Anxiety is the dizziness of freedom."</i>
 <br>
-<b>- John Tukey</b>
+<b>- Soren Kierkegaard</b>
 </blockquote>
 </p>
 
