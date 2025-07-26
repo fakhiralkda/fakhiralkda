@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be not glad at the misfortune of another, though he may be your enemy. "</i>
+<i>"Every man is guilty of all the good he did not do. "</i>
 <br>
-<b>- George Washington</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
