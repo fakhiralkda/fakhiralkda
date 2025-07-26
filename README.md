@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We become brave by doing brave acts."</i>
+<i>"I will not walk backward in life."</i>
 <br>
-<b>- Aristotle</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
