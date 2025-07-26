@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anxiety is the dizziness of freedom."</i>
+<i>"Success is going from failure to failure without losing your enthusiasm"</i>
 <br>
-<b>- Soren Kierkegaard</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
