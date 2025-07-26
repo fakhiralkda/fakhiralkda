@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You talk when you cease to be at peace with your thoughts."</i>
+<i>"We become brave by doing brave acts."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
