@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's what you do in the present that will redeem the past and thereby change the future."</i>
+<i>"The greatest value of a picture is when it forces us to notice what we never expected to see."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- John Tukey</b>
 </blockquote>
 </p>
 
