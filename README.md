@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Create each day anew."</i>
+<i>"Life itself is the most wonderful fairy tale."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
