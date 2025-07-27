@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cherish forever what makes you unique, cuz you're really a yawn if it goes."</i>
+<i>"The goal is not to show how great you are to others, but how vulnerable you are to yourself."</i>
 <br>
-<b>- Bette Midler</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
