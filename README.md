@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you give, the more comes back to you."</i>
+<i>"Paths are made by walking."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
