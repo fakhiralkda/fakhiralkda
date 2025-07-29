@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results."</i>
+<i>"The world is a puzzle; no need to make sense out of it."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
