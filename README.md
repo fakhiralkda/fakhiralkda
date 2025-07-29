@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do something worth remembering."</i>
+<i>"Each day provides it's own gifts."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
