@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on."</i>
+<i>"Today you are you, that is truer than true. There is no one alive who is you-er than you."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
