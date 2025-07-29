@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is a puzzle; no need to make sense out of it."</i>
+<i>"Do something worth remembering."</i>
 <br>
-<b>- Socrates</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
