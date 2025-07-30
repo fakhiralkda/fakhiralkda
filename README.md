@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without struggle, no progress and no result. Every breaking of habit produces a change in the machine."</i>
+<i>"Small men think they are small; great men never know they are great. "</i>
 <br>
-<b>- G.I. Gurdjieff</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
