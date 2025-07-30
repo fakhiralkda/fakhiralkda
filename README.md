@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't need to be better than anyone else, you just need to be better than you used to be."</i>
+<i>"If your happiness depends on what somebody else does, I guess you do have a problem."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
