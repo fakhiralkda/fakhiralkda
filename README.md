@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can't help everyone, but everyone can help someone."</i>
+<i>"If you do not conquer self, you will be conquered by self."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
