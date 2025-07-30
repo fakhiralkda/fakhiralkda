@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not conquer self, you will be conquered by self."</i>
+<i>"There exists only the present instant; a Now which always and without end is itself new."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
