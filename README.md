@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing ever goes away until it has taught us what we need to know."</i>
+<i>"When you have a dream, you've got to grab it and never let go."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
