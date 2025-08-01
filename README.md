@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't stop when you're tired. Stop when you're done."</i>
+<i>"It is our experiences that mold us into who we are...during times of adversity our true character will show."</i>
 <br>
-<b>- Marilyn Monroe</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
