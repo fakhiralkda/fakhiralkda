@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not look for approval except for the consciousness of doing your best."</i>
+<i>"Blessed is he who expects nothing, for he shall never be disappointed."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
