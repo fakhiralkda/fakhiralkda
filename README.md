@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Treat every moment as your last. It is not preparation for something else."</i>
+<i>"A little progress each day adds up to big results."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
