@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed is he who expects nothing, for he shall never be disappointed."</i>
+<i>"Some people find fault like there is a reward for it.  "</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
