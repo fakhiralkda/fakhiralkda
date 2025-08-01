@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to know what God thinks about money just look at the people He gives it to."</i>
+<i>"Without struggle, no progress and no result. Every breaking of habit produces a change in the machine."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- G.I. Gurdjieff</b>
 </blockquote>
 </p>
 
