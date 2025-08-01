@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I want the fishing rod, not the fish."</i>
+<i>"If you want to know what God thinks about money just look at the people He gives it to."</i>
 <br>
-<b>- Yanni</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
