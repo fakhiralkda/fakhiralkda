@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is hard to fail, but it is worse never to have tried to succeed."</i>
+<i>"Do not look for approval except for the consciousness of doing your best."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
