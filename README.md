@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn from the rejection and turn it into an opportunity!"</i>
+<i>"Sometimes good things fall apart so better things can fall together."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
