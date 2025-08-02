@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We become what we believe."</i>
+<i>"If you're afraid to die, you're afraid to live. You can't have one without the other."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
