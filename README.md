@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that is done in the world is done by hope."</i>
+<i>"One must be deeply aware of the impermanence of the world."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
