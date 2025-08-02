@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Storms don't last forever."</i>
+<i>"All things come into being by conflict of opposites."</i>
 <br>
-<b>- Unknown</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
