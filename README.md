@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A fear of weakness only strengthens weakness."</i>
+<i>"We become what we believe."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
