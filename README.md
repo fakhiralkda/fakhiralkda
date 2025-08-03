@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't pretend to know everything; I just only speak on matters I know I'll win."</i>
+<i>"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. "</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Nikola Tesla</b>
 </blockquote>
 </p>
 
