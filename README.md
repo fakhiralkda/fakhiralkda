@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your best life will not be found in comfort. It will be found in fighting for what you believe in."</i>
+<i>"There are more people who wish to be loved than there are who are willing to love. "</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
