@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done."</i>
+<i>"The law of harvest is to reap more than you sow. Sow an act, and you reap a habit. Sow a habit and you reap a character. Sow a character and you reap a destiny."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
