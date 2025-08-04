@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hold yourself responsible for a higher standard than anybody else expects of you."</i>
+<i>"Conquer the devils with a little thing called love."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
