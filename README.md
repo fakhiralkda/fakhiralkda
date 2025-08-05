@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is exact correspondence with reality. "</i>
+<i>"The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
