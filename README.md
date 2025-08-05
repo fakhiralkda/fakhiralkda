@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To live outside the law, you must be honest. "</i>
+<i>"Truth is exact correspondence with reality. "</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
