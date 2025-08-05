@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present."</i>
+<i>"Nothing is really work unless you would rather be doing something else. "</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
