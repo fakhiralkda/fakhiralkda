@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How people treat you is their karma; how you react is yours. "</i>
+<i>"You can start changing our world for the better daily, no matter how small the action."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
