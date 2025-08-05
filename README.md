@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest step towards a life of simplicity is to learn to let go."</i>
+<i>"To live outside the law, you must be honest. "</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
