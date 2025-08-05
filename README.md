@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No great mind has ever existed without a touch of madness."</i>
+<i>"When you have a dream, you've got to grab it and never let go."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
