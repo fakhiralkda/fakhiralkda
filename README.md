@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whoever is happy will make others happy too."</i>
+<i>"As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
