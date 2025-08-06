@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. "</i>
+<i>"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
