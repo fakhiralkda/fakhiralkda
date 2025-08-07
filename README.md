@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I never dwell on what happened. You can't change it. Move forward."</i>
+<i>"If you done it, it ain't bragging."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
