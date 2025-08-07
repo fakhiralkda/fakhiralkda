@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Goals are the fuel in the furnace of achievement."</i>
+<i>"Life is too important to be taken seriously."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
