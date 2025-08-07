@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise man can learn more from a foolish question than a fool can learn from a wise answer.  "</i>
+<i>"Success is getting what you want, happiness is wanting what you get."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
