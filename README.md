@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man."</i>
+<i>"Discontent is the first necessity of progress."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
