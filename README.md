@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A fool sees himself as another, but a wise man sees others as himself."</i>
+<i>"There is no greater agony than bearing an untold story inside you."</i>
 <br>
-<b>- Dogen</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
