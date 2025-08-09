@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Doing the best at this moment puts you in the best place for the next moment."</i>
+<i>"Often in the real world, it's not the smart that get ahead, but the bold."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
