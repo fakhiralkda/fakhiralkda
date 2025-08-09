@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is never easy, but always possible."</i>
+<i>"Champions keep playing until they get it right."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Billie Jean King</b>
 </blockquote>
 </p>
 
