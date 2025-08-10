@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win."</i>
+<i>"The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
