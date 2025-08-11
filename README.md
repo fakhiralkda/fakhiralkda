@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Coming together is a beginning, staying together is progress, and working together is success. "</i>
+<i>"Do not fight with pigs - you will be smeared in mud but the pig will like it."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
