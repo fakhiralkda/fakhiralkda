@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are three classes of people: those who see. Those who see when they are shown. Those who do not see."</i>
+<i>"All animals except man know that the principal business of life is to enjoy it."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
