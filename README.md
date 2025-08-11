@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We make a living by what we get, but we make a life by what we give."</i>
+<i>"There are no second chances in life, except to feel remorse."</i>
 <br>
-<b>- Unknown</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
