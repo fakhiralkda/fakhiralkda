@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can only lose something that you have, but you cannot lose something that you are."</i>
+<i>"It is in changing that we find purpose."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
