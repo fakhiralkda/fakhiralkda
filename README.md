@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When at last you are come to the ocean of happiness, do not go back thirsty."</i>
+<i>"A dead thing can go with the stream, but only a living thing can go against it."</i>
 <br>
-<b>- Kabir</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
