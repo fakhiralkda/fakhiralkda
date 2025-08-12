@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is always risk, so learn to manage risk instead of avoiding it."</i>
+<i>"Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
