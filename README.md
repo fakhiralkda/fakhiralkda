@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We lie the loudest when we lie to ourselves."</i>
+<i>"Don't Let Yesterday Take Up Too Much Of Today."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
