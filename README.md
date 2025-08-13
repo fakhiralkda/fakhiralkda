@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"FOCUS - Follow One Course Until Successful"</i>
+<i>"You are the only problem you will ever have and you are the only solution."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
