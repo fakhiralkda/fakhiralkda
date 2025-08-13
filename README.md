@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature loves to hide."</i>
+<i>"FOCUS - Follow One Course Until Successful"</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
