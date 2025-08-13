@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise man can learn more from a foolish question than a fool can learn from a wise answer.  "</i>
+<i>"Nature loves to hide."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
