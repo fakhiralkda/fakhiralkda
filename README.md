@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone thinks of changing the world, but no one thinks of changing himself."</i>
+<i>"Without struggle, no progress and no result. Every breaking of habit produces a change in the machine."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- G.I. Gurdjieff</b>
 </blockquote>
 </p>
 
