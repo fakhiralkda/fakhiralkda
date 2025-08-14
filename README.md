@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For things to change, you have to change."</i>
+<i>"Saying nothing sometimes says the most."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
