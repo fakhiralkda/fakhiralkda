@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain."</i>
+<i>"For things to change, you have to change."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
