@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry."</i>
+<i>"At every moment where language can't go, that's your mind."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
