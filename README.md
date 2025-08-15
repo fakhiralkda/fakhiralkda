@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Once you learn to quit, it becomes a habit."</i>
+<i>"The cost of leadership is self-interest."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
