@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're never too old for anything."</i>
+<i>"Be not glad at the misfortune of another, though he may be your enemy. "</i>
 <br>
-<b>- Betty White</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
