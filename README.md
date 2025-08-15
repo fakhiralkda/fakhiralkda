@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have never in my life learned anything from any man who agreed with me."</i>
+<i>"Wealth consists not in having great possessions, but in having few wants."</i>
 <br>
-<b>- Dudley Field Malone</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
