@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"At every moment where language can't go, that's your mind."</i>
+<i>"Once you learn to quit, it becomes a habit."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
