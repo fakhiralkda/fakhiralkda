@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything you've ever wanted is on the other side of fear."</i>
+<i>"The roots of education are bitter, but the fruit is sweet."</i>
 <br>
-<b>- George Addair</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
