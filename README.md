@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Heroes don't need to talk about what they did."</i>
+<i>"Art is the signature of civilizations. "</i>
 <br>
-<b>- W.P. Kinsella</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
