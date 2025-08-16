@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it."</i>
+<i>"It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
