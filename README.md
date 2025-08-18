@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good entrepreneurs don't fail because they stay at it."</i>
+<i>"The ability to observe without evaluating is the highest form of intelligence."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
