@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your eyes on the stars, but remember to keep your feet on the ground."</i>
+<i>"We must not sit down and wait for miracles. Up and be going!"</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
