@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not about what it is, it's about what it can become."</i>
+<i>"The whole world is a series of miracles, but we're so used to them we call them ordinary things."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
