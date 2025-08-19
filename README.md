@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people don't like change, but you need to embrace change if the alternative is disaster."</i>
+<i>"Distant water does not put out a nearby fire."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
