@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person who is his own master cannot tolerate another boss. "</i>
+<i>"Some people don't like change, but you need to embrace change if the alternative is disaster."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
