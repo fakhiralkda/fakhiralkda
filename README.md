@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we all did the things we are capable of doing, we would literally astound ourselves."</i>
+<i>"Every great change is preceded by chaos."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
