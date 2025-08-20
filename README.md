@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lying can never save us from another lie."</i>
+<i>"A fear of weakness only strengthens weakness."</i>
 <br>
-<b>- Vaclav Havel</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
