@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone must choose one of two pains: The pain of discipline or the pain of regret."</i>
+<i>"Don't be afraid to go slowly. Be afraid of stopping."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
