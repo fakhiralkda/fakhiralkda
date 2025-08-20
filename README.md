@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Progress is impossible without change, and those who cannot change their minds cannot change anything."</i>
+<i>"Lying can never save us from another lie."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
