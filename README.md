@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A fear of weakness only strengthens weakness."</i>
+<i>"To find yourself, think for yourself."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
