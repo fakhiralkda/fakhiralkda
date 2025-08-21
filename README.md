@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good, better, best. Never let it rest. 'Til your good is better and your better is best. "</i>
+<i>"Avoiding danger is no safer in the long run than exposure."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
