@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Develop success from failures. Discouragement and failure are two of the surest stepping stones to success."</i>
+<i>"Good, better, best. Never let it rest. 'Til your good is better and your better is best. "</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
