@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people."</i>
+<i>"I don't walk away from things that I think are unfinished."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
