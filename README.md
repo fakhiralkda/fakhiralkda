@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Magic is believing in yourself, if you can do that, you can make anything happen."</i>
+<i>"To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
