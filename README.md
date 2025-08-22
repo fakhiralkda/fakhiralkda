@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Surround yourself with only people who are going to lift you higher. "</i>
+<i>"The beautiful journey of today can only begin when we learn to let go of yesterday."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
