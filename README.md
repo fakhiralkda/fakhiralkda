@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The beautiful journey of today can only begin when we learn to let go of yesterday."</i>
+<i>"If you're not making mistakes, then you're not doing anything."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
