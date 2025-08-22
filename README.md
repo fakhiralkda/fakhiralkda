@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't walk away from things that I think are unfinished."</i>
+<i>"It's not whether you get knocked down, its whether you get back up."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
