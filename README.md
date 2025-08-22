@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're not making mistakes, then you're not doing anything."</i>
+<i>"Magic is believing in yourself, if you can do that, you can make anything happen."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
