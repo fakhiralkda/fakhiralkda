@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd."</i>
+<i>"Deeds will not be less valiant because they are upraised."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
