@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it."</i>
+<i>"It is far easier to start something than it is to finish it."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
