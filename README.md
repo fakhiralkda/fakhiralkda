@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're really truthful with yourself, it's a wonderful guidance.  "</i>
+<i>"The spirit is beyond destruction. No one can bring an end to spirit which is everlasting."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
