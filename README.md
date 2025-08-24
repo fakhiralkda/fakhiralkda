@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Growth is in a series of mistakes. That's the only way you learn."</i>
+<i>"Give me six hours to chop down a tree and I will spend the first four sharpening the axe."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
