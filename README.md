@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose."</i>
+<i>"The future will be shaped by those willing to commit their minds and their bodies to the task."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
