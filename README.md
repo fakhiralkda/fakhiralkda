@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The spirit is beyond destruction. No one can bring an end to spirit which is everlasting."</i>
+<i>"Growth is in a series of mistakes. That's the only way you learn."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
