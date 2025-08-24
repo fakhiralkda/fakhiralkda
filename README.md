@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Facts are the enemy of truth. "</i>
+<i>"If you think you can do a thing or think you can't do a thing, you're right."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
