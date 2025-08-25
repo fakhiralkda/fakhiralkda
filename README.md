@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Re-examine all that you have been told... dismiss that which insults your soul."</i>
+<i>"The time is now, the place is here. Stay in the present."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
