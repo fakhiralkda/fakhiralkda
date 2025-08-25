@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The time is now, the place is here. Stay in the present."</i>
+<i>"Knowledge has to be improved, challenged, and increased constantly, or it vanishes."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
