@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Age is a very high price to pay for maturity."</i>
+<i>"The significance of life is living."</i>
 <br>
-<b>- William James</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
