@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you will never know the value of something, until it becomes a memory."</i>
+<i>"The quality of your life is determined by the quality of questions you ask."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
