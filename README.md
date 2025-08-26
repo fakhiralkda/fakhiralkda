@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your eyes on the stars, but remember to keep your feet on the ground."</i>
+<i>"Problems remain as problems because people are busy defending them rather than finding solutions."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
