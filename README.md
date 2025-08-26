@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quality of your life is determined by the quality of questions you ask."</i>
+<i>"The purpose of life is the expansion of happiness."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
