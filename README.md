@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are not only responsible for what you say, but also for what you do not say. "</i>
+<i>"Don't let the fear of losing be greater than the excitement of winning."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
