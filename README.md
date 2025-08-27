@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you believe with feeling becomes your reality. "</i>
+<i>"You can never cross the ocean unless you have the courage to lose sight of the shore."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Christopher Columbus</b>
 </blockquote>
 </p>
 
