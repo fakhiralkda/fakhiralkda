@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All happiness depends on courage and work."</i>
+<i>"To every action there is always opposed an equal reaction."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
