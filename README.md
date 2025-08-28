@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way to get started is to quit talking and begin doing."</i>
+<i>"The less people know, the more stubbornly they know it."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
