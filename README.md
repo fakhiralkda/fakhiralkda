@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To every action there is always opposed an equal reaction."</i>
+<i>"Human beings can alter their lives by altering their attitudes of mind."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
