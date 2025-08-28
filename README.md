@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can never cross the ocean unless you have the courage to lose sight of the shore."</i>
+<i>"Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
