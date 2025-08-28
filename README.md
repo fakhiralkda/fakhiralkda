@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any game becomes important when you know and love the players."</i>
+<i>"Just because something isn't a lie does not mean that it isn't deceptive."</i>
 <br>
-<b>- W.P. Kinsella</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
