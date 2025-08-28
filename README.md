@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Misfortune shows those who are not really friends."</i>
+<i>"All happiness depends on courage and work."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
