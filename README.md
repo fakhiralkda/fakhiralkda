@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just because something isn't a lie does not mean that it isn't deceptive."</i>
+<i>"Men do not attract which they want but that which they are."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
