@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men do not attract which they want but that which they are."</i>
+<i>"Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad."</i>
 <br>
-<b>- James Allen</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
