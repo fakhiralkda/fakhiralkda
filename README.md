@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All things come into being by conflict of opposites."</i>
+<i>"I am not what happened to me, I am what I choose to become."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
