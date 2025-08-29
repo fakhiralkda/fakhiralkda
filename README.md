@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The beautiful journey of today can only begin when we learn to let go of yesterday."</i>
+<i>"You can't go forward and backwards at the same time."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
