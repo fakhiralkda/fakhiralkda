@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is truth that liberates, not your effort to be free."</i>
+<i>"Only in the agony of parting do we look into the depths of love."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
