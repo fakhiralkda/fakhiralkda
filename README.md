@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward."</i>
+<i>"To perceive is to suffer."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
