@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing can dim the light which shines from within."</i>
+<i>"You can't make someone feel good about themselves until you feel good about yourself."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
