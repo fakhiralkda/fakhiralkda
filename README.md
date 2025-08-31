@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the most difficult things is not to change society - but to change yourself."</i>
+<i>"My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
