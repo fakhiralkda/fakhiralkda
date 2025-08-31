@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Duty makes us do things well, but love makes us do them beautifully.  "</i>
+<i>"Receive without complaint, Work with fate."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
