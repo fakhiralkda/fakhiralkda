@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."</i>
+<i>"If it is not right, do not do it, if it is not true, do not say it."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
