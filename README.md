@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People think you're crazy if you talk about things they don't understand."</i>
+<i>"The degree of responsibility you take for your life determines how much change you can create in it."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
