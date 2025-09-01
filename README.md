@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The degree of responsibility you take for your life determines how much change you can create in it."</i>
+<i>"All we have to decide is what to do with the time that is given to us."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
