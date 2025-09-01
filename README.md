@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All we have to decide is what to do with the time that is given to us."</i>
+<i>"The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
