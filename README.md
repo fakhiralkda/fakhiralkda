@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The difference between treason and patriotism is only a matter of dates."</i>
+<i>"Never to suffer would never to have been blessed."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
