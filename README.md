@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are always complaining that our days are few, and acting as though there would be no end of them.  "</i>
+<i>"Loving thoughts and actions are clearly beneficial for our physical and mental health."</i>
 <br>
-<b>- Seneca</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
