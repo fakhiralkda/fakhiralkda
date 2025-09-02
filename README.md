@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Loving thoughts and actions are clearly beneficial for our physical and mental health."</i>
+<i>"The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
