@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is great not because he hasn't failed; a man is great because failure hasn't stopped him."</i>
+<i>"Wise men speak because they have something to say; Fools because they have to say something."</i>
 <br>
-<b>- Confucius</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
