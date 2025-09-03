@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best revenge is to be unlike him who performed the injury."</i>
+<i>"A man is great not because he hasn't failed; a man is great because failure hasn't stopped him."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
