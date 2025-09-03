@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest."</i>
+<i>"The best revenge is to be unlike him who performed the injury."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
