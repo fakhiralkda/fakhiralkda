@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy."</i>
+<i>"If you're not failing every now and again, it's a sign you're not doing anything very innovative."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
