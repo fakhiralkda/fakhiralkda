@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Death is not sad; the sad thing is that most people don't really live at all."</i>
+<i>"Today you are you, that is truer than true. There is no one alive who is you-er than you."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
