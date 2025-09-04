@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you've got nothing, you've got nothing to lose."</i>
+<i>"If you do not conquer self, you will be conquered by self."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
