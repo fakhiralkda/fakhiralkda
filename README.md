@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just do what must be done. This may not be happiness but it is greatness."</i>
+<i>"If you want peace, you won't get it with violence."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
