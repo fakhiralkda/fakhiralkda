@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never do to others what you would not like them to do to you. "</i>
+<i>"Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control."</i>
 <br>
-<b>- Confucius</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
