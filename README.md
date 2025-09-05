@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must welcome change as the rule but not as your ruler. "</i>
+<i>"If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
