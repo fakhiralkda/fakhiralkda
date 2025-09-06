@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True knowledge exists in knowing that you know nothing."</i>
+<i>"Passion is born deaf and dumb."</i>
 <br>
-<b>- Socrates</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
