@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is your attitude, not your aptitude, that determines your altitude."</i>
+<i>"True knowledge exists in knowing that you know nothing."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
