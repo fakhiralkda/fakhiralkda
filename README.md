@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A creative man is motivated by the desire to achieve, not by the desire to beat others."</i>
+<i>"Far more crucial than what we know or do not know is what we do not want to know."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
