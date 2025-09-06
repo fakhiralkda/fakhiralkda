@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live simply, expect little, give much."</i>
+<i>"A creative man is motivated by the desire to achieve, not by the desire to beat others."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
