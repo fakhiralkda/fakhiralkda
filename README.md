@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Passion is born deaf and dumb."</i>
+<i>"Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
