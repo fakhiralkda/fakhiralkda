@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Far more crucial than what we know or do not know is what we do not want to know."</i>
+<i>"Happiness is a quality of the soul...not a function of one's material circumstances."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
