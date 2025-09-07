@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freeing oneself from words is liberation. "</i>
+<i>"If you can change your mind, you can change your life."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
