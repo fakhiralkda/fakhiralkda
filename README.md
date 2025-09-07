@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let the beauty of what you love be what you do."</i>
+<i>"Conflict cannot survive without your participation. "</i>
 <br>
-<b>- Rumi</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
