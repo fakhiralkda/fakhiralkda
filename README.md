@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never allow a person to tell you no who doesn't have the power to say yes."</i>
+<i>"Let the beauty of what you love be what you do."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
