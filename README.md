@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you have to make a choice and don't make it, that is in itself a choice."</i>
+<i>"We are all born ignorant, but one must work hard to remain stupid."</i>
 <br>
-<b>- William James</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
