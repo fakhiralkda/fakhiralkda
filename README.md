@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can change your mind, you can change your life."</i>
+<i>"When you have to make a choice and don't make it, that is in itself a choice."</i>
 <br>
 <b>- William James</b>
 </blockquote>
