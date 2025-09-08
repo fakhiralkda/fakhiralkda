@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What people say, what people do, and what they say they do are entirely different things. "</i>
+<i>"Don't look back - you're not going that way."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
