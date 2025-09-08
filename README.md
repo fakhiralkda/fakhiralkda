@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can avoid reality, but you cannot avoid the consequences of avoiding reality."</i>
+<i>"To find yourself, think for yourself."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
