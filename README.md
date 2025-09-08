@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People think about what they don't want and attract more of the same."</i>
+<i>"Each day your life grows a day shorter. Make every move count."</i>
 <br>
-<b>- Unknown</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
