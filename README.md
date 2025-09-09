@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The eye with which I see God is the same eye with which God sees me."</i>
+<i>"The quicker you let go of old cheese, the sooner you find new cheese."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
