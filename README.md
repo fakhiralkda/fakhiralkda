@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quicker you let go of old cheese, the sooner you find new cheese."</i>
+<i>"The truth is not for all men, but for those who seek it."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
