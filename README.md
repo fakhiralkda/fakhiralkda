@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is not a four letter word...but often your reaction to it is!"</i>
+<i>"Character is doing what you don't want to do but know you should do."</i>
 <br>
-<b>- Jeffrey Gitomer</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
