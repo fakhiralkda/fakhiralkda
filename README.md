@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Character is doing what you don't want to do but know you should do."</i>
+<i>"The eye with which I see God is the same eye with which God sees me."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
