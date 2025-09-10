@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The key to success is action."</i>
+<i>"Everything has beauty but not everyone sees it."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
