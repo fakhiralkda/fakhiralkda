@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit."</i>
+<i>"You don't need to be better than anyone else, you just need to be better than you used to be."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
