@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything has beauty but not everyone sees it."</i>
+<i>"To love means loving the unlovable."</i>
 <br>
-<b>- Confucius</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
