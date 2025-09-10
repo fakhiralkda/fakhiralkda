@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The least deviation from truth will be multiplied later."</i>
+<i>"The key to success is action."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
