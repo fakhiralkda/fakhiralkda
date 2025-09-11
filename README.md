@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every failure brings with it the seed of an equivalent success."</i>
+<i>"In life you need either inspiration or desperation."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
