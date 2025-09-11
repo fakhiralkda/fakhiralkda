@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control."</i>
+<i>"All men who have achieved great things have been great dreamers. "</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
