@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All men who have achieved great things have been great dreamers. "</i>
+<i>"A person is only by the thoughts that he chooses."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
