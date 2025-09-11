@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who laughs at himself never runs out of things to laugh at."</i>
+<i>"The single most powerful asset we all have is our mind."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
