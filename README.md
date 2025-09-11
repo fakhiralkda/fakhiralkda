@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In life you need either inspiration or desperation."</i>
+<i>"He who laughs at himself never runs out of things to laugh at."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
