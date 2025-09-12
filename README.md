@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom from desire leads to inner peace."</i>
+<i>"Fear is stupid. So are regrets."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
