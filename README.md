@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life has no limitations except the ones you make."</i>
+<i>"When you judge others, you do not define them, you define yourself."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
