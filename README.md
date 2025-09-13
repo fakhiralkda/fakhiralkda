@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not titles that honour men, but men that honour titles."</i>
+<i>"Imagination is more important than knowledge."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
