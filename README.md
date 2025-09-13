@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is more important than knowledge."</i>
+<i>"Attitude is a little thing that makes a big difference."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
