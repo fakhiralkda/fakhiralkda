@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Heart is what separates the good from the great."</i>
+<i>"The only reason to be alive is to enjoy it."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
