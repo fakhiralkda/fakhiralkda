@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To plant a garden is to believe in tomorrow.  "</i>
+<i>"Whoever is happy will make others happy too."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
