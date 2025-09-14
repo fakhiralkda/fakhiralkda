@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything is possible. The impossible just takes longer."</i>
+<i>"Genius, in truth, means little more than the faculty of perceiving in an unhabitual way."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
