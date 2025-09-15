@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Embrace the life you have and stop wishing that you could be someone else."</i>
+<i>"If there were no God, there would be no atheists."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
