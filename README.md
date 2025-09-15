@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place."</i>
+<i>"Start the day with love, spend the day with love, fill the day with love and end the day with love."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
