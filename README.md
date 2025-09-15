@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only defense against the world is a thorough knowledge of it."</i>
+<i>"Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place."</i>
 <br>
-<b>- John Locke</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
