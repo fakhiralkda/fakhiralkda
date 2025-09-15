@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To avoid criticism, do nothing, say nothing, and be nothing."</i>
+<i>"The only defense against the world is a thorough knowledge of it."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
