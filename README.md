@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To travel is to be alive, but to get somewhere is to be dead."</i>
+<i>"You don't need a weatherman to know which way the wind blows."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
