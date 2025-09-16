@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live life as though nobody is watching, and express yourself as though everyone is listening."</i>
+<i>"Our joy does not have to be based on our circumstances."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
