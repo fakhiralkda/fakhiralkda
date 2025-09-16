@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our joy does not have to be based on our circumstances."</i>
+<i>"One of the keys to happiness is a bad memory."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
