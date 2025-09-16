@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you lose your desire for things that do not matter, you will be free."</i>
+<i>"Only those who will risk going too far can possibly find out how far one can go."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
