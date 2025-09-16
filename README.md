@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the most difficult things is not to change society - but to change yourself."</i>
+<i>"To travel is to be alive, but to get somewhere is to be dead."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
