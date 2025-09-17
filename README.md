@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the energy of life."</i>
+<i>"When you reach the top of the mountain, keep climbing. "</i>
 <br>
-<b>- Robert Browning</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
