@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is never easy, but always possible."</i>
+<i>"Those who cannot change their minds cannot change anything."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
