@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is simply what our feelings do to us."</i>
+<i>"If you let your head get too big, it'll break your neck."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
