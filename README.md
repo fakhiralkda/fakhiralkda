@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you reach the top of the mountain, keep climbing. "</i>
+<i>"Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
