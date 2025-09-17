@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task."</i>
+<i>"Inspire yourself to be great. Being good isn't good enough."</i>
 <br>
-<b>- William James</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
