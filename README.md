@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We win by helping each other win."</i>
+<i>"People rarely succeed unless they have fun in what they are doing."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
