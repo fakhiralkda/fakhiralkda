@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Behind every beautiful thing, there's some kind of pain."</i>
+<i>"To be prepared is half the victory. "</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
