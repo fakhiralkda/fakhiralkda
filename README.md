@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life needs to be more than just solving problems every day. You need to wake up and be excited about the future."</i>
+<i>"Inspiration exists, but it has to find you working."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
