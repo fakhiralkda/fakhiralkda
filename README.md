@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A creative man is motivated by the desire to achieve, not by the desire to beat others."</i>
+<i>"Rather than love, than money, than fame, give me truth."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
