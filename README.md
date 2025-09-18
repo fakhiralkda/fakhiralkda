@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People rarely succeed unless they have fun in what they are doing."</i>
+<i>"A very little key will open a very heavy door."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
