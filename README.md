@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it."</i>
+<i>"If you genuinely want something, don't wait for it - teach yourself."</i>
 <br>
 <b>- Gurbaksh Chahal</b>
 </blockquote>
