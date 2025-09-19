@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge."</i>
+<i>"The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
