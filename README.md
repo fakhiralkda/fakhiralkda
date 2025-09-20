@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you've got nothing, you've got nothing to lose."</i>
+<i>"Goals are the fuel in the furnace of achievement."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
