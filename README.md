@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't make someone feel good about themselves until you feel good about yourself."</i>
+<i>"If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
