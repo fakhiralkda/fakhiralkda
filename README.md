@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only those who dare to fail greatly can ever achieve greatly."</i>
+<i>"One of the most difficult things is not to change society - but to change yourself."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
