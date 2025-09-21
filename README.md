@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is a big difference between being centered and being self-centered."</i>
+<i>"Inner peace is when you realize that, in the end, nothing matters."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
