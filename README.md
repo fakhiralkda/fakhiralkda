@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man sooner or later discovers that he is the master-gardener of his soul, the director of his life."</i>
+<i>"Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years."</i>
 <br>
-<b>- James Allen</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
