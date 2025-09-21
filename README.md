@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the most difficult things is not to change society - but to change yourself."</i>
+<i>"You can't make someone feel good about themselves until you feel good about yourself."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
