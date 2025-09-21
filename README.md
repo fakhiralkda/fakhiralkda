@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one can hurt you without your consent."</i>
+<i>"There is a big difference between being centered and being self-centered."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
