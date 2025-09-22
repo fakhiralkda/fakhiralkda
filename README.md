@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to learn late than never."</i>
+<i>"Never to suffer would never to have been blessed."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
