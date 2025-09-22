@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be a master of change rather than a victim of change."</i>
+<i>"The thing about smart people is that they seem like crazy people to dumb people."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
