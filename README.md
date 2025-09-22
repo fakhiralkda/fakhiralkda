@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life can only be understood backwards; but it must be lived forwards."</i>
+<i>"It doesn't matter how much you want. What really matters is how much you want it."</i>
 <br>
-<b>- Soren Kierkegaard</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
