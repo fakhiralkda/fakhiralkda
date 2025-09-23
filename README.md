@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decide what your truth is. Then live it."</i>
+<i>"Be strong. Be confident. Be the star of your own life."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
