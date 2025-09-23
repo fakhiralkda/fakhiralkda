@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like riding a bicycle. To keep your balance you must keep moving."</i>
+<i>"It's better to stand by someone's side than by yourself."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
