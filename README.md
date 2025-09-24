@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is in the darkness that one finds the light."</i>
+<i>"Heal the past, live the present, dream the future."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
