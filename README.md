@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be in harmony with the wholeness of things is not to have anxiety over imperfections."</i>
+<i>"Supreme excellence consists of breaking the enemy's resistance without fighting."</i>
 <br>
-<b>- Dogen</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
