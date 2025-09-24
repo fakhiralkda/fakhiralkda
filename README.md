@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Receive without pride, let go without attachment."</i>
+<i>"The person who is his own master cannot tolerate another boss. "</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
