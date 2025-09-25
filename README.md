@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To raise your consciousness, surround yourself with people of higher consciousness."</i>
+<i>"Motivation gets you going and habit gets you there.  "</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
