@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Motivation gets you going and habit gets you there.  "</i>
+<i>"If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Nikola Tesla</b>
 </blockquote>
 </p>
 
