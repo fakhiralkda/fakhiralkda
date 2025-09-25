@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The danger of an adventure is worth a thousand days of ease and comfort."</i>
+<i>"A lie can travel half way around the world while the truth is putting on its shoes."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
