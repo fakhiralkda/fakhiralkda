@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it."</i>
+<i>"Small men think they are small; great men never know they are great. "</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
