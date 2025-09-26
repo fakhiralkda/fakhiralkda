@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even though you are on the right track - you will get run over if you just sit there."</i>
+<i>"It is your attitude, not your aptitude, that determines your altitude."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
