@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Far more crucial than what we know or do not know is what we do not want to know."</i>
+<i>"Men are equal; it is not birth but virtue that makes the difference."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
