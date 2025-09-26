@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We live only now. Everything else is either passed or is unknown."</i>
+<i>"To the mind that is still, the whole universe surrenders."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
