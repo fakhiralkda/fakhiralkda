@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play."</i>
+<i>"We live only now. Everything else is either passed or is unknown."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
