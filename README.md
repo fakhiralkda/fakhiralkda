@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return."</i>
+<i>"You don't know who is important to you until you actually lose them."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
