@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If light is in your heart, you will find your way home.  "</i>
+<i>"When I let go of what I am, I become what I might be."</i>
 <br>
-<b>- Rumi</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
