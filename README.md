@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the mark of an educated mind to be able to entertain a thought without accepting it."</i>
+<i>"If you do not tell the truth about yourself you cannot tell it about other people."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
