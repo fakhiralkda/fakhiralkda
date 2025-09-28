@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man should do his job so well that the living, the dead, and the unborn could do it no better."</i>
+<i>"He who knows, does not speak. He who speaks, does not know."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
