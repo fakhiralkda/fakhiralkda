@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no differences but differences of degree between different degrees of difference and no difference."</i>
+<i>"Work harder on yourself than you do on your job."</i>
 <br>
-<b>- William James</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
