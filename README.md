@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In nature there is no alienation. Everything belongs."</i>
+<i>"There are no differences but differences of degree between different degrees of difference and no difference."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
