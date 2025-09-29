@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing external to you has any power over you."</i>
+<i>"If fear is too strong, the genius is suppressed."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
