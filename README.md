@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge isn't power until it is applied."</i>
+<i>"Nothing good ever comes of violence."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
