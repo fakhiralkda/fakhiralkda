@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The beautiful journey of today can only begin when we learn to let go of yesterday."</i>
+<i>"Not why the addiction but why the pain."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Gabor Mate</b>
 </blockquote>
 </p>
 
