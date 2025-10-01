@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lack of emotion causes lack of progress and lack of motivation."</i>
+<i>"Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
