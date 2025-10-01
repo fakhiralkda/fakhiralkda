@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more people you help become successful the more successful you become."</i>
+<i>"There's more to life than being a passenger."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
