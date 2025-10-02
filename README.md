@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Growth is in a series of mistakes. That's the only way you learn."</i>
+<i>"In the end, it's not the years in your life that count. It's the life in your years."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
