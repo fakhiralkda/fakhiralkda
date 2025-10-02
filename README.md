@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's more to life than being a passenger."</i>
+<i>"Growth is in a series of mistakes. That's the only way you learn."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
