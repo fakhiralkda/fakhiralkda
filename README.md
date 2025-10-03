@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To every action there is always opposed an equal reaction."</i>
+<i>"There is no limitations except those we create for ourselves."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
