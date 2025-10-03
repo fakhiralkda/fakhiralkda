@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no limitations except those we create for ourselves."</i>
+<i>"Any idea, plan, or purpose may be placed in the mind through repetition of thought."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
