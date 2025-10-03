@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Optimism is the one quality more associated with success and happiness than any other."</i>
+<i>"Given the choice between the experience of pain and nothing, I would choose pain."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
