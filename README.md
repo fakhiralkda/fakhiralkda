@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Kind words can be short and easy to speak, but their echoes are truly endless."</i>
+<i>"Believe you can and you're halfway there."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
