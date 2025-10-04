@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid to stand for what you believe in, even if that means standing alone."</i>
+<i>"Life is much more successfully looked at from a single window."</i>
 <br>
-<b>- Unknown</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
