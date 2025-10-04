@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The nearer a man comes to a calm mind, the closer he is to strength."</i>
+<i>"I don't walk away from things that I think are unfinished."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
