@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Changing minds is harder than finding people who already agree."</i>
+<i>"Those who attain the middle Dominate the whole."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
