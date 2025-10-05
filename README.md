@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace."</i>
+<i>"You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
