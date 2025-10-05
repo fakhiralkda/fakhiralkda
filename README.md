@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. "</i>
+<i>"When you're the only sane person, you look like the only insane person."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
