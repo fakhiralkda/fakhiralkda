@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life."</i>
+<i>"How to get more opportunity: Create more opportunity for others."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
