@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We suffer more often in imagination than in reality.  "</i>
+<i>"Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace."</i>
 <br>
-<b>- Seneca</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
