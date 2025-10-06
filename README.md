@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  "</i>
+<i>"It's OK to have your eggs in one basket as long as you control what happens to that basket."</i>
 <br>
-<b>- David Brinkley</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
