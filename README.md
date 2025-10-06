@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing like looking if you want to find something."</i>
+<i>"All wealth is the product of labor."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
