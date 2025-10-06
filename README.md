@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To seek is to suffer. To seek nothing is bliss."</i>
+<i>"Passion is born deaf and dumb."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
