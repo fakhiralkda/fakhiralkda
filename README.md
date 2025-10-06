@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You need to be doing fewer things for more effect instead of doing more things with side effects."</i>
+<i>"Art is the signature of civilizations. "</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
