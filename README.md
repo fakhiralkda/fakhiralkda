@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is either a daring adventure, or nothing."</i>
+<i>"Winners are not people who never fail, but people who never quit."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
