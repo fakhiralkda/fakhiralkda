@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Follow your instincts. That is where true wisdom manifests itself."</i>
+<i>"As you love yourself, life loves you back."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
