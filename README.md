@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As you love yourself, life loves you back."</i>
+<i>"Who you are is defined by what you're willing to struggle for."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
