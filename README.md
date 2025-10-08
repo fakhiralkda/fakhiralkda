@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To handle yourself, use your head; to handle others, use your heart."</i>
+<i>"Turn your face to the sun, as flowers know how to do."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
