@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more perfect a person is on the outside, the more demons they have on the inside."</i>
+<i>"Life doesn't get easier or more forgiving, we get stronger and more resilient."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
