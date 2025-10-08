@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life doesn't get easier or more forgiving, we get stronger and more resilient."</i>
+<i>"It isn't what you do, but how you do it."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
