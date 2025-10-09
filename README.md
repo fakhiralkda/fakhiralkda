@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form."</i>
+<i>"Obstacles are those frightful things you see when you take your eyes off your goals."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
