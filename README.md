@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Listening well is as powerful as talking well, and is also as essential to true conversation."</i>
+<i>"Men trust their ears less than their eyes."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
