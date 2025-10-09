@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better to light a candle than to curse the darkness. "</i>
+<i>"The biggest challenge after success is shutting up about it."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
