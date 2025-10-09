@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The older you get the stronger the wind gets - and it's always in your face."</i>
+<i>"Instead of being intimidated by the limitations, be inspired to find new ways around them."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
