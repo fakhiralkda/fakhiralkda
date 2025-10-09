@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present."</i>
+<i>"Whatever your heart clings to and confides in, that is really your God."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
