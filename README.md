@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Living life in style also means living a life of balance."</i>
+<i>"A man should do his job so well that the living, the dead, and the unborn could do it no better."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
