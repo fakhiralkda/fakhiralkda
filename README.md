@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man should do his job so well that the living, the dead, and the unborn could do it no better."</i>
+<i>"May you find grace as you surrender to life. May you find happiness, as you stop seeking it."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
