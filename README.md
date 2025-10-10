@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only those who dare to fail greatly can ever achieve greatly."</i>
+<i>"Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
