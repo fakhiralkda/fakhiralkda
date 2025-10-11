@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All life is an experiment. The more experiments you make, the better."</i>
+<i>"The desire for more positive experience is itself a negative experience."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
