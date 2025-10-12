@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever."</i>
+<i>"The privilege of a lifetime is to become who you truly are."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
