@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're only given a little spark of madness. You mustn't lose it."</i>
+<i>"Reality is the leading cause of stress among those in touch with it."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
