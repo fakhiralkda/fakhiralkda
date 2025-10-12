@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do something to move yourself toward your major goal every day."</i>
+<i>"I cannot make my days longer so I strive to make them better."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
