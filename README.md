@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything is possible. The impossible just takes longer."</i>
+<i>"The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
