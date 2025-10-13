@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not all of us can do great things. But we can do small things with great love."</i>
+<i>"Change your thoughts and you change your world."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
