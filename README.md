@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're waiting until you feel talented enough to make it, you'll never make it."</i>
+<i>"Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
