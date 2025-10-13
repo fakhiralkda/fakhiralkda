@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change your thoughts and you change your world."</i>
+<i>"If you're waiting until you feel talented enough to make it, you'll never make it."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
