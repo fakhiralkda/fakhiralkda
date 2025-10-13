@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles."</i>
+<i>"When you rise in the morning, form a resolution to make the day a happy one for a fellow creature."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
