@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best thing to hold onto in life is each other."</i>
+<i>"Manifest plainness, embrace simplicity, reduce selfishness, have few desires."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
