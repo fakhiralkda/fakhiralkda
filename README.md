@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Simplicity is the glory of expression."</i>
+<i>"Life is but one dream flowing into another."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
