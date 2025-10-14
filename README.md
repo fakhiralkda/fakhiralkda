@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To forgive means pardoning the unpardonable."</i>
+<i>"Opportunity comes when you continually push forward."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
