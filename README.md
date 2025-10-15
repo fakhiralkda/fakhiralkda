@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Excellence is not a skill. It is an attitude. "</i>
+<i>"Realize deeply that the present moment is all you ever have. "</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
