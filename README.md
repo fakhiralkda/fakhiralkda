@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We run to win, not just to be in the race.  "</i>
+<i>"Adults are just children who earn money."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Kenneth Branagh</b>
 </blockquote>
 </p>
 
