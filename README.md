@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adults are just children who earn money."</i>
+<i>"He that can have patience can have what he will."</i>
 <br>
-<b>- Kenneth Branagh</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
