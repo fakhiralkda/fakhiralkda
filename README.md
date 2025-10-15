@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you."</i>
+<i>"The consequences of today are determined by the actions of the past. To change your future, alter your decisions today."</i>
 <br>
-<b>- Jeffrey Gitomer</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
