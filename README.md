@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By perseverance the snail reached the ark."</i>
+<i>"Be curious, not judgmental."</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
