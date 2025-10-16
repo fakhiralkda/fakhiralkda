@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!"</i>
+<i>"Intense love does not measure, it just gives."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
