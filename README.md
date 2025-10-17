@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Death is as sure for that which is born, as birth is for that which is dead. Therefore grieve not for what is inevitable."</i>
+<i>"People don't care how much you know until they know how much you care."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
