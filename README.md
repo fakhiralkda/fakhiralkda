@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People don't care how much you know until they know how much you care."</i>
+<i>"Don't set your own goals by what other people make important."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
