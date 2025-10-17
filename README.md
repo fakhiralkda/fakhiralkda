@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without education, we are in a horrible and deadly danger of taking educated people seriously."</i>
+<i>"I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
