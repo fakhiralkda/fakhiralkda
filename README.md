@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The nearer a man comes to a calm mind, the closer he is to strength."</i>
+<i>"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. "</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
