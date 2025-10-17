@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again."</i>
+<i>"The scariest monsters are the ones that lurk within our souls."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
