@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Storms don't last forever."</i>
+<i>"No one has ever become poor by giving."</i>
 <br>
-<b>- Unknown</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
