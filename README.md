@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not just the passing of time. Life is the collection of experiences and their intensity."</i>
+<i>"Fool me once, shame on you; fool me twice, shame on me. "</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
