@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyday you can take a tiny step in the right direction."</i>
+<i>"Life is the art of drawing sufficient conclusions from insufficient premises."</i>
 <br>
-<b>- Unknown</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
