@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything."</i>
+<i>"Life is not just the passing of time. Life is the collection of experiences and their intensity."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
