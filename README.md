@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Absence makes the heart grow fonder."</i>
+<i>"When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
