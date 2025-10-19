@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To escape from the world means that one's mind is not concerned with the opinions of the world."</i>
+<i>"Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail."</i>
 <br>
-<b>- Dogen</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
