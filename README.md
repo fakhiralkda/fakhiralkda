@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. "</i>
+<i>"Trust thyself: every heart vibrates to that iron string."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
