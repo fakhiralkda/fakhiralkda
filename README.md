@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust thyself: every heart vibrates to that iron string."</i>
+<i>"The sun is new each day."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
