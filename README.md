@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail."</i>
+<i>"A gentleman is one who puts more into the world than he takes out."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
