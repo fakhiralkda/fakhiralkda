@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A gentleman is one who puts more into the world than he takes out."</i>
+<i>"The more something scares you, the more you should do it."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
