@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream."</i>
+<i>"There is no fear for one whose mind is not filled with desires."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
