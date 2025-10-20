@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every blessing ignored becomes a curse."</i>
+<i>"If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
