@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Here is the test to find whether your mission on earth is finished. If you're alive, it isn't."</i>
+<i>"There is no significance in life without struggle."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
