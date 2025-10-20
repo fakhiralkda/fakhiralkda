@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Magic is believing in yourself, if you can do that, you can make anything happen."</i>
+<i>"Riches don't make a man rich, they only make him busier."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Christopher Columbus</b>
 </blockquote>
 </p>
 
