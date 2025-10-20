@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no significance in life without struggle."</i>
+<i>"Every blessing ignored becomes a curse."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
