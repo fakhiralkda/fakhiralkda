@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't like something change it; if you can't change it, change the way you think about it."</i>
+<i>"My instinct is always to seek out challenges as opposed to avoiding them."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
