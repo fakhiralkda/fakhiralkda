@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To raise your consciousness, surround yourself with people of higher consciousness."</i>
+<i>"Only the educated are free."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
