@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A fall into a ditch makes you wiser."</i>
+<i>"Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
