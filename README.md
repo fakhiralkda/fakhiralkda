@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are able to employ your will always for constructive purposes, you become the controller of your destiny."</i>
+<i>"If you can't, you must. If you must, you can."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
