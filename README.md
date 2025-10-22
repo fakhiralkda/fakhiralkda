@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is the highway to success."</i>
+<i>"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
