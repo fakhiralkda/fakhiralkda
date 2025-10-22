@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The guest will judge better of a feast than the cook."</i>
+<i>"People inspire you, or they drain you. Pick them wisely."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
