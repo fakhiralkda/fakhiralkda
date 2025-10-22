@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."</i>
+<i>"Winners don't Quit. That's why they Win."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
