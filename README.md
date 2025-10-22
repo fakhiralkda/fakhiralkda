@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give a girl the right shoes, and she can conquer the world."</i>
+<i>"The guest will judge better of a feast than the cook."</i>
 <br>
-<b>- Bette Midler</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
