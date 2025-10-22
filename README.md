@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot swim for new horizons until you have courage to lose sight of the shore."</i>
+<i>"Failure is the highway to success."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
