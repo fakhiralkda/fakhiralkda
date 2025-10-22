@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't, you must. If you must, you can."</i>
+<i>"You cannot swim for new horizons until you have courage to lose sight of the shore."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
