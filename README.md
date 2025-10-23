@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We learn to walk by falling down. If we never fell down, we would never walk."</i>
+<i>"Throw your heart over the fence and the rest will follow"</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
