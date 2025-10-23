@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throw your heart over the fence and the rest will follow"</i>
+<i>"Failure is the highway to success."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
