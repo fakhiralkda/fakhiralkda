@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the advantages of being disorganized is that one is always having surprising discoveries."</i>
+<i>"Sometimes you will never know the value of something, until it becomes a memory."</i>
 <br>
-<b>- A.A. Milne</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
