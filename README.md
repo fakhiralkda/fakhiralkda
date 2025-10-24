@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge isn't power until it is applied."</i>
+<i>"There are no second chances in life, except to feel remorse."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
