@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Living life in style also means living a life of balance."</i>
+<i>"Knowledge isn't power until it is applied."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
