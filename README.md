@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you will never know the value of something, until it becomes a memory."</i>
+<i>"Living life in style also means living a life of balance."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
