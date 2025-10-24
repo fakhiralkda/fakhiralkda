@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's what you do in the present that will redeem the past and thereby change the future."</i>
+<i>"Go confidently in the direction of your dreams. Live the life you've imagined."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
