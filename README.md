@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is up to each of us to sing as we feel moved by the overall song of life."</i>
+<i>"I can live without money, but I cannot live without love."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
