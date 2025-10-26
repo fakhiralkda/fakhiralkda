@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all faced with a series of great opportunities brilliantly disguised as impossible situations. "</i>
+<i>"Don't wait for extraordinary opportunities. Seize common occasions and make them great."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
