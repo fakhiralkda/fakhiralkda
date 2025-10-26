@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom."</i>
+<i>"We are all faced with a series of great opportunities brilliantly disguised as impossible situations. "</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- Charles Swindoll</b>
 </blockquote>
 </p>
 
