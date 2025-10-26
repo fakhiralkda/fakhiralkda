@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The weak can never forgive. Forgiveness is the attribute of the strong."</i>
+<i>"The man who does not value himself, cannot value anything or anyone."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
