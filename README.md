@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man who does not value himself, cannot value anything or anyone."</i>
+<i>"Whatever you believe with feeling becomes your reality. "</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
