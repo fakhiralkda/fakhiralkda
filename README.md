@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I wasn't brave, I just didn't have time to be scared."</i>
+<i>"There is no limit to the amount of good you can do if you don't care who gets the credit."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
