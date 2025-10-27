@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing important is learned; it is simply remembered."</i>
+<i>"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
