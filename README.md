@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failing is another stepping stone to greatness."</i>
+<i>"Man invented language to satisfy his deep need to complain."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
