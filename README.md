@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may be disappointed if you fail, but you are doomed if you don't try."</i>
+<i>"The foolish reject what they see, not what they think; the wise reject what they think, not what they see."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
