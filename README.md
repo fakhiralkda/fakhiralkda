@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The foolish reject what they see, not what they think; the wise reject what they think, not what they see."</i>
+<i>"You will face many defeats in life, but never let yourself be defeated."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
