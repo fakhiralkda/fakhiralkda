@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may be disappointed if you fail, but you are doomed if you don't try."</i>
+<i>"The highest level of wisdom is when you not only accept but love adversity."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
