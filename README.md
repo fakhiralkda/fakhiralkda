@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forgive yourself for your faults and your mistakes and move on."</i>
+<i>"To perceive is to suffer."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
