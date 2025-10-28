@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To perceive is to suffer."</i>
+<i>"If you want something you've never had you must be willing to do something you've never done."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
