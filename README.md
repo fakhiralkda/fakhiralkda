@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am who I am today because of the choices I made yesterday."</i>
+<i>"You can, you should, and if you're brave enough to start, you will."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
