@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is the willingness to engage in a risk-taking behavior regardless of whether the consequences are unknown or possibly adverse."</i>
+<i>"There is no way to happiness - happiness is the way."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
