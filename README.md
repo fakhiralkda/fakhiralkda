@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination."</i>
+<i>"Wisdom is the oneness of mind that guides and permeates all things."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
