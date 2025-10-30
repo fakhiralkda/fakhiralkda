@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all different. Don't judge, understand instead."</i>
+<i>"Disobedience is the true foundation of liberty. The obedient must be slaves."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
