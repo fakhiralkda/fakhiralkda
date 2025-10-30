@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tension is who you think you should be. Relaxation is who you are."</i>
+<i>"Love doesn't need reason. It speaks from the irrational wisdom of the heart."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
