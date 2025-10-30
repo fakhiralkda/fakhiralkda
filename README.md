@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love doesn't need reason. It speaks from the irrational wisdom of the heart."</i>
+<i>"Everything has beauty but not everyone sees it."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
