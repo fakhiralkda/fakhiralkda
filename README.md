@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All cruelty springs from weakness.  "</i>
+<i>"To lead an orchestra, you must turn your back on the crowd."</i>
 <br>
-<b>- Seneca</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
