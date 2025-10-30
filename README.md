@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fishing is much more than fish."</i>
+<i>"Few things are more deceptive than memories."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
