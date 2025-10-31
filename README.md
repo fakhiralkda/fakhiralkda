@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never allow a person to tell you no who doesn't have the power to say yes."</i>
+<i>"Doing the best at this moment puts you in the best place for the next moment."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
