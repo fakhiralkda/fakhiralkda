@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Disobedience is the true foundation of liberty. The obedient must be slaves."</i>
+<i>"Giving back involves a certain amount of giving up."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
