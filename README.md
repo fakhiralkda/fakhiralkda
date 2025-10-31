@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Doing the best at this moment puts you in the best place for the next moment."</i>
+<i>"It is the power of thought that gives man power over nature."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
