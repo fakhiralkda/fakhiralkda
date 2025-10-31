@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must not sit down and wait for miracles. Up and be going!"</i>
+<i>"Showing off is the fool's idea of glory. "</i>
 <br>
-<b>- John Eliot</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
