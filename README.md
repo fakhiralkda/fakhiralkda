@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Showing off is the fool's idea of glory. "</i>
+<i>"If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
