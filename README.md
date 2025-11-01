@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the power of thought that gives man power over nature."</i>
+<i>"Being a good example is the best form of service."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
