@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being a good example is the best form of service."</i>
+<i>"Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
