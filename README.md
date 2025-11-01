@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit."</i>
+<i>"The road to success is always under construction."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
