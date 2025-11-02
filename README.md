@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must cultivate our garden. "</i>
+<i>"All our knowledge has its origins in our perceptions."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
