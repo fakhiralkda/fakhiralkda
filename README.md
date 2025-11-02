@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We take care of the future best by taking care of the present now."</i>
+<i>"Faults are yours to fix, not to curse."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
