@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must learn to live together as brothers or perish together as fools."</i>
+<i>"Believe you can and you're halfway there."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
