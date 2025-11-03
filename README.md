@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty."</i>
+<i>"Take away love and our earth is a tomb."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Robert Browning</b>
 </blockquote>
 </p>
 
