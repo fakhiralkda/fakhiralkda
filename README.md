@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take away love and our earth is a tomb."</i>
+<i>"For all evils there are two remedies - time and silence."</i>
 <br>
-<b>- Robert Browning</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
