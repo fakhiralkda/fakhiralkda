@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must cultivate our garden. "</i>
+<i>"You'll see it when you believe it. "</i>
 <br>
-<b>- Voltaire</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
