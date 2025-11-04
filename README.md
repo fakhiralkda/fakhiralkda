@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throw me to the wolves and I will return leading the pack.  "</i>
+<i>"A rational person can find peace by cultivating indifference to things outside of their control."</i>
 <br>
-<b>- Seneca</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
