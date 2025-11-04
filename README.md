@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The meaning of life is that it stops."</i>
+<i>"No one is useless in this world who lightens the burdens of another."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
