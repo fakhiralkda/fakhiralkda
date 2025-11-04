@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You'll see it when you believe it. "</i>
+<i>"It is not uncommon for people to spend their whole life waiting to start living."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
