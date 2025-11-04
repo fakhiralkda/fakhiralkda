@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A rational person can find peace by cultivating indifference to things outside of their control."</i>
+<i>"Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
