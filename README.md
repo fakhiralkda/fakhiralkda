@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A goal is a dream with a deadline."</i>
+<i>"The meaning of life is that it stops."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
