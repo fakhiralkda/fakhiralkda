@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True love stories never have endings."</i>
+<i>"He that can have patience can have what he will."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
