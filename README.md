@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It doesn't matter how slow you go, as long as you don't stop."</i>
+<i>"Do not try to be on the side of the majority, but live according to your inner laws."</i>
 <br>
-<b>- Confucius</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
