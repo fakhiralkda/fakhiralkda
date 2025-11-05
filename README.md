@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He that can have patience can have what he will."</i>
+<i>"When it is dark enough, you can see the stars."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
