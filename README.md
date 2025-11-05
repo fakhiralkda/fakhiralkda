@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Once a decision was made, I didn't worry about it afterward."</i>
+<i>"Inspiration exists, but it has to find you working."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
