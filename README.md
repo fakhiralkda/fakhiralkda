@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dream big and dare to fail."</i>
+<i>"Failing is another stepping stone to greatness."</i>
 <br>
-<b>- Norman Vaughan</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
