@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our greatest glory is not in never falling, but in rising every time we fall. "</i>
+<i>"In order to be irreplaceable one must always be different."</i>
 <br>
-<b>- Confucius</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
