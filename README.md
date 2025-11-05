@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When it is dark enough, you can see the stars."</i>
+<i>"It doesn't matter how slow you go, as long as you don't stop."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
