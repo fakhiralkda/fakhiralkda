@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding."</i>
+<i>"Life is a balance of holding on and letting go."</i>
 <br>
-<b>- John D. Rockefeller</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
