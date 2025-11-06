@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For things to change, you have to change."</i>
+<i>"When the fish is caught we pay no more attention to the trap."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
