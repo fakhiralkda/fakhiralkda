@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you get by achieving your goals is not as important as what you become by achieving your goals."</i>
+<i>"If you build the guts to do something, anything, then you better save enough to face the consequences."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
