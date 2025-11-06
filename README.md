@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not try to be on the side of the majority, but live according to your inner laws."</i>
+<i>"Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- John D. Rockefeller</b>
 </blockquote>
 </p>
 
