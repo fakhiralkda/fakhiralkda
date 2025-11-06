@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you build the guts to do something, anything, then you better save enough to face the consequences."</i>
+<i>"Circumstances do not make the man, they reveal him."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
