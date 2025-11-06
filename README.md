@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The attempt to escape from pain, is what creates more pain."</i>
+<i>"Don't let your mind stop you."</i>
 <br>
-<b>- Gabor Mate</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
