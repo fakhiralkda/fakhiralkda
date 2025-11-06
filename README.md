@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a balance of holding on and letting go."</i>
+<i>"Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place."</i>
 <br>
-<b>- Rumi</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
