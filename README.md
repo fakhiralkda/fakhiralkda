@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The whole is greater than the sum of its parts."</i>
+<i>"Start each day with a positive thought and a grateful heart."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
