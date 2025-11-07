@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pain doesn't last. And when it's gone, we have something to show for it. Growth."</i>
+<i>"You don't have to control your thoughts; you just have to stop letting them control you."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
