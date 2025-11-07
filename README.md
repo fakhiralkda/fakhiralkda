@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True friendship ought never to conceal what it thinks. "</i>
+<i>"The whole is greater than the sum of its parts."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
