@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some of your greatest lessons come from your darkest moments."</i>
+<i>"It doesn't matter what you do, only how well you do it."</i>
 <br>
-<b>- Roger Lee</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
