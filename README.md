@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where there's life, there's hope."</i>
+<i>"The person who never made a mistake never tried anything new."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
