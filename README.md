@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before you embark on a journey of revenge, dig two graves. "</i>
+<i>"Yesterday is but today's memory, tomorrow is today's dream."</i>
 <br>
-<b>- Confucius</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
