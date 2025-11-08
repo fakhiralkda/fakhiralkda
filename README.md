@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our truest life is when we are in dreams awake."</i>
+<i>"Knowledge is learning something everyday. Wisdom is letting go of something everyday."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
