@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge is learning something everyday. Wisdom is letting go of something everyday."</i>
+<i>"Where there's life, there's hope."</i>
 <br>
-<b>- Unknown</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
