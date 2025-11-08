@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person who never made a mistake never tried anything new."</i>
+<i>"When you're the only sane person, you look like the only insane person."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
