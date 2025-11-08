@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It doesn't matter what you do, only how well you do it."</i>
+<i>"Before you embark on a journey of revenge, dig two graves. "</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
