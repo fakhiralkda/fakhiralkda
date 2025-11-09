@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to make God laugh, tell him about your plans. "</i>
+<i>"The moment you stop to think about whether you love someone, you've already stopped loving that person forever."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
