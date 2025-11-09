@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Embrace the life you have and stop wishing that you could be someone else."</i>
+<i>"The key to success is action."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
