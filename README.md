@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The moment you stop to think about whether you love someone, you've already stopped loving that person forever."</i>
+<i>"Rewards and punishment is the lowest form of education."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
