@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A clever person turns great troubles into little ones, and little ones into none at all. "</i>
+<i>"When the root is strong, the fruit is sweet."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
