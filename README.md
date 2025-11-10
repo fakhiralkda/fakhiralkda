@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good things aren't supposed to just fall into your lap."</i>
+<i>"Keep smiling, because life is a beautiful thing and there's so much to smile about."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
