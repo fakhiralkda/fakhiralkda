@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wealth is the product of man's capacity to think."</i>
+<i>"A clever person turns great troubles into little ones, and little ones into none at all. "</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
