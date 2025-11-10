@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You use a glass mirror to see your face; you use works of art to see your soul."</i>
+<i>"Boldness makes even the smallest animal dangerous."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
