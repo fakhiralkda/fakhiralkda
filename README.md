@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each day provides it's own gifts."</i>
+<i>"The key to immortality is first living a life worth remembering. "</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
