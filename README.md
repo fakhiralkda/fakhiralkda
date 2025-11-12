@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The foolish reject what they see, not what they think; the wise reject what they think, not what they see."</i>
+<i>"All great truths begin as blasphemies."</i>
 <br>
-<b>- Huang Po</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
