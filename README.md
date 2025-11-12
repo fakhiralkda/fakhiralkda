@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember that the best relationship is one in which your love for each other exceeds your need for each other."</i>
+<i>"Decide whether or not the goal is worth the risks involved. If it is, stop worrying."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
