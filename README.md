@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lying can never save us from another lie."</i>
+<i>"You are not stuck where you are unless you decide to be.  "</i>
 <br>
-<b>- Vaclav Havel</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
