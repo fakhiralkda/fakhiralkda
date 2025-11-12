@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All great truths begin as blasphemies."</i>
+<i>"Stop acting so small. You are the universe in ecstatic motion."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
