@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing more truly artistic than to love people."</i>
+<i>"Lying can never save us from another lie."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
