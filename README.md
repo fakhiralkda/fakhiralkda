@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You live by what you thrill to, and there's the end of it."</i>
+<i>"Conscience is a dog that does not stop us from passing but that we cannot prevent from barking."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
