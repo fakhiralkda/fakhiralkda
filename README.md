@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Re-examine all that you have been told... dismiss that which insults your soul."</i>
+<i>"Don't look for meaning in the words. Listen to the silences."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
