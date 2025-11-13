@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All leaders are readers."</i>
+<i>"You live by what you thrill to, and there's the end of it."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
