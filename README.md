@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't waste time on excuses. Just get it done."</i>
+<i>"Re-examine all that you have been told... dismiss that which insults your soul."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
