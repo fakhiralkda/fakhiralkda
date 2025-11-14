@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously."</i>
+<i>"Because a thing seems difficult for you, do not think it impossible."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
