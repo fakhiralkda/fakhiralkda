@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Because a thing seems difficult for you, do not think it impossible."</i>
+<i>"If you can't argue both sides, you can't argue."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
