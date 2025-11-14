@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn the rules like a pro, so you can break them like an artist."</i>
+<i>"Even a hare will bite when it is cornered. "</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
