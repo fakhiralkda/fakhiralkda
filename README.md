@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others."</i>
+<i>"Learn the rules like a pro, so you can break them like an artist."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
