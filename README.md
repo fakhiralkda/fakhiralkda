@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't get in life what you want; you get in life what you are."</i>
+<i>"Integrity is telling myself the truth. And honesty is telling the truth to other people."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
