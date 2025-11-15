@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When something is important enough, you do it even if the odds are not in your favor."</i>
+<i>"Life is a question and how we live it is our answer."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
