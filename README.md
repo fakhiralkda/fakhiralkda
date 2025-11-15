@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am always doing what I cannot do yet, in order to learn how to do it."</i>
+<i>"The wise speak only of what they know."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
