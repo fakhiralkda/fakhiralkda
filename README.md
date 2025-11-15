@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Integrity is telling myself the truth. And honesty is telling the truth to other people."</i>
+<i>"Do not fear failure but rather fear not trying."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
