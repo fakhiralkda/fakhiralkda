@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People will forget what you said, people will forget what you did, but people will never forget how you made them feel."</i>
+<i>"I am always doing what I cannot do yet, in order to learn how to do it."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
