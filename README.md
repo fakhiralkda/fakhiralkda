@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a question and how we live it is our answer."</i>
+<i>"People will forget what you said, people will forget what you did, but people will never forget how you made them feel."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
