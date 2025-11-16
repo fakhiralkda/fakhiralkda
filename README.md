@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now."</i>
+<i>"To lose your temper is only useful once a year."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Colin R. Davis</b>
 </blockquote>
 </p>
 
