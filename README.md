@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I can pay the bills, I'm happy."</i>
+<i>"Life is what you make it. Always has been, always will be."</i>
 <br>
-<b>- Morgan Wootten</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
