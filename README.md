@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is not about possession. Love is about appreciation."</i>
+<i>"If ever you feel like an animal among men, be a lion."</i>
 <br>
-<b>- Osho</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
