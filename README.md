@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more reasons you have for achieving your goal, the more determined you will become."</i>
+<i>"The constant assertion of belief is an indication of fear."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
