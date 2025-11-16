@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If ever you feel like an animal among men, be a lion."</i>
+<i>"Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
