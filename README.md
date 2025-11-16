@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To lose your temper is only useful once a year."</i>
+<i>"Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next."</i>
 <br>
-<b>- Colin R. Davis</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
