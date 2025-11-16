@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The constant assertion of belief is an indication of fear."</i>
+<i>"Love is not about possession. Love is about appreciation."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
