@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment."</i>
+<i>"Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
