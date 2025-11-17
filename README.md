@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing like a health problem to turn up the contrast dial for the rest of life."</i>
+<i>"We tend to live up to our expectations."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
