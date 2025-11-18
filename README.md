@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The true soldier fights not because he hates what is in front of him, but because he loves what is behind him."</i>
+<i>"Whether you think you can or think you can't – you are right."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
