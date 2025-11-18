@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not how much we have, but how much we enjoy, that makes happiness."</i>
+<i>"Most people get ahead during the time that others waste."</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
