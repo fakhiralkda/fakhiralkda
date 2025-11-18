@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words have no power to impress the mind without the exquisite horror of their reality."</i>
+<i>"You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
