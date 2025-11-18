@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot always control what goes on outside. But you can always control what goes on inside. "</i>
+<i>"The greatest deception men suffer is from their own opinions."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
