@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control."</i>
+<i>"The greatest treasures are those invisible to the eye but found by the heart."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
