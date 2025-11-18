@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest deception men suffer is from their own opinions."</i>
+<i>"The true soldier fights not because he hates what is in front of him, but because he loves what is behind him."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
