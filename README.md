@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people get ahead during the time that others waste."</i>
+<i>"Attitude is a little thing that makes a big difference."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
