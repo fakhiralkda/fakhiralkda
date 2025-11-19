@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions."</i>
+<i>"All that we see or seem is but a dream within a dream."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
