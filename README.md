@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear can hold you prisoner. Hope can set you free."</i>
+<i>"Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away."</i>
 <br>
-<b>- Stephen King</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
