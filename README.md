@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No valid plans for the future can be made by those who have no capacity for living now."</i>
+<i>"Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
