@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away."</i>
+<i>"I never said it would be easy, I only said it would be worth it."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
