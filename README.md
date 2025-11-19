@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to be successful, you have to jump, there's no way around it."</i>
+<i>"Fear can hold you prisoner. Hope can set you free."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
