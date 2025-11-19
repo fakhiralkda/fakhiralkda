@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The smallest of actions is always better than the noblest of intentions."</i>
+<i>"It's much better to do good in a way that no one knows anything about it."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
