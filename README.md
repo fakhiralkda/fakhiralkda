@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose."</i>
+<i>"Follow the man who seeks the truth; run from the man who has found it."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
