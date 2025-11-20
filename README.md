@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The thing about smart people is that they seem like crazy people to dumb people."</i>
+<i>"Life is ten percent what you experience and ninety percent how you respond to it."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
