@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. "</i>
+<i>"If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
