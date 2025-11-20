@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace."</i>
+<i>"Life belongs to the living, and he who lives must be prepared for changes."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
