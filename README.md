@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man sees in the world what he carries in his heart."</i>
+<i>"To handle yourself, use your head; to handle others, use your heart."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
