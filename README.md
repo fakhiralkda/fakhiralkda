@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your time is limited, so don't waste it living someone elses. life. Don't be trapped by dogma - which is living with the results of other people's thinking."</i>
+<i>"A memory is a beautiful thing, it's almost a desire that you miss."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
