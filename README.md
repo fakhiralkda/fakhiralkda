@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our happiness depends on the habit of mind we cultivate."</i>
+<i>"Honor is the foundation of courage."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
