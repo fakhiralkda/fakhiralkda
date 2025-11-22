@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't climb the ladder of success with your hands in your pockets."</i>
+<i>"Life can be wonderful if you're not afraid of it."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
