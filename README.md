@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not all those who wander are lost."</i>
+<i>"Everything is in your own heart."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
