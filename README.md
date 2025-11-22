@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Honor is the foundation of courage."</i>
+<i>"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. "</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
