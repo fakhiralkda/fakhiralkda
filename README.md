@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life."</i>
+<i>"Opportunities multiply as they are seized."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
