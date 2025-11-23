@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life does not get better by chance, it gets better by change."</i>
+<i>"The glow of one warm thought is to me worth more than money."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
