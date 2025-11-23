@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no limitations to the mind except those we acknowledge..."</i>
+<i>"Live your life and forget your age."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
