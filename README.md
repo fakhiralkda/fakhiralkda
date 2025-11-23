@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All cruelty springs from weakness.  "</i>
+<i>"Life does not get better by chance, it gets better by change."</i>
 <br>
-<b>- Seneca</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
