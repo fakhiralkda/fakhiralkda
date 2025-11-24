@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If a thing is worth doing, it is worth doing badly."</i>
+<i>"Small men think they are small; great men never know they are great. "</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
