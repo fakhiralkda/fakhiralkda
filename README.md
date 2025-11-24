@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't seek, don't avoid, don't expect. Take what comes and be happy."</i>
+<i>"If a thing is worth doing, it is worth doing badly."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
