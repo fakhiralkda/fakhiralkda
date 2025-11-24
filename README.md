@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every hour of every day is an unspeakably perfect miracle."</i>
+<i>"Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have?"</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
