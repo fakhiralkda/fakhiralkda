@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Small men think they are small; great men never know they are great. "</i>
+<i>"Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
