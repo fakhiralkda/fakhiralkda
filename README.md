@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If the grass is greener on the other side, maybe that's because you're not taking good care of your grass."</i>
+<i>"Don't seek, don't avoid, don't expect. Take what comes and be happy."</i>
 <br>
-<b>- Unknown</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
