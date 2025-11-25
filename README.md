@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man has to learn that he cannot command things but that he can command himself; that he cannot coerce the wills of others but that he can mold and master his own will."</i>
+<i>"The only reason to be alive is to enjoy it."</i>
 <br>
-<b>- James Allen</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
