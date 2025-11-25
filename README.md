@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thinking is the hardest work there is. That is why so few people engage in it."</i>
+<i>"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
