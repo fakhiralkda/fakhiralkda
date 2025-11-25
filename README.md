@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rewards and punishment is the lowest form of education."</i>
+<i>"If you correct your mind, the rest of your life will fall into place."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
