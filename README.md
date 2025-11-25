@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An un-examined life is not worth living."</i>
+<i>"Rewards and punishment is the lowest form of education."</i>
 <br>
-<b>- Socrates</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
