@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich."</i>
+<i>"Just try to be the best you can be; never cease trying to be the best you can be. That's in your power."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
