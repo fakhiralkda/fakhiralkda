@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise. "</i>
+<i>"Life would be tragic if it weren't funny."</i>
 <br>
-<b>- Buddha</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
