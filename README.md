@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"New opinions are always suspected, and usually opposed, without any other reason but because they are not common."</i>
+<i>"A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise. "</i>
 <br>
-<b>- John Locke</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
