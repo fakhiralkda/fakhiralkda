@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live and act within the limit of your knowledge and keep expanding it to the limit of your life."</i>
+<i>"The single most powerful asset we all have is our mind."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
