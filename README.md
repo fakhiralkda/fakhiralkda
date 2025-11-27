@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality."</i>
+<i>"I have no methods; all I do is accept people as they are."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
