@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have no methods; all I do is accept people as they are."</i>
+<i>"Be willing to be a beginner every single morning."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
