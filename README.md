@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is much more successfully looked at from a single window."</i>
+<i>"The strongest and sweetest songs yet remain to be sung."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
