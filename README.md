@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have to keep breaking your heart until it opens."</i>
+<i>"Imagination is the beginning of creation."</i>
 <br>
-<b>- Rumi</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
