@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's easier to go down a hill than up it but the view is much better at the top."</i>
+<i>"If we will be quiet and ready enough, we shall find compensation in every disappointment."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
