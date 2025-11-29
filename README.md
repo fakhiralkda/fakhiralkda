@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Heart is what separates the good from the great."</i>
+<i>"Character is destiny."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
