@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results."</i>
+<i>"A tiger doesn't lose sleep over the opinion of sheep."</i>
 <br>
-<b>- James Allen</b>
+<b>- Shahir Zag</b>
 </blockquote>
 </p>
 
