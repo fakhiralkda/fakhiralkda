@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed."</i>
+<i>"When we allow negative messages to fester in our head, they take on a life of their own."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
