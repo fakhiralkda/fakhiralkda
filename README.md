@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only man who never makes mistakes is the man who never does anything."</i>
+<i>"Human beings believe just as they breathe - in order to survive."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
