@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human beings believe just as they breathe - in order to survive."</i>
+<i>"Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
