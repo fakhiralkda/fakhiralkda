@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A life without a cause is a life without effect."</i>
+<i>"Heart is what separates the good from the great."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
