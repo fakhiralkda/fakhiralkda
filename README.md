@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your conscience is the measure of the honesty of your selfishness. Listen to it carefully."</i>
+<i>"Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
