@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Formal education will make you a living, self-education will make you a fortune."</i>
+<i>"If you chase two rabbits, you catch none."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
