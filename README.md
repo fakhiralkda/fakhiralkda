@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wake up and smile! Wake up and be grateful!"</i>
+<i>"Fools talk, cowards are silent, wise men listen."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
