@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing quite so tragic as a young cynic."</i>
+<i>"Open your mind before your mouth."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
