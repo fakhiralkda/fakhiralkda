@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fools talk, cowards are silent, wise men listen."</i>
+<i>"It is not enough to win a war; it is more important to organize the peace."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
