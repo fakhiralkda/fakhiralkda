@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man becomes rich unless he enriches others."</i>
+<i>"Wake up and smile! Wake up and be grateful!"</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
