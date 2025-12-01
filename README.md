@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't make someone feel good about themselves until you feel good about yourself."</i>
+<i>"Those who know, do. Those that understand, teach."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
