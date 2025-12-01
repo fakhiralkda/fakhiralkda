@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Normal is the average of deviance."</i>
+<i>"Whatever you are, be a good one."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
