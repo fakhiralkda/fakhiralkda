@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What have you done today to make someone else happy?"</i>
+<i>"It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  "</i>
 <br>
-<b>- Deepam Chaterjee</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
