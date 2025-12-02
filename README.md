@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We suffer more often in imagination than in reality.  "</i>
+<i>"You will not do incredible things without an incredible dream."</i>
 <br>
-<b>- Seneca</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
