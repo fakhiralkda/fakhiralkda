@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tragedy is a tool for the living to gain wisdom, not a guide by which to live."</i>
+<i>"The whole of life, from the moment you are born to the moment you die, is a process of learning."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
