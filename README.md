@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not the men in your life that matters, it's the life in your men."</i>
+<i>"Freedom lies in being bold."</i>
 <br>
-<b>- Mae West</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
