@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I've always lived in the moment."</i>
+<i>"One day, in retrospect, the years of struggle will strike you as the most beautiful."</i>
 <br>
-<b>- Yanni</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
