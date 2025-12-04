@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who violates another's honor loses his own."</i>
+<i>"I don't pretend to know everything; I just only speak on matters I know I'll win."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
