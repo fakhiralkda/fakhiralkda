@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am not the outcome. I am never the result. I am only the effort."</i>
+<i>"Kind words can be short and easy to speak, but their echoes are truly endless."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
