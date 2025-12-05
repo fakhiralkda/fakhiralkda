@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Faithless is he that says farewell when the road darkens."</i>
+<i>"If you're afraid to die, you're afraid to live. You can't have one without the other."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
