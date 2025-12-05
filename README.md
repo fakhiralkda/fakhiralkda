@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never waste a minute of your precious life thinking about people you don't like."</i>
+<i>"If you truly expect something to be difficult, it will be."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Peter A. Cohen</b>
 </blockquote>
 </p>
 
