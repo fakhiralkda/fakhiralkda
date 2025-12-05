@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence."</i>
+<i>"The real measure of your wealth is how much you'd be worth if you lost all your money."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
