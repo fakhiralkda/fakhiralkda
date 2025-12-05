@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The real measure of your wealth is how much you'd be worth if you lost all your money."</i>
+<i>"Faithless is he that says farewell when the road darkens."</i>
 <br>
-<b>- Unknown</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
