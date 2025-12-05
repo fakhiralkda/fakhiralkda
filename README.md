@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future will be shaped by those willing to commit their minds and their bodies to the task."</i>
+<i>"When it comes to mastering a skill, time is the magic ingredient."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
