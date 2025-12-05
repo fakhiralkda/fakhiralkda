@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  "</i>
+<i>"The only thing more frustrating than slanderers is those foolish enough to listen to them."</i>
 <br>
-<b>- Seneca</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
