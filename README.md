@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can suffer the pain of change or suffer remaining the way you are."</i>
+<i>"Problems remain as problems because people are busy defending them rather than finding solutions."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
