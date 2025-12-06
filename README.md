@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity."</i>
+<i>"The greatest step towards a life of simplicity is to learn to let go."</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
