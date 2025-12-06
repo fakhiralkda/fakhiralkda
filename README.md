@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When it comes to mastering a skill, time is the magic ingredient."</i>
+<i>"Quiet people have the loudest minds."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
