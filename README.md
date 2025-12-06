@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way to get started is to quit talking and begin doing."</i>
+<i>"Only when I fall do I get up again."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
