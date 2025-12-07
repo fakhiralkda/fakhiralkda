@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Rolling Stone Gathers No Moss."</i>
+<i>"A tiny change today brings a dramatically different tomorrow."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
