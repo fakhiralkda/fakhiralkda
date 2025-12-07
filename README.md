@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A tiny change today brings a dramatically different tomorrow."</i>
+<i>"The quality of your life is the quality of your relationships."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
