@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is nothing more than a few simple disciplines practiced every day."</i>
+<i>"Conflict cannot survive without your participation. "</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
