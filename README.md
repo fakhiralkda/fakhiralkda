@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remain calm. Be kind."</i>
+<i>"Avoiding danger is no safer in the long run than exposure."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
