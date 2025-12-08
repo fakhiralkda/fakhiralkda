@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To lead an orchestra, you must turn your back on the crowd."</i>
+<i>"Success is nothing more than a few simple disciplines practiced every day."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
