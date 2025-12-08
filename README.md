@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little."</i>
+<i>"Today will never happen again. Don't waste it with a false start or no start at all."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
