@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be strong. Be confident. Be the star of your own life."</i>
+<i>"We have to live life with a sense of urgency so not a minute is wasted."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
