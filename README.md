@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything flows, nothing stands still."</i>
+<i>"No man is happy unless he believes he is."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
