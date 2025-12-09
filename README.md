@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man is happy unless he believes he is."</i>
+<i>"A good system shortens the road to the goal. "</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
