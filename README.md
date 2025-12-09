@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"While we may not be able to control all that happens to us, we can control what happens inside us."</i>
+<i>"This is such a short and precious life that it's really important that you don't spend it being unhappy."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
