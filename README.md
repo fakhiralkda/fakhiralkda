@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Surrender to what is. Let go of what was. Have faith in what will be."</i>
+<i>"Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work."</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
