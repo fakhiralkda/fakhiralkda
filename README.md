@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To create more positive results in your life, replace 'if only' with 'next time'."</i>
+<i>"Only he who has no use for the empire is fit to be entrusted with it."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
