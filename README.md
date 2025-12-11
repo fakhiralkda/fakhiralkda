@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future."</i>
+<i>"To improve is to change, so to be perfect is to change often."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
