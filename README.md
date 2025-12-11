@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only he who has no use for the empire is fit to be entrusted with it."</i>
+<i>"The quieter you become, the more you are able to hear."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
