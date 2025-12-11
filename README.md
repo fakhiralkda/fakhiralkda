@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Out of your vulnerabilities will come your strength."</i>
+<i>"He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed. "</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
