@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To improve is to change, so to be perfect is to change often."</i>
+<i>"The thing about smart people is that they seem like crazy people to dumb people."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
