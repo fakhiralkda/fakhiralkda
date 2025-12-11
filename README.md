@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quieter you become, the more you are able to hear."</i>
+<i>"Out of your vulnerabilities will come your strength."</i>
 <br>
-<b>- Rumi</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
