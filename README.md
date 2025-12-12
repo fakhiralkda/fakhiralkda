@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted."</i>
+<i>"Silence is sometimes the best answer."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
