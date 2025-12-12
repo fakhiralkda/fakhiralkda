@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is sometimes the best answer."</i>
+<i>"Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
