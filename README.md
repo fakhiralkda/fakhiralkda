@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"20 percent of your activities will account for 80 percent of your results."</i>
+<i>"Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
