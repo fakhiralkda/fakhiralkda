@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always render more and better service than is expected of you, no matter what your task may be."</i>
+<i>"The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
