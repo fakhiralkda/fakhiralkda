@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing has any power over me other than that which I give it through my conscious thoughts."</i>
+<i>"Closing your eyes and listening to silence is self-care."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
