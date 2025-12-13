@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If a man knows not to which port he sails, no wind is favorable.  "</i>
+<i>"If you have to be in a soap opera try not to be cast in the worst role."</i>
 <br>
-<b>- Seneca</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
