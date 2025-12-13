@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never stand begging for that which you have the power to earn."</i>
+<i>"Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
