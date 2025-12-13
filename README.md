@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid that you do not know something. Be afraid of not learning about it."</i>
+<i>"Being wrong brings the opportunity for growth."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
