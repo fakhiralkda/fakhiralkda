@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most tragic thing in the world is a man of genius who is not a man of honor."</i>
+<i>"You can only lose something that you have, but you cannot lose something that you are."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
