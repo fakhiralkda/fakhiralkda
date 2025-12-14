@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A moving door hinge never corrodes. Flowing water never grows stagnant."</i>
+<i>"Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
