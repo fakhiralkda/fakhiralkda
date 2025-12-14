@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly."</i>
+<i>"Desire for the fruits of work must never be your motive in working."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
