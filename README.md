@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear can hold you prisoner. Hope can set you free."</i>
+<i>"There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. "</i>
 <br>
-<b>- Stephen King</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
