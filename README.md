@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Understanding that rests in what it does not understand is the finest."</i>
+<i>"He who cheats the earth will be cheated by the earth."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
