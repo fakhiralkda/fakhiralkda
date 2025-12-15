@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dance first. Think later. It's the natural order."</i>
+<i>"Fear can hold you prisoner. Hope can set you free."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
