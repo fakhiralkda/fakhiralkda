@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction."</i>
+<i>"Understanding that rests in what it does not understand is the finest."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
