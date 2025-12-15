@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were."</i>
+<i>"A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
