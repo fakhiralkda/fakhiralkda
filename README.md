@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is the offspring of silence and meditation."</i>
+<i>"Absence makes the heart grow fonder."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
