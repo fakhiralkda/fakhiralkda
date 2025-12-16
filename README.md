@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. "</i>
+<i>"The older you get, the more you understand how your conscience works."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
