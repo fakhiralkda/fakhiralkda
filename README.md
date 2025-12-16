@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest of all mistakes is to do nothing because you think you can only do a little.  "</i>
+<i>"It's the little things done consistently over time, straight from your heart, that have the greatest impact."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
