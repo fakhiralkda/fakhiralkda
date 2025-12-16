@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't give up on your dreams, or your dreams will give up on you."</i>
+<i>"I have not failed. I've just found 10,000 ways that won't work."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
