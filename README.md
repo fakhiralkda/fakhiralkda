@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The older you get, the more you understand how your conscience works."</i>
+<i>"Don't give up on your dreams, or your dreams will give up on you."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
