@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life."</i>
+<i>"The greatest of all mistakes is to do nothing because you think you can only do a little.  "</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
