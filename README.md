@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't listen to the person who has the answers; listen to the person who has the questions."</i>
+<i>"The wise warrior avoids the battle."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
