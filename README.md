@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We run to win, not just to be in the race.  "</i>
+<i>"We are born from a quiet sleep, and we die to a calm awakening"</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
