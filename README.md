@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To lead an orchestra, you must turn your back on the crowd."</i>
+<i>"Superstars think like superstars long before the fans or the press anoint them."</i>
 <br>
-<b>- Aristotle</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
