@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only limits in our life are those we impose on ourselves."</i>
+<i>"Understanding that rests in what it does not understand is the finest."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
