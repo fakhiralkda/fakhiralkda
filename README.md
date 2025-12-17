@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who wishes to fight must first count the cost."</i>
+<i>"It is useless to meet revenge with revenge; it will heal nothing."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
