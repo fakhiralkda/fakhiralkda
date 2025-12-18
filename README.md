@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe and you're halfway there."</i>
+<i>"Lying can never save us from another lie."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
