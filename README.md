@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ladder of success is best climbed by stepping on the rungs of opportunity."</i>
+<i>"Every poem should remind the reader that they are going to die."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
