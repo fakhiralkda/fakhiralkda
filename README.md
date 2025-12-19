@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all different. Don't judge, understand instead."</i>
+<i>"A good stance and posture reflect a proper state of mind."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
