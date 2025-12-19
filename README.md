@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything."</i>
+<i>"We are all different. Don't judge, understand instead."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
