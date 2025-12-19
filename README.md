@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good stance and posture reflect a proper state of mind."</i>
+<i>"Expect the best, plan for the worst, and prepare to be surprised. "</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
