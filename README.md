@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man with outward courage dares to die: a man with inner courage dares to live."</i>
+<i>"If there's a definition of freedom, I think it's this: living life on your terms."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
