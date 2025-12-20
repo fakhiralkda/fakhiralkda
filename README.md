@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not what happens to you, but how you react to it that matters."</i>
+<i>"Being wrong opens us up to the possibility of change."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
