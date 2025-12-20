@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you will never know the value of something, until it becomes a memory."</i>
+<i>"I like the dreams of the future better than the history of the past."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
