@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I like the dreams of the future better than the history of the past."</i>
+<i>"Walk slowly but never walk backward."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
