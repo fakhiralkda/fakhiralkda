@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If there's a definition of freedom, I think it's this: living life on your terms."</i>
+<i>"It isn't what you do, but how you do it."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
