@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one thing that makes a dream impossible to achieve: the fear of failure."</i>
+<i>"Knowing is not enough, we must apply. Willing is not enough, we must do.  "</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
