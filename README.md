@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing is not enough, we must apply. Willing is not enough, we must do.  "</i>
+<i>"Your work is to discover your work and then, with all your heart, to give yourself to it."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
