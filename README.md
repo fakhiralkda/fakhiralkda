@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"At the end of the day, let there be no excuses, no explanations, no regrets."</i>
+<i>"No man is free who is not master of himself."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
