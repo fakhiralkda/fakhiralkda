@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You give but little when you give of your possessions. It is when you give of yourself that you truly give."</i>
+<i>"Reversing your treatment of the man you have wronged is better than asking his forgiveness."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
