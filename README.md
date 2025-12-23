@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not all those who wander are lost."</i>
+<i>"Keep your friends close, and your enemies closer."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
