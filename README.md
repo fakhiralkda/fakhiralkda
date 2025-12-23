@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone thinks of changing the world, but no one thinks of changing himself."</i>
+<i>"Not all those who wander are lost."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
