@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Would you rather learn to deal with the truth now than be forced to do so later on?"</i>
+<i>"Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
