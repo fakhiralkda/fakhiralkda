@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can suffer the pain of change or suffer remaining the way you are."</i>
+<i>"If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
