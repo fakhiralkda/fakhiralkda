@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every moment of happiness requires a great amount of Ignorance"</i>
+<i>"Either write something worth reading or do something worth writing."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
