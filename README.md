@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You miss 100% of the shots you don't take."</i>
+<i>"Remain calm. Be kind."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
