@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He suffers more than necessary, who suffers before it is necessary.  "</i>
+<i>"Would you rather learn to deal with the truth now than be forced to do so later on?"</i>
 <br>
-<b>- Seneca</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
