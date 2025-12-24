@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not allow your inner doubts to keep you from achieving what you can do."</i>
+<i>"You can suffer the pain of change or suffer remaining the way you are."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
