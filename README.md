@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always do your best. What you plant now, you will harvest later."</i>
+<i>"Do not allow your inner doubts to keep you from achieving what you can do."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
