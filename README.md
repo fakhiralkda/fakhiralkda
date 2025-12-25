@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your goals are the road maps that guide you and show you what is possible for your life."</i>
+<i>"It's the unknown we fear when we look upon death and darkness, nothing more."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
