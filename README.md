@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want others to be happy, practice compassion. If you want to be happy, practice compassion."</i>
+<i>"The key to success is action."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
