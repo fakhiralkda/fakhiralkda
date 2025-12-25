@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Doubt is an uncomfortable condition, but certainty is a ridiculous one."</i>
+<i>"You get in life what you have the courage to ask for."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
