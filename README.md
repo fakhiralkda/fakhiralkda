@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To raise your consciousness, surround yourself with people of higher consciousness."</i>
+<i>"Doubt is an uncomfortable condition, but certainty is a ridiculous one."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
