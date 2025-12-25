@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You get in life what you have the courage to ask for."</i>
+<i>"Do it with passion, or not at all."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Rosa Nouchette Carey</b>
 </blockquote>
 </p>
 
