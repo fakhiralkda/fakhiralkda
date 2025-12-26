@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be royal in your own fashion: act like a king to be treated like one."</i>
+<i>"To bear trials with a calm mind robs misfortune of its strength and burden."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
