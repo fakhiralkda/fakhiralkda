@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must be willing to do what others won't do, to have what others won't have."</i>
+<i>"Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
