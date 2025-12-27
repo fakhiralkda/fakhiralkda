@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is more creative...nor destructive...than a brilliant mind with a purpose."</i>
+<i>"Truth is such a rare thing, it is delighted to tell it."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
