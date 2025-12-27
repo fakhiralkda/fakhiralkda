@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is the absence of the striving for happiness."</i>
+<i>"Nothing we see or hear is perfect. But right there in the imperfection is perfect reality."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
