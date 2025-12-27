@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen."</i>
+<i>"The people who succeed are irrationally passionate about something."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
