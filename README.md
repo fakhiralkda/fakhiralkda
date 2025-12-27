@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Light a candle instead of cursing the darkness."</i>
+<i>"Happiness is the absence of the striving for happiness."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
