@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The difference between treason and patriotism is only a matter of dates."</i>
+<i>"Dreams provide nourishment for the soul, just as a meal does for the body."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
