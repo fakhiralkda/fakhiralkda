@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man is happy who does not think himself so."</i>
+<i>"Light a candle instead of cursing the darkness."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
