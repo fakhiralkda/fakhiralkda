@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep away from people who try to belittle your ambitions."</i>
+<i>"We turn not older with years but newer every day."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
