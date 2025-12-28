@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I would rather be hated for who I am than loved for who I'm not.  "</i>
+<i>"I do not exist to impress the world. I exist to live my life in a way that will make me happy."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
