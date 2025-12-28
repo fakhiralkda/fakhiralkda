@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We turn not older with years but newer every day."</i>
+<i>"Great things happen to those who don't stop believing, trying, learning, and being grateful."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
