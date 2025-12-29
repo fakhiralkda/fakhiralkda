@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To lead the people, walk behind them."</i>
+<i>"What have you done today to make someone else happy?"</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Deepam Chaterjee</b>
 </blockquote>
 </p>
 
