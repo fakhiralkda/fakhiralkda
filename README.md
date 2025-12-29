@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Walking with a friend in the dark is better than walking alone in the light."</i>
+<i>"People who belittle people, will be LITTLE people, and will accomplish very Little"</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
