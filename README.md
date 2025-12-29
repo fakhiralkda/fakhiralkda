@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Help others achieve their dreams and you will achieve yours."</i>
+<i>"To be great is to be misunderstood."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
