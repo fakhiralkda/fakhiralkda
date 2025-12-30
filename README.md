@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  "</i>
+<i>"Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!"</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
