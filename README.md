@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience."</i>
+<i>"Love the life you live, live the life you love."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
