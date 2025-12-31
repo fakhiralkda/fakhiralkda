@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our life isn't how much we can take out, but how much we can put in.  "</i>
+<i>"To judge a man by his weakest link or deed is like judging the power of the ocean by one wave."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
