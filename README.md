@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is when what you think, what you say, and what you do are in harmony."</i>
+<i>"I no doubt deserved my enemies, but I don't believe I deserved my friends."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
