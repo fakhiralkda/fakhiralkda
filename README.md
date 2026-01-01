@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your friends close, and your enemies closer."</i>
+<i>"We can know only that we know nothing. And that is the highest degree of human wisdom."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
