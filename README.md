@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a balance of holding on and letting go."</i>
+<i>"Keep your friends close, and your enemies closer."</i>
 <br>
-<b>- Rumi</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
