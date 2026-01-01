@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can know only that we know nothing. And that is the highest degree of human wisdom."</i>
+<i>"There is no self-discovery without pain and loss."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
