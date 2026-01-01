@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your business is not to 'get somewhere' - it is to be here."</i>
+<i>"Constantly think about how you could be doing things better."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
