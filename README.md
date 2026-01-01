@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Art is the signature of civilizations. "</i>
+<i>"Life is a balance of holding on and letting go."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
