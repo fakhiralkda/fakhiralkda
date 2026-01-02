@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is the sum of small efforts, repeated day in and day out."</i>
+<i>"Time goes from present to past."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
