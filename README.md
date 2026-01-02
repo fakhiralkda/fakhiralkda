@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything you've ever wanted is on the other side of fear."</i>
+<i>"Success is the sum of small efforts, repeated day in and day out."</i>
 <br>
-<b>- George Addair</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
