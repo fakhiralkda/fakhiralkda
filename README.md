@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are not only responsible for what you say, but also for what you do not say. "</i>
+<i>"Everything you've ever wanted is on the other side of fear."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- George Addair</b>
 </blockquote>
 </p>
 
