@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform."</i>
+<i>"Don't let your learning lead to knowledge. Let your learning lead to action."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
