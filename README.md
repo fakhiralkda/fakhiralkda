@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with."</i>
+<i>"You are not what you think you are, You are not what others think you are, You are what you think others think you are."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
