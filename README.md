@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tension is who you think you should be. Relaxation is who you are."</i>
+<i>"If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
