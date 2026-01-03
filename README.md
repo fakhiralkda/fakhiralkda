@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cherish forever what makes you unique, cuz you're really a yawn if it goes."</i>
+<i>"Always try to be a little kinder than necessary."</i>
 <br>
-<b>- Bette Midler</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
