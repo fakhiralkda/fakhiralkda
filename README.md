@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can have results or excuses, but not both."</i>
+<i>"It is better to be looked over than overlooked."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
