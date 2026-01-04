@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot push anyone up a ladder unless he is willing to climb a little himself."</i>
+<i>"People become attached to their burdens sometimes more than the burdens are attached to them."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
