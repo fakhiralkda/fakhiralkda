@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The desire for more positive experience is itself a negative experience."</i>
+<i>"Everything flows, nothing stands still."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
