@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyday you can take a tiny step in the right direction."</i>
+<i>"Try to be a rainbow in someone's cloud."</i>
 <br>
-<b>- Unknown</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
