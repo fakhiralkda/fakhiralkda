@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There will always be suffering. But we must not suffer over the suffering."</i>
+<i>"I want the fishing rod, not the fish."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
