@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more something scares you, the more you should do it."</i>
+<i>"A little progress each day adds up to big results."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
