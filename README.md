@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I want the fishing rod, not the fish."</i>
+<i>"Don't let the past steal your present."</i>
 <br>
-<b>- Yanni</b>
+<b>- Cherralea Morgen</b>
 </blockquote>
 </p>
 
