@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who violates another's honor loses his own."</i>
+<i>"My sun sets to rise again."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Robert Browning</b>
 </blockquote>
 </p>
 
