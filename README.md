@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My sun sets to rise again."</i>
+<i>"To do two things at once is to do neither."</i>
 <br>
-<b>- Robert Browning</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
