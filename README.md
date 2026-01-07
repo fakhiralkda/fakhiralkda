@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Concentrated power has always been the enemy of liberty."</i>
+<i>"Love is not about possession. Love is about appreciation."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
