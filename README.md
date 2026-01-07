@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To do two things at once is to do neither."</i>
+<i>"Freedom is the open window through which pours the sunlight of the human spirit and human dignity."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
