@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Someday death will take us to another star."</i>
+<i>"Concentrated power has always been the enemy of liberty."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
