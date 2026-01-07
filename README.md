@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is not about possession. Love is about appreciation."</i>
+<i>"One's best success comes after their greatest disappointments."</i>
 <br>
-<b>- Osho</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
