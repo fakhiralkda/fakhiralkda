@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genius is patience."</i>
+<i>"Argue for your limitations and sure enough, they're yours."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
