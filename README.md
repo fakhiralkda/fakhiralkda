@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is easier to fight for one's principles than to live up to them. "</i>
+<i>"Be willing to be a beginner every single morning."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
