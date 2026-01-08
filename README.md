@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The hard path is often the right one. The river teaches more than the shore."</i>
+<i>"It is easier to fight for one's principles than to live up to them. "</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
