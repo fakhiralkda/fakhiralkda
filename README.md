@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear is what stops you. Courage is what keeps you going."</i>
+<i>"Nothing brings down walls as surely as acceptance."</i>
 <br>
-<b>- Unknown</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
