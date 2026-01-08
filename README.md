@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great deeds are usually wrought at great risks."</i>
+<i>"Focused, hard work is the real key to success."</i>
 <br>
-<b>- Herodotus</b>
+<b>- John Carmack</b>
 </blockquote>
 </p>
 
