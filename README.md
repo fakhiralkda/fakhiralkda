@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Focused, hard work is the real key to success."</i>
+<i>"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. "</i>
 <br>
-<b>- John Carmack</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
