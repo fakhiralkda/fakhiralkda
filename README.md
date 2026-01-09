@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You never know when a moment and a few sincere words can have an impact on a life.  "</i>
+<i>"If you are going to achieve excellence in big things, you develop the habit in little matters."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
