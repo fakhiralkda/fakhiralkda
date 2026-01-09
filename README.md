@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have more possibilities available in each moment than we realize."</i>
+<i>"If you're not making mistakes, then you're not doing anything."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
