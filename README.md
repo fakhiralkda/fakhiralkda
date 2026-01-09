@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is not about possession. Love is about appreciation."</i>
+<i>"Look to the beauty of this day, miracles are all around you."</i>
 <br>
-<b>- Osho</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
