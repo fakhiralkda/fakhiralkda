@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage Is a Love Affair with the Unknown"</i>
+<i>"Avoiding danger is no safer in the long run than exposure."</i>
 <br>
-<b>- Osho</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
