@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Avoiding danger is no safer in the long run than exposure."</i>
+<i>"Become the kind of leader that people would follow voluntarily, even if you had no title or position."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
