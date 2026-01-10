@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wheels of justice grind slow but grind fine."</i>
+<i>"There are no mistakes in life, only lessons."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
