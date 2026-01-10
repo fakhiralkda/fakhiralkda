@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm not afraid of death, but I'm in no hurry to die."</i>
+<i>"Surround yourself with only people who are going to lift you higher. "</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
