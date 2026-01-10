@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wishing to be friends is quick work, but friendship is a slow ripening fruit."</i>
+<i>"Being wrong opens us up to the possibility of change."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
