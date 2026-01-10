@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not the men in your life that matters, it's the life in your men."</i>
+<i>"Seek not the good in external things;seek it in yourselves."</i>
 <br>
-<b>- Mae West</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
