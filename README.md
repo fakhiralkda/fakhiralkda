@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Surround yourself with only people who are going to lift you higher. "</i>
+<i>"It's not the men in your life that matters, it's the life in your men."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
