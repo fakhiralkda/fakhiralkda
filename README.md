@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be calm is the highest achievement of the self."</i>
+<i>"If you are going to achieve excellence in big things, you develop the habit in little matters."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
