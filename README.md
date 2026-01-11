@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm an optimist by choice not by stupidity."</i>
+<i>"A day without laughter is a day wasted."</i>
 <br>
-<b>- Yanni</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
