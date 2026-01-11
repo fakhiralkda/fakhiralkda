@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man suffers only because he takes seriously what the gods made for fun."</i>
+<i>"I'm an optimist by choice not by stupidity."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
