@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only defense against the world is a thorough knowledge of it."</i>
+<i>"A person is only by the thoughts that he chooses."</i>
 <br>
-<b>- John Locke</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
