@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A day without laughter is a day wasted."</i>
+<i>"If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
