@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The busy man is never wise and the wise man is never busy."</i>
+<i>"If you aren't sure which way to do something, do it both ways and see which works better."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- John Carmack</b>
 </blockquote>
 </p>
 
