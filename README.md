@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today will never happen again. Don't waste it with a false start or no start at all."</i>
+<i>"Do not fight with pigs - you will be smeared in mud but the pig will like it."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
