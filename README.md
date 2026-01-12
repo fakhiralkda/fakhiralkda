@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A person who does not read is no better than one cannot read."</i>
+<i>"Attitude, not aptitude, determines altitude.  "</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
