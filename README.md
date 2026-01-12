@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A person is only by the thoughts that he chooses."</i>
+<i>"The busy man is never wise and the wise man is never busy."</i>
 <br>
-<b>- James Allen</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
