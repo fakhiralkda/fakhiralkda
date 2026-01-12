@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Appear weak when you are strong, and strong when you are weak."</i>
+<i>"A person who does not read is no better than one cannot read."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
