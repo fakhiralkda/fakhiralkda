@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way to make sense out of change is to plunge into it, move with it, and join the dance."</i>
+<i>"A gentleman accepts the responsibility of his actions and bears the burden of their consequences."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
