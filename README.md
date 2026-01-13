@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let the noise of others opinions drown out your inner voice."</i>
+<i>"Progress is limited by your ability to change your mind."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
