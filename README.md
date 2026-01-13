@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Charms strike the sight, but merit wins the soul."</i>
+<i>"Give a girl the right shoes, and she can conquer the world."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Bette Midler</b>
 </blockquote>
 </p>
 
