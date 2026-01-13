@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not fight with pigs - you will be smeared in mud but the pig will like it."</i>
+<i>"Don't let the noise of others opinions drown out your inner voice."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
