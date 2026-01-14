@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who knows how to wait need make no concessions."</i>
+<i>"We win by helping each other win."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
