@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No duty is more urgent than that of returning thanks."</i>
+<i>"He who knows how to wait need make no concessions."</i>
 <br>
-<b>- James Allen</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
