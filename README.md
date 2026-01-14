@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Presents are made for the pleasure of who gives them, not the merits of who receives them."</i>
+<i>"Of all men's miseries the bitterest is this: to know so much and to have control over nothing. "</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
