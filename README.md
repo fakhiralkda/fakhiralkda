@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is stumbling from failure to failure with no loss of enthusiasm."</i>
+<i>"If you want to make God laugh, tell him about your plans. "</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
