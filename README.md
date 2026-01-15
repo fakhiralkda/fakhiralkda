@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Boldness makes even the smallest animal dangerous."</i>
+<i>"Wisdom is doing now what you are going to be happy with later on."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
