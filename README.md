@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Identify your problems, but give your power and energy to solutions."</i>
+<i>"Money poisons you when you've got it, and starves you when you haven't."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
