@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men are equal; it is not birth but virtue that makes the difference."</i>
+<i>"Boldness makes even the smallest animal dangerous."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
