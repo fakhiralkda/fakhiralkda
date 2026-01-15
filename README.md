@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is doing now what you are going to be happy with later on."</i>
+<i>"To some degree, you control your life by controlling your time."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
