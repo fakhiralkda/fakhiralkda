@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is much more successfully looked at from a single window."</i>
+<i>"Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
