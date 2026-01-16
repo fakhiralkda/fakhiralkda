@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Zen insists that the whole trouble is just our failure to realize that there is no problem."</i>
+<i>"Against the assault of laughter nothing can stand."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
