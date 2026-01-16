@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people feel the rain. Others just get wet. "</i>
+<i>"To travel is to be alive, but to get somewhere is to be dead."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
