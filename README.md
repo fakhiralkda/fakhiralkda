@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Doubt is an uncomfortable condition, but certainty is a ridiculous one."</i>
+<i>"Getting lost along your path is a part of finding the path you are meant to be on."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
