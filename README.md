@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you've never eaten while crying you don t know what life tastes like."</i>
+<i>"Normality is a paved road: It's comfortable to walk, but no flowers grow on it."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
