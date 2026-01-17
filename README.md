@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You just can't beat the person who never gives up. "</i>
+<i>"There is an essence of when you are fearless, you become more creative."</i>
 <br>
-<b>- Babe Ruth</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
