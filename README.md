@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not what you pay a man, but what he costs you that counts."</i>
+<i>"You just can't beat the person who never gives up. "</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Babe Ruth</b>
 </blockquote>
 </p>
 
