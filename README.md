@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Getting lost along your path is a part of finding the path you are meant to be on."</i>
+<i>"What lies behind us and what lies before us are tiny matters compared to what lies within us."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
