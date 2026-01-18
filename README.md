@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A memory is a beautiful thing, it's almost a desire that you miss."</i>
+<i>"Never allow someone to be your priority while allowing yourself to be their option."</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
