@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature is pleased with simplicity. And nature is no dummy."</i>
+<i>"Intelligent men are cruel. Stupid men are monstrously cruel."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
