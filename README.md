@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't try to steer the river."</i>
+<i>"Tis not too late to seek a newer world."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
