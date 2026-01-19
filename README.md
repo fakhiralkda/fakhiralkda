@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot change your destination overnight but you can change your direction overnight."</i>
+<i>"Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
