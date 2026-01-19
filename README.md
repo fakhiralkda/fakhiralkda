@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest weariness comes from work not done."</i>
+<i>"Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
