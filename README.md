@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All our knowledge has its origins in our perceptions."</i>
+<i>"Do something to move yourself toward your major goal every day."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
