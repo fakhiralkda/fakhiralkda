@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let us always meet each other with smile, for the smile is the beginning of love."</i>
+<i>"Great acts are made up of small deeds."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
