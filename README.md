@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The purpose of life is the life of purpose."</i>
+<i>"Your neighbor is the man who needs you."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
