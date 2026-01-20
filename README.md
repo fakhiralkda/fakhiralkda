@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one thing that makes a dream impossible to achieve: the fear of failure."</i>
+<i>"Let us always meet each other with smile, for the smile is the beginning of love."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
