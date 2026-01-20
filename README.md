@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man must use what he has, not hope for what is not."</i>
+<i>"There is only one thing that makes a dream impossible to achieve: the fear of failure."</i>
 <br>
-<b>- G.I. Gurdjieff</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
