@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise speak only of what they know."</i>
+<i>"We must learn to live together as brothers or perish together as fools."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
