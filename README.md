@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great acts are made up of small deeds."</i>
+<i>"A poet should be so crafty with words that he is envied even for his pains."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
