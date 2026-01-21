@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only he who has no use for the empire is fit to be entrusted with it."</i>
+<i>"Take responsibility of your own happiness, never put it in other people's hands."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
