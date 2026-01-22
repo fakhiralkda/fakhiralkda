@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be who you are and say what you feel because those who mind don't matter and those who matter don't mind."</i>
+<i>"Falling down is not failure. Failure comes when you stay where you have fallen."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
