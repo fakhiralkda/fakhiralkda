@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is well known that those who do not trust themselves never trust others."</i>
+<i>"Success in any endeavor depends on the degree to which it is an expression of your true self. "</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
