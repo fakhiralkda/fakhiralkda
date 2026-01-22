@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is ours to be spent, not to be saved. "</i>
+<i>"People don't care how much you know until they know how much you care."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
