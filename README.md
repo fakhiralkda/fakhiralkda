@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The weak can never forgive. Forgiveness is the attribute of the strong."</i>
+<i>"Be who you are and say what you feel because those who mind don't matter and those who matter don't mind."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
