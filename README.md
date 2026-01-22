@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never let the things you can't do stop you from doing what you can."</i>
+<i>"Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
