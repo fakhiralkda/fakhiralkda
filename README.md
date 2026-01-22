@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The right thing to do and the hard thing to do are usually the same."</i>
+<i>"The weak can never forgive. Forgiveness is the attribute of the strong."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
