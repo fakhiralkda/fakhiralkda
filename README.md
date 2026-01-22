@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go as far as you can see and you will see further.  "</i>
+<i>"The right thing to do and the hard thing to do are usually the same."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
