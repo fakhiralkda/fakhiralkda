@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time is more valuable than money. You can get more money, but you cannot get more time."</i>
+<i>"One's best success comes after their greatest disappointments."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
