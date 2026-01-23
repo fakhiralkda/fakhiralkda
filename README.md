@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level."</i>
+<i>"If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
