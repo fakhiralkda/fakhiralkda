@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have a vision. Be demanding."</i>
+<i>"If you see someone without a smile give them one of yours."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
