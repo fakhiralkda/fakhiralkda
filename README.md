@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing more truly artistic than to love people."</i>
+<i>"You don't need to be better than anyone else, you just need to be better than you used to be."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
