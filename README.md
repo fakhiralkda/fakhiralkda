@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is changed by your example, not by your opinion."</i>
+<i>"Guilt is perhaps the most painful companion of death."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
