@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace."</i>
+<i>"The world is changed by your example, not by your opinion."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
