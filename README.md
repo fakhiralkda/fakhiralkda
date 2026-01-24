@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Real loss is only possible when you love something more than you love yourself."</i>
+<i>"Our stories may be singular, but our destination is shared."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
