@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Doubt is an uncomfortable condition, but certainty is a ridiculous one."</i>
+<i>"Life doesn't get easier or more forgiving, we get stronger and more resilient."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
