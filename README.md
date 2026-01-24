@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When it is dark enough, you can see the stars."</i>
+<i>"Faith is taking the first step even when you don't see the whole staircase."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
