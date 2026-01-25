@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Focused, hard work is the real key to success."</i>
+<i>"To be calm is the highest achievement of the self."</i>
 <br>
-<b>- John Carmack</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
