@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be calm is the highest achievement of the self."</i>
+<i>"When you judge others, you do not define them, you define yourself."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
