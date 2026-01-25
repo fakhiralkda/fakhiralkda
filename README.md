@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you judge others, you do not define them, you define yourself."</i>
+<i>"Our truest life is when we are in dreams awake."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
