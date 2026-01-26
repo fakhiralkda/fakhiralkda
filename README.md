@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The smallest act of kindness is worth more than the greatest intention.  "</i>
+<i>"Do not wait for leaders; do it alone, person to person."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
