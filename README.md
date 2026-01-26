@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is truth that liberates, not your effort to be free."</i>
+<i>"The smallest act of kindness is worth more than the greatest intention.  "</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
