@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you seek is seeking you."</i>
+<i>"We can spend our whole lives escaping from the monsters of our minds."</i>
 <br>
-<b>- Rumi</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
