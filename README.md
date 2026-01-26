@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Simplicity is the glory of expression."</i>
+<i>"Surround yourself only with people who are going to take you higher."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
