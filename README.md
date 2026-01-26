@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best time to plant a tree was 20 years ago. The second best time is now."</i>
+<i>"It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
