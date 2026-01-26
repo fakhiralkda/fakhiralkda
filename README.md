@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not wait for leaders; do it alone, person to person."</i>
+<i>"People think you're crazy if you talk about things they don't understand."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
