@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. "</i>
+<i>"The truth is rarely pure and never simple. "</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
