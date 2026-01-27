@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust, like the soul, never returns once it is gone."</i>
+<i>"Your world is a living expression of how you are using and have used your mind."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
