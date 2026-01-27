@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a quality of the soul...not a function of one's material circumstances."</i>
+<i>"Would you rather learn to deal with the truth now than be forced to do so later on?"</i>
 <br>
-<b>- Aristotle</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
