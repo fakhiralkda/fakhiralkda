@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep others in suspense, cultivate an air of unpredictability."</i>
+<i>"Guilt is perhaps the most painful companion of death."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
