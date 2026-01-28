@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little."</i>
+<i>"Rest in reason; move in passion."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
