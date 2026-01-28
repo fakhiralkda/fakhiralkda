@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Respect is earned by effort not age, all things age without effort."</i>
+<i>"Don't Let Yesterday Take Up Too Much Of Today."</i>
 <br>
-<b>- C. Sean McGee</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
