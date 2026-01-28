@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Receive without complaint, Work with fate."</i>
+<i>"To be great is to be misunderstood."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
