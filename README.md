@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are never too old to set another goal or to dream a new dream."</i>
+<i>"Work for something because it is good, not just because it stands a chance to succeed."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
