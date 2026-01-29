@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can do nothing to change the past, and the future will never come exactly as you plan or hope for."</i>
+<i>"You are never too old to set another goal or to dream a new dream."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
