@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work for something because it is good, not just because it stands a chance to succeed."</i>
+<i>"Patience expands your options. If you insist on immediate gratification, your choices are severely limited."</i>
 <br>
-<b>- Vaclav Havel</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
