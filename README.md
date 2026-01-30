@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We will outstretch the hand if you unclench your fist."</i>
+<i>"You're on earth. There's no cure for that."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
