@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Making your mark on the world is hard. If it were easy, everybody would do it."</i>
+<i>"We must learn to live together as brothers or perish together as fools."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
