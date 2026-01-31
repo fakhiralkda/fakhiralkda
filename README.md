@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A real friend is one who walks in when the rest of the world walks out."</i>
+<i>"The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace."</i>
 <br>
-<b>- Unknown</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
