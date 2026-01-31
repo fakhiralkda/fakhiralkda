@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A tiny change today brings a dramatically different tomorrow."</i>
+<i>"A real friend is one who walks in when the rest of the world walks out."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
