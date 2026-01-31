@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we all did the things we are capable of doing, we would literally astound ourselves."</i>
+<i>"A tiny change today brings a dramatically different tomorrow."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
