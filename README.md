@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time you enjoy wasting, was not wasted."</i>
+<i>"People think about what they don't want and attract more of the same."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
