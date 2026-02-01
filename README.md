@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success."</i>
+<i>"it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
