@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love never keeps a man from pursuing his destiny."</i>
+<i>"Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
