@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds."</i>
+<i>"Happiness is only real, when shared."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
