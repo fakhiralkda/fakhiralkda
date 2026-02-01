@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unless you're ashamed of yourself now and then, you're not honest."</i>
+<i>"It's not how much we give but how much love we put into giving."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
