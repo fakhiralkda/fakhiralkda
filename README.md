@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can see through others only when we can see through ourselves."</i>
+<i>"Life isn't about finding yourself. Life is about creating yourself."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
