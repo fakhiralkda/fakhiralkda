@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you think you can do a thing or think you can't do a thing, you're right."</i>
+<i>"My powers are ordinary. Only my application brings me success."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
