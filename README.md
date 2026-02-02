@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything is created twice, first in the mind and then in reality."</i>
+<i>"If you think you can do a thing or think you can't do a thing, you're right."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
