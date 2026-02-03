@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is often safer to be in chains than to be free. "</i>
+<i>"You can't make someone feel good about themselves until you feel good about yourself."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
