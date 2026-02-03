@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry."</i>
+<i>"The one who praises you is a thief. The one who criticizes you is your true friend."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Seungsahn</b>
 </blockquote>
 </p>
 
