@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What we dwell on is who we become."</i>
+<i>"You cannot find peace by avoiding life."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
