@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every saint has a past, and every sinner has a future."</i>
+<i>"There is no limitations except those we create for ourselves."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
