@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human behavior flows from three main sources: desire, emotion, and knowledge."</i>
+<i>"You are now, and you do become, what you think about."</i>
 <br>
-<b>- Plato</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
