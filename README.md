@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One beam, no matter how big, cannot support an entire house on its own."</i>
+<i>"Your purpose will be clear only when you listen to your heart."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
