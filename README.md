@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are now, and you do become, what you think about."</i>
+<i>"One beam, no matter how big, cannot support an entire house on its own."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
