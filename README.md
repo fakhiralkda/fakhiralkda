@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward."</i>
+<i>"It's not how much we give but how much love we put into giving."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
