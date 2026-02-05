@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is only depth of character that determines the profundity with which we face life."</i>
+<i>"One always begins to forgive a place as soon as it's left behind."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
