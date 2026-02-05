@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If it is not right, do not do it, if it is not true, do not say it."</i>
+<i>"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
