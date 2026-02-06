@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is everything. It is the preview of life's coming attractions."</i>
+<i>"When things go wrong, don't go with them."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
