@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is what happens to you while you're busy making other plans."</i>
+<i>"Better a diamond with a flaw than a pebble without one."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
