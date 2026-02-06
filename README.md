@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is literally what he thinks."</i>
+<i>"Make failure your teacher, not your undertaker.  "</i>
 <br>
-<b>- James Allen</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
