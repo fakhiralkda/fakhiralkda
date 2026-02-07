@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is our choices that show what we truly are, far more than our abilities."</i>
+<i>"Convinced myself, I seek not to convince."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
