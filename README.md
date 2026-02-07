@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is the oneness of mind that guides and permeates all things."</i>
+<i>"It is our choices that show what we truly are, far more than our abilities."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
