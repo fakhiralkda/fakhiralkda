@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road."</i>
+<i>"Keep your face always toward the sunshine -  shadows will fall behind you."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
