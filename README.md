@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Convinced myself, I seek not to convince."</i>
+<i>"A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
