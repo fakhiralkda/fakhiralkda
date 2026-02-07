@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The goal is not to be perfect by the end, the goal is to be better today."</i>
+<i>"He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
