@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't argue both sides, you can't argue."</i>
+<i>"Just because something isn't a lie does not mean that it isn't deceptive."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
