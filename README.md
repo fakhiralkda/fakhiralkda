@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is a difference between giving directions and giving direction."</i>
+<i>"If you can't argue both sides, you can't argue."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
