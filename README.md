@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society."</i>
+<i>"If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
