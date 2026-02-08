@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every poem should remind the reader that they are going to die."</i>
+<i>"I defeat my enemies when I make them my friends."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
