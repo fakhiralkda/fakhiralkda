@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The weak can never forgive. Forgiveness is the attribute of the strong."</i>
+<i>"From error to error one discovers the entire truth."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
