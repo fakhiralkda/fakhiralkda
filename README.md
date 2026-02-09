@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace is not absence of conflict, it is the ability to handle conflict by peaceful means."</i>
+<i>"The mind can calculate, but the spirit yearns, and the heart wants what the heart wants."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
