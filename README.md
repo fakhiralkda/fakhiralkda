@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future belongs to those who believe in the beauty of their dreams."</i>
+<i>"Our view of the world is truly shaped by what we decide to hear."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
