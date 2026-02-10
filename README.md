@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every great change is preceded by chaos."</i>
+<i>"Act the way you want to be and soon you'll be the way you act."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
