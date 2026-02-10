@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life doesn't get easier or more forgiving, we get stronger and more resilient."</i>
+<i>"Your conscience is the measure of the honesty of your selfishness. Listen to it carefully."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
