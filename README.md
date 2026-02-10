@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genius is patience."</i>
+<i>"Every great change is preceded by chaos."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
