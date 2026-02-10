@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From error to error one discovers the entire truth."</i>
+<i>"Character is destiny."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
