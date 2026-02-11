@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy."</i>
+<i>"This is the most simple and basic component of life: our struggles determine our successes."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
