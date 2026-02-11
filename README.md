@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  "</i>
+<i>"Obstacles don't block the path, they are the path."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
