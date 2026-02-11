@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Act the way you want to be and soon you'll be the way you act."</i>
+<i>"If you don't like something change it; if you can't change it, change the way you think about it."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
