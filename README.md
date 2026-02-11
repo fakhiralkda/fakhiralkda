@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't like something change it; if you can't change it, change the way you think about it."</i>
+<i>"To be totally at leisure for one day is to be immortal for one day. "</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
