@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be totally at leisure for one day is to be immortal for one day. "</i>
+<i>"If the grass is greener on the other side, maybe that's because you're not taking good care of your grass."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
