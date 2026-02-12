@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I can pay the bills, I'm happy."</i>
+<i>"The person who never made a mistake never tried anything new."</i>
 <br>
-<b>- Morgan Wootten</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
