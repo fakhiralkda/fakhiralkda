@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some."</i>
+<i>"You don't get in life what you want; you get in life what you are."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
