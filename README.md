@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Focus is a matter of deciding what things you're not going to do."</i>
+<i>"People spend too much time doing and not enough time thinking about what they should be doing."</i>
 <br>
-<b>- John Carmack</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
