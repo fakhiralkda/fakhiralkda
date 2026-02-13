@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never was anything great achieved without danger."</i>
+<i>"Enjoy every minute of life. Never second-guess life."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
