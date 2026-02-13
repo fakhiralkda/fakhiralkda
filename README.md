@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from."</i>
+<i>"Focus is a matter of deciding what things you're not going to do."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- John Carmack</b>
 </blockquote>
 </p>
 
