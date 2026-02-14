@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A mountain never yields to the wind no matter how strong it is."</i>
+<i>"You live by what you thrill to, and there's the end of it."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
