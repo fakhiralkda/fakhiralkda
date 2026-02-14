@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all different. Don't judge, understand instead."</i>
+<i>"A mountain never yields to the wind no matter how strong it is."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
