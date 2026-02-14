@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There will always be suffering. But we must not suffer over the suffering."</i>
+<i>"There is no truth. There is only perception."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
