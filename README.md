@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one thing that makes a dream impossible to achieve: the fear of failure."</i>
+<i>"What the caterpillar calls the end of the world, the master calls a butterfly."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
