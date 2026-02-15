@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is more creative...nor destructive...than a brilliant mind with a purpose."</i>
+<i>"There is only one thing that makes a dream impossible to achieve: the fear of failure."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
