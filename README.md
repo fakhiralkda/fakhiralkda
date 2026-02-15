@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Attitude drives actions. Actions drive results. Results drive lifestyles."</i>
+<i>"Don't let the behavior of others destroy your inner peace."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
