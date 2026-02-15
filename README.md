@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust is the foundation of great leadership."</i>
+<i>"Attitude drives actions. Actions drive results. Results drive lifestyles."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
