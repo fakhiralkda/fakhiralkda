@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is more important than knowledge."</i>
+<i>"Trust is the foundation of great leadership."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
