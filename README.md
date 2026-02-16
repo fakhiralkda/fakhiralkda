@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Begin at once to live, and count each separate day as a separate life.  "</i>
+<i>"A man should do his job so well that the living, the dead, and the unborn could do it no better."</i>
 <br>
-<b>- Seneca</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
