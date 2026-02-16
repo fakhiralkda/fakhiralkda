@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where words fail, music speaks."</i>
+<i>"For fast-acting relief try slowing down."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
