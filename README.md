@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do what is right, not what is easy, nor what is popular."</i>
+<i>"It's better to dance than to march through life."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
