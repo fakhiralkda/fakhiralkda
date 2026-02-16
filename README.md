@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man should do his job so well that the living, the dead, and the unborn could do it no better."</i>
+<i>"Do what is right, not what is easy, nor what is popular."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
