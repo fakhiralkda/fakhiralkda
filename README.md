@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach."</i>
+<i>"If we all did the things we are capable of doing, we would literally astound ourselves."</i>
 <br>
-<b>- Benjamin Mays</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
