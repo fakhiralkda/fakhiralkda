@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for."</i>
+<i>"Everyone has the right to make his own decisions, but none has the right to force his decision on others."</i>
 <br>
-<b>- Socrates</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
