@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man is free who is not master of himself."</i>
+<i>"If you can change your mind, you can change your life."</i>
 <br>
-<b>- Epictetus</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
