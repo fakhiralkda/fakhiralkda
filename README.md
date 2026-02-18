@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take interest and even delight in doing the small things well."</i>
+<i>"The past has no power over the present moment. "</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
