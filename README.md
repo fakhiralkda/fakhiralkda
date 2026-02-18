@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can change your mind, you can change your life."</i>
+<i>"Before you embark on a journey of revenge, dig two graves. "</i>
 <br>
-<b>- William James</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
