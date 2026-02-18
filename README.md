@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you judge another, you do not define them, you define yourself"</i>
+<i>"When something comes from within, when it is a part of you, you have no choice but to live it, to express it."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
