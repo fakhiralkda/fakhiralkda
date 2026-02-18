@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The past has no power over the present moment. "</i>
+<i>"Believe in one thing too much and you have no room for new ideas.  "</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
