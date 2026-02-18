@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before you embark on a journey of revenge, dig two graves. "</i>
+<i>"From the errors of others, a wise man corrects his own."</i>
 <br>
-<b>- Confucius</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
