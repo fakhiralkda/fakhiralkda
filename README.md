@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have to make time, even for something as universal as staring at the stars."</i>
+<i>"Loss is nothing else but change and change is nature's delight."</i>
 <br>
-<b>- W.P. Kinsella</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
