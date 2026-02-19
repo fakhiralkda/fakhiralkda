@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life must be a constant education; one must learn everything, from speaking to dying."</i>
+<i>"Silence is a source of great strength."</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
