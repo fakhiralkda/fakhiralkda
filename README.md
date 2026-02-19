@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From the errors of others, a wise man corrects his own."</i>
+<i>"To be calm is the highest achievement of the self."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
