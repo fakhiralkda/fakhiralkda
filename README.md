@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. "</i>
+<i>"You have to make time, even for something as universal as staring at the stars."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
