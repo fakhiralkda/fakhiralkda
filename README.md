@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you."</i>
+<i>"Life must be a constant education; one must learn everything, from speaking to dying."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
