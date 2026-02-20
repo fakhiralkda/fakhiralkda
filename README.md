@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the end, it's not the years in your life that count. It's the life in your years."</i>
+<i>"Anyone who reads a book with a sense of obligation does not understand the art of reading."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
