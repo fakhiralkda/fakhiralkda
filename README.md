@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing external to you has any power over you."</i>
+<i>"Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
