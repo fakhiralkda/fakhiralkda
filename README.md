@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The farther backward you can look, the farther forward you are likely to see."</i>
+<i>"Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
