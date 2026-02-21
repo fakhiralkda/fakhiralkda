@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reading should be a pleasure, not a chore."</i>
+<i>"The dreamers are the saviors of the worlds."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
