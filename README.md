@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never put off to tomorrow what you can do to-day."</i>
+<i>"What people need and what they want may be very different."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
