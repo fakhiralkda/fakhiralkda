@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How you think is as important as as what you think."</i>
+<i>"Change begets change. Nothing propagates so fast."</i>
 <br>
-<b>- Unknown</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
