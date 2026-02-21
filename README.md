@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I never said it would be easy, I only said it would be worth it."</i>
+<i>"There is only the one reality, neither to be realized nor attained."</i>
 <br>
-<b>- Mae West</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
