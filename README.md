@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person who is his own master cannot tolerate another boss. "</i>
+<i>"We must learn to live together as brothers or perish together as fools."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
