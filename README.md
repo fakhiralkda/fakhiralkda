@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must learn to live together as brothers or perish together as fools."</i>
+<i>"Life does not get better by chance, it gets better by change."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
