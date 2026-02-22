@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to be walked over, you have to be lying down."</i>
+<i>"The person who is his own master cannot tolerate another boss. "</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
