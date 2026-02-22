@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life does not get better by chance, it gets better by change."</i>
+<i>"The only thing worse than being blind is having sight but no vision."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
