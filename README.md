@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is a great teacher. If you're open to it every mistake has a lesson to offer."</i>
+<i>"To improve is to change, so to be perfect is to change often."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
