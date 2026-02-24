@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's what you do in the present that will redeem the past and thereby change the future."</i>
+<i>"We've got to live, no matter how many skies have fallen."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
