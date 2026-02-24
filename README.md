@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If light is in your heart, you will find your way home.  "</i>
+<i>"You are what you do, not what you say you'll do."</i>
 <br>
-<b>- Rumi</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
