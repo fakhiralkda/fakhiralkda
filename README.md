@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A very little key will open a very heavy door."</i>
+<i>"The more we value things, the less we value ourselves.  "</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
