@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are what you do, not what you say you'll do."</i>
+<i>"A lie can travel half way around the world while the truth is putting on its shoes."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
