@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We've got to live, no matter how many skies have fallen."</i>
+<i>"If light is in your heart, you will find your way home.  "</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
