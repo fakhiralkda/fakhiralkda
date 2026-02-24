@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you seek is seeking you."</i>
+<i>"A very little key will open a very heavy door."</i>
 <br>
-<b>- Rumi</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
