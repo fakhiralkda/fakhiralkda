@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to learn late than never."</i>
+<i>"If you have to be in a soap opera try not to be cast in the worst role."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
