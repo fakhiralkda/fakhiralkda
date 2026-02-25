@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is from the inside out. When you shift on the inside, life shifts on the outside."</i>
+<i>"No amount of regretting can change the past, and no amount of worrying can change the future."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
