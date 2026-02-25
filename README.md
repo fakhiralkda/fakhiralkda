@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ripe fruit falls by itself - but it doesn't fall in your mouth. "</i>
+<i>"If you've never eaten while crying you don t know what life tastes like."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
