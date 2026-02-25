@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you've never eaten while crying you don t know what life tastes like."</i>
+<i>"If there were no God, there would be no atheists."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
