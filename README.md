@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To some degree, you control your life by controlling your time."</i>
+<i>"There is no limitations except those we create for ourselves."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
