@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge is learning something everyday. Wisdom is letting go of something everyday."</i>
+<i>"People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents."</i>
 <br>
-<b>- Unknown</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
