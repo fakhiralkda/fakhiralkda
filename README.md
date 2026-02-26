@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no limitations except those we create for ourselves."</i>
+<i>"Knowledge is learning something everyday. Wisdom is letting go of something everyday."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
