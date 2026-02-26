@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leadership is solving problems"</i>
+<i>"Whatever your mind can conceive and believe, it can achieve."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
