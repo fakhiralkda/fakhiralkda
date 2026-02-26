@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents."</i>
+<i>"The only lost cause is one we give up on before we enter the struggle."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
