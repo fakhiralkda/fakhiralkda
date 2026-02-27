@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for."</i>
+<i>"Meditate. It won't be fun but it will surface what you need to deal with."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
