@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nourish the mind like you would your body. The mind cannot survive on junk food."</i>
+<i>"Do not try to be on the side of the majority, but live according to your inner laws."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
