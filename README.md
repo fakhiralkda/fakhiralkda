@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Meditate. It won't be fun but it will surface what you need to deal with."</i>
+<i>"What the mind can conceive, it can achieve."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
