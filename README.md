@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life may be full of pain but that's not an excuse to give up."</i>
+<i>"You're never given a dream without also being given the power to make it true."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
