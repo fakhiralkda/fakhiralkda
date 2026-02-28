@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you."</i>
+<i>"If you want to make God laugh, tell him about your plans. "</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
