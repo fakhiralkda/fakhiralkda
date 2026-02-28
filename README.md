@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have no more right to consume happiness without producing it than to consume wealth without producing it."</i>
+<i>"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
