@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is like the sun. You can shut it out for a time, but it ain't going away."</i>
+<i>"Don't wait for extraordinary opportunities. Seize common occasions and make them great."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
