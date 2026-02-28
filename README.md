@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're never given a dream without also being given the power to make it true."</i>
+<i>"If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
