@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yesterday is gone. Tomorrow has not yet come. We have only today."</i>
+<i>"We have no more right to consume happiness without producing it than to consume wealth without producing it."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
