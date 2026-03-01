@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe and you're halfway there."</i>
+<i>"Where violence reigns, reason is weak."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
