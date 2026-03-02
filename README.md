@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any idea, plan, or purpose may be placed in the mind through repetition of thought."</i>
+<i>"The first rule of handling conflict is don't hang around people who are constantly engaging in conflict."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
