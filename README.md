@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All our knowledge has its origins in our perceptions."</i>
+<i>"Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
