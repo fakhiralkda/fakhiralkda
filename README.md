@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't wish it were easier, wish you were better."</i>
+<i>"Walk towards the sunshine, and the shadows will fall behind you."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
