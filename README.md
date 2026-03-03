@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quicker you let go of old cheese, the sooner you find new cheese."</i>
+<i>"Stop being tormented by everyone else's reaction to you."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
