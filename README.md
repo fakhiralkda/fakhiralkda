@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The single biggest problem in communication is the illusion that it has taken place."</i>
+<i>"Never put off to tomorrow what you can do to-day."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
