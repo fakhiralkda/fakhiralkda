@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Listening well is as powerful as talking well, and is also as essential to true conversation."</i>
+<i>"The only reason to be alive is to enjoy it."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
