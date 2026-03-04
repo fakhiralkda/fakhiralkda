@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beauty is not in the face; beauty is a light in the heart."</i>
+<i>"The single biggest problem in communication is the illusion that it has taken place."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
