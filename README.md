@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Saying nothing sometimes says the most."</i>
+<i>"Fashion fades, only style remains the same."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
