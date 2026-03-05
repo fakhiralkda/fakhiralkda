@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is liking yourself, liking what you do, and liking how you do it."</i>
+<i>"It's the possibility of having a dream come true that makes life interesting."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
