@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is up to each of us to sing as we feel moved by the overall song of life."</i>
+<i>"The only lost cause is one we give up on before we enter the struggle."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
