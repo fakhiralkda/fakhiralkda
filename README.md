@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus."</i>
+<i>"The merit of all things lies in their difficulty."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
