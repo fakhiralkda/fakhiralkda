@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good."</i>
+<i>"Be patient and calm; no one can catch fish in anger."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
