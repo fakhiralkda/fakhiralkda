@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time is more valuable than money. You can get more money, but you cannot get more time."</i>
+<i>"A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
