@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month."</i>
+<i>"Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
