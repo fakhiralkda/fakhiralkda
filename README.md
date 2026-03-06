@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The merit of all things lies in their difficulty."</i>
+<i>"Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
