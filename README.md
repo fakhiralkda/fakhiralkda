@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit."</i>
+<i>"All religions, arts and sciences are branches of the same tree. "</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
