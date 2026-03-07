@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We cannot expect to be happy always... by experiencing evil as well as good we become wise."</i>
+<i>"A very little key will open a very heavy door."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
