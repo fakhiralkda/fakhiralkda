@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each path to knowledge involves different rules and these rules are not interchangeable."</i>
+<i>"Problems remain as problems because people are busy defending them rather than finding solutions."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
