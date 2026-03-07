@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't talk about what you have done or what you are going to do."</i>
+<i>"If you aim at nothing, you will hit it every time.  "</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
