@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The spirit is beyond destruction. No one can bring an end to spirit which is everlasting."</i>
+<i>"Each path to knowledge involves different rules and these rules are not interchangeable."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
