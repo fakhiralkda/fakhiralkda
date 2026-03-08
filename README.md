@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our greatest fears lie in anticipation."</i>
+<i>"We must be free not because we claim freedom, but because we practice it."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
