@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing."</i>
+<i>"Invisible things are the only realities."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
