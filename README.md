@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go for it now. The future is promised to no one."</i>
+<i>"The consequences of today are determined by the actions of the past. To change your future, alter your decisions today."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
