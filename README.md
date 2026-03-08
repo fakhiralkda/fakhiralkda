@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perfection is not attainable, but if we chase perfection we can catch excellence."</i>
+<i>"Go for it now. The future is promised to no one."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
