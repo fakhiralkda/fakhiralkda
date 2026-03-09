@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the absence of judgment."</i>
+<i>"You play the hand you're dealt. I think the game's worthwhile.  "</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
