@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes it is more important to discover what one cannot do, than what one can do."</i>
+<i>"Don't allow your mind to tell your heart what to do. The mind gives up easily."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
