@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must be free not because we claim freedom, but because we practice it."</i>
+<i>"We never know the love of a parent till we become parents ourselves."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
