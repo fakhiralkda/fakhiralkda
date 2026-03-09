@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You play the hand you're dealt. I think the game's worthwhile.  "</i>
+<i>"Goodness is the only investment that never fails."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
