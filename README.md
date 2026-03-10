@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do what you feel in your heart to be right - for you'll be criticized anyway."</i>
+<i>"Let us always meet each other with smile, for the smile is the beginning of love."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
