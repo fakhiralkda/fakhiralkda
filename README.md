@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Magic is believing in yourself, if you can do that, you can make anything happen."</i>
+<i>"He is not a lover who does not love forever."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
