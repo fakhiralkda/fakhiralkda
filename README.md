@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most difficult times for many of us are the ones we give ourselves."</i>
+<i>"Troubles are often the tools by which God fashions us for better things."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
