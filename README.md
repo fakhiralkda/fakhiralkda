@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A thing must be loved before it is lovable."</i>
+<i>"Don't be pushed by your problems; be led by your dreams."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
