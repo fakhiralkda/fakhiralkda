@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present."</i>
+<i>"As a man thinketh in his heart, so shall he be."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
