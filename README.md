@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not the knowing that is difficult, but the doing. "</i>
+<i>"It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
