@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leaders think and talk about solutions. Followers think and talk about the problems."</i>
+<i>"It is our choices that show what we truly are, far more than our abilities."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
