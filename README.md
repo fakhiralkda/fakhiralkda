@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can handle rejection, you'll learn to get everything you want."</i>
+<i>"It is not the knowing that is difficult, but the doing. "</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
