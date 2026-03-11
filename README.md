@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is our choices that show what we truly are, far more than our abilities."</i>
+<i>"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. "</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
