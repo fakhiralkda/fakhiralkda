@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends."</i>
+<i>"Don't let the noise of others opinions drown out your inner voice."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
