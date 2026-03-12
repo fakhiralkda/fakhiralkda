@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be true to yourself, help others, make each day your masterpiece"</i>
+<i>"Most of us will do anything to avoid facing ourselves."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
