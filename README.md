@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want something then you lose everything. If you don't want anything then you already have everything."</i>
+<i>"Work harder on yourself than you do on your job."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
