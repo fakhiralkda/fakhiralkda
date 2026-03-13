@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is always risk, so learn to manage risk instead of avoiding it."</i>
+<i>"Make your stand today. On this spot. On this day."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
