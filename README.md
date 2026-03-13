@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whenever you find yourself on the side of the majority, it is time to reform."</i>
+<i>"Patience is a bitter plant, but its fruit is sweet."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
