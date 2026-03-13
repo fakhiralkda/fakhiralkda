@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quiet people have the loudest minds."</i>
+<i>"Whenever you find yourself on the side of the majority, it is time to reform."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
