@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions."</i>
+<i>"I never said it would be easy, I only said it would be worth it."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
