@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where does a thought go when it's forgotten?"</i>
+<i>"There is always risk, so learn to manage risk instead of avoiding it."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
