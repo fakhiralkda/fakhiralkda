@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience is a bitter plant, but its fruit is sweet."</i>
+<i>"I would rather be hated for who I am than loved for who I'm not.  "</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
