@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter what happens in life, never lose sight of who you are."</i>
+<i>"Others can stop you temporarily - you are the only one who can do it permanently."</i>
 <br>
-<b>- Yanni</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
