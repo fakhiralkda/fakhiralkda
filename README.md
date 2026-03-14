@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make your stand today. On this spot. On this day."</i>
+<i>"No matter what happens in life, never lose sight of who you are."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
