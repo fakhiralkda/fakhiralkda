@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more one judges, the less one loves."</i>
+<i>"It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  "</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
