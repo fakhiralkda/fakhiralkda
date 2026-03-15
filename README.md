@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day is an opportunity to a make a new happy ending."</i>
+<i>"If you tell the truth, you don't have to remember anything."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
