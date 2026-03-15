@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best fighter is never angry."</i>
+<i>"Silence is sometimes the best answer."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
