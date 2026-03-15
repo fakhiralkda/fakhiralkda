@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not wait for leaders; do it alone, person to person."</i>
+<i>"One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
