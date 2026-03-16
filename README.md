@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future is the worst thing about the present."</i>
+<i>"There is nothing in the world so irresistibly contagious as laughter and good humor."</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
