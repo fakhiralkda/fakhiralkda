@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing in the world so irresistibly contagious as laughter and good humor."</i>
+<i>"If you get up one more time than you fall, you will make it through."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
