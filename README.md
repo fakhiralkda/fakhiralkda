@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I like the dreams of the future better than the history of the past."</i>
+<i>"No one returns from a long journey the same person they were before."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
