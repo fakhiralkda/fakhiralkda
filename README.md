@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thinking is the hardest work there is. That is why so few people engage in it."</i>
+<i>"The future is the worst thing about the present."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
