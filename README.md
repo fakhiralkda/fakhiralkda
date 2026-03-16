@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We would accomplish many more things if we did not think of them as impossible."</i>
+<i>"You play the hand you're dealt. I think the game's worthwhile.  "</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
