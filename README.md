@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even the finest sword plunged into salt water will eventually rust."</i>
+<i>"People tend to complicate their own lives, as if living weren't already complicated enough."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
