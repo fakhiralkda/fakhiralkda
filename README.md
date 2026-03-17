@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The chief enemy of creativity is good sense."</i>
+<i>"Raise your words, not voice. It is rain that grows flowers, not thunder."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
