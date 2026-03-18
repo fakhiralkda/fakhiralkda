@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed is he who expects nothing, for he shall never be disappointed."</i>
+<i>"When a man is penalized for honesty he learns to lie."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
