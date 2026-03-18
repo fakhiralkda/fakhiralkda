@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man ever steps in the same river twice, for it's not the same river and he's not the same man."</i>
+<i>"Be grateful for what you have now, and nothing should be taken for granted."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
