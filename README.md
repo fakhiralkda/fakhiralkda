@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If they wrote it to make money, don't read it."</i>
+<i>"No man ever steps in the same river twice, for it's not the same river and he's not the same man."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
