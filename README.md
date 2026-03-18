@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The score never interested me, only the game."</i>
+<i>"The greatest deception men suffer is from their own opinions."</i>
 <br>
-<b>- Mae West</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
