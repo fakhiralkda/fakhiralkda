@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be grateful for what you have now, and nothing should be taken for granted."</i>
+<i>"The only limits in your life are those that you set yourself."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
