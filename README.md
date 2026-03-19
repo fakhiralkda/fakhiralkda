@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everybody needs a passion. That's what keeps life interesting."</i>
+<i>"No duty is more urgent than that of returning thanks."</i>
 <br>
-<b>- Betty White</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
