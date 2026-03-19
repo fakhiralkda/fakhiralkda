@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No duty is more urgent than that of returning thanks."</i>
+<i>"Better to live until you die."</i>
 <br>
-<b>- James Allen</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
