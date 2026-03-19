@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even though you are on the right track - you will get run over if you just sit there."</i>
+<i>"Even if you stumble and fall down, it doesn't mean you've chosen the wrong path."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
