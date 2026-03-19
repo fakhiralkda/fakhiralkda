@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you get up one more time than you fall, you will make it through."</i>
+<i>"You cannot teach a crab to walk straight."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
