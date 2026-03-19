@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest deception men suffer is from their own opinions."</i>
+<i>"If you can't argue both sides, you can't argue."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
