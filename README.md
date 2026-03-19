@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles."</i>
+<i>"Even though you are on the right track - you will get run over if you just sit there."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
