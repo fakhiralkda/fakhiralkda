@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Surround yourself only with people who are going to take you higher."</i>
+<i>"Repetition does not transform a lie into a truth."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
