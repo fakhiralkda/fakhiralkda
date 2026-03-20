@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No great mind has ever existed without a touch of madness."</i>
+<i>"Dreams are the royal road to the unconscious. "</i>
 <br>
-<b>- Aristotle</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
