@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Walking with a friend in the dark is better than walking alone in the light."</i>
+<i>"If you want to see things just as they are, then you yourself must practice just as you are."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
