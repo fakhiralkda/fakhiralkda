@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If there is a book that you want to read, but it hasn't been written yet, then you must write it."</i>
+<i>"If life were predictable it would cease to be life, and be without flavor."</i>
 <br>
-<b>- Toni Morrison</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
