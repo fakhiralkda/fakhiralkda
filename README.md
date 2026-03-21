@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be a good animal, true to your instincts."</i>
+<i>"Focus on how far you have come in life rather than looking at the accomplishments of others."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
