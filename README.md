@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I was angered, for I had no shoes. Then I met a man who had no feet. "</i>
+<i>"Till it has loved, no man or woman can become itself."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
