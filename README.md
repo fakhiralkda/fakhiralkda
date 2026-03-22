@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Till it has loved, no man or woman can become itself."</i>
+<i>"The best thing to hold onto in life is each other."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
