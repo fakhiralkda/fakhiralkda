@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust is the foundation of great leadership."</i>
+<i>"People think you're crazy if you talk about things they don't understand."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
