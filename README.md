@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Follow your instincts. That is where true wisdom manifests itself."</i>
+<i>"Look to the beauty of this day, miracles are all around you."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
