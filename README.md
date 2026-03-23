@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A fear of weakness only strengthens weakness."</i>
+<i>"Follow your instincts. That is where true wisdom manifests itself."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
