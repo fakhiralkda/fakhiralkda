@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people feel the rain. Others just get wet. "</i>
+<i>"The enemy is a very good teacher."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
