@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that irritates us about others."</i>
+<i>"Focused, hard work is the real key to success."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- John Carmack</b>
 </blockquote>
 </p>
 
