@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not conquer self, you will be conquered by self."</i>
+<i>"Everything that irritates us about others."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
