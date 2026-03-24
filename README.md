@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way out is through."</i>
+<i>"Some people feel the rain. Others just get wet. "</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
