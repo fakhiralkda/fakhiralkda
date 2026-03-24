@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyday is a second chance."</i>
+<i>"If you do not conquer self, you will be conquered by self."</i>
 <br>
-<b>- Unknown</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
