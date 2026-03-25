@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only by acceptance of the past, can you alter it."</i>
+<i>"The source of a true smile is an awakened mind."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
