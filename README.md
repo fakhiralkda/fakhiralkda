@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make failure your teacher, not your undertaker.  "</i>
+<i>"People seldom do what they believe in. They do what is convenient, then repent."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
