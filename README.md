@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The source of a true smile is an awakened mind."</i>
+<i>"The best answer to anger is silence."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
