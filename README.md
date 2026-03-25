@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people do what unsuccessful people are not willing to do."</i>
+<i>"To become what you are not, behave as you do not."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
