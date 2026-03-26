@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The time is always right to do what is right."</i>
+<i>"Throw your heart over the fence and the rest will follow"</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
