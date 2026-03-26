@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time."</i>
+<i>"We have more possibilities available in each moment than we realize."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
