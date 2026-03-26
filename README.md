@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A dead thing can go with the stream, but only a living thing can go against it."</i>
+<i>"Never do to others what you would not like them to do to you. "</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
