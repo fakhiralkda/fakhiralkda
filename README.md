@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today will never happen again. Don't waste it with a false start or no start at all."</i>
+<i>"The time is now, the place is here. Stay in the present."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
