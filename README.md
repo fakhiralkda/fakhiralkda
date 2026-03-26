@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never do to others what you would not like them to do to you. "</i>
+<i>"Today will never happen again. Don't waste it with a false start or no start at all."</i>
 <br>
-<b>- Confucius</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
