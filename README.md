@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The dream is free, but the hustle is sold separately."</i>
+<i>"Love is merely the name for the desire and pursuit of the whole."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
