@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It does not matter how slowly you go so long as you do not stop."</i>
+<i>"The dream is free, but the hustle is sold separately."</i>
 <br>
-<b>- Confucius</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
