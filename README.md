@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we think about our strengths, we are strong. When we think about our weaknesses, we are weak."</i>
+<i>"Everything has beauty but not everyone sees it."</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
