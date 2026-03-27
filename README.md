@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For your life to be great, your faith must be bigger than your fear."</i>
+<i>"Trust thyself: every heart vibrates to that iron string."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
