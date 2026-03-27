@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throw your heart over the fence and the rest will follow"</i>
+<i>"To live outside the law, you must be honest. "</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
