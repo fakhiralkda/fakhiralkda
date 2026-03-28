@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not final, failure is not fatal: it is the courage to continue that counts."</i>
+<i>"Everybody by your side ain't on your side."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
