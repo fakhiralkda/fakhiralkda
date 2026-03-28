@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no limit to the amount of good you can do if you don't care who gets the credit."</i>
+<i>"Success is not final, failure is not fatal: it is the courage to continue that counts."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
