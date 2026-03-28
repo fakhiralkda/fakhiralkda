@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everybody by your side ain't on your side."</i>
+<i>"Never allow someone to be your priority while allowing yourself to be their option."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
