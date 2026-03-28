@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is merely the name for the desire and pursuit of the whole."</i>
+<i>"There is no limit to the amount of good you can do if you don't care who gets the credit."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
