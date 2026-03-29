@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't blame others. it won't make you a better person."</i>
+<i>"Much learning does not teach understanding."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
