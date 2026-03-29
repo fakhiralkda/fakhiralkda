@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enthusiasm is a vital element toward the individual success of every man or woman."</i>
+<i>"Don't blame others. it won't make you a better person."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
