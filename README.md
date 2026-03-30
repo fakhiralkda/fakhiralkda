@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed."</i>
+<i>"Do the hard jobs first. The easy jobs will take care of themselves."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
