@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be calm is the highest achievement of the self."</i>
+<i>"We are all in the gutter, but some of us are looking at the stars. "</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
