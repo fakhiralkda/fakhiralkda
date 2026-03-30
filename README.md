@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ability is a poor man's wealth."</i>
+<i>"All religions, arts and sciences are branches of the same tree. "</i>
 <br>
-<b>- John Wooden</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
