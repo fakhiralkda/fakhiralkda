@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I was wise enough to never grow up while fooling most people into believing I had. "</i>
+<i>"Realistic people do not accomplish extraordinary things."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
