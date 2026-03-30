@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do the hard jobs first. The easy jobs will take care of themselves."</i>
+<i>"If you done it, it ain't bragging."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
