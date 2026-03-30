@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be fascinated instead of frustrated."</i>
+<i>"Try all things, hold fast that which is good."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
