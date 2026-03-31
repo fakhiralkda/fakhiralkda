@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make your mind your own business."</i>
+<i>"The truly rich men are the ones who have health, loved ones and a work they love."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
