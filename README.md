@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Realistic people do not accomplish extraordinary things."</i>
+<i>"Dreams are for dreamers. Goals are for achievers."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
