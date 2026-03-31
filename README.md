@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is during our darkest moments that we must focus to see the light."</i>
+<i>"The only reason to be alive is to enjoy it."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
