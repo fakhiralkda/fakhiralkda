@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only reason to be alive is to enjoy it."</i>
+<i>"He who fails to plan, plans to fail."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
