@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"See what you're doing wrong, laugh at it, change and do better."</i>
+<i>"It is during our darkest moments that we must focus to see the light."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
