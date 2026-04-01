@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you lose yourself in something bigger than yourself, the more energy you will have."</i>
+<i>"If you're really truthful with yourself, it's a wonderful guidance.  "</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
