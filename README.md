@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can have more than we've got because we can become more than we are."</i>
+<i>"The clock indicates the moment...but what does eternity indicate?"</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
