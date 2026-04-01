@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People think you're crazy if you talk about things they don't understand."</i>
+<i>"The best dreams happen when you're awake."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Cherie Gilderbloom</b>
 </blockquote>
 </p>
 
