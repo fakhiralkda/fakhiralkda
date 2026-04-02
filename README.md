@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The journey, not the destination matters."</i>
+<i>"Change is not a four letter word...but often your reaction to it is!"</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Jeffrey Gitomer</b>
 </blockquote>
 </p>
 
