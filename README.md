@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A diamond is a piece of charcoal that handled stress exceptionally well."</i>
+<i>"We will act consistently with our view of who we truly are, whether that view is accurate or not."</i>
 <br>
-<b>- Unknown</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
