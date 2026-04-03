@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The key to immortality is first living a life worth remembering. "</i>
+<i>"Nothing important is learned; it is simply remembered."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
