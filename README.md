@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who looks outside, dreams; who looks inside, awakes."</i>
+<i>"Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
