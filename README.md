@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination."</i>
+<i>"You have to accept whatever comes, and the only important thing is that you meet it with the best you have to give."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
