@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You need to be doing fewer things for more effect instead of doing more things with side effects."</i>
+<i>"Make failure your teacher, not your undertaker.  "</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
