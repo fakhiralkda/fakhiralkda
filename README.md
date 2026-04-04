@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Discipline is the bridge between goals and accomplishment."</i>
+<i>"Life is really simple, but men insist on making it complicated. "</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
