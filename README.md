@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"First learn the meaning of what you say, and then speak."</i>
+<i>"What keeps life fascinating is the constant creativity of the soul."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
