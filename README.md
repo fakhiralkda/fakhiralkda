@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time."</i>
+<i>"What have you done today to make someone else happy?"</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Deepam Chaterjee</b>
 </blockquote>
 </p>
 
