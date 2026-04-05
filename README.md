@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form."</i>
+<i>"Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
