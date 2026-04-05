@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more knowledge you have, the more you're free to rely on your instincts."</i>
+<i>"The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
