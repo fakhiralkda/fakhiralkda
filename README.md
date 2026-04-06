@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort."</i>
+<i>"The question is not what you look at, but what you see."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
