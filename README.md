@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is useless to meet revenge with revenge; it will heal nothing."</i>
+<i>"Happiness is an effect of doing what you love, not an end goal to be achieved."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
