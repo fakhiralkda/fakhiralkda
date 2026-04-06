@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man who dares to waste one hour of time has not discovered the value of life."</i>
+<i>"Work as though you would live forever, and live as though you would die today. Go another mile."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
