@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work as though you would live forever, and live as though you would die today. Go another mile."</i>
+<i>"Be regular and orderly in your life, so that you may be violent and original in your work."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
