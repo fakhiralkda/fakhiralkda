@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The two most important days in your life are the day you are born and the day you find out why."</i>
+<i>"You cannot find peace avoiding life."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
