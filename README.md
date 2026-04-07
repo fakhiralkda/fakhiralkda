@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot find peace avoiding life."</i>
+<i>"The joy of life comes from our encounters with new experiences."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
