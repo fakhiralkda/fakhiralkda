@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The joy of life comes from our encounters with new experiences."</i>
+<i>"Trust, like the soul, never returns once it is gone."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
