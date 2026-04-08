@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise accomplish all that they want without arousing the envy or scorn of others."</i>
+<i>"Life is from the inside out. When you shift on the inside, life shifts on the outside."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
