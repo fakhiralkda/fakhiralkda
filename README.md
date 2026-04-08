@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Distant water does not put out a nearby fire."</i>
+<i>"In the end, it's not the years in your life that count. It's the life in your years."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
