@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the end, it's not the years in your life that count. It's the life in your years."</i>
+<i>"He who cannot be a good follower cannot be a good leader."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
