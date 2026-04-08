@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first principle of success is desire."</i>
+<i>"Do not bite at the bait of pleasure, till you know there is no hook beneath it."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
