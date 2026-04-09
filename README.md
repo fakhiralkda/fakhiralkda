@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't ever give up. I'd have to be dead or completely incapacitated."</i>
+<i>"I skate to where the puck is going to be, not where it has been."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
