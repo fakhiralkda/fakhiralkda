@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is far easier to start something than it is to finish it."</i>
+<i>"The secret of life isn't what happens to you, but what you do with what happens to you."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
