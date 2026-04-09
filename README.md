@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of life isn't what happens to you, but what you do with what happens to you."</i>
+<i>"Find your Light; They can't love you if they can't see you."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Bette Midler</b>
 </blockquote>
 </p>
 
