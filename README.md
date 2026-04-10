@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. "</i>
+<i>"The ego wants comfort and certainty. The soul wants to live fully."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
