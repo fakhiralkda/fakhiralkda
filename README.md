@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Find your Light; They can't love you if they can't see you."</i>
+<i>"There is a difference between giving directions and giving direction."</i>
 <br>
-<b>- Bette Midler</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
