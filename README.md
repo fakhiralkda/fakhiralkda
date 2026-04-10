@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream."</i>
+<i>"If you do not change direction, you may end up where you are heading."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
