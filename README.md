@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ego wants comfort and certainty. The soul wants to live fully."</i>
+<i>"If I can pay the bills, I'm happy."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Morgan Wootten</b>
 </blockquote>
 </p>
 
