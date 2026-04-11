@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The clock indicates the moment...but what does eternity indicate?"</i>
+<i>"One must be poor to know the luxury of giving."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
