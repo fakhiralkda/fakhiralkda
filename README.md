@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success in any endeavor depends on the degree to which it is an expression of your true self. "</i>
+<i>"The clock indicates the moment...but what does eternity indicate?"</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
