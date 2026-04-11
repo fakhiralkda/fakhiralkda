@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if you're sure you can win, be careful that you can live with what you lose."</i>
+<i>"Success in any endeavor depends on the degree to which it is an expression of your true self. "</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
