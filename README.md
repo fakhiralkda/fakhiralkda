@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Heaven is right where you are standing."</i>
+<i>"A friend to all is a friend to none."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
