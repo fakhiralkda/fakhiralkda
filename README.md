@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over."</i>
+<i>"Nothing that results in human progress is achieved with unanimous consent."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Christopher Columbus</b>
 </blockquote>
 </p>
 
