@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you make a choice, you change the future."</i>
+<i>"Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. "</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
