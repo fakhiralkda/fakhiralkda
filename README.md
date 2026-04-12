@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not all those who wander are lost."</i>
+<i>"Poetry is written with tears, fiction with blood, and history with invisible ink."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
