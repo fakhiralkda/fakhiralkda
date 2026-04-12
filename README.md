@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. "</i>
+<i>"Motivation is what gets you started. Habit is what keeps you going."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
