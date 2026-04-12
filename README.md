@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ideas do not reach perfection in a day, no matter how much study is put upon them."</i>
+<i>"It is during our darkest moments that we must focus to see the light."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
