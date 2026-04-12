@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing that results in human progress is achieved with unanimous consent."</i>
+<i>"Every hour of every day is an unspeakably perfect miracle."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
