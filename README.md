@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Motivation is what gets you started. Habit is what keeps you going."</i>
+<i>"None of us can change our yesterdays but all of us can change our tomorrows."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
