@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's just a bad day, not a bad life."</i>
+<i>"Happiness is only real when shared."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
