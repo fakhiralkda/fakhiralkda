@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your worth consists in what you are and not in what you have."</i>
+<i>"Sometimes you put walls up not to keep people out, but to see who cares enough to break them down."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
