@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don´t hesitate or allow yourself to make excuses. Just get out and do it."</i>
+<i>"It's just a bad day, not a bad life."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
