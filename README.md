@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is permanent in this wicked world - not even our troubles."</i>
+<i>"You're never given a dream without also being given the power to make it true."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
