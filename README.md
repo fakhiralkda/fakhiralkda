@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Manifest plainness, embrace simplicity, reduce selfishness, have few desires."</i>
+<i>"You know the more one does the more one can do."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
