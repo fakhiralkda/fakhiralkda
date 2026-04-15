@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By failing to prepare, you are preparing to fail."</i>
+<i>"The friend is the man who knows all about you, and still likes you."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
