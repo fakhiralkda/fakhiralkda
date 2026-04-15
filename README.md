@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Catch, then, O catch the transient hour; Improve each moment as it flies! "</i>
+<i>"By failing to prepare, you are preparing to fail."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
