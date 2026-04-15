@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can live a whole life time never being awake."</i>
+<i>"Every blessing ignored becomes a curse."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
