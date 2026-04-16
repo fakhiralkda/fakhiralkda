@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Argue for your limitations and sure enough, they're yours."</i>
+<i>"Manifest plainness, embrace simplicity, reduce selfishness, have few desires."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
