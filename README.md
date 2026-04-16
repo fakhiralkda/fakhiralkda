@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most great people have achieved their greatest success just one step beyond their greatest failure."</i>
+<i>"Until you change how you get things done, you'll never know what works best."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
