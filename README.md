@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't try to steer the river."</i>
+<i>"A friend to all is a friend to none."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
