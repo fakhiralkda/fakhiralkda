@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A friend to all is a friend to none."</i>
+<i>"It is startling to realize how much unbelief is necessary to make belief possible."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
