@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you know, the more you know you don't know."</i>
+<i>"Don't try to steer the river."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
