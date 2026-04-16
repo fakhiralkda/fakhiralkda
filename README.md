@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be true to yourself, help others, make each day your masterpiece"</i>
+<i>"Most great people have achieved their greatest success just one step beyond their greatest failure."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
