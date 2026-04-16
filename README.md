@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All cruelty springs from weakness.  "</i>
+<i>"There are no differences but differences of degree between different degrees of difference and no difference."</i>
 <br>
-<b>- Seneca</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
