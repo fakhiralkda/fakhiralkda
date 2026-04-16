@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is startling to realize how much unbelief is necessary to make belief possible."</i>
+<i>"Argue for your limitations and sure enough, they're yours."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
