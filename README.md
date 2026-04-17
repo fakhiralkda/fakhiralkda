@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending."</i>
+<i>"As a man thinketh in his heart, so shall he be."</i>
 <br>
-<b>- Carl Bard</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
