@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never be bored, and you will never be boring."</i>
+<i>"Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Carl Bard</b>
 </blockquote>
 </p>
 
