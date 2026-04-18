@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Judgments prevent us from seeing the good that lies beyond appearances.  "</i>
+<i>"Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
