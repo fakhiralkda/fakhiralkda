@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is really work unless you would rather be doing something else. "</i>
+<i>"If anything is worth doing, do it with all your heart."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
