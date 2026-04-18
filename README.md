@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What gets measured gets improved."</i>
+<i>"My instinct is always to seek out challenges as opposed to avoiding them."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
