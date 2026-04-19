@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is an effect of doing what you love, not an end goal to be achieved."</i>
+<i>"Do not think you will necessarily be aware of your own enlightenment."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
