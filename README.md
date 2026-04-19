@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learning is a gift, even when pain is your teacher."</i>
+<i>"The wise man reads both books and life itself."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
