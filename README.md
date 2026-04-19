@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Follow your heart, listen to your inner voice, stop caring about what others think."</i>
+<i>"Learning is a gift, even when pain is your teacher."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
