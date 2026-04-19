@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not think you will necessarily be aware of your own enlightenment."</i>
+<i>"Follow your heart, listen to your inner voice, stop caring about what others think."</i>
 <br>
-<b>- Dogen</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
