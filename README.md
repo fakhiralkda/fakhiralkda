@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Inspiration exists, but it has to find you working."</i>
+<i>"The most difficult times for many of us are the ones we give ourselves."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
