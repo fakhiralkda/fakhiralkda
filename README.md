@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is one of the most tangible things in a world which offers fewer and fewer supports."</i>
+<i>"The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge."</i>
 <br>
-<b>- Kenneth Branagh</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
