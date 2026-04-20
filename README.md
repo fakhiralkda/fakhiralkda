@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most difficult times for many of us are the ones we give ourselves."</i>
+<i>"Every man desires to live long, but no man wishes to be old."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
