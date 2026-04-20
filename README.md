@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better to light a candle than to curse the darkness. "</i>
+<i>"Friendship is one of the most tangible things in a world which offers fewer and fewer supports."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Kenneth Branagh</b>
 </blockquote>
 </p>
 
