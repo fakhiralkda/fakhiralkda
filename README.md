@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest work that kindness does to others is that it makes them kind themselves."</i>
+<i>"It ain't where you start in life, it's where you end up, and what you did along the way."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
