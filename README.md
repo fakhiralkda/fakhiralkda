@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One never does wrong by doing right."</i>
+<i>"The world is changed by your example, not by your opinion."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
