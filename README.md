@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is changed by your example, not by your opinion."</i>
+<i>"The whole is greater than the sum of its parts."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
