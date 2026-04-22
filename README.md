@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for."</i>
+<i>"Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have."</i>
 <br>
-<b>- Socrates</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
