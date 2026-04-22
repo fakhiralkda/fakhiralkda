@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have."</i>
+<i>"One never does wrong by doing right."</i>
 <br>
 <b>- Norman Vincent Peale</b>
 </blockquote>
