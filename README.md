@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge is learning something everyday. Wisdom is letting go of something everyday."</i>
+<i>"Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for."</i>
 <br>
-<b>- Unknown</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
