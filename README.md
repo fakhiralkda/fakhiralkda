@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge is a treasure, but practice is the key to it."</i>
+<i>"It's not about what it is, it's about what it can become."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
