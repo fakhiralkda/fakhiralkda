@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ego wants comfort and certainty. The soul wants to live fully."</i>
+<i>"You never know when a moment and a few sincere words can have an impact on a life.  "</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
