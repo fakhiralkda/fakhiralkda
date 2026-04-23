@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give more than you think you can, trusting that you are richer than you think."</i>
+<i>"Knowledge is a treasure, but practice is the key to it."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
