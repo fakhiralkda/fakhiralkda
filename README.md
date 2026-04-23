@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All animals except man know that the principal business of life is to enjoy it."</i>
+<i>"Success on the outside means nothing unless you also have success within."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
