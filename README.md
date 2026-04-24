@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're braver than you believe, and stronger than you seem, and smarter than you think."</i>
+<i>"Keep your face always toward the sunshine -  shadows will fall behind you."</i>
 <br>
-<b>- A.A. Milne</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
