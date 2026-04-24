@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never let your memories be greater than your dreams."</i>
+<i>"You're braver than you believe, and stronger than you seem, and smarter than you think."</i>
 <br>
-<b>- Doug Ivester</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
