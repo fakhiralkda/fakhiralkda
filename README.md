@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great."</i>
+<i>"Quiet people have the loudest minds."</i>
 <br>
-<b>- Billie Jean King</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
