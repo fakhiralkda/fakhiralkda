@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is difficult to free fools from the chains they revere. "</i>
+<i>"You can have it all. You just can't have it all at once. "</i>
 <br>
-<b>- Voltaire</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
