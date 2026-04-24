@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I alone cannot change the world, but I can cast a stone across the waters to create many ripples."</i>
+<i>"Do not fear failure but rather fear not trying."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
