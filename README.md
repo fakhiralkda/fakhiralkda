@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quiet people have the loudest minds."</i>
+<i>"It is difficult to free fools from the chains they revere. "</i>
 <br>
-<b>- Stephen King</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
