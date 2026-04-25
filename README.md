@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't Let Yesterday Take Up Too Much Of Today."</i>
+<i>"Small men think they are small; great men never know they are great. "</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
