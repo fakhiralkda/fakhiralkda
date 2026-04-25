@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Insanity: doing the same thing over and over again and expecting different results."</i>
+<i>"We tend to live up to our expectations."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
