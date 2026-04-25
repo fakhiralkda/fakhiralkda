@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is up to each of us to sing as we feel moved by the overall song of life."</i>
+<i>"Respect other people's feelings. It might mean nothing to you, but it could mean everything to them."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
