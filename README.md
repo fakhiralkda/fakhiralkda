@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We tend to live up to our expectations."</i>
+<i>"The secret of getting ahead is getting started."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
