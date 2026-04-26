@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no path to Happiness. Happiness is the path."</i>
+<i>"There's no next time. It's now or never."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
