@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quality of your commitments will determine the course of your life."</i>
+<i>"Be thankful for everything that happens in your life; it's all an experience."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
