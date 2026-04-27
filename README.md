@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I dream my painting and I paint my dream."</i>
+<i>"Life is what you make it. Always has been, always will be."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
