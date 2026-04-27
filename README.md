@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man."</i>
+<i>"The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
