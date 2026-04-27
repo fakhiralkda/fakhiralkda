@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fallacies do not cease to be fallacies because they become fashions."</i>
+<i>"The desire for more positive experience is itself a negative experience."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
