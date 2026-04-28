@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is what you make it. Always has been, always will be."</i>
+<i>"We never know the love of a parent till we become parents ourselves."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
