@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We never know the love of a parent till we become parents ourselves."</i>
+<i>"Identification with our mind causes thought to become compulsive."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
