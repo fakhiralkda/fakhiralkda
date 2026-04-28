@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work."</i>
+<i>"Do not bite at the bait of pleasure, till you know there is no hook beneath it."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
