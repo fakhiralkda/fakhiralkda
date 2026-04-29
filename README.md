@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why do you stay in prison when the door is so wide open?"</i>
+<i>"A man's worth is no greater than his ambitions."</i>
 <br>
-<b>- Rumi</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
