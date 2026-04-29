@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never be bored, and you will never be boring."</i>
+<i>"We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
