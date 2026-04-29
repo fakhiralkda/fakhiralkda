@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I try more and more to be myself, caring relatively little whether people approve or disapprove."</i>
+<i>"Do you have the patience to wait until your mud settles and the water is clear?"</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
