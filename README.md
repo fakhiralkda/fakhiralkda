@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't pretend to know everything; I just only speak on matters I know I'll win."</i>
+<i>"Decide upon your major definite purpose in life and then organize all your activities around it."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
