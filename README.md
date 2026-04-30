@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decide upon your major definite purpose in life and then organize all your activities around it."</i>
+<i>"We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Gabor Mate</b>
 </blockquote>
 </p>
 
