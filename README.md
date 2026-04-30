@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ones who are crazy enough to think they can change the world, are the ones that do."</i>
+<i>"It is not uncommon for people to spend their whole life waiting to start living."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
