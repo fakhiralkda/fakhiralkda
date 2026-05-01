@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What people say, what people do, and what they say they do are entirely different things. "</i>
+<i>"You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
