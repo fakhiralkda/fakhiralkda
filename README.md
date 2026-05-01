@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't explain it simply, you don't understand it well enough."</i>
+<i>"Nothing is easier than fault finding."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
