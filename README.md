@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed is he who expects nothing, for he shall never be disappointed."</i>
+<i>"Choose a job you love, and you will never have to work a day in your life. "</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
