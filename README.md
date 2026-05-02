@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am always doing that which I can not do, in order that I may learn how to do it."</i>
+<i>"Blessed is he who expects nothing, for he shall never be disappointed."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
