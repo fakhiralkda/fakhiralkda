@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt."</i>
+<i>"We cannot expect to be happy always... by experiencing evil as well as good we become wise."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
