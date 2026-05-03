@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What the mind can conceive and believe, and the heart desire, you can achieve."</i>
+<i>"Don't look for meaning in the words. Listen to the silences."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
