@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't look for meaning in the words. Listen to the silences."</i>
+<i>"Wealth is the product of man's capacity to think."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
