@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hope and fear come from feeling that we lack something; they come from a sense of poverty."</i>
+<i>"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
