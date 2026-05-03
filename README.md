@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talk does not cook rice."</i>
+<i>"If I persist long enough I will win."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
