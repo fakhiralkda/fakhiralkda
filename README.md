@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The chief enemy of creativity is good sense."</i>
+<i>"Success is like reaching an important birthday and finding you're exactly the same."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
