@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each day provides it's own gifts."</i>
+<i>"Be mindful. Be grateful. Be positive. Be true. Be kind."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
