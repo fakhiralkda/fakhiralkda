@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you take responsibility for yourself you will develop a hunger to accomplish your dream."</i>
+<i>"There are people who have money and people who are rich."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
