@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Little by little, one travels far."</i>
+<i>"Things do not have meaning. We assign meaning to everything."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
