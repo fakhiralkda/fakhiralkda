@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are people who have money and people who are rich."</i>
+<i>"The chief enemy of creativity is good sense."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
