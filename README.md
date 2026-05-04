@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Strategy is a commodity, execution is an art."</i>
+<i>"Each day provides it's own gifts."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
