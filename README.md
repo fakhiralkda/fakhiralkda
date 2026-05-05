@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life has the name of life, but in reality it is death."</i>
+<i>"Your heart is full of fertile seeds, waiting to sprout."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
