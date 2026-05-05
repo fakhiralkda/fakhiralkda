@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man is free who is not master of himself."</i>
+<i>"Work out your own salvation. Do not depend on others."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
