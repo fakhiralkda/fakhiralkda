@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A poet should be so crafty with words that he is envied even for his pains."</i>
+<i>"Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
