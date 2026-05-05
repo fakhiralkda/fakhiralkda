@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tension is who you think you should be. Relaxation is who you are."</i>
+<i>"Show me a hero, and I'll write you a tragedy."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
