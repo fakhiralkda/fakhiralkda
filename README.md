@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want more luck, take more chances."</i>
+<i>"All our knowledge has its origins in our perceptions."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
