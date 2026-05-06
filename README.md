@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are shaped and fashioned by what we love."</i>
+<i>"Those who know, do. Those that understand, teach."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
