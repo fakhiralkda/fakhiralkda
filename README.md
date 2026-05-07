@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop wasting time looking at someone else's reality while doing nothing about yours."</i>
+<i>"I defeat my enemies when I make them my friends."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
