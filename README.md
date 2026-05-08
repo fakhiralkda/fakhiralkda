@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a question and how we live it is our answer."</i>
+<i>"I know of only one duty, and that is to love."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
