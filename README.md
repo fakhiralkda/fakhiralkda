@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who cheats the earth will be cheated by the earth."</i>
+<i>"What kills the creative force is not age or lack of talent, but our own spirit, our own attitude."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
