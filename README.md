@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through."</i>
+<i>"Life is like stepping onto a boat which is about to sail out to sea and sink."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
