@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True wealth is of the heart, not of the purse."</i>
+<i>"Love doesn't need reason. It speaks from the irrational wisdom of the heart."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
