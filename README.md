@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The hard path is often the right one. The river teaches more than the shore."</i>
+<i>"Life is love and love is life."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
