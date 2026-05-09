@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life can be the scariest and most beautiful thing simultaneously."</i>
+<i>"Freedom lies in being bold."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
