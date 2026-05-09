@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people are not without problems. They're simply people who've learned to solve their problems."</i>
+<i>"If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
