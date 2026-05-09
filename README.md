@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never let the fear of striking out keep you from playing the game."</i>
+<i>"True wealth is of the heart, not of the purse."</i>
 <br>
-<b>- Babe Ruth</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
