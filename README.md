@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ego wants to go fast. The soul needs to go slow."</i>
+<i>"Love is the energy of life."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Robert Browning</b>
 </blockquote>
 </p>
 
