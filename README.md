@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The healthiest response to life is joy."</i>
+<i>"The more we have the less we own."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
