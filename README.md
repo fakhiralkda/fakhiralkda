@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love doesn't need reason. It speaks from the irrational wisdom of the heart."</i>
+<i>"The healthiest response to life is joy."</i>
 <br>
 <b>- Deepak Chopra</b>
 </blockquote>
