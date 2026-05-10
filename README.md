@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the energy of life."</i>
+<i>"There is nothing like looking if you want to find something."</i>
 <br>
-<b>- Robert Browning</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
