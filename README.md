@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Turn the pain into power."</i>
+<i>"It's your life-but only if you make it so."</i>
 <br>
-<b>- Unknown</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
