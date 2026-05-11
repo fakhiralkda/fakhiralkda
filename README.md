@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your worth consists in what you are and not in what you have."</i>
+<i>"Guilt is perhaps the most painful companion of death."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
