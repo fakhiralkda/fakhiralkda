@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I do not seek. I find."</i>
+<i>"The future is not a gift. It is an achievement."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
