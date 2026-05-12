@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a long lesson in humility. "</i>
+<i>"Poetry is written with tears, fiction with blood, and history with invisible ink."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
