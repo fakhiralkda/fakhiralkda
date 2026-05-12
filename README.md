@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not change direction, you may end up where you are heading."</i>
+<i>"The world is a puzzle; no need to make sense out of it."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
