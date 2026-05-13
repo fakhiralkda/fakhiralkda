@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You play the hand you're dealt. I think the game's worthwhile.  "</i>
+<i>"The person who never made a mistake never tried anything new."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
