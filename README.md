@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live."</i>
+<i>"You play the hand you're dealt. I think the game's worthwhile.  "</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
