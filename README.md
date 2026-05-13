@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter what happens, always be yourself."</i>
+<i>"You are never too old to set another goal or to dream a new dream."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
