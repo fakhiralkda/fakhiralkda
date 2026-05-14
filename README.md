@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all self-made, but only the successful will admit it."</i>
+<i>"Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
