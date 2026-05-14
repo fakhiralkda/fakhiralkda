@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where violence reigns, reason is weak."</i>
+<i>"We are all self-made, but only the successful will admit it."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
