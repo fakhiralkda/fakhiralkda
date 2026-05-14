@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where violence reigns, reason is weak."</i>
+<i>"If I cannot do great things. I can do small things in a great way."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
