@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are never too old to set another goal or to dream a new dream."</i>
+<i>"Thinking is difficult, that's why most people judge."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
