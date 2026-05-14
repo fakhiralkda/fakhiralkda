@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot."</i>
+<i>"You are never too old to set another goal or to dream a new dream."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
