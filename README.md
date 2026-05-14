@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live."</i>
+<i>"Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
