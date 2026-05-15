@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all self-made, but only the successful will admit it."</i>
+<i>"The search for happiness is one of the chief sources of unhappiness."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
