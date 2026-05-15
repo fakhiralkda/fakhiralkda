@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It all depends on what you choose to believe."</i>
+<i>"To be totally at leisure for one day is to be immortal for one day. "</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
