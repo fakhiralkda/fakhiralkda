@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Poetry is written with tears, fiction with blood, and history with invisible ink."</i>
+<i>"The attempt to escape from pain, is what creates more pain."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Gabor Mate</b>
 </blockquote>
 </p>
 
