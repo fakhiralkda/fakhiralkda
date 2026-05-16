@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I cannot do great things. I can do small things in a great way."</i>
+<i>"Go confidently in the direction of your dreams! Live the life you've imagined."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
