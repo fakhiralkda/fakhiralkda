@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents."</i>
+<i>"Go confidently in the direction of your dreams! Live the life you've imagined."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
