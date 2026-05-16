@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not whether you get knocked down, its whether you get back up."</i>
+<i>"A zen master's life is one continuous mistake."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
