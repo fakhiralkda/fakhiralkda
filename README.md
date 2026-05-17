@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today."</i>
+<i>"We are willing to believe anything other than the truth."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
