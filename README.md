@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is a puzzle; no need to make sense out of it."</i>
+<i>"If I cannot do great things. I can do small things in a great way."</i>
 <br>
-<b>- Socrates</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
