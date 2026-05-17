@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be totally at leisure for one day is to be immortal for one day. "</i>
+<i>"You are never too old to set another goal or to dream a new dream."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
