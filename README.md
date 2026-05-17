@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I cannot do great things. I can do small things in a great way."</i>
+<i>"To be totally at leisure for one day is to be immortal for one day. "</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
