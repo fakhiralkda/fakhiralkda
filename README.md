@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time goes from present to past."</i>
+<i>"Death and life have their determined appointments; riches and honors depend upon heaven. "</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
