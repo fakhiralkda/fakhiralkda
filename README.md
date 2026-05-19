@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is such a rare thing, it is delighted to tell it."</i>
+<i>"Be happy now, without reason - or you never will be at all."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
