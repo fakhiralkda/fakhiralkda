@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be brave to stand for what you believe in even if you stand alone."</i>
+<i>"Doing what you love is the cornerstone of having abundance in your life. "</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
