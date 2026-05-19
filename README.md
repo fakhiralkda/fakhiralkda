@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone has the right to make his own decisions, but none has the right to force his decision on others."</i>
+<i>"Shoot for the moon. Even if you miss, you'll land among the stars."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
