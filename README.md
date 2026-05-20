@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is pretty simple: someone to love, something to do, something to look forward to."</i>
+<i>"Have the courage to follow your heart and intuition. They somehow know what you truly want to become."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
