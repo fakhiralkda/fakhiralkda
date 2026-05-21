@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To escape from the world means that one's mind is not concerned with the opinions of the world."</i>
+<i>"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."</i>
 <br>
-<b>- Dogen</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
