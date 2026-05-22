@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid to give up the good to go for the great."</i>
+<i>"Evil is whatever distracts. "</i>
 <br>
-<b>- John D. Rockefeller</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
