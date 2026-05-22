@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The privilege of a lifetime is to become who you truly are."</i>
+<i>"Until you change how you get things done, you'll never know what works best."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
