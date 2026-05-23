@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The privilege of a lifetime is to become who you truly are."</i>
+<i>"The most difficult times for many of us are the ones we give ourselves."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
