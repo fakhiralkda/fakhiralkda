@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Walk towards the sunshine, and the shadows will fall behind you."</i>
+<i>"The more something threatens your identity, the more you will avoid it."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
