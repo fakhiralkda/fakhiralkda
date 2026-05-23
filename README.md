@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever happens always happens on time."</i>
+<i>"Where there's life, there's hope."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
