@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little."</i>
+<i>"Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
