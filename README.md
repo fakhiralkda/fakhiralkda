@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment."</i>
+<i>"The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
