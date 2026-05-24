@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one."</i>
+<i>"Take into account that great love and great achievements involve great risk."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
