@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing makes a man broad-minded like adversity."</i>
+<i>"To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
