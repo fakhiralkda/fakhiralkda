@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work."</i>
+<i>"The two most important days in your life are the day you are born and the day you find out why."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
