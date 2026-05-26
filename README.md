@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even the smallest person can change the course of the future."</i>
+<i>"The less you talk about your shame, the more of it you have."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
