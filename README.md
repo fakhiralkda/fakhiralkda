@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain."</i>
+<i>"I can't change the direction of the wind, but I can adjust my sails to always reach my destination."</i>
 <br>
-<b>- Kabir</b>
+<b>- Colin R. Davis</b>
 </blockquote>
 </p>
 
