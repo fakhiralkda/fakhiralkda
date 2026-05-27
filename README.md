@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases."</i>
+<i>"Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
