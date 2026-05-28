@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anger exceeding limits causes fear and excessive kindness eliminates respect."</i>
+<i>"Surround yourself with only people who are going to lift you higher."</i>
 <br>
-<b>- Euripides</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
