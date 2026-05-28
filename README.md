@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't feed a hundred people, then feed just one."</i>
+<i>"Meditate. It won't be fun but it will surface what you need to deal with."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
