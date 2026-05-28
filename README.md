@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do what you can, with what you have, where you are."</i>
+<i>"Life is but one dream flowing into another."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
