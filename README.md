@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing you do is going to matter that much in the long run. Don't take yourself so seriously."</i>
+<i>"If you can't feed a hundred people, then feed just one."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
