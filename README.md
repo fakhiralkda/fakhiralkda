@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Surround yourself with only people who are going to lift you higher."</i>
+<i>"Nothing you do is going to matter that much in the long run. Don't take yourself so seriously."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
