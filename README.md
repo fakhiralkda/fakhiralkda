@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In life you need either inspiration or desperation."</i>
+<i>"Not why the addiction but why the pain."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Gabor Mate</b>
 </blockquote>
 </p>
 
