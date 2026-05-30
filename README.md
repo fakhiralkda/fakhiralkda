@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy."</i>
+<i>"Love is the expression of one's values."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
