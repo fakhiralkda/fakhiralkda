@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work."</i>
+<i>"The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
