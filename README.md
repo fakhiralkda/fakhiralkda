@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not why the addiction but why the pain."</i>
+<i>"The more people you help become successful the more successful you become."</i>
 <br>
-<b>- Gabor Mate</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
