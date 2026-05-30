@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the expression of one's values."</i>
+<i>"It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
