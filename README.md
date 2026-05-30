@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more people you help become successful the more successful you become."</i>
+<i>"Love your enemies, for they tell you your faults."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
