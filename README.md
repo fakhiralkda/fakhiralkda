@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What is a friend? A single soul dwelling in two bodies."</i>
+<i>"It is hard to fail, but it is worse never to have tried to succeed."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
