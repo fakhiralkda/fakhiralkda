@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you're the only sane person, you look like the only insane person."</i>
+<i>"What is a friend? A single soul dwelling in two bodies."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
