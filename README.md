@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people."</i>
+<i>"Throughout this life, you can never be certain of living long enough to take another breath."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
