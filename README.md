@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is hard to fail, but it is worse never to have tried to succeed."</i>
+<i>"Unless a man is master of his soul, all other kinds of mastery amount to little."</i>
 <br>
 <b>- Theodore Roosevelt</b>
 </blockquote>
