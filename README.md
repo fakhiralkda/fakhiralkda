@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each problem has a positive side."</i>
+<i>"It is better to fail in originality than to succeed in imitation."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Herman Melville</b>
 </blockquote>
 </p>
 
