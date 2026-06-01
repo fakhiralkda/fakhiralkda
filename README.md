@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to fail in originality than to succeed in imitation."</i>
+<i>"Let each man exercise the art he knows."</i>
 <br>
-<b>- Herman Melville</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
