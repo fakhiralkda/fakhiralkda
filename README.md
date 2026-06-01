@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life doesn't get easier or more forgiving, we get stronger and more resilient."</i>
+<i>"Each problem has a positive side."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
