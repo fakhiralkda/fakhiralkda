@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great."</i>
+<i>"I am always doing that which I can not do, in order that I may learn how to do it."</i>
 <br>
-<b>- Billie Jean King</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
