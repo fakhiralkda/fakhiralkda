@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To know your Enemy, you must become your Enemy."</i>
+<i>"No great mind has ever existed without a touch of madness."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
