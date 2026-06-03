@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you feed your mind with positive thoughts, the more you can attract great things into your life."</i>
+<i>"A life without a cause is a life without effect."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
