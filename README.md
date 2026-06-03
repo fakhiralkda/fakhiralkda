@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All human beings can alter their lives by altering their attitudes."</i>
+<i>"Our happiness depends on the habit of mind we cultivate."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
