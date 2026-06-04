@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is one long process of getting tired."</i>
+<i>"In the middle of difficulty lies opportunity."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
