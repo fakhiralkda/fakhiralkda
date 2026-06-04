@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way round is through."</i>
+<i>"The quality of your life is determined by the quality of your thoughts."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
