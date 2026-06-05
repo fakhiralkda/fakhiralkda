@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A journey of a thousand miles begins with a single step."</i>
+<i>"To love means loving the unlovable."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
