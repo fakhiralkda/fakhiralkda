@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Care about what other people think and you will always be their prisoner."</i>
+<i>"A journey of a thousand miles begins with a single step."</i>
 <br>
 <b>- Lao Tzu</b>
 </blockquote>
