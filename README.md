@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anything you may hold firmly in your imagination can be yours."</i>
+<i>"Everybody's life is either rewarding or an example."</i>
 <br>
-<b>- William James</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
