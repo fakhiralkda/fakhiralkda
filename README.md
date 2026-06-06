@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man gotta right to decide his own destiny."</i>
+<i>"The best way to understanding is a few good examples."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
