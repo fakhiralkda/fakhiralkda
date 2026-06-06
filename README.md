@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He is richest who is content with the least, for content is the wealth of nature."</i>
+<i>"The pen is the tongue of the mind."</i>
 <br>
-<b>- Socrates</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
