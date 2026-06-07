@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Because of your smile, you make life more beautiful."</i>
+<i>"Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
