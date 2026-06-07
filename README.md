@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a traveling to the edge of knowledge, then a leap taken."</i>
+<i>"Life is simply what our feelings do to us."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
