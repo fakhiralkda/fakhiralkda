@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not the size of the dog in the fight, it's the size of the fight in the dog."</i>
+<i>"Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured."</i>
 <br>
 <b>- Mark Twain</b>
 </blockquote>
