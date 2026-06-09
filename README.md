@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are not only responsible for what you say, but also for what you do not say."</i>
+<i>"It's not the size of the dog in the fight, it's the size of the fight in the dog."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
