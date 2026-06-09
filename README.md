@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving."</i>
+<i>"When you win, say nothing, when you lose say less."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
