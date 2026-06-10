@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It may take some hard work. But the more you say no to the things that don't matter, the more you can say yes to the things that do."</i>
+<i>"Life and the simple beauty of it is too good to pass up."</i>
 <br>
-<b>- Ryan Holiday</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
