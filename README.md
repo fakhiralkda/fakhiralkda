@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Try not to become a man of success, but rather try to become a man of value."</i>
+<i>"Make failure your teacher, not your undertaker."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
