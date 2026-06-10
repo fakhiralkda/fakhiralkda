@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you reach the end of your rope, tie a knot in it and hang on."</i>
+<i>"It may take some hard work. But the more you say no to the things that don't matter, the more you can say yes to the things that do."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Ryan Holiday</b>
 </blockquote>
 </p>
 
