@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words are clothes that thoughts wear"</i>
+<i>"The roots of education are bitter, but the fruit is sweet."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
