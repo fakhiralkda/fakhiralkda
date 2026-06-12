@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Strategy is a commodity, execution is an art."</i>
+<i>"Difficulties strengthen the mind, as labor does the body."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
