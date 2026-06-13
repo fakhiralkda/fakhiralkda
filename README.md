@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your neighbor is the man who needs you."</i>
+<i>"Wherever you are, it's the place you need to be."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
