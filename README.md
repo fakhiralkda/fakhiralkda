@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pursuit of mastery bears gifts."</i>
+<i>"We become what we believe."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
