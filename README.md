@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no path to Happiness. Happiness is the path."</i>
+<i>"Your neighbor is the man who needs you."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
