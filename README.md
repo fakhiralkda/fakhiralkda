@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man is happy unless he believes he is."</i>
+<i>"The more you praise and celebrate your life, the more there is in life to celebrate."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
