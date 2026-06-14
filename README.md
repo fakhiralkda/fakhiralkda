@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Admire as much as you can. Most people do not admire enough."</i>
+<i>"No man is happy unless he believes he is."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
