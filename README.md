@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never buy a thing you do not want, because it is cheap, it will be dear to you."</i>
+<i>"If you cannot understand something, then you have understood it incorrectly."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
