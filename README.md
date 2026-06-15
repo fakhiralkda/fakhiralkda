@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long."</i>
+<i>"Never buy a thing you do not want, because it is cheap, it will be dear to you."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
