@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You miss 100% of the shots you don't take."</i>
+<i>"There is no greatness where there is not simplicity, goodness, and truth."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
