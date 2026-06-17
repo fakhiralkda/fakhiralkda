@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not try to be on the side of the majority, but live according to your inner laws."</i>
+<i>"Wise people, even though all laws were abolished, would still lead the same life."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
