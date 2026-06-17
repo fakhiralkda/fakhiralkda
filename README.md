@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The present moment is filled with joy and happiness. If you are attentive, you will see it."</i>
+<i>"They who have conquered doubt and fear have conquered failure."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
