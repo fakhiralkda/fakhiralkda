@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A flower falls, even though we love it; and a weed grows, even though we do not love it."</i>
+<i>"The present moment is filled with joy and happiness. If you are attentive, you will see it."</i>
 <br>
-<b>- Dogen</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
