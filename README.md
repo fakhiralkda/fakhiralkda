@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the power of the mind to be unconquerable."</i>
+<i>"The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves."</i>
 <br>
-<b>- Seneca</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
