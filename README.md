@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Invisible things are the only realities."</i>
+<i>"If I love myself I love you. If I love you I love myself."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
