@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not conquer self, you will be conquered by self."</i>
+<i>"Nothing ever goes away until it has taught us what we need to know."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
