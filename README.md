@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A rational person can find peace by cultivating indifference to things outside of their control."</i>
+<i>"Success is not final, failure is not fatal: it is the courage to continue that counts."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
