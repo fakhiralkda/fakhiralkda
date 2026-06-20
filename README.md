@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge."</i>
+<i>"The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
