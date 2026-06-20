@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form."</i>
+<i>"A scientific man ought to have no wishes, no affections, - a mere heart of stone."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
