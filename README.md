@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn from the mistakes of others. You can't live long enough to make them all yourself."</i>
+<i>"Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
