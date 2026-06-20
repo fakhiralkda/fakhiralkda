@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't wish it were easier, wish you were better."</i>
+<i>"To wish you were someone else is to waste the person you are."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
