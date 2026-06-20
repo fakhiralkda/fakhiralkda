@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A scientific man ought to have no wishes, no affections, - a mere heart of stone."</i>
+<i>"If you don't like something, change it. If you can't change it, change your attitude."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
