@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember, today is the tomorrow you worried about yesterday."</i>
+<i>"How you think when you lose determines how long it will be until you win."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
