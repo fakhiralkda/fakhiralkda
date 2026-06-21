@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter how great the talent or efforts, some things just take time."</i>
+<i>"Remember, today is the tomorrow you worried about yesterday."</i>
 <br>
-<b>- Warren Buffett</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
