@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The reward of suffering is experience."</i>
+<i>"Live your life and forget your age."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
