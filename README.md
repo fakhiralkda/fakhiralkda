@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every blessing ignored becomes a curse."</i>
+<i>"The reward of suffering is experience."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
