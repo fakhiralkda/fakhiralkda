@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn from the mistakes of others. You can't live long enough to make them all yourself."</i>
+<i>"All religions, arts and sciences are branches of the same tree."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
