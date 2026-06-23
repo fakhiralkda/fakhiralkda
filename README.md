@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if you're sure you can win, be careful that you can live with what you lose."</i>
+<i>"In order to be irreplaceable one must always be different."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
