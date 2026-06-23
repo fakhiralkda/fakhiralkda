@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's easy to be a critic, but being a doer requires effort, risk, and change."</i>
+<i>"The art of being happy lies in the power of extracting happiness from common things."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
