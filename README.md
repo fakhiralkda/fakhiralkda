@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great minds discuss ideas. Average minds discuss events. Small minds discuss people."</i>
+<i>"As you think, you travel, and as you love, you attract."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
