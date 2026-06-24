@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We would accomplish many more things if we did not think of them as impossible."</i>
+<i>"No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
