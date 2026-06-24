@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Curiosity is the most powerful thing you own."</i>
+<i>"To do great work one must be very idle as well as very industrious."</i>
 <br>
-<b>- James Cameron</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
