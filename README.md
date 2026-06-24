@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To do great work one must be very idle as well as very industrious."</i>
+<i>"When you reach the top of the mountain, keep climbing."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
