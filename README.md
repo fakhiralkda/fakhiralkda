@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One day, in retrospect, the years of struggle will strike you as the most beautiful."</i>
+<i>"Surrender to what is. Let go of what was. Have faith in what will be."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
