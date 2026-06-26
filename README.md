@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What kills the creative force is not age or lack of talent, but our own spirit, our own attitude."</i>
+<i>"It matters not what someone is born, but what they grow to be."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
