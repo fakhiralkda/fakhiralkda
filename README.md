@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Seek not the good in external things;seek it in yourselves."</i>
+<i>"You have power over your mind - not outside events. Realize this, and you will find strength."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
