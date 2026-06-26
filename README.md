@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A golden cage is still just a cage."</i>
+<i>"What kills the creative force is not age or lack of talent, but our own spirit, our own attitude."</i>
 <br>
-<b>- Anita Krizzan</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
