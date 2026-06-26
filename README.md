@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who violates another's honor loses his own."</i>
+<i>"The goal is not to show how great you are to others, but how vulnerable you are to yourself."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
