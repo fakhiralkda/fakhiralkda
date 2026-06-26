@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It matters not what someone is born, but what they grow to be."</i>
+<i>"Seek not the good in external things;seek it in yourselves."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
