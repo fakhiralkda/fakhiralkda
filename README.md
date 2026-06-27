@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conscience is a dog that does not stop us from passing but that we cannot prevent from barking."</i>
+<i>"The world is a puzzle; no need to make sense out of it."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
