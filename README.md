@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To accomplish big things, I am convinced you must first dream big dreams."</i>
+<i>"Not everything that weighs you down is yours to carry."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
