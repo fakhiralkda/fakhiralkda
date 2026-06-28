@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the greatest of all mistakes to do nothing because you can only do little; do something."</i>
+<i>"Keep your eyes on the goal, and just keep taking the next step towards completing it."</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- John Carmack</b>
 </blockquote>
 </p>
 
