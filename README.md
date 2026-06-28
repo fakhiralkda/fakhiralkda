@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The attempt to escape from pain, is what creates more pain."</i>
+<i>"The way to get started is to quit talking and begin doing."</i>
 <br>
-<b>- Gabor Mate</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
