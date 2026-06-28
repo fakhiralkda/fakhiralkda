@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way to get started is to quit talking and begin doing."</i>
+<i>"Be fascinated instead of frustrated."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
