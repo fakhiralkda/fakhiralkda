@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Find the game where you can win, and then commit your life to playing it; and play to win."</i>
+<i>"It is the greatest of all mistakes to do nothing because you can only do little; do something."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
