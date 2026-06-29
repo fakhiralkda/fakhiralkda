@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing we see or hear is perfect. But right there in the imperfection is perfect reality."</i>
+<i>"When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
