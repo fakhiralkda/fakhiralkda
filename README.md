@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The temptation to give up is strongest just before victory."</i>
+<i>"The way to move out of judgement is to move into gratitude."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Neale Donald Walsch</b>
 </blockquote>
 </p>
 
