@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only when the tide goes out do you discover who's been swimming naked."</i>
+<i>"We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies."</i>
 <br>
-<b>- Warren Buffett</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
