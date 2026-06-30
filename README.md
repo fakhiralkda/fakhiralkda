@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way to move out of judgement is to move into gratitude."</i>
+<i>"Love the life you live, live the life you love."</i>
 <br>
-<b>- Neale Donald Walsch</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
