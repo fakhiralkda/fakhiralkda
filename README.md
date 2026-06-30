@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies."</i>
+<i>"Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
