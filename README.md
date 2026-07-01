@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you've never eaten while crying you don t know what life tastes like."</i>
+<i>"The way to get started is to quit talking and begin doing."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
