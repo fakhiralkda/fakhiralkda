@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return."</i>
+<i>"Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
