@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way to get started is to quit talking and begin doing."</i>
+<i>"The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
