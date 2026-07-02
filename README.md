@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose."</i>
+<i>"Change yourself and you have done your part in changing the world."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
