@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey."</i>
+<i>"Keep your dreams, you never know when you might need them."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
