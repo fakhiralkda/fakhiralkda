@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunities don't often come along. So, when they do, you have to grab them."</i>
+<i>"Only those who will risk going too far can possibly find out how far one can go."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
