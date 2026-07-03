@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe in your infinite potential. Your only limitations are those you set upon yourself."</i>
+<i>"We must create our own world or we will die from inaction."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
