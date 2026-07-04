@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must cultivate our garden."</i>
+<i>"Change is inevitable but personal growth is a choice."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
