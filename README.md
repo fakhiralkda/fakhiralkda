@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is inevitable but personal growth is a choice."</i>
+<i>"Every blessing ignored becomes a curse."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
