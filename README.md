@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adults are just children who earn money."</i>
+<i>"There is always risk, so learn to manage risk instead of avoiding it."</i>
 <br>
-<b>- Kenneth Branagh</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
