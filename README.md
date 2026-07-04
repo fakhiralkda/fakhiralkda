@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If it is not right, do not do it, if it is not true, do not say it."</i>
+<i>"We must cultivate our garden."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
