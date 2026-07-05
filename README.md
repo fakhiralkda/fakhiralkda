@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Definiteness of purpose is the starting point of all achievement."</i>
+<i>"Waste no more time arguing about what a good man should be. Be one."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
