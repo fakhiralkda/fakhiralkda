@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not try to be on the side of the majority, but live according to your inner laws."</i>
+<i>"Definiteness of purpose is the starting point of all achievement."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
