@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I must also have a dark side if I am to be whole."</i>
+<i>"I dream my painting and I paint my dream."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
