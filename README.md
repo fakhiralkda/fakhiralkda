@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Extraordinary results happen only when you give the best you have to become the best you can be at your most important work."</i>
+<i>"Do not pray for an easy life, pray for the strength to endure a difficult one."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
