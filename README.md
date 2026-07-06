@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's necessary to get the losers out of your life if you want to live your dream."</i>
+<i>"A dream you dream alone is only a dream. A dream you dream together is reality."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
