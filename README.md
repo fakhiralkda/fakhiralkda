@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever is begun in anger, ends in shame."</i>
+<i>"It's necessary to get the losers out of your life if you want to live your dream."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
