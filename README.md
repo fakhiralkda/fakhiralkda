@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you are grateful for what you have the more you will have to be grateful for."</i>
+<i>"Kindness is a language which the deaf can hear and the blind can see."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
