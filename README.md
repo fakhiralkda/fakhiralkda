@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you think adventure is dangerous, try routine; it is lethal."</i>
+<i>"You're braver than you believe, and stronger than you seem, and smarter than you think."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
