@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't learn to do, but learn in doing."</i>
+<i>"The more something scares you, the more you should do it."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
