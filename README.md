@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're braver than you believe, and stronger than you seem, and smarter than you think."</i>
+<i>"The best mind-altering drug is the truth."</i>
 <br>
-<b>- A.A. Milne</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
