@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is just information and an opportunity to change your course."</i>
+<i>"Silence is sometimes the best answer."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
