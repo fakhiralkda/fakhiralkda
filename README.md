@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In youth we run into difficulties. In old age difficulties run into us."</i>
+<i>"You play the hand you're dealt. I think the game's worthwhile."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
