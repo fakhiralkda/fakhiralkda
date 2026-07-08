@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You play the hand you're dealt. I think the game's worthwhile."</i>
+<i>"Take care of your body. It's the only place you have to live."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
