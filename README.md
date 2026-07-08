@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The moment you stop to think about whether you love someone, you've already stopped loving that person forever."</i>
+<i>"Wealth consists not in having great possessions, but in having few wants."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
