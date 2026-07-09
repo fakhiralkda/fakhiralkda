@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What worries you, masters you."</i>
+<i>"Be strong. Be confident. Be the star of your own life."</i>
 <br>
-<b>- John Locke</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
