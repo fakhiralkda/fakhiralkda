@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is amazing what you can accomplish if you do not care who gets the credit."</i>
+<i>"Everything you've ever wanted is on the other side of fear."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- George Addair</b>
 </blockquote>
 </p>
 
