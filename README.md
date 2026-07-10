@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is too high for a man to reach, but he must climb with care and confidence"</i>
+<i>"To raise your consciousness, surround yourself with people of higher consciousness."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
