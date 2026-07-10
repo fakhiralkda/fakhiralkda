@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn to use your emotions to think, not think with your emotions."</i>
+<i>"Do not use life to give life to death. Do not use death to bring death to life."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
