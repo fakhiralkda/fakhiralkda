@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To raise your consciousness, surround yourself with people of higher consciousness."</i>
+<i>"It is amazing what you can accomplish if you do not care who gets the credit."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
