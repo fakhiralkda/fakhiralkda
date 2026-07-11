@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success on the outside means nothing unless you also have success within."</i>
+<i>"At every moment where language can't go, that's your mind."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
