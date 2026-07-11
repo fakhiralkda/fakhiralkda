@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Faults are yours to fix, not to curse."</i>
+<i>"In order to carry a positive action, we must develop here a positive vision."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
