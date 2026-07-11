@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The temptation to give up is strongest just before victory."</i>
+<i>"Success on the outside means nothing unless you also have success within."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
