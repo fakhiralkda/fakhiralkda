@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no sadder sight than a young pessimist."</i>
+<i>"When you've got nothing, you've got nothing to lose."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
