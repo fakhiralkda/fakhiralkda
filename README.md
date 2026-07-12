@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be persuasive we must be believable; to be believable we must be credible; to be credible we must be truthful."</i>
+<i>"There is no sadder sight than a young pessimist."</i>
 <br>
-<b>- David Brinkley</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
