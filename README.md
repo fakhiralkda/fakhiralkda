@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you pray for rain, be prepared to deal with some mud."</i>
+<i>"To be persuasive we must be believable; to be believable we must be credible; to be credible we must be truthful."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- David Brinkley</b>
 </blockquote>
 </p>
 
