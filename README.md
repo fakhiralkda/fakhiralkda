@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be willing to be a beginner every single morning."</i>
+<i>"Friends ask you questions; enemies question you."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
