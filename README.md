@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man desires to live long, but no man wishes to be old."</i>
+<i>"Be willing to be a beginner every single morning."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
