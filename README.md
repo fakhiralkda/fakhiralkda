@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every saint has a past, and every sinner has a future."</i>
+<i>"Life is too important to be taken seriously."</i>
 <br>
 <b>- Oscar Wilde</b>
 </blockquote>
