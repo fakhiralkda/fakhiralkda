@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Choose to be optimistic, it feels better."</i>
+<i>"Confuse them with your silence and amaze them with your actions."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
