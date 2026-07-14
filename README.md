@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People will forget what you said, people will forget what you did, but people will never forget how you made them feel."</i>
+<i>"Only the hand that erases can write the true thing."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
