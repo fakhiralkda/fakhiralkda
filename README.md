@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To become what you are not, behave as you do not."</i>
+<i>"Arise, slay thy enemies, enjoy a prosperous kingdom."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
