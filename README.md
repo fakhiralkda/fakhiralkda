@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It all depends on what you choose to believe."</i>
+<i>"To become what you are not, behave as you do not."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
