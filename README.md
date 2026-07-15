@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we allow negative messages to fester in our head, they take on a life of their own."</i>
+<i>"Believe you can and you're halfway there."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
