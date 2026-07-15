@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Arise, slay thy enemies, enjoy a prosperous kingdom."</i>
+<i>"When we allow negative messages to fester in our head, they take on a life of their own."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
