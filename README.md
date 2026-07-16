@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing in this universe occurs by accident."</i>
+<i>"Behind every cloud is another cloud."</i>
 <br>
-<b>- Neale Donald Walsch</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
