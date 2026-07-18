@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may be disappointed if you fail, but you are doomed if you don't try."</i>
+<i>"The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Charles Swindoll</b>
 </blockquote>
 </p>
 
