@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Care about what other people think and you will always be their prisoner."</i>
+<i>"Being in a good frame of mind helps keep one in the picture of health."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
