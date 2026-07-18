@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From a certain point onward there is no longer any turning back. That is the point that must be reached."</i>
+<i>"Where there is anger, there is always pain underneath."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
