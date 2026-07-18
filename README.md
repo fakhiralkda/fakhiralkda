@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We don't stop playing because we grow old; we grow old because we stop playing."</i>
+<i>"From a certain point onward there is no longer any turning back. That is the point that must be reached."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
