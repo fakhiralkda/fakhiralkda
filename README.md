@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Seek not the good in external things;seek it in yourselves."</i>
+<i>"Old age is like everything else. To make a success of it, you've got to start young."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
