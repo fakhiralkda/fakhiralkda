@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who leaves the game wins it."</i>
+<i>"Fear is your worst enemy. Risk is your best friend."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
