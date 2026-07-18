@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where there is anger, there is always pain underneath."</i>
+<i>"Everything is created twice, first in the mind and then in reality."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
