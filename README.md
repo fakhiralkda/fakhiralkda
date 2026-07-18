@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear is your worst enemy. Risk is your best friend."</i>
+<i>"You may be disappointed if you fail, but you are doomed if you don't try."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
