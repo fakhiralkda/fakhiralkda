@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fashion fades, only style remains the same."</i>
+<i>"Excellence is not a skill. It is an attitude."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
