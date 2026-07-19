@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Belief creates the actual fact."</i>
+<i>"We have a duty to maintain the light of consciousness to make sure it continues into the future."</i>
 <br>
-<b>- William James</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
