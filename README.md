@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being in a good frame of mind helps keep one in the picture of health."</i>
+<i>"Success is not to be pursued, it is to be attracted by the person you become."</i>
 <br>
-<b>- Unknown</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
