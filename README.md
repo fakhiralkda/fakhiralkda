@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not to be pursued, it is to be attracted by the person you become."</i>
+<i>"Fashion fades, only style remains the same."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
