@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anger exceeding limits causes fear and excessive kindness eliminates respect."</i>
+<i>"There's no one to perform for. There is just work to be done and lessons to be learned, in all that is around us."</i>
 <br>
-<b>- Euripides</b>
+<b>- Ryan Holiday</b>
 </blockquote>
 </p>
 
