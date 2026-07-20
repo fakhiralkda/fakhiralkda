@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever."</i>
+<i>"Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
