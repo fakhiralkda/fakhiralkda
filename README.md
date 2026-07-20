@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is peace even in the storm."</i>
+<i>"Every second you have on this planet is very precious and it's your responsibility that you're happy."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
