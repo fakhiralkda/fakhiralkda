@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fear of death is more to be feared, than death itself."</i>
+<i>"Whether you think you can or think you can't – you are right."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
