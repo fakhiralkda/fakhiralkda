@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you think the world is withholding from you, you are withholding from the world."</i>
+<i>"Be like a postage stamp. Stick to it until you get there."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
