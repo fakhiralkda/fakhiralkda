@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's no one to perform for. There is just work to be done and lessons to be learned, in all that is around us."</i>
+<i>"What you seek is seeking you."</i>
 <br>
-<b>- Ryan Holiday</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
