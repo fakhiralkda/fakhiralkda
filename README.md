@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even a hare will bite when it is cornered."</i>
+<i>"Success is never final; failure is never fatal."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
