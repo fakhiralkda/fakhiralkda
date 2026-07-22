@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What people say, what people do, and what they say they do are entirely different things."</i>
+<i>"Success is liking yourself, liking what you do, and liking how you do it."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
