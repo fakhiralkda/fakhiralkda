@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is never final; failure is never fatal."</i>
+<i>"The best way to understanding is a few good examples."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
