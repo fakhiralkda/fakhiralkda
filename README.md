@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Gratitude is the fairest blossom which springs from the soul."</i>
+<i>"Rewards and punishment is the lowest form of education."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
