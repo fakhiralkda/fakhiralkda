@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We suffer more often in imagination than in reality."</i>
+<i>"A person hears only what they understand."</i>
 <br>
-<b>- Seneca</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
