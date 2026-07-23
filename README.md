@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is liking yourself, liking what you do, and liking how you do it."</i>
+<i>"Never waste a minute of your precious life thinking about people you don't like."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
