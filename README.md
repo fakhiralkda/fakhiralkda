@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change."</i>
+<i>"We suffer more often in imagination than in reality."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
