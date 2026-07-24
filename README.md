@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have to go through the falling down in order to learn to walk. It helps to know that you can survive it. That's an education in itself."</i>
+<i>"Everyone you meet is fighting a battle you know nothing about. Be kind. Always."</i>
 <br>
-<b>- Carol Burnett</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
