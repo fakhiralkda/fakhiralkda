@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Few things are more deceptive than memories."</i>
+<i>"Never fear quarrels, but seek hazardous adventures."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
