@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone you meet is fighting a battle you know nothing about. Be kind. Always."</i>
+<i>"We must create our own world or we will die from inaction."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
