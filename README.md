@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all self-made, but only the successful will admit it."</i>
+<i>"The harder you work, the harder it is to surrender."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
