@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Absorb what is useful, discard what is not, add what is uniquely your own."</i>
+<i>"We are all self-made, but only the successful will admit it."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
