@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane."</i>
+<i>"It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
