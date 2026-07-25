@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is never easy, but always possible."</i>
+<i>"Absorb what is useful, discard what is not, add what is uniquely your own."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
