@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When it comes to mastering a skill, time is the magic ingredient."</i>
+<i>"The key to immortality is first living a life worth remembering."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
