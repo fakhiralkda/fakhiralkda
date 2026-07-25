@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The key to immortality is first living a life worth remembering."</i>
+<i>"Change is never easy, but always possible."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
