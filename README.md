@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live in the sunshine, swim the sea, drink the wild air."</i>
+<i>"If you want something you've never had you must be willing to do something you've never done."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
