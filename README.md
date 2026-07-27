@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be totally at leisure for one day is to be immortal for one day."</i>
+<i>"It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
