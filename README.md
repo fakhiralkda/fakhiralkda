@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated."</i>
+<i>"To be totally at leisure for one day is to be immortal for one day."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
