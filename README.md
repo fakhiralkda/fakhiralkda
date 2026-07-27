@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult."</i>
+<i>"Why fit in when you were born to stand out?"</i>
 <br>
-<b>- Seneca</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
