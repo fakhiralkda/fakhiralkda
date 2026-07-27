@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why fit in when you were born to stand out?"</i>
+<i>"Thought is so cunning, so clever, that it distorts everything for its own convenience."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
