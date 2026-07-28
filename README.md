@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change yourself - you are in control."</i>
+<i>"Wherever you are, it's the place you need to be."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
