@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"May you find grace as you surrender to life. May you find happiness, as you stop seeking it."</i>
+<i>"A life without a cause is a life without effect."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
