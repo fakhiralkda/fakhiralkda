@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man's character is his fate."</i>
+<i>"Every poem should remind the reader that they are going to die."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
