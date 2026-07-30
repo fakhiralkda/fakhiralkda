@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world doesn't owe you anything. It was here first."</i>
+<i>"You need to be doing fewer things for more effect instead of doing more things with side effects."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
