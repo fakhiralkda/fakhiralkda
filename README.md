@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's possible in ways both large or small to make a difference in someone's life."</i>
+<i>"We are shaped and fashioned by what we love."</i>
 <br>
-<b>- Yanni</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
