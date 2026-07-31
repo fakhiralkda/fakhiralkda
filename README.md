@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Facts are the enemy of truth."</i>
+<i>"We don't have to be smarter than the rest. We have to be more disciplined than the rest."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Warren Buffett</b>
 </blockquote>
 </p>
 
