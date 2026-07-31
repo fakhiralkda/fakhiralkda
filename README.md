@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When one door closes another door opens."</i>
+<i>"The ability to observe without evaluating is the highest form of intelligence."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
