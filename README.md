@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're braver than you believe, and stronger than you seem, and smarter than you think."</i>
+<i>"Art is the signature of civilizations."</i>
 <br>
-<b>- A.A. Milne</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
