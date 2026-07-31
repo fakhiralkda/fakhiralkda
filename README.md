@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We don't have to be smarter than the rest. We have to be more disciplined than the rest."</i>
+<i>"You're braver than you believe, and stronger than you seem, and smarter than you think."</i>
 <br>
-<b>- Warren Buffett</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
