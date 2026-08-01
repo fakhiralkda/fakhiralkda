@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Desire is suffering."</i>
+<i>"It's not what you've got; it's what you do that makes the difference."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
