@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is ours to be spent, not to be saved."</i>
+<i>"Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
