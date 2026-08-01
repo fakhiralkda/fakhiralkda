@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not what you've got; it's what you do that makes the difference."</i>
+<i>"Life is ours to be spent, not to be saved."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
