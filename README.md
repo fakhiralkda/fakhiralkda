@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from."</i>
+<i>"I want the fishing rod, not the fish."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
