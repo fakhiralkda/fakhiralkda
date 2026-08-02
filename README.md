@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must not sit down and wait for miracles. Up and be going!"</i>
+<i>"You've got to get up every morning with determination if you're going to go to bed with satisfaction."</i>
 <br>
-<b>- John Eliot</b>
+<b>- George Lorimer</b>
 </blockquote>
 </p>
 
