@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Risk comes from not knowing what you're doing."</i>
+<i>"If ever you feel like an animal among men, be a lion."</i>
 <br>
-<b>- Warren Buffett</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
