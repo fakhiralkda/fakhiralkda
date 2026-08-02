@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best leaders are constantly learning, curious about where they made mistakes and actively looking for areas where they might have it wrong."</i>
+<i>"Nothing you do is going to matter that much in the long run. Don't take yourself so seriously."</i>
 <br>
-<b>- Jeff Booth</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
