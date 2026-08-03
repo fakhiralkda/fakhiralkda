@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I dream my painting and I paint my dream."</i>
+<i>"Before you can see the Light, you have to deal with the darkness."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
