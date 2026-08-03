@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it."</i>
+<i>"I dream my painting and I paint my dream."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
