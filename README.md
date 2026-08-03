@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You've got to get up every morning with determination if you're going to go to bed with satisfaction."</i>
+<i>"To judge a man by his weakest link or deed is like judging the power of the ocean by one wave."</i>
 <br>
-<b>- George Lorimer</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
