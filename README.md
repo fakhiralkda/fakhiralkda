@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All animals except man know that the principal business of life is to enjoy it."</i>
+<i>"A gentleman accepts the responsibility of his actions and bears the burden of their consequences."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
