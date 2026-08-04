@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to find the secrets of the universe, think in terms of energy, frequency and vibration."</i>
+<i>"The trouble with the rat race is that even if you win, you're still a rat."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
