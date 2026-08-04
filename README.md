@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is one long process of getting tired."</i>
+<i>"Whether you think you can or think you can't – you are right."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
