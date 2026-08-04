@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whether you think you can or think you can't – you are right."</i>
+<i>"Failure is simply the opportunity to begin again, this time more intelligently."</i>
 <br>
 <b>- Henry Ford</b>
 </blockquote>
