@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Quitter never wins - and - a Winner never quits."</i>
+<i>"Who you are is always right."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
