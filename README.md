@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't ever give up. I'd have to be dead or completely incapacitated."</i>
+<i>"Everything is in your own heart."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
