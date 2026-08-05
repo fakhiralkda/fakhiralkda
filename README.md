@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To become what you are not, behave as you do not."</i>
+<i>"Opportunity often comes disguised in the form of misfortune or temporary defeat."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
