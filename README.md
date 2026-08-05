@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes adversity is what you need to face in order to become successful."</i>
+<i>"I don't ever give up. I'd have to be dead or completely incapacitated."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
