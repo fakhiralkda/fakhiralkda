@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we are not able to smile, then the world will not have peace."</i>
+<i>"Hope means hoping when everything seems hopeless."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
