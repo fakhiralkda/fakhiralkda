@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunity often comes disguised in the form of misfortune or temporary defeat."</i>
+<i>"If we are not able to smile, then the world will not have peace."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
