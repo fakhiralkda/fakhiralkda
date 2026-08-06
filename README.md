@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is useless to attempt to reason a man out of a thing he was never reasoned into."</i>
+<i>"Life is essentially an endless series of problems. The solution to one problem is merely the creation of another."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
