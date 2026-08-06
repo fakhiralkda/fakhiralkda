@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't explain it simply, you don't understand it well enough."</i>
+<i>"Knowing your own darkness is the best method for dealing with the darknesses of other people."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
