@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the practice of tolerance, one's enemy is the best teacher."</i>
+<i>"If you can't explain it simply, you don't understand it well enough."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
