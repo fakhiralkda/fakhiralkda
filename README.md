@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Experience is a comb which nature gives us when we are bald."</i>
+<i>"Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
