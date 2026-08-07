@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is essentially an endless series of problems. The solution to one problem is merely the creation of another."</i>
+<i>"The wise man reads both books and life itself."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
