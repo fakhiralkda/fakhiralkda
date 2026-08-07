@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quicker you let go of old cheese, the sooner you find new cheese."</i>
+<i>"Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
