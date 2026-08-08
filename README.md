@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment."</i>
+<i>"You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
