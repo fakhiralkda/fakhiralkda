@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Science can flourish only in an atmosphere of free speech."</i>
+<i>"Good, better, best. Never let it rest. 'Til your good is better and your better is best."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
