@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes."</i>
+<i>"Act the way you want to be and soon you'll be the way you act."</i>
 <br>
-<b>- A.A. Milne</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
