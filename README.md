@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight."</i>
+<i>"Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
