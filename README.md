@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never settle for the crumbs of life."</i>
+<i>"Nothing is really work unless you would rather be doing something else."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
