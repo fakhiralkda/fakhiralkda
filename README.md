@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talk to someone about themselves and they'll listen for hours."</i>
+<i>"Everything begins with an idea."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
