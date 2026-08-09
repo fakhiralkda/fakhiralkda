@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a gift and the trick is not to expect it, but to delight in it when it comes."</i>
+<i>"Ripe fruit falls by itself - but it doesn't fall in your mouth."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
