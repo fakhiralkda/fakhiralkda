@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you put water into a cup, it becomes the cup."</i>
+<i>"The glow of one warm thought is to me worth more than money."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
