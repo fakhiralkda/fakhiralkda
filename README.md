@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All happiness depends on courage and work."</i>
+<i>"Never put off to tomorrow what you can do to-day."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
