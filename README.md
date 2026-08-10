@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are what you believe yourself to be."</i>
+<i>"It is better to learn late than never."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
