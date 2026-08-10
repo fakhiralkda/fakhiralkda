@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why change? Everyone has his own style. When you have found it, you should stick to it."</i>
+<i>"The saddest aspect of life is that there is no one on earth whose happiness is such that he won't sometimes wish he were dead rather than alive."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
