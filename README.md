@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No experience is a cause of success or failure. We do not suffer from the shock of our experiences, so-called trauma - but we make out of them just what suits our purposes."</i>
+<i>"Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
