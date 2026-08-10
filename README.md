@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The question is not what you look at, but what you see."</i>
+<i>"No experience is a cause of success or failure. We do not suffer from the shock of our experiences, so-called trauma - but we make out of them just what suits our purposes."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
