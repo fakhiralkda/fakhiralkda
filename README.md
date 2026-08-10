@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind."</i>
+<i>"All happiness depends on courage and work."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
