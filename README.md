@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people ask better questions, and as a result, they get better answers."</i>
+<i>"The question is not what you look at, but what you see."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
