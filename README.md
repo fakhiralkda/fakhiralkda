@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You'll never find rainbows if you're looking down."</i>
+<i>"Act the way you want to be and soon you'll be the way you act."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
