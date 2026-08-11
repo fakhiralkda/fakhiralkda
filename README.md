@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every second you have on this planet is very precious and it's your responsibility that you're happy."</i>
+<i>"It's easier to go down a hill than up it but the view is much better at the top."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
