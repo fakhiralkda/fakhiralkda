@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All men are equal before fish."</i>
+<i>"There are as many opinions as there are experts."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
