@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A little progress each day adds up to big results."</i>
+<i>"Better than the young man's knowledge is the old man's experience."</i>
 <br>
-<b>- Unknown</b>
+<b>- Tibetan Proverb</b>
 </blockquote>
 </p>
 
