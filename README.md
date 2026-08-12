@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness."</i>
+<i>"Absorb what is useful, discard what is useless and add what is specifically your own."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
