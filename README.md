@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better than the young man's knowledge is the old man's experience."</i>
+<i>"Circumstances rule men; men do not rule circumstances."</i>
 <br>
-<b>- Tibetan Proverb</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
