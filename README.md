@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you."</i>
+<i>"Insanity: doing the same thing over and over again and expecting different results."</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
