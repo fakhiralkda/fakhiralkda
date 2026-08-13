@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nobody goes through life without a scar."</i>
+<i>"Most people fail in life because they major in minor things."</i>
 <br>
-<b>- Carol Burnett</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
