@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't watch the clock; do what it does. Keep going."</i>
+<i>"The important thing is not to stop questioning. Curiosity has its own reason for existing."</i>
 <br>
-<b>- Colin R. Davis</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
