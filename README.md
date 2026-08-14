@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners."</i>
+<i>"Until you make the unconscious conscious, it will direct your life and you will call it fate."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
