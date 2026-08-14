@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The important thing is not to stop questioning. Curiosity has its own reason for existing."</i>
+<i>"Unless a man is master of his soul, all other kinds of mastery amount to little."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
