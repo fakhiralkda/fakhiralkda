@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is built sequentially. It's one thing at a time."</i>
+<i>"Numbing the pain for a while will make it worse when you finally feel it."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
