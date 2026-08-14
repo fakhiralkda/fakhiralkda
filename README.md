@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let the past steal your present."</i>
+<i>"Everything that irritates us about others."</i>
 <br>
-<b>- Cherralea Morgen</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
