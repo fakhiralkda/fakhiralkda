@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that irritates us about others."</i>
+<i>"Make peace with your inner turmoil."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
