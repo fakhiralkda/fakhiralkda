@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with."</i>
+<i>"We don't stop going to school when we graduate."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
