@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you put walls up not to keep people out, but to see who cares enough to break them down."</i>
+<i>"Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with."</i>
 <br>
-<b>- Socrates</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
