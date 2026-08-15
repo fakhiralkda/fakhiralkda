@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We don't stop going to school when we graduate."</i>
+<i>"Wherever you are, it's the place you need to be."</i>
 <br>
-<b>- Carol Burnett</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
