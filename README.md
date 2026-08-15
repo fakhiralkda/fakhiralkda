@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't like something change it. If you can't change it, change your attitude about it. Don't complain."</i>
+<i>"Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
