@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To escape from the world means that one's mind is not concerned with the opinions of the world."</i>
+<i>"As you think, so shall you become."</i>
 <br>
-<b>- Dogen</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
