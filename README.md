@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is an effect of doing what you love, not an end goal to be achieved."</i>
+<i>"At every moment where language can't go, that's your mind."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
