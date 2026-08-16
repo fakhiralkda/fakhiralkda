@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has."</i>
+<i>"Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
