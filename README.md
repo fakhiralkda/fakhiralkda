@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Care about what other people think and you will always be their prisoner."</i>
+<i>"To escape from the world means that one's mind is not concerned with the opinions of the world."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
