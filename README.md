@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"At every moment where language can't go, that's your mind."</i>
+<i>"You will not do incredible things without an incredible dream."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
