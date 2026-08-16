@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People become attached to their burdens sometimes more than the burdens are attached to them."</i>
+<i>"If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
