@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The reward of suffering is experience."</i>
+<i>"To forgive means pardoning the unpardonable."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
