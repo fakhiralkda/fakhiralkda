@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must learn to let go. Release the stress. You were never in control anyway."</i>
+<i>"How to get more opportunity: Create more opportunity for others."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
