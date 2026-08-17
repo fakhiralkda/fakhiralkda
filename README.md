@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to attain the impossible, one must attempt the absurd."</i>
+<i>"Self-control is strength."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
