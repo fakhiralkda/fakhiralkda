@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your vision will become clear only when you can look into your own heart."</i>
+<i>"Remember the entrance to the sanctuary is inside you."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
