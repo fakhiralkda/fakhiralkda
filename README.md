@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength."</i>
+<i>"Your vision will become clear only when you can look into your own heart."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
