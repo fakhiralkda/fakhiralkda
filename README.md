@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form."</i>
+<i>"Throughout this life, you can never be certain of living long enough to take another breath."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
