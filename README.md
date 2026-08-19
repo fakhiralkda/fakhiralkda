@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A dream doesn't become reality through magic it takes sweat, determination and hard work."</i>
+<i>"The traveler sees what he sees. The tourist sees what he has come to see."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
