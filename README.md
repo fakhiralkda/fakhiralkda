@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Faithless is he that says farewell when the road darkens."</i>
+<i>"Genius, in truth, means little more than the faculty of perceiving in an unhabitual way."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
