@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Health is the greatest of all possessions."</i>
+<i>"Reality is the leading cause of stress among those in touch with it."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
