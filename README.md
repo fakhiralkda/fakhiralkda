@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your best life will not be found in comfort. It will be found in fighting for what you believe in."</i>
+<i>"Plants grow weak without wind."</i>
 <br>
 <b>- Maxime Lagace</b>
 </blockquote>
