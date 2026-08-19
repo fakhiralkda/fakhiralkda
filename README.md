@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Once you choose hope, anything's possible."</i>
+<i>"Health is the greatest of all possessions."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
