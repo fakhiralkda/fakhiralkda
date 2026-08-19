@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The traveler sees what he sees. The tourist sees what he has come to see."</i>
+<i>"Life is a process. We are a process. The universe is a process."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Anne Wilson Schaef</b>
 </blockquote>
 </p>
 
