@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot teach a crab to walk straight."</i>
+<i>"A lie can travel half way around the world while the truth is putting on its shoes."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
