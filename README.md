@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're only given a little spark of madness. You mustn't lose it."</i>
+<i>"Our attitude toward life determines life's attitude towards us."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
