@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do something to move yourself toward your major goal every day."</i>
+<i>"Don't try to be young. Just open your mind. Stay interested in stuff."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
