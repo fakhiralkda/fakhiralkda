@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our attitude toward life determines life's attitude towards us."</i>
+<i>"All our knowledge has its origins in our perceptions."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
