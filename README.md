@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who permits himself to tell a lie once, finds it much easier to do it the second time."</i>
+<i>"Do something to move yourself toward your major goal every day."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
