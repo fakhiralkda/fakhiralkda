@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fallacies do not cease to be fallacies because they become fashions."</i>
+<i>"It's the little things done consistently over time, straight from your heart, that have the greatest impact."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
