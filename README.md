@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perfectionism is simply putting a limit on your future."</i>
+<i>"The degree of responsibility you take for your life determines how much change you can create in it."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
