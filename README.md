@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no coincidences in the universe."</i>
+<i>"Whatever you decide to do, make sure it makes you happy."</i>
 <br>
-<b>- Neale Donald Walsch</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
