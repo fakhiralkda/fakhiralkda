@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you cannot control your emotions, you cannot control your money."</i>
+<i>"Would you rather live your life according to the approval of others or aligned with your truth and your dreams?"</i>
 <br>
-<b>- Warren Buffett</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
