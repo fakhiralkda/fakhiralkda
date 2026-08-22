@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only thing more frustrating than slanderers is those foolish enough to listen to them."</i>
+<i>"Success comes to those who become success conscious."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
