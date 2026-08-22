@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reality is nothing but a collective hunch."</i>
+<i>"You are your best thing."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Toni Morrison</b>
 </blockquote>
 </p>
 
