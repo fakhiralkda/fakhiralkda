@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success comes to those who become success conscious."</i>
+<i>"A tiny change today brings a dramatically different tomorrow."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
