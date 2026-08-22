@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The impossible can always be broken down into possibilities."</i>
+<i>"Opportunity often comes disguised in the form of misfortune or temporary defeat."</i>
 <br>
-<b>- Unknown</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
