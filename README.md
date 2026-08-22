@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves."</i>
+<i>"The only thing more frustrating than slanderers is those foolish enough to listen to them."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
