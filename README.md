@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When things go wrong, don't go with them."</i>
+<i>"Self-knowledge is the beginning of self-correction."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
