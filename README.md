@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A tiny change today brings a dramatically different tomorrow."</i>
+<i>"Wherever you are, it's the place you need to be."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
