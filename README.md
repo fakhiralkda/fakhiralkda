@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No valid plans for the future can be made by those who have no capacity for living now."</i>
+<i>"I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
