@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe that life is worth living and your belief will help create the fact."</i>
+<i>"I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better."</i>
 <br>
-<b>- William James</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
