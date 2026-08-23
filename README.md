@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Riches don't make a man rich, they only make him busier."</i>
+<i>"Believe that life is worth living and your belief will help create the fact."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
