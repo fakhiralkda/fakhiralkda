@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is never easy, but always possible."</i>
+<i>"We are most nearly ourselves when we achieve the seriousness of the child at play."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
