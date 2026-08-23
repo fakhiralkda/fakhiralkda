@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We will now discuss in a little more detail the Struggle for Existence."</i>
+<i>"Change is never easy, but always possible."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
