@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are most nearly ourselves when we achieve the seriousness of the child at play."</i>
+<i>"Ability is a poor man's wealth."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
