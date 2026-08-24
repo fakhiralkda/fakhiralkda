@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I like the dreams of the future better than the history of the past."</i>
+<i>"Every traveler has a home of his own, and he learns to appreciate it the more from his wandering."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
