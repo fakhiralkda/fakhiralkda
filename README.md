@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unlike the stomach, the brain doesn't alert you when it's empty."</i>
+<i>"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it."</i>
 <br>
-<b>- Arabic Proverb</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
