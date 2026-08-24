@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The privilege of a lifetime is to become who you truly are."</i>
+<i>"I like the dreams of the future better than the history of the past."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
