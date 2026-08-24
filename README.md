@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it."</i>
+<i>"Every limit is a beginning as well as an ending."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
