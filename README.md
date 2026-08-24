@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Out of your vulnerabilities will come your strength."</i>
+<i>"Unlike the stomach, the brain doesn't alert you when it's empty."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Arabic Proverb</b>
 </blockquote>
 </p>
 
