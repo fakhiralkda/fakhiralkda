@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough."</i>
+<i>"When you are tempted to give up, your breakthrough is probably just around the corner."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
