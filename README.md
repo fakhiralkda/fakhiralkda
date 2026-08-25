@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why do you stay in prison when the door is so wide open?"</i>
+<i>"Debt is the slavery of the free."</i>
 <br>
-<b>- Rumi</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
