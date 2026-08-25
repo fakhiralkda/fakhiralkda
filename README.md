@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along."</i>
+<i>"If you don't program yourself, life will program you."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
