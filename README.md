@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're afraid - don't do it, - if you're doing it - don't be afraid!"</i>
+<i>"You can't let your failures define you. You have to let your failures teach you."</i>
 <br>
-<b>- Genghis Khan</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
