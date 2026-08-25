@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Debt is the slavery of the free."</i>
+<i>"If you're afraid - don't do it, - if you're doing it - don't be afraid!"</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
