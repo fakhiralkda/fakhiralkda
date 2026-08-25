@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't program yourself, life will program you."</i>
+<i>"Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
