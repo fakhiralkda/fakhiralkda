@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace is not absence of conflict, it is the ability to handle conflict by peaceful means."</i>
+<i>"Why do you stay in prison when the door is so wide open?"</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
