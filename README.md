@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wheresoever you go, go with all your heart."</i>
+<i>"Live your life and forget your age."</i>
 <br>
-<b>- Confucius</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
