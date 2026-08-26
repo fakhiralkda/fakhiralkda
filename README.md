@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The older you get the stronger the wind gets - and it's always in your face."</i>
+<i>"Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Charles Spurgeon</b>
 </blockquote>
 </p>
 
