@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is peace even in the storm."</i>
+<i>"If you don't know where you're going, you will probably end up somewhere else."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
