@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only the educated are free."</i>
+<i>"Cleverness is not wisdom."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
