@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the practice of tolerance, one's enemy is the best teacher."</i>
+<i>"The chief danger in life is that you may take too many precautions."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
