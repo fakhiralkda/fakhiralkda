@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination means nothing without doing."</i>
+<i>"If you do not tell the truth about yourself you cannot tell it about other people."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
