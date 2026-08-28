@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is stumbling from failure to failure with no loss of enthusiasm."</i>
+<i>"It is not how much we have, but how much we enjoy, that makes happiness."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Charles Spurgeon</b>
 </blockquote>
 </p>
 
