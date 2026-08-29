@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't have to control your thoughts; you just have to stop letting them control you."</i>
+<i>"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Nikola Tesla</b>
 </blockquote>
 </p>
 
