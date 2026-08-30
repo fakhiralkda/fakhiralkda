@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am not the outcome. I am never the result. I am only the effort."</i>
+<i>"There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
