@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them."</i>
+<i>"Genius is one percent inspiration and ninety-nine percent perspiration."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
