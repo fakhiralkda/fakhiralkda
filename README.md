@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is not about possession. Love is about appreciation."</i>
+<i>"If you think you can do a thing or think you can't do a thing, you're right."</i>
 <br>
-<b>- Osho</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
