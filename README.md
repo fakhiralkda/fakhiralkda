@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day is an opportunity to a make a new happy ending."</i>
+<i>"Look for 3 things in a person. Intelligence, Energy, & Integrity. If they don't have the last one, don't even bother with the first two."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Warren Buffett</b>
 </blockquote>
 </p>
 
