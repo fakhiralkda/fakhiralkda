@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Look for 3 things in a person. Intelligence, Energy, & Integrity. If they don't have the last one, don't even bother with the first two."</i>
+<i>"Love is not about possession. Love is about appreciation."</i>
 <br>
-<b>- Warren Buffett</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
