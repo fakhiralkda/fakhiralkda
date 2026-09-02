@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even the smallest person can change the course of the future."</i>
+<i>"The grass is greener where you water it."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Neil Barringham</b>
 </blockquote>
 </p>
 
