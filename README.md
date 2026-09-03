@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured."</i>
+<i>"Numbing the pain for a while will make it worse when you finally feel it."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
