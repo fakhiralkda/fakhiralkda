@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Far more crucial than what we know or do not know is what we do not want to know."</i>
+<i>"Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
