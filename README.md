@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose."</i>
+<i>"You can't climb the ladder of success with your hands in your pockets."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
