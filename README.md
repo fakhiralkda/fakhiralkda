@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life has no limitations except the ones you make."</i>
+<i>"The only way out is through."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
