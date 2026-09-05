@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way out is through."</i>
+<i>"Closing your eyes and listening to silence is self-care."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
