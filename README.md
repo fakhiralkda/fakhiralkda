@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Closing your eyes and listening to silence is self-care."</i>
+<i>"You have to accept whatever comes, and the only important thing is that you meet it with the best you have to give."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
