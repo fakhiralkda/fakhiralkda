@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To live outside the law, you must be honest."</i>
+<i>"If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
