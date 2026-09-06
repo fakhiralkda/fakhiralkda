@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid to see what you see."</i>
+<i>"An ounce of performance is worth pounds of promises."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
