@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing like a health problem to turn up the contrast dial for the rest of life."</i>
+<i>"Within every obstacle is an opportunity to improve our condition."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Ryan Holiday</b>
 </blockquote>
 </p>
 
