@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Within every obstacle is an opportunity to improve our condition."</i>
+<i>"A warrior does not give up what he loves, he finds the love in what he does."</i>
 <br>
-<b>- Ryan Holiday</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
