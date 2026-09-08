@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best leaders are constantly learning, curious about where they made mistakes and actively looking for areas where they might have it wrong."</i>
+<i>"Don't be afraid to give up the good to go for the great."</i>
 <br>
-<b>- Jeff Booth</b>
+<b>- John D. Rockefeller</b>
 </blockquote>
 </p>
 
