@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genius is patience."</i>
+<i>"Don't give up the fight, Stand up for your rights."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
