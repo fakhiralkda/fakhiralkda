@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who are easily shocked should be shocked more often."</i>
+<i>"Children are our greatest natural resource."</i>
 <br>
-<b>- Mae West</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
