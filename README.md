@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without the rain there would be no rainbow."</i>
+<i>"A dead thing can go with the stream, but only a living thing can go against it."</i>
 <br>
 <b>- Gilbert Chesterton</b>
 </blockquote>
