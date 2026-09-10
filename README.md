@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some men see things as they are and ask why. Others dream things that never were and ask why not."</i>
+<i>"If we know how to adapt, we end up being superior."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
