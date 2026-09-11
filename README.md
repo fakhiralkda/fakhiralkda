@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who know, do. Those that understand, teach."</i>
+<i>"Great acts are made up of small deeds."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
