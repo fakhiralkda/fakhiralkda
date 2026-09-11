@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"While we may not be able to control all that happens to us, we can control what happens inside us."</i>
+<i>"Don't just sit there. Do something. The answers will follow."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
