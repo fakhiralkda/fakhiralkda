@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A mountain never yields to the wind no matter how strong it is."</i>
+<i>"Do not save what is left after spending, but spend what is left after saving."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Warren Buffett</b>
 </blockquote>
 </p>
 
