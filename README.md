@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Little minds have little worries, big minds have no time for worries."</i>
+<i>"A mountain never yields to the wind no matter how strong it is."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
