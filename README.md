@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyday you can take a tiny step in the right direction."</i>
+<i>"If you don't program yourself, life will program you."</i>
 <br>
-<b>- Unknown</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
