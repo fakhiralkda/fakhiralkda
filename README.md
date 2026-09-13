@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not save what is left after spending, but spend what is left after saving."</i>
+<i>"The way to get started is to quit talking and begin doing."</i>
 <br>
-<b>- Warren Buffett</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
