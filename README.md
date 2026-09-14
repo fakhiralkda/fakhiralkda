@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can not live your life just based on what everyone else thinks."</i>
+<i>"It is the greatest of all mistakes to do nothing because you can only do little; do something."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
