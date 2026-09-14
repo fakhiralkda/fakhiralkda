@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No great mind has ever existed without a touch of madness."</i>
+<i>"You can not live your life just based on what everyone else thinks."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
