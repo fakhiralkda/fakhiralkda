@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It doesn't matter how slow you go, as long as you don't stop."</i>
+<i>"All cruelty springs from weakness."</i>
 <br>
-<b>- Confucius</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
