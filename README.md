@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good, better, best. Never let it rest. 'Til your good is better and your better is best."</i>
+<i>"Where there is no struggle, there is no strength."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
