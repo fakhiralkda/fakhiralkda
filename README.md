@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have lived with several Zen masters -- all of them cats."</i>
+<i>"Good, better, best. Never let it rest. 'Til your good is better and your better is best."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
