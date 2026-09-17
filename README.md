@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be kind, for everyone you meet is fighting a harder battle."</i>
+<i>"The most important thing is to enjoy your life, to be happy, it's all that matters."</i>
 <br>
-<b>- Plato</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
