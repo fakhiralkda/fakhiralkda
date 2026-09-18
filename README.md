@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is in changing that we find purpose."</i>
+<i>"If light is in your heart, you will find your way home."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
