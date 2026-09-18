@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All men who have achieved great things have been great dreamers."</i>
+<i>"It is in changing that we find purpose."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
