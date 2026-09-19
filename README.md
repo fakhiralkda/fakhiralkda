@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Others can stop you temporarily - you are the only one who can do it permanently."</i>
+<i>"There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
