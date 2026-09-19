@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen."</i>
+<i>"Look for 3 things in a person. Intelligence, Energy, & Integrity. If they don't have the last one, don't even bother with the first two."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Warren Buffett</b>
 </blockquote>
 </p>
 
