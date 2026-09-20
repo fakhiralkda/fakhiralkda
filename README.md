@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Real growth comes through intense, difficult, and challenging situations."</i>
+<i>"What would you do if you weren't afraid?"</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
