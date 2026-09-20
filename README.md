@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What would you do if you weren't afraid?"</i>
+<i>"The time is now, the place is here. Stay in the present."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
