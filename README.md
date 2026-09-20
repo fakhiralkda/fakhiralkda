@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What's right is what's left if you do everything else wrong."</i>
+<i>"Progress comes to those who train and train; reliance on secret techniques will get you nowhere."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
