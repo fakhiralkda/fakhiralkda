@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It will never rain roses: when we want to have more roses, we must plant more roses."</i>
+<i>"Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
