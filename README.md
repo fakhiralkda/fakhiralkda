@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each time we don't say what we wanna say, we're dying."</i>
+<i>"It will never rain roses: when we want to have more roses, we must plant more roses."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
