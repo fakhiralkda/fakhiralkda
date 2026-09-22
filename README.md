@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life has no limitations except the ones you make."</i>
+<i>"Focused, hard work is the real key to success."</i>
 <br>
-<b>- Les Brown</b>
+<b>- John Carmack</b>
 </blockquote>
 </p>
 
