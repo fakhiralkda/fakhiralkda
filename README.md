@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is about doing the right thing, not about doing everything right."</i>
+<i>"We make a living by what we get, but we make a life by what we give."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
