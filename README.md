@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Prefer to be defeated in the presence of the wise than to excel among fools."</i>
+<i>"It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has."</i>
 <br>
-<b>- Dogen</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
