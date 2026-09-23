@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth."</i>
+<i>"If you want peace, accept. If you want suffering, expect."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
