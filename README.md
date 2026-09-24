@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has."</i>
+<i>"We learn to walk by falling down. If we never fell down, we would never walk."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
