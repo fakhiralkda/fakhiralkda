@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided."</i>
+<i>"Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!"</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
