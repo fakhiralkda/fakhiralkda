@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day passes whether you participate or not."</i>
+<i>"A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
