@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day is an opportunity to a make a new happy ending."</i>
+<i>"A day wasted on others is not wasted on one's self."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
