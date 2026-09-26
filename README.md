@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A day wasted on others is not wasted on one's self."</i>
+<i>"Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
