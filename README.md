@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't know where you're going, you will probably end up somewhere else."</i>
+<i>"Every day is an opportunity to a make a new happy ending."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
