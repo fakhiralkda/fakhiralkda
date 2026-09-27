@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind."</i>
+<i>"Freedom is the open window through which pours the sunlight of the human spirit and human dignity."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
