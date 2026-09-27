@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Superstars think like superstars long before the fans or the press anoint them."</i>
+<i>"Opportunities don't often come along. So, when they do, you have to grab them."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
