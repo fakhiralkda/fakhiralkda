@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom is the open window through which pours the sunlight of the human spirit and human dignity."</i>
+<i>"When you are tough on yourself, life is going to be infinitely easier on you."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
