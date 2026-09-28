@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be thankful for everything that happens in your life; it's all an experience."</i>
+<i>"Nothing you do is going to matter that much in the long run. Don't take yourself so seriously."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
