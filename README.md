@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunities don't often come along. So, when they do, you have to grab them."</i>
+<i>"Difficult and meaningful will always bring more satisfaction than easy and meaningless."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
