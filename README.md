@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot swim for new horizons until you have courage to lose sight of the shore."</i>
+<i>"Fear not the path of Truth for the lack of People walking on it."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
