@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To live outside the law, you must be honest."</i>
+<i>"All problems are interpersonal relationship problems."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
