@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best answer to anger is silence."</i>
+<i>"Until you change how you get things done, you'll never know what works best."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
