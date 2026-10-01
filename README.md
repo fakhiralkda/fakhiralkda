@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It doesn't matter how much you want. What really matters is how much you want it."</i>
+<i>"The only lost cause is one we give up on before we enter the struggle."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
