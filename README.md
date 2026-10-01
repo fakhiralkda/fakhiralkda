@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Until you change how you get things done, you'll never know what works best."</i>
+<i>"Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
