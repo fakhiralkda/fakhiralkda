@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place."</i>
+<i>"It doesn't matter how much you want. What really matters is how much you want it."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
