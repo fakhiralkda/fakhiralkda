@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only lost cause is one we give up on before we enter the struggle."</i>
+<i>"Your best life will not be found in comfort. It will be found in fighting for what you believe in."</i>
 <br>
-<b>- Vaclav Havel</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
