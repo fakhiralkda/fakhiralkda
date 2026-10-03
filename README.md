@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone."</i>
+<i>"Do every act of your life as if it were your last."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
