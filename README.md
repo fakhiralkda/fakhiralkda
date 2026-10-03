@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is easy to discover what another has discovered before."</i>
+<i>"I defeat my enemies when I make them my friends."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
