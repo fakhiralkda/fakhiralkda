@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible."</i>
+<i>"Be like a postage stamp. Stick to it until you get there."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
