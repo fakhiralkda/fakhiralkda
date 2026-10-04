@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Bloom where you are planted!"</i>
+<i>"The only real mistake is the one from which we learn nothing."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
