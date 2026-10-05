@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better to live until you die."</i>
+<i>"Work harder on yourself than you do on your job."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
