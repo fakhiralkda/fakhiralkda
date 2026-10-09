@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed is he who expects nothing, for he shall never be disappointed."</i>
+<i>"When you are tough on yourself, life is going to be infinitely easier on you."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
