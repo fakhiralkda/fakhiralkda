@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throw me to the wolves and I will return leading the pack."</i>
+<i>"The decisions of our past are the architects of our present."</i>
 <br>
-<b>- Seneca</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
