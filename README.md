@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whether you think you can or think you can't – you are right."</i>
+<i>"Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
