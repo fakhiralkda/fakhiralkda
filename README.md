@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never feel shame for trying and failing, for he who has never failed is he who has never tried."</i>
+<i>"You are today where your thoughts have brought you."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
