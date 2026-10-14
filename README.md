@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Attitude, not aptitude, determines altitude."</i>
+<i>"Ponder and deliberate before you make a move."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
