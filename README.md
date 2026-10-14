@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ponder and deliberate before you make a move."</i>
+<i>"Mistake is a mistake only if you make it twice."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
