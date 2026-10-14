@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mistake is a mistake only if you make it twice."</i>
+<i>"The two most powerful warriors are patience and time."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
