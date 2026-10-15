@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man is happy unless he believes he is."</i>
+<i>"New beginnings are disguised as painful endings."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
