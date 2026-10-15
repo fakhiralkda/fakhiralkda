@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution."</i>
+<i>"The majority of what you want will come from the minority of what you do."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
