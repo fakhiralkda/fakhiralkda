@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person who never made a mistake never tried anything new."</i>
+<i>"Happiness is pretty simple: someone to love, something to do, something to look forward to."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
