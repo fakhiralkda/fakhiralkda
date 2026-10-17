@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Small men think they are small; great men never know they are great."</i>
+<i>"Where violence reigns, reason is weak."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
