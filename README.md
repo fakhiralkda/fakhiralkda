@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Educating the mind without educating the heart is no education at all."</i>
+<i>"A heart is not judged by how much you love, but by how much you are loved by others."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
