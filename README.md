@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A heart is not judged by how much you love, but by how much you are loved by others."</i>
+<i>"Never give up work. Work gives you meaning and purpose and life is empty without it."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
