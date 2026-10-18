@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A tiny change today brings a dramatically different tomorrow."</i>
+<i>"The best revenge is to be unlike him who performed the injury."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
