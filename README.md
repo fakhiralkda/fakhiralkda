@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The final mystery is oneself."</i>
+<i>"A tiny change today brings a dramatically different tomorrow."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
