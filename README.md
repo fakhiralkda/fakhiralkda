@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When one door closes another door opens."</i>
+<i>"Failure shows us the way — by showing us what isn't the way."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Ryan Holiday</b>
 </blockquote>
 </p>
 
