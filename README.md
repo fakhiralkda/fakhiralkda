@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wake up and smile! Wake up and be grateful!"</i>
+<i>"Each day provides it's own gifts."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
