@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"They who have conquered doubt and fear have conquered failure."</i>
+<i>"It's okay to be discouraged. It's not okay to quit."</i>
 <br>
-<b>- James Allen</b>
+<b>- Ryan Holiday</b>
 </blockquote>
 </p>
 
