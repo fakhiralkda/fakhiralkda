@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you aren't sure which way to do something, do it both ways and see which works better."</i>
+<i>"They who have conquered doubt and fear have conquered failure."</i>
 <br>
-<b>- John Carmack</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
