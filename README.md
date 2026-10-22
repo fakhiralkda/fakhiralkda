@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing we see or hear is perfect. But right there in the imperfection is perfect reality."</i>
+<i>"The way to get started is to quit talking and begin doing."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
