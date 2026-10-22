@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's okay to be discouraged. It's not okay to quit."</i>
+<i>"Elegance does not consist in putting on a new dress."</i>
 <br>
-<b>- Ryan Holiday</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
