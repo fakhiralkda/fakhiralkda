@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way to get started is to quit talking and begin doing."</i>
+<i>"If you want more luck, take more chances."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
