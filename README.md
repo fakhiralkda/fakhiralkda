@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life begins where fear ends."</i>
+<i>"Perplexity is the beginning of knowledge."</i>
 <br>
-<b>- Osho</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
