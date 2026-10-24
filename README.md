@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Watch your thoughts, they become words; watch your words, they become actions;"</i>
+<i>"Whatever you think the world is withholding from you, you are withholding from the world."</i>
 <br>
-<b>- Jeff Booth</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
