@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you think the world is withholding from you, you are withholding from the world."</i>
+<i>"Watch your actions, they become habits; watch your habits, they become character; watch your character, for it becomes your destiny."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Jeff Booth</b>
 </blockquote>
 </p>
 
