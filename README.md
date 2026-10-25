@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Watch your actions, they become habits; watch your habits, they become character; watch your character, for it becomes your destiny."</i>
+<i>"Courage is fear that has said its prayers and decided to go forward anyway."</i>
 <br>
-<b>- Jeff Booth</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
