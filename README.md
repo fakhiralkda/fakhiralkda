@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To do two things at once is to do neither."</i>
+<i>"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
