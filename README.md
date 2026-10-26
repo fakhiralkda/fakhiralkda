@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No need to hurry. No need to sparkle. No need to be anybody but oneself."</i>
+<i>"Our view of the world is truly shaped by what we decide to hear."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
