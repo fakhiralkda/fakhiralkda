@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live calmly. The time will come when the flowers bloom by themselves."</i>
+<i>"Arise, slay thy enemies, enjoy a prosperous kingdom."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
