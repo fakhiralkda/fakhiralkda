@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life doesn't get easier or more forgiving, we get stronger and more resilient."</i>
+<i>"What you do today can improve all your tomorrows."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
