@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our view of the world is truly shaped by what we decide to hear."</i>
+<i>"What's the point in being smart enough to read, if everything you read makes you dumb?"</i>
 <br>
-<b>- William James</b>
+<b>- C. Sean McGee</b>
 </blockquote>
 </p>
 
