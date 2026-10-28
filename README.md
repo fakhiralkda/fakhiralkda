@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why fit in when you were born to stand out?"</i>
+<i>"Public opinion is the worst of all opinions."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
