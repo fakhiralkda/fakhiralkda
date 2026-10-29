@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every moment of happiness requires a great amount of Ignorance"</i>
+<i>"Concentrated power has always been the enemy of liberty."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
