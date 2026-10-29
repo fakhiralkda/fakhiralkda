@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Concentrated power has always been the enemy of liberty."</i>
+<i>"The time is now, the place is here. Stay in the present."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
