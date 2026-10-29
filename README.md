@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing like a health problem to turn up the contrast dial for the rest of life."</i>
+<i>"Every moment of happiness requires a great amount of Ignorance"</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
