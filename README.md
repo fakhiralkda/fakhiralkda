@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wrong turns are as important as right turns. More important, sometimes."</i>
+<i>"Nothing is too high for a man to reach, but he must climb with care and confidence"</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
