@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you pray for rain, be prepared to deal with some mud."</i>
+<i>"Courage is fear that has said its prayers and decided to go forward anyway."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
