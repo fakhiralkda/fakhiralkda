@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never give way to laziness."</i>
+<i>"Creativity is the greatest rebellion in existence."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
