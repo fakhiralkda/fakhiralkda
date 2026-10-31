@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not how much we have, but how much we enjoy, that makes happiness."</i>
+<i>"Never give way to laziness."</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
