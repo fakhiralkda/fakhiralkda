@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is fear that has said its prayers and decided to go forward anyway."</i>
+<i>"The more one judges, the less one loves."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
