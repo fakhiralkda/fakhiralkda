@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more one judges, the less one loves."</i>
+<i>"It doesn't matter where you are coming from. All that matters is where you are going."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
