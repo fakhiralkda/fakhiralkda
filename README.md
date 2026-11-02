@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best teacher is experience and not through someone's distorted point of view."</i>
+<i>"Pain doesn't last. And when it's gone, we have something to show for it. Growth."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
