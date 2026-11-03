@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Faith means believing the unbelievable."</i>
+<i>"Out of your vulnerabilities will come your strength."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
