@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Out of your vulnerabilities will come your strength."</i>
+<i>"Every day is an opportunity to a make a new happy ending."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
