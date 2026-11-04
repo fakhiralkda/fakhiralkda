@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who has overcome his fears will truly be free."</i>
+<i>"The significance of life is living."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
