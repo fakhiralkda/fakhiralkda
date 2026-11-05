@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing is not enough, we must apply. Willing is not enough, we must do."</i>
+<i>"I put my heart and soul into my work, and I have lost my mind in the process."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
