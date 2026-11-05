@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more."</i>
+<i>"The time is now, the place is here. Stay in the present."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
