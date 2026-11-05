@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The smallest of actions is always better than the noblest of intentions."</i>
+<i>"Knowing is not enough, we must apply. Willing is not enough, we must do."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
