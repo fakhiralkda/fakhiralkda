@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away."</i>
+<i>"The past has no power over the present moment."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
