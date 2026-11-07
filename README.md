@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future belongs to those who believe in the beauty of their dreams."</i>
+<i>"You have as much laughter as you have faith."</i>
 <br>
-<b>- Colin R. Davis</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
