@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is a difference between giving directions and giving direction."</i>
+<i>"Comedy = tragedy + time."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
