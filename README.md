@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is a big difference between being centered and being self-centered."</i>
+<i>"Whatever you decide to do, make sure it makes you happy."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
