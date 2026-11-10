@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you decide to do, make sure it makes you happy."</i>
+<i>"A very little key will open a very heavy door."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
