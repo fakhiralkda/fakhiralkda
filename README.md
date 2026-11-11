@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Discipline is the bridge between goals and accomplishment."</i>
+<i>"Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
