@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is too important to be taken seriously."</i>
+<i>"How you think when you lose determines how long it will be until you win."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
