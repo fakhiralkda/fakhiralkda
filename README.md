@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be true to yourself, help others, make each day your masterpiece"</i>
+<i>"Rudeness is the weak man's imitation of strength."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
