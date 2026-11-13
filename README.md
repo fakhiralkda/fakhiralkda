@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't shortchange yourself when it comes to investing in your own better future."</i>
+<i>"If you don't like something change it; if you can't change it, change the way you think about it."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
