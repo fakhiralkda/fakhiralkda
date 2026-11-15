@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never let your memories be greater than your dreams."</i>
+<i>"Wisdom is the oneness of mind that guides and permeates all things."</i>
 <br>
-<b>- Doug Ivester</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
