@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ripe fruit falls by itself - but it doesn't fall in your mouth."</i>
+<i>"Peace of mind is that mental condition in which you have accepted the worst."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
