@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always seek out the seed of triumph in every adversity."</i>
+<i>"Ripe fruit falls by itself - but it doesn't fall in your mouth."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
