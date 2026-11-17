@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where your talents and the needs of the world cross, there lies your vocation."</i>
+<i>"Every blessing ignored becomes a curse."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
