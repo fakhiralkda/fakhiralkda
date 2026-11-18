@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A mountain never yields to the wind no matter how strong it is."</i>
+<i>"What loneliness is more lonely than distrust?"</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
