@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will never do anything in this world without courage. It is the greatest quality of the mind next to honor."</i>
+<i>"It's OK to have your eggs in one basket as long as you control what happens to that basket."</i>
 <br>
-<b>- James Allen</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
