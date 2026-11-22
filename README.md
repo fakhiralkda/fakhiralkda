@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's OK to have your eggs in one basket as long as you control what happens to that basket."</i>
+<i>"Some people find fault like there is a reward for it."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
