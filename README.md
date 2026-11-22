@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Embrace the life you have and stop wishing that you could be someone else."</i>
+<i>"Remember, hope is a good thing, maybe the best of things."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
