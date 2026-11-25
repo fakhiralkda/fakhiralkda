@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We lie the loudest when we lie to ourselves."</i>
+<i>"Some people feel the rain. Others just get wet."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
