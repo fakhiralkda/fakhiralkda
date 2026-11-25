@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear is what stops you. Courage is what keeps you going."</i>
+<i>"We lie the loudest when we lie to ourselves."</i>
 <br>
-<b>- Unknown</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
